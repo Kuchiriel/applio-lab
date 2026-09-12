@@ -8,8 +8,11 @@
   "enable_gpu": "true",
   "enable_tpu": "false",
   "enable_internet": "true",
-  "dataset_sources": ["kuchiriel/jarvis"],
+  "dataset_sources": [
+    "kuchiriel/jarvis"
+  ],
   "competition_sources": [],
   "kernel_sources": [],
-  "model_sources": []
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
 }
