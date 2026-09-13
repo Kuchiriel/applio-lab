@@ -108,3 +108,9 @@
   legenda. Depender menos de classificação manual, mais de sinal do áudio.
 - Klein v4: 66 clips, 4.1min, aprovado p/ treino v1. Kernel klein-rvc-train,
   400 epochs, dataset klein-lotm v4. Precedente: Jarvis 2.8min funcionou.
+
+## Treino Klein v1 (2026-09-13, klein-rvc-train T4, 400 epochs)
+- Dataset v4: 66 clips, 4.1min. Step 6384, export G_6400 + index.
+- Inferência: ~/models/Klein_400e_infer.pth + added_Klein_v1.index.
+- Teste: ~/Audio/lotm/klein-v1-test.wav ("Eu sou Klein Moretti...").
+- AGUARDANDO ouvido do dono.
