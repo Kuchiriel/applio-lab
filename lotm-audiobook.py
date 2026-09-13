@@ -164,7 +164,7 @@ def cmd_render(a):
             sub = lst[b:b + 5]
             print("[rvc %s pitch=%s] %d/%d segs" % (rvc, pitch, len(sub), len(lst)), flush=True)
             batches.append({"rvc": rvc, "pitch": pitch,
-                            "pairs": [[i, g, g.replace(".wav", "-%s.wav" % rvc)] for i, g in sub]})
+                            "pairs": [[i, g, os.path.join(os.path.dirname(g), os.path.basename(g)[:-4] + "-%s.wav" % rvc)] for i, g in sub]})
     payload_f = os.path.join(tmp, "batches.json")
     json.dump(batches, open(payload_f, "w"))
     code = (
@@ -194,7 +194,7 @@ def cmd_render(a):
     # 3. monta final (clone ou base) e concatena
     final = {}
     for i, g, rvc, pitch in jobs:
-        final[i] = g.replace(".wav", "-%s.wav" % rvc) if rvc else g
+        final[i] = os.path.join(os.path.dirname(g), os.path.basename(g)[:-4] + "-%s.wav" % rvc) if rvc else g
         if not os.path.exists(final[i]):
             print("FALTA:", final[i])
             sys.exit(1)
