@@ -89,3 +89,15 @@
   CONTEÚDO (frases rituais, "Senhor Tolo") distingue.
 - Regra v2: embeddings p/ Dunn/outros (separa bem) + âncoras de conteúdo p/
   Klein×Tolo×narrador. Re-cortar clips nos limites exatos dos turnos (sem janela).
+
+## Veredito dono — over-cluster 11 (2026-09-12, check-*.wav)
+- 00 KLEIN + trechinho LEONARD | 01 NARRADOR + trecho DALY
+- 02 CUIDADORA + CARTOMANTE (meu "audrey" ERRADO)
+- 03 LEONARD (meu "klein" ERRADO) | 04 MELISSA + trechinho AUDREY
+- 05 KLEIN + trechinho DUNN | 06 KLEIN puro | 07 NARRADOR + KLEIN
+- 08 ALGER + NARRADOR no final | 09 CUIDADORA + trechinho KLEIN
+- 10 PENDENTE.
+- Erro sistemático: matrícula AUDREY ([20:15] via legenda dessincada?) casa com
+  cuidadora/cartomante/Melissa. Refazer matrículas a partir DESTES vereditos
+  (9 impressões) e re-rodar o casamento. Legenda ≠ sincronia perfeita: confirmar
+  matrícula por ouvido antes de confiar.
