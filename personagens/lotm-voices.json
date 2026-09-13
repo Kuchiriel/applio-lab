@@ -1,5 +1,18 @@
 {
-  "NARRADOR": {"base": "antonio", "rvc": "silver", "pitch": 0, "rate": "-10%"},
-  "KLEIN": {"base": "antonio", "rvc": "klein", "pitch": 0},
-  "UNKNOWN": {"base": "antonio", "rvc": null, "pitch": 0}
+  "NARRADOR": {
+    "base": "antonio",
+    "rvc": "silver",
+    "pitch": 0,
+    "rate": "-10"
+  },
+  "KLEIN": {
+    "base": "antonio",
+    "rvc": "klein",
+    "pitch": 0
+  },
+  "UNKNOWN": {
+    "base": "antonio",
+    "rvc": null,
+    "pitch": 0
+  }
 }

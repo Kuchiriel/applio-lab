@@ -1,0 +1,461 @@
+{
+ "title": "Capítulo 1: Carmesim",
+ "segments": [
+  {
+   "i": 0,
+   "text": "Doloroso!",
+   "speaker": "KLEIN",
+   "conf": "dono"
+  },
+  {
+   "i": 1,
+   "text": "Que dor!",
+   "speaker": "KLEIN",
+   "conf": "dono"
+  },
+  {
+   "i": 2,
+   "text": "Minha cabeça dói tanto!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 3,
+   "text": "Um mundo onírico berrante e deslumbrante, repleto de murmúrios, estilhaçou-se instantaneamente. Zhou Mingrui, que dormia profundamente, sentiu uma dor latejante anormal na cabeça, como se alguém tivesse chicoteado-o impiedosamente com um poste repetidas vezes. Não, era mais como um objeto afiado perfurando suas têmporas, seguido por uma torção!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 4,
+   "text": "Ai...",
+   "speaker": "KLEIN",
+   "conf": "dono"
+  },
+  {
+   "i": 5,
+   "text": "Em seu torpor, Zhou Mingrui tentou se virar, levantar a cabeça e sentar-se; no entanto, ele estava completamente incapaz de mover seus membros, como se tivesse perdido o controle sobre seu corpo",
+   "speaker": "NARRADOR",
+   "conf": "dono-split"
+  },
+  {
+   "i": 6,
+   "text": "Ao que parece, ainda não acordei. Ainda estou em um sonho... Quem sabe, talvez a próxima cena seja eu pensando que já acordei, mas na verdade, ainda estou dormindo...",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 7,
+   "text": "Zhou Mingrui, que não era estranho a encontros semelhantes, tentou o seu melhor para se concentrar e escapar das algemas que a escuridão e a confusão lhe impunham.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 8,
+   "text": "Contudo, ainda em seu devaneio, qualquer vontade que pudesse invocar era etérea, como uma névoa fugidia. Achava difícil controlar e inspecionar os próprios pensamentos. Por mais que tentasse, ele ainda perdia o foco enquanto pensamentos aleatórios afloravam em sua mente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 9,
+   "text": "Por que de repente eu teria uma dor de cabeça tão excruciante no meio da noite?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 10,
+   "text": "E dói de verdade!",
+   "speaker": "KLEIN",
+   "conf": "dono"
+  },
+  {
+   "i": 11,
+   "text": "Será que é algo como uma hemorragia cerebral?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 12,
+   "text": "Que *merda*, não me diga que vou morrer jovem?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 13,
+   "text": "Eu preciso acordar! Agora!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 14,
+   "text": "Hã? Por que não parece doer tanto quanto antes? Mas por que ainda sinto como se uma faca cega estivesse retalhando meus miolos...",
+   "speaker": "KLEIN",
+   "conf": "dono"
+  },
+  {
+   "i": 15,
+   "text": "Pelo visto, não poderei mais continuar dormindo. Como vou aparecer para o trabalho amanhã?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 16,
+   "text": "Por que ainda estou pensando no trabalho? Isso é uma autêntica dor de cabeça. É claro que tenho que tirar uma folga! Não preciso me preocupar com os resmungos do meu gerente!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 17,
+   "text": "Ei, olhando por esse lado, não parece tão ruim. Hehe, posso acabar ganhando um tempo livre para mim!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 18,
+   "text": "Uma dor latejante avassalou Zhou Mingrui, permitindo-lhe acumular lentamente uma força imaterial até que ele finalmente conseguiu mover as costas e abrir os olhos. Ele finalmente se libertou de seu devaneio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 19,
+   "text": "Sua visão primeiro embaçou antes de ser filtrada por um tênue vermelho carmesim. Tudo o que ele conseguia ver era uma escrivaninha feita de madeira robusta bem à",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 20,
+   "text": "sua frente. Bem no meio, havia um caderno aberto com páginas ásperas e amareladas. O título estava escrito de forma chamativa com letras estranhas e em preto profundo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 21,
+   "text": "À esquerda do caderno, havia uma pilha de livros perfeitamente arranjados, totalizando cerca de oito. A parede à direita deles estava embutida com canos branco-acinzentados aos quais estavam conectadas luminárias de parede.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 22,
+   "text": "A luminária tinha um estilo ocidental clássico. Ela era quase metade do tamanho da cabeça de um adulto, com uma camada interna de vidro transparente e um exterior gradeado com metal preto.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 23,
+   "text": "Diagonalmente abaixo da luminária, havia um tinteiro preto envolto em um brilho vermelho pálido. Sua superfície em relevo formava um padrão borrado de anjo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 24,
+   "text": "Na frente do tinteiro e à direita do caderno, repousava uma caneta de cor escura com um corpo totalmente circular. Sua ponta cintilava com um leve brilho, enquanto sua tampa descansava bem ao lado de um revólver de latão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 25,
+   "text": "Uma arma? Um revólver? Zhou Mingrui estava completamente chocado. As coisas dispostas diante dele eram estranhas. Não parecia em nada com o seu quarto!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 26,
+   "text": "Enquanto se sentia chocado e confuso, ele descobriu que a escrivaninha, o caderno, o tinteiro e o revólver estavam cobertos por uma camada de 'véu' carmesim, resultado da luz que entrava pela janela.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 27,
+   "text": "Inconscientemente, ele olhou para cima e elevou seu olhar pouco a pouco.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 28,
+   "text": "A meio caminho do ar, uma lua carmesim pairava alta sobre o pano de fundo de uma 'cortina de veludo preto', brilhando em silêncio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 29,
+   "text": "Isso... Zhou Mingrui sentiu-se inexplicavelmente horrorizado ao se levantar abruptamente. No entanto, antes que seus pés se endireitassem completamente, seu cérebro protestou com dor latejante. Isso o fez perder temporariamente as forças, caindo de forma incontrolável. Suas nádegas bateram pesadamente na cadeira de madeira robusta.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 30,
+   "text": "Pá!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 31,
+   "text": "A dor não o deteve. Zhou Mingrui se levantou novamente, esforçando-se. Ele se virou agitado, começando a avaliar o ambiente em que estava.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 32,
+   "text": "O quarto não era muito grande, com uma porta marrom em cada lado. Perto da parede oposta havia uma cama baixa de madeira.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 33,
+   "text": "Entre a cama e a porta esquerda havia um armário. Suas duas portas estavam abertas e abaixo dele havia cinco gavetas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 34,
+   "text": "Ao lado do armário, havia o mesmo cano branco-acinzentado na parede, à altura de uma pessoa. No entanto, ele estava conectado a um estranho dispositivo mecânico com engrenagens e rolamentos expostos em vários pontos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 35,
+   "text": "Objetos que pareciam fogões a carvão repousavam no canto direito do quarto, perto da mesa, juntamente com panelas de sopa, tachos de ferro e outros utensílios de cozinha.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 36,
+   "text": "Em frente à porta direita, havia um espelho de corpo inteiro com duas rachaduras. Sua base era de madeira, e os padrões eram simples e sem adornos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 37,
+   "text": "Com um varrer de olhos, Zhou Mingrui notou a si mesmo no espelho — o seu eu atual.",
+   "speaker": "NARRADOR",
+   "conf": "dono"
+  },
+  {
+   "i": 38,
+   "text": "Cabelos pretos, olhos castanhos, uma camisa de linho, constituição franzina, feições de aparência comum e um contorno bastante profundo...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 39,
+   "text": "Isto... Zhou Mingrui imediatamente arquejou, enquanto muitas suposições confusas e desamparadas emergiam em sua mente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 40,
+   "text": "O revólver em estilo europeu antigo e a lua carmesim, que parecia diferente da lua da Terra, só podiam significar uma coisa!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 41,
+   "text": "E-eu poderia ter transmigrado? Zhou Mingrui arregalou ligeiramente a boca.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 42,
+   "text": "Ele havia crescido lendo *web novels* e frequentemente fantasiara sobre tais cenas. Contudo, ele achou momentaneamente difícil aceitar a situação ao se encontrar, de fato, em uma delas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 43,
+   "text": "Era provavelmente isto que significava amar uma fantasia [1]? Em um minuto, Zhou Mingrui já havia se amaldiçoado enquanto tentava tirar o melhor proveito de sua situação adversa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 44,
+   "text": "Se não fosse pela dor de cabeça ainda latejante que tornava seus pensamentos tensos, mas claros, ele teria definitivamente suspeitado que estava sonhando.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 45,
+   "text": "Calma, calma, calma... Após respirar fundo algumas vezes, Zhou Mingrui se esforçou para parar de entrar em pânico.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 46,
+   "text": "Naquele momento, enquanto sua mente e corpo se acalmavam, as memórias começaram a inundá-lo, aparecendo lentamente em sua consciência!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 47,
+   "text": "Klein Moretti, um cidadão de Loen, no Continente do Norte",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 48,
+   "text": "Reino, Condado de Awwa, Cidade de Tingen. Ele também é um recém-formado no Departamento de História da Universidade Khoy...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 49,
+   "text": "Seu pai era um sargento do Exército Imperial que se sacrificou durante um conflito colonial com o Continente do Sul. O auxílio luto deu a Klein a oportunidade de estudar em uma escola particular de línguas e lançou as bases para sua admissão na universidade...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 50,
+   "text": "Sua mãe era devota da Deusa da Noite Eterna. Ela faleceu no ano em que Klein foi aprovado nos exames de admissão da Universidade Khoy...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 51,
+   "text": "Ele também tinha um irmão mais velho e uma irmã mais nova. Eles moravam juntos em um apartamento de dois quartos...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 52,
+   "text": "Sua família não era rica, e sua situação poderia até ser descrita como um tanto precária. Atualmente, a família era sustentada unicamente pelo irmão mais velho, que trabalhava como escriturário em uma empresa de importação e exportação...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 53,
+   "text": "Como formado em história, Klein dominava o conhecimento da antiga língua Feysac — considerada a origem de todas as línguas do Continente do Norte — bem como a língua Hermes, que frequentemente aparecia em antigos mausoléus e em textos sobre rituais de sacrifício e oração...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 54,
+   "text": "Língua Hermes? A mente de Zhou Mingrui agitou-se enquanto ele estendia a mão para massagear suas têmporas latejantes. Ele dirigiu o olhar para o caderno aberto sobre a mesa. Notou que o texto no papel amarelado se transformava de estranho em alheio, antes de se tornar de alheio em algo familiar. Por fim, transformou-se em algo legível.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 55,
+   "text": "Era um texto escrito na língua Hermes!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 56,
+   "text": "A tinta escura dizia o seguinte:",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 57,
+   "text": "“Todos morrerão, inclusive eu.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 58,
+   "text": "Arrepios! Zhou Mingrui sentiu-se inexplicavelmente horrorizado. Ele instintivamente se inclinou para trás numa tentativa de ampliar a distância entre ele e o caderno, assim como do texto nele contido.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 59,
+   "text": "Estando muito fraco, ele quase caiu, mas conseguiu estender as mãos em pânico para se agarrar à borda da mesa. Sentiu que o ar ao redor estava turbulento, como se fracos murmúrios estivessem ressoando nele. A sensação era semelhante a ouvir histórias de terror recontadas por anciãos quando ele era jovem.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 60,
+   "text": "Ele balançou a cabeça, acreditando que tudo era uma ilusão. Zhou Mingrui recuperou o equilíbrio e desviou o olhar do caderno enquanto respirava pesadamente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 61,
+   "text": "Desta vez, seu olhar pousou no revólver de latão cintilante. De repente, uma pergunta surgiu em sua mente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 62,
+   "text": "Dada a situação familiar de Klein, como eles poderiam ter dinheiro ou meios para comprar um revólver?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 63,
+   "text": "Zhou Mingrui não pôde evitar franzir a testa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 64,
+   "text": "Enquanto estava imerso em pensamentos, ele subitamente descobriu uma marca de mão rubra na lateral da mesa. Sua cor era mais profunda que a luz da lua e muito mais espessa que o ‘véu’.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 65,
+   "text": "Era uma marca de mão ensanguentada!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 66,
+   "text": "Uma marca de mão ensanguentada? Zhou Mingrui subconscientemente virou a mão direita que estava segurando a borda da mesa. Olhando para baixo, viu que sua palma e dedos estavam cobertos de sangue.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 67,
+   "text": "Ao mesmo tempo, a dor latejante em sua cabeça continuava. Embora tivesse enfraquecido um pouco, prosseguia incessantemente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 68,
+   "text": "Eu arrebentei minha cabeça?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 69,
+   "text": "Zhou Mingrui adivinhou enquanto se virava e caminhava em direção a um espelho de vestir rachado.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 70,
+   "text": "Poucos passos depois, uma figura de cabelos pretos, estatura média e olhos castanhos apareceu claramente à sua frente. A pessoa possuía um distinto ar de erudição.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 71,
+   "text": "Este sou eu no presente? Klein Moretti?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 72,
+   "text": "Zhou Mingrui ficou atordoado por um momento. Como havia iluminação insuficiente à noite, ele não conseguiu ver algo com clareza. Continuou a avançar até estar a apenas um passo de colidir com o espelho.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 73,
+   "text": "Usando o luar carmesim, semelhante a um véu, como iluminação, ele virou a cabeça e examinou o canto de sua testa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 74,
+   "text": "Um reflexo nítido apareceu no espelho. Sua têmpora tinha uma ferida grotesca com marcas de queimadura em sua periferia. Sangue manchava os arredores da ferida e havia fluidos cerebrais branco-acinzentados se contorcendo lentamente lá dentro.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 75,
+   "text": "1. Este é, na verdade, um provérbio que descreve Lorde Ye. Nos tempos antigos, Lorde Ye gostava muito de dragões, adornando todo o seu palácio — vigas, pilares, portas, janelas e paredes — com desenhos e entalhes deles. Quando um dragão real no céu soube disso, ficou profundamente comovido com sua paixão e o visitou. Quando Lorde Ye viu o dragão real enfiando a cabeça pela janela de seu escritório e sua cauda se movendo em seu palácio, ele fugiu de casa apavorado. Claramente, o que Lorde Ye amava não era um dragão de verdade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  }
+ ]
+}
