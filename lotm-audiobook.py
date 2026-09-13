@@ -171,7 +171,7 @@ def cmd_render(a):
             "from jarvis.core.voice import _resolve_rvc;"
             "from jarvis.core.voice_clone import clone_many;"
             "mp, ix = _resolve_rvc(d['rvc']);"
-            "res = clone_many([(p[1], p[2]) for p in d['pairs']],"
+            "res = clone_many([(p[1], p[2]) for p in d['pairs']], cpu_only=True,"
             " model_path=mp, index_path=ix, timeout_s=1800,"
             " pitch=d['pitch'] or None);"
             "print(json.dumps(res))"
