@@ -142,6 +142,8 @@ def cmd_render(a):
         cmd = ["jarvis", "speak", s["text"], "--no-play"]
         if v.get("base", "antonio") != "antonio":
             cmd += ["--base", v["base"]]
+        if v.get("rate"):
+            cmd += ["--rate", v["rate"]]
         print("[base %s] %s" % (s["speaker"], s["text"][:60]), flush=True)
         r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
         line = (r.stdout or "").strip().splitlines()
