@@ -101,3 +101,10 @@
   cuidadora/cartomante/Melissa. Refazer matrículas a partir DESTES vereditos
   (9 impressões) e re-rodar o casamento. Legenda ≠ sincronia perfeita: confirmar
   matrícula por ouvido antes de confiar.
+
+## Correção metodológica (dono 2026-09-13)
+- Legenda oficial NÃO é confiável p/ corte (dessincada: corta fala, deixa
+  intruso — Dunn passou no v4). STT próprio (whisper, grudado no áudio) >
+  legenda. Depender menos de classificação manual, mais de sinal do áudio.
+- Klein v4: 66 clips, 4.1min, aprovado p/ treino v1. Kernel klein-rvc-train,
+  400 epochs, dataset klein-lotm v4. Precedente: Jarvis 2.8min funcionou.
