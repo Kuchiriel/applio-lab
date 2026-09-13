@@ -78,3 +78,14 @@
 - "Palhaço" = rótulo do dono p/ voz do convite 10:40 (ente? aguardar cena).
 - Multi-falante ([23:28] Audrey+Alger, [29:45] Dunn+Klein, [32:33] Klein+Dunn,
   [13:39] Klein+Cartomante) ficou fora do corte v1 — fatiar fino depois.
+
+## Filtro v2 — embeddings (teste 2026-09-12, WeSpeaker ResNet34)
+- Refs: KLEIN=voz-2 (limpo), DUNN=cand-dunn, TOLO=turno "O exaltado" 15:05.
+  Refs separam bem entre si (Klein-Dunn 0.47, Klein-Tolo 0.18).
+- Resultado nos 19 clips klein/: DUNN vence em TODOS (0.3-0.5 absolutos).
+  Acertos: clips com Dunn (09,12,18) OK. Erros: Tolo (08) e Klein vão p/ Dunn.
+- Diagnóstico: scores absolutos baixos = janelas de 10s impuras (SFX/vizinho).
+  E Klein×Tolo = MESMO ATOR com voz impostada → timbre não separa; só o
+  CONTEÚDO (frases rituais, "Senhor Tolo") distingue.
+- Regra v2: embeddings p/ Dunn/outros (separa bem) + âncoras de conteúdo p/
+  Klein×Tolo×narrador. Re-cortar clips nos limites exatos dos turnos (sem janela).
