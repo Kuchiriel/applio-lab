@@ -57,3 +57,13 @@
 - ID futura (dar nome a falante novo): matricular 1 amostra/personagem e
   comparar embedding por cosseno — WeSpeaker gera os 256-d; sem treino.
 - Modelo WeSpeaker baixado em ~/.wespeaker/ (27MB, reutilizável).
+
+## Rótulos do dono — diarização (2026-09-12)
+- SPK_00 (1.2min): KLEIN maioria + SFX + 1x "Klein!" dito pela MELISSA (irmã).
+- SPK_01 (2.0min): ALGER WILSON (Clube do Tarô, acima da névoa).
+- SPK_02 (1.1min): NARRADOR + trechinho do Klein.
+- SPK_03 (1.0min): trechinho Klein + trechinho LEONARD + Klein de novo.
+- SPK_04 (4.1min): NARRADOR com ruídos + AUDREY + ALGER + DALY (médium) no final.
+- SPK_05 (2.4min): PENDENTE. SPK_06 (1.8min): PENDENTE.
+- Lição: cluster diarizado ≠ personagem puro. Dataset puro exige split por
+  conteúdo (STT + âncoras do livro) dentro do cluster.
