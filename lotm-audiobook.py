@@ -153,42 +153,44 @@ def cmd_render(a):
         subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", wav,
                         "-ar", "44100", "-ac", "1", g], check=True)
         jobs.append((s["i"], g, v.get("rvc"), v.get("pitch", 0)))
-    # 2. RVC em lote por timbre (UMA carga por voz, via nix develop)
-    need_clone = [(i, g, rvc, pitch) for i, g, rvc, pitch in jobs if rvc]
+    # 2. RVC em lote por timbre (UMA carga por voz; sub-lotes de 5 p/ estabilidade)
+    batches = []
+    need = [(i, g, rvc, pitch) for i, g, rvc, pitch in jobs if rvc]
     groups = {}
-    for i, g, rvc, pitch in need_clone:
+    for i, g, rvc, pitch in need:
         groups.setdefault((rvc, pitch or 0), []).append((i, g))
     for (rvc, pitch), lst in groups.items():
-        # lotes de até 5 (lote grande derruba o driver sem isolamento)
         for b in range(0, len(lst), 5):
             sub = lst[b:b + 5]
-            print("[rvc %s pitch=%s] %d/%d segs, 1 carga" % (rvc, pitch, len(sub), len(lst)), flush=True)
-            pairs = [[i, g, g.replace(".wav", "-%s.wav" % rvc)] for i, g in sub]
-        payload_f = os.path.join(tmp, "batch-%s.json" % rvc)
-        json.dump({"pairs": pairs, "rvc": rvc, "pitch": pitch}, open(payload_f, "w"))
-        code = (
-            "import json,sys; d=json.load(open(sys.argv[1]));"
-            "from jarvis.core.voice import _resolve_rvc;"
-            "from jarvis.core.voice_clone import clone_many;"
-            "mp, ix = _resolve_rvc(d['rvc']);"
-            "res = clone_many([(p[1], p[2]) for p in d['pairs']], cpu_only=True,"
-            " model_path=mp, index_path=ix, timeout_s=1800,"
-            " pitch=d['pitch'] or None);"
-            "print(json.dumps(res))"
-        )
-        r = subprocess.run(["nix", "develop", "--command", "python3", "-c", code, payload_f],
-                           stdin=subprocess.DEVNULL,
-                           capture_output=True, text=True,
-                           timeout=3600, cwd=os.path.expanduser("~/projects/nixos-ai"))
-        try:
-            got = json.loads((r.stdout or "").strip().splitlines()[-1])
-        except Exception:
-            print("FALHA lote rvc", rvc, (r.stdout or "")[-300:], (r.stderr or "")[-300:])
-            sys.exit(1)
-        bad = [k for k, v in got.items() if v.startswith("ERROR")]
-        if bad:
-            print("FALHA clone:", bad[:3], list(got.values())[0][:150])
-            sys.exit(1)
+            print("[rvc %s pitch=%s] %d/%d segs" % (rvc, pitch, len(sub), len(lst)), flush=True)
+            batches.append({"rvc": rvc, "pitch": pitch,
+                            "pairs": [[i, g, g.replace(".wav", "-%s.wav" % rvc)] for i, g in sub]})
+    payload_f = os.path.join(tmp, "batches.json")
+    json.dump(batches, open(payload_f, "w"))
+    code = (
+        "import json,sys; bb=json.load(open(sys.argv[1]));"
+        "from jarvis.core.voice import _resolve_rvc;"
+        "from jarvis.core.voice_clone import clone_many;"
+        "out={};"
+        "[(mp,ix,res,None) for b in bb for (mp,ix) in [_resolve_rvc(b['rvc'])]"
+        " for res in [clone_many([(p[1],p[2]) for p in b['pairs']], cpu_only=True,"
+        " model_path=mp, index_path=ix, timeout_s=1800, pitch=b['pitch'] or None)]"
+        " for _ in [out.update(res)]];"
+        "print(json.dumps(out))"
+    )
+    r = subprocess.run(["nix", "develop", "--command", "python3", "-c", code, payload_f],
+                       stdin=subprocess.DEVNULL,
+                       capture_output=True, text=True,
+                       timeout=3600, cwd=os.path.expanduser("~/projects/nixos-ai"))
+    try:
+        got = json.loads((r.stdout or "").strip().splitlines()[-1])
+    except Exception:
+        print("FALHA lote rvc", (r.stdout or "")[-300:], (r.stderr or "")[-300:])
+        sys.exit(1)
+    bad = [k for k, v in got.items() if v.startswith("ERROR")]
+    if bad:
+        print("FALHA clone:", bad[:3], list(got.values())[0][:150])
+        sys.exit(1)
     # 3. monta final (clone ou base) e concatena
     final = {}
     for i, g, rvc, pitch in jobs:
