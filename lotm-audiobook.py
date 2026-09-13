@@ -159,8 +159,11 @@ def cmd_render(a):
     for i, g, rvc, pitch in need_clone:
         groups.setdefault((rvc, pitch or 0), []).append((i, g))
     for (rvc, pitch), lst in groups.items():
-        print("[rvc %s pitch=%s] %d segs, 1 carga" % (rvc, pitch, len(lst)), flush=True)
-        pairs = [[i, g, g.replace(".wav", "-%s.wav" % rvc)] for i, g in lst]
+        # lotes de até 5 (lote grande derruba o driver sem isolamento)
+        for b in range(0, len(lst), 5):
+            sub = lst[b:b + 5]
+            print("[rvc %s pitch=%s] %d/%d segs, 1 carga" % (rvc, pitch, len(sub), len(lst)), flush=True)
+            pairs = [[i, g, g.replace(".wav", "-%s.wav" % rvc)] for i, g in sub]
         payload_f = os.path.join(tmp, "batch-%s.json" % rvc)
         json.dump({"pairs": pairs, "rvc": rvc, "pitch": pitch}, open(payload_f, "w"))
         code = (
