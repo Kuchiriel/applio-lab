@@ -4,12 +4,12 @@
 > Hipótese marcada como HIPÓTESE até prova.
 
 ## Amostras (ouvido do dono, 2026-09-12)
-- voz-0 (254Hz): KLEIN diálogo — com artefatos/resíduos, precisa limpeza extra.
-- voz-1 (104Hz): AUDREY HALL + KLEIN-IMPOSTADO (Sr. Louco/Tolo acima da névoa).
+- voz-0 (254Hz): KLEIN diálogo, COM efeitos/sonoros (dono 2026-09-12). Limpar antes de treinar.
+- voz-1 (104Hz): MISTO nessa ordem — Klein + AUDREY HALL + SR. TOLO/LOUCO (névoa) (dono 2026-09-12).
   Guardar separador: voz do Tolo serve p/ cenas da névoa cinzenta no livro.
-- voz-2 (103Hz): KLEIN narração — áudio limpo. (Dono confirmou; STT mostra
+- voz-2 (103Hz): KLEIN narração, LIMPO — base do dataset (dono 2026-09-12; STT mostra
   exposição + pensamento interno verbatim do livro.)
-- voz-3 (180Hz): CUIDADORA (tarô) + AUDREY no final (pedindo p/ sair da névoa).
+- voz-3 (180Hz): TARÓLOGA/cuidadora + AUDREY no fim (dono 2026-09-12).
 
 ## Provas STT × livro (Vol 1, ~/Books)
 - "Será que é algo como uma hemorragia cerebral?" — livro CONFIRMA (pensamento
