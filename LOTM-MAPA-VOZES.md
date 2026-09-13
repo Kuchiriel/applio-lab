@@ -96,7 +96,7 @@
 - 03 LEONARD (meu "klein" ERRADO) | 04 MELISSA + trechinho AUDREY
 - 05 KLEIN + trechinho DUNN | 06 KLEIN puro | 07 NARRADOR + KLEIN
 - 08 ALGER + NARRADOR no final | 09 CUIDADORA + trechinho KLEIN
-- 10 PENDENTE.
+- 10 ALGER (dono 2026-09-12). Over-cluster 100% rotulado.
 - Erro sistemático: matrícula AUDREY ([20:15] via legenda dessincada?) casa com
   cuidadora/cartomante/Melissa. Refazer matrículas a partir DESTES vereditos
   (9 impressões) e re-rodar o casamento. Legenda ≠ sincronia perfeita: confirmar
