@@ -1,6 +1,6 @@
 {
-  "id": "kuchiriel/jarvis-rvc-train",
-  "title": "jarvis-rvc-train",
+  "id": "kuchiriel/klein-rvc-train",
+  "title": "klein-rvc-train",
   "code_file": "jarvis-train.ipynb",
   "language": "python",
   "kernel_type": "notebook",
@@ -9,7 +9,7 @@
   "enable_tpu": "false",
   "enable_internet": "true",
   "dataset_sources": [
-    "kuchiriel/jarvis"
+    "kuchiriel/klein-lotm"
   ],
   "competition_sources": [],
   "kernel_sources": [],
