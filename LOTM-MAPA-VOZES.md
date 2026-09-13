@@ -64,6 +64,8 @@
 - SPK_02 (1.1min): NARRADOR + trechinho do Klein.
 - SPK_03 (1.0min): trechinho Klein + trechinho LEONARD + Klein de novo.
 - SPK_04 (4.1min): NARRADOR com ruídos + AUDREY + ALGER + DALY (médium) no final.
-- SPK_05 (2.4min): PENDENTE. SPK_06 (1.8min): PENDENTE.
+- SPK_05 (2.4min): KLEIN + LEONARD + KLEIN (dono 2026-09-12).
+- SPK_06 (1.8min): DALY + MELISSA + CARTOMANTE (a que dá bronca na cuidadora) (dono 2026-09-12).
+- Elenco ep1 FECHADO: Klein, Melissa, Audrey, Alger, Leonard, Daly, narrador, taróloga/cuidadora, cartomante-chefe. 9 vozes.
 - Lição: cluster diarizado ≠ personagem puro. Dataset puro exige split por
   conteúdo (STT + âncoras do livro) dentro do cluster.
