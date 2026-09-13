@@ -161,9 +161,10 @@ def cmd_render(a):
     for (rvc, pitch), lst in groups.items():
         print("[rvc %s pitch=%s] %d segs, 1 carga" % (rvc, pitch, len(lst)), flush=True)
         pairs = [[i, g, g.replace(".wav", "-%s.wav" % rvc)] for i, g in lst]
-        payload = json.dumps({"pairs": pairs, "rvc": rvc, "pitch": pitch})
+        payload_f = os.path.join(tmp, "batch-%s.json" % rvc)
+        json.dump({"pairs": pairs, "rvc": rvc, "pitch": pitch}, open(payload_f, "w"))
         code = (
-            "import json,sys; d=json.load(sys.stdin);"
+            "import json,sys; d=json.load(open(sys.argv[1]));"
             "from jarvis.core.voice import _resolve_rvc;"
             "from jarvis.core.voice_clone import clone_many;"
             "mp, ix = _resolve_rvc(d['rvc']);"
@@ -172,8 +173,9 @@ def cmd_render(a):
             " pitch=d['pitch'] or None);"
             "print(json.dumps(res))"
         )
-        r = subprocess.run(["nix", "develop", "--command", "python3", "-c", code],
-                           input=payload, capture_output=True, text=True,
+        r = subprocess.run(["nix", "develop", "--command", "python3", "-c", code, payload_f],
+                           stdin=subprocess.DEVNULL,
+                           capture_output=True, text=True,
                            timeout=3600, cwd=os.path.expanduser("~/projects/nixos-ai"))
         try:
             got = json.loads((r.stdout or "").strip().splitlines()[-1])
