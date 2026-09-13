@@ -69,3 +69,12 @@
 - Elenco ep1 FECHADO: Klein, Melissa, Audrey, Alger, Leonard, Daly, narrador, taróloga/cuidadora, cartomante-chefe. 9 vozes.
 - Lição: cluster diarizado ≠ personagem puro. Dataset puro exige split por
   conteúdo (STT + âncoras do livro) dentro do cluster.
+
+## Split por conteúdo SPK_00 (dono rotulou 38/38, 2026-09-12)
+- Método: legenda oficial (timestamps) + janela [t-1, t+9]s. Rende clips por
+  personagem em ~/Audio/lotm/ep1/personagens/<nome>/ (v1, pode sangrar vizinho):
+  KLEIN 19 (~3min), LEONARD 4, NARRADOR 2, PALHAÇO 2, CUIDADORA 3,
+  CARTOMANTE 1, AUDREY 3, AUGER 1, DUNN 2, TOLO 2.
+- "Palhaço" = rótulo do dono p/ voz do convite 10:40 (ente? aguardar cena).
+- Multi-falante ([23:28] Audrey+Alger, [29:45] Dunn+Klein, [32:33] Klein+Dunn,
+  [13:39] Klein+Cartomante) ficou fora do corte v1 — fatiar fino depois.
