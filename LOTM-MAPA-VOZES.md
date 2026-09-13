@@ -39,3 +39,21 @@
   de c2+c0. ⚠️ ROTULAGEM PRELIMINAR — revalidar com filtro v2 antes de treinar.
 - Backup voz "divindade" (narrador grave c2-exposição): amostra em
   /tmp/opencode/lotm-amostra-klein.wav (perdida no reboot? re-extrair se preciso).
+
+## Diarização real (diarize 2026-09-12, WeSpeaker ResNet34, CPU)
+- Auto (sem dica): 2 falantes (7.3+6.7min) — sub-clusterizou, descartado.
+- Com min4/max8: 7 falantes, 524 turnos, RTTM em ~/Audio/lotm/ep1/lotm-diarize6.rttm:
+  SPK_04 4.1min / SPK_05 2.4min / SPK_01 2.0min / SPK_06 1.8min /
+  SPK_00 1.2min / SPK_02 1.1min / SPK_03 1.0min
+- Amostras: ~/Audio/lotm/ep1/spk-00..06.wav — AGUARDANDO rótulo do dono.
+- Soma dá ~14min (diarize descarta overlap/ruído; VAD deu 20min).
+
+## Reconhecimento de voz (pesquisa 2026-09-12)
+- `diarize` (PyPI, Apache 2.0): Silero VAD + WeSpeaker ResNet34 ONNX + spectral
+  clustering. CPU 8x realtime, sem conta/HF token, DER 4.8% (melhor que pyannote
+  free). ESCOLHA p/ pipeline local (LOTM + voz do Jarvis).
+- pyannote community-1: precisa HF token; Precision-2 é pago (API).
+- DiariZen (BUT): SOTA OSS, mas pesado (WavLM-Large, ideal GPU).
+- ID futura (dar nome a falante novo): matricular 1 amostra/personagem e
+  comparar embedding por cosseno — WeSpeaker gera os 256-d; sem treino.
+- Modelo WeSpeaker baixado em ~/.wespeaker/ (27MB, reutilizável).
