@@ -114,3 +114,9 @@
 - Inferência: ~/models/Klein_400e_infer.pth + added_Klein_v1.index.
 - Teste: ~/Audio/lotm/klein-v1-test.wav ("Eu sou Klein Moretti...").
 - AGUARDANDO ouvido do dono.
+
+## Ep3 (2026-09-13, dono)
+- SPK_01: LEONARD ("Esperança carmim...") + DUNN ("Transferência de dano?") + AZIK ("o azar recairá..."). Novos: AZIK.
+- SPK_02: BEEBER ("Em nome da família") + PALHAÇO ("A sequência oito... vidente"). Novos: BEEBER, PALHAÇO.
+- SPK_07: provável LEONARD ("caderno/beyonder criança") + KLEIN ("O palhaço previu tudo..."). Dono vai checar no vídeo (2:47 e 27:50).
+- Elenco sobe p/ 12: +Azik, +Beeber, +Palhaço.
