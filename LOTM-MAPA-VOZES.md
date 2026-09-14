@@ -117,6 +117,6 @@
 
 ## Ep3 (2026-09-13, dono)
 - SPK_01: LEONARD ("Esperança carmim...") + DUNN ("Transferência de dano?") + AZIK ("o azar recairá..."). Novos: AZIK.
-- SPK_02: BEEBER ("Em nome da família") + PALHAÇO ("A sequência oito... vidente"). Novos: BEEBER, PALHAÇO.
+- SPK_02: RAY BIEBER ("Em nome da família") + PALHAÇO ("A sequência oito... vidente"). Novos: RAY BIEBER, PALHAÇO.
 - SPK_07: provável LEONARD ("caderno/beyonder criança") + KLEIN ("O palhaço previu tudo..."). Dono vai checar no vídeo (2:47 e 27:50).
-- Elenco sobe p/ 12: +Azik, +Beeber, +Palhaço.
+- Elenco sobe p/ 12: +Azik, +Ray Bieber, +Palhaço.
