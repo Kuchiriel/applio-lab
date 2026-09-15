@@ -24,7 +24,14 @@ from IPython.display import clear_output
 
 BASE_DIR = "/kaggle/working/program_ml"
 MODEL_NAME = "jarvis-rvc"
-NGROK_TOKEN = "2nRnxIB9bCV0GG6Rh6zbIinN0N6_3R3CaYYiYUov7qoEkzVNd"  # <- your token (consider rotating it, it's stored in the notebook)
+# Token NUNCA em plaintext (vazado em 2026-09-15 — ver docs/improvements/001-*).
+# Kaggle: Add-ons -> Secrets -> NGROK_TOKEN (vira env var automaticamente).
+NGROK_TOKEN = os.environ.get("NGROK_TOKEN", "").strip()
+if not NGROK_TOKEN:
+    raise RuntimeError(
+        "NGROK_TOKEN ausente: configure o Kaggle Secret 'NGROK_TOKEN' "
+        "ou export NGROK_TOKEN=<token> antes de executar esta celula."
+    )
 
 # ---------- [1/7] Detect dataset + GPUs ----------
 print("=== [1/7] DETECTING DATASET AND GPUS ===")
