@@ -1,0 +1,39 @@
+# klein-v3 relabel-por-conteudo — 2026-09-14 (SOLAR; PROPOSTA, dono decide)
+# Metodo: janela do clip (epN-SSSSS = segundo de inicio, slice-pools) x
+# anchors-v2 (spans EN x PT). DIAL = risco real; LORE = benigno (Klein narra
+# sobre). Detalhe: datasets/klein-v3-relabel.json (timbre, texto PT completo).
+# Leitura dos textos PT: minha interpretacao — CONFIRMAR NO OUVIDO.
+
+== OUVIDO PRIORITARIO (7) — texto sugere NAO-Klein ou ambiguo ==
+ep4-00856  justice,spectator   timbre=KLEIN  "obrigada, senhor enforcado, por me
+   tornar uma espectadora / enquanto a senhorita justiça é calma e serena"
+   → 1a pessoa FEMININA = PRECE DA AUDREY no Tarot Club. Provavel
+   OUTRO-PERSONAGEM no pool do Klein (a confusão clássica Klein×Audrey).
+ep4-01507  melissa             timbre=AUDREY "não dá tempo de avisar o capitão"
+   → voz de tripulação (capitão Havre)? Provável OUTRO.
+ep10-00918 spirituality,daly  timbre=AUDREY "Ora combina / Númeras informações"
+   → fragmentos; cena Daly. OUVIDO.
+ep10-00923 idem ep10-00918 (janela igual)
+ep10-01435 madam sharon        timbre=AUDREY "Estão interferindo na minha
+   investigação / A senhora Sharon é uma biônder" → "minha investigação"
+   pode ser a própria Sharon falando. OUVIDO.
+ep11-00421 madam sharon        timbre=AUDREY "Falhou? / Foi a interferência da
+   senhora Sharon? / Aqui é Blackthorn?" → texto pende Klein; OUVIDO.
+ep12-00362 daly                timbre=AUDREY "Só vocês podem me ajudar / ... o
+   professor Azek" → prece? OUVIDO.
+
+== BENIGNO-PROVAVEL (texto = Klein-narração ou Klein-como-Tolo; 24) ==
+ep4-01866/01879 (preces da Justiça recebidas PELO Tolo — Klein; âncora
+   "justice" é MENÇÃO), ep5-00997/01005 (Klein-Tolo sobre o Clube),
+   ep9-00357 (Klein sobre Daly "verdadeira médium"), ep12-00412 (Klein
+   divinando sobre Dunn), ep7-00837 (narração caderno Antigonos) +
+   os 17 LORE-MENTION (antigonus/zaratul/nighthawks/evernight/hanged
+   man/beyonder — Klein narra sobre eles).
+   Timbre AUDREY nesses = falso positivo cross-gender conhecido.
+
+== Números ==
+SELF 11 | OUTRO 31 (14 risco-diálogo + 17 lore) | SEM-ANC 49 | VAZIO 1
+Concordância timbre×conteúdo: 41/92 (baixa — timbre isolado não basta).
+GANHO DO MÉTODO: achou prece da Audrey escondida + confirmou que a maior
+parte dos "suspeitos de timbre" do klein-v3 é Klein-narrador (anchor spúria).
+NOVOS MANGLES: professor Azek→Azik | biônder→Beyonder | Dan Smith→Dunn

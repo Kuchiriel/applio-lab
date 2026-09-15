@@ -1,0 +1,55 @@
+{
+ "brief": "banco de elenco p/ Vol2+ (sem anime dublado): personagens novos, personalidade, candidatos (ator BR + papel anterior que prova o tom). Preencher com pesquisa.",
+ "vol2_new": {
+  "Xio Derecha": {
+   "personality": "irritadica, direta, baixa, caçadora impaciente",
+   "candidates": []
+  },
+  "Fors Wall": {
+   "personality": "preguiçosa, bem-humorada, escritora falida, fumante",
+   "candidates": []
+  },
+  "Sharron": {
+   "personality": "fria, lacônica, marionetista sombria",
+   "candidates": []
+  },
+  "Derrick Berg": {
+   "personality": "jovem ingênuo, solene, Cidade de Prata",
+   "candidates": []
+  },
+  "Mike Joseph": {
+   "personality": "detetive comum, simpático",
+   "candidates": []
+  },
+  "Ian Wright": {
+   "personality": "garoto mensageiro, vulnerável",
+   "candidates": []
+  },
+  "Zreal": {
+   "personality": "detetive veterano cego (poucas falas)",
+   "candidates": []
+  },
+  "Meursault": {
+   "personality": "bandido brutal",
+   "candidates": []
+  },
+  "Glaint": {
+   "personality": "visconde entediado, colecionador",
+   "candidates": []
+  },
+  "Leppard": {
+   "personality": "inventor excêntrico",
+   "candidates": []
+  },
+  "Maric": {
+   "personality": "cadavérico contido, parceiro da Sharron",
+   "candidates": []
+  }
+ },
+ "regras": [
+  "nada de misturar papéis no mesmo dataset de treino",
+  "ator entra por papel: datasets/atores/<ator>/<papel>/",
+  "figurantes: combinar vozes Kokoro (blend) p/ gerar N vozes únicas",
+  "emoção reativa: marcar segmento + prosódia (rate/pitch) + testar XTTS-com-referência-emocional"
+ ]
+}

@@ -1,0 +1,13 @@
+# checks — ep4 audrey-repescagem (SOLAR 2026-09-14, aguardando ouvido do dono)
+# Método: janelas do ep4-labels.json (check-07 puro; check-18/19 MISTO) fatiadas
+# por VAD (top_db 35, min 1.5s); STT whisper-small-pt; timbre WeSpeaker vs refs
+# audrey-v1 (ep10-01673/01683) e klein-v4/c0-00 (distrator). Rótulo por SEGMENTO.
+clip                       video(s)   STT                                          timbre              sugestão
+aud-cand-01-906.0s.wav     15:06-15:11 "Senhor Enforcado, tenho três perguntas..."  AUDREY .54/.53 K .34 APROVAR (Tarot Club, dupla prova)
+aud-cand-02-912.3s.wav     15:12-15:14 "O que eu faço como espectadora?"            AUDREY .43 K .33    APROVAR (âncora Espectadora)
+aud-cand-04-2184.9s.wav    36:26-36:27 "para o meu aniversário de 17 anos"          AUDREY .39 K .19    APROVAR (sub-fatiado do MISTO, saiu limpo)
+aud-cand-05-2189.3s.wav    36:29-36:32 "(vestidos — garbled)"                       AUDREY .42 K .10    OUVIDO (timbre ok, texto incerto)
+aud-cand-03-2182.9s.wav    36:23-36:25 "o vestido que Guinea desenhou"              KLEIN .42 vence     OUVIDO (conteúdo=Audrey, timbre contradiz — camareira?)
+aud-cand-06-2225.0s.wav    37:05-37:13 "Tonta! Tonta!"                              KLEIN .86 (!)       EXCLUIR (RESOLVIDO §7: Klein REAL monologa na janela 2230-2234; angelica-v1 contaminada 8/11 Klein — não era Susie-voiz-Klein)
+# Nota: se 01/02/04/05 aprovados → audrey-v1 20 clips + 4 (~11s) → ~1.5min. Ainda <2min.
+# derek-v1 (2 clips): auditoria verify inconclusiva (refs só fem×masc) — procedência = dono (MAPA).

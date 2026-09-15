@@ -83,9 +83,13 @@ def cmd_diarize(a):
 
 
 def cmd_stt(a):
-    sh([sys.executable, "-m", "whisper", a.vocals, "--model", "small",
-        "--language", "pt", "--output_dir", a.outdir, "--output_format", "srt",
-        "--fp16", "False"])
+    # faster-whisper turbo (A/B 2026-09-14: 21s/4min GPU 11x, PT melhor que
+    # small — "gaviões", "rezo", "infantis" corretos; small 16s mas mangled).
+    # GPU ~2GB: rodar com LLM descarregado (fallback CPU int8 no script).
+    import os
+    here = os.path.dirname(os.path.abspath(__file__))
+    out = os.path.join(a.outdir, os.path.splitext(os.path.basename(a.vocals))[0] + ".srt")
+    sh([sys.executable, os.path.join(here, "scripts", "fw-stt.py"), a.vocals, out])
 
 
 def _load_subs(path):

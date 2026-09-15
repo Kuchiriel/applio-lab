@@ -1,0 +1,521 @@
+{
+ "title": "Capítulo 10: A Norma",
+ "segments": [
+  {
+   "i": 0,
+   "text": "“Quem é?”",
+   "speaker": "UNKNOWN",
+   "conf": "resíduo"
+  },
+  {
+   "i": 1,
+   "text": "Klein estava pensando no misterioso suicídio do dono original deste corpo e no perigo desconhecido que poderia encontrar quando ouviu a súbita batida na porta. Ele subconscientemente abriu a gaveta, pegou o revólver e perguntou vigilantemente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 2,
+   "text": "A outra parte ficou em silêncio por dois segundos antes que uma voz ligeiramente aguda, com sotaque de Awwa, respondesse: “Sou eu, Mountbatten, Bitsch Mountbatten.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 3,
+   "text": "A voz parou por um momento antes de acrescentar: “A polícia.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 4,
+   "text": "Bitsch Mountbatten... Quando Klein ouviu este nome, imediatamente pensou no dono deste nome.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 5,
+   "text": "Ele era o policial encarregado da rua onde o apartamento estava localizado. Era um homem rude, brutal e prático. Mas talvez, apenas um homem assim pudesse servir de impedimento para alcoólatras, ladrões, ladrões de meio-período, bandidos e arruaceiros.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 6,
+   "text": "E a sua voz única era uma das suas marcas registradas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 7,
+   "text": "“Certo, já vou!” Klein respondeu em voz alta.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 8,
+   "text": "Ele tinha planejado colocar o revólver de volta na gaveta, mas pensando que não fazia ideia do porquê a polícia estava lá fora e que eles poderiam revistar o quarto ou fazer outras coisas, ele correu cautelosamente para o fogão, onde as chamas já haviam sido",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 9,
+   "text": "extintas, e colocou o revólver dentro dele.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 10,
+   "text": "Então, ele pegou a cesta de carvão, sacudiu alguns pedaços para dentro do fogão, cobriu a arma e, finalmente, colocou a chaleira sobre o fogão para esconder tudo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 11,
+   "text": "Após fazer tudo isso, ele ajeitou suas roupas e rapidamente se aproximou da porta, murmurando: “Desculpem, eu estava apenas tirando um cochilo.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 12,
+   "text": "Do lado de fora da porta, estavam quatro policiais em uniformes xadrez preto e branco, com quepe. Bitsch Mountbatten, o de barba castanha, tossiu e disse a Klein: “Estes três inspetores têm algumas perguntas para lhe fazer.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 13,
+   "text": "Inspetores? Klein olhou para os distintivos de ombro dos outros três por reflexo e descobriu que dois deles tinham três hexágonos de prata e um tinha dois, ambos parecendo superiores a Bitsch Mountbatten, que tinha apenas três divisas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 14,
+   "text": "Como estudante de história, Klein fez pouca ou nenhuma pesquisa sobre as patentes das dragonas policiais, exceto que Bitsch Mountbatten frequentemente se gabava de ser um sargento sênior.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 15,
+   "text": "Então estes três são inspetores? Influenciado por conversas com Benson, Welch e seus colegas de classe, Klein teve o bom senso de dar passagem e apontar para dentro do quarto.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 16,
+   "text": "“Por favor, entrem. Como posso ajudá-los?”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 17,
+   "text": "O líder dos três inspetores era um homem de meia-idade com olhos penetrantes. Ele parecia ser capaz de ler a mente de uma pessoa e incutir medo nela. Seus olhos estavam enrugados, e a borda do seu chapéu revelava cabelos castanho-claros. Ele olhou ao redor do quarto",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 18,
+   "text": "e perguntou em voz grave: “Você conhece Welch McGovern?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 19,
+   "text": "“O que aconteceu com ele?” Klein estremeceu e retrucou.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 20,
+   "text": "“Sou eu quem está fazendo as perguntas.” O digno inspetor de polícia de meia-idade tinha um olhar severo nos olhos.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 21,
+   "text": "O inspetor ao lado dele, também usando três hexágonos de prata, olhou para Klein e sorriu gentilmente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 22,
+   "text": "“Não fique nervoso. É apenas um interrogatório de rotina.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 23,
+   "text": "Este policial estava na casa dos trinta, com um nariz reto e olhos cinzentos que, como um lago em uma floresta antiga que ninguém visitava, lhe conferiam uma indescritível sensação de profundidade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 24,
+   "text": "Klein respirou fundo e organizou suas palavras.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 25,
+   "text": "“Se vocês se referem a Welch McGovern, o graduado da Universidade Khoy de Constant, então com certeza eu o conheço. Somos colegas de classe, com o mesmo mentor, o Professor Associado Sênior Quentin Cohen.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 26,
+   "text": "No Reino de Loen, “Professor” não era apenas um título profissional, mas também uma posição, assim como a combinação de professores e reitores de departamento na Terra. Isso significava que só poderia haver um professor no departamento de uma universidade. Se um professor associado quisesse se tornar professor, ele teria que esperar seu superior se aposentar ou forçar a saída de seu superior com suas habilidades.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 27,
+   "text": "Como os talentos precisavam ser retidos, a Comissão de Ensino Superior do reino adicionou professores associados sêniores no sistema de três",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 28,
+   "text": "níveis de docentes, professores associados e professores, após anos de observação. Este título era concedido a qualquer pessoa com altas realizações acadêmicas ou com antiguidade suficiente, mas que não chegasse à posição de professor.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 29,
+   "text": "Neste ponto, Klein olhou nos olhos do inspetor de polícia de meia-idade e pensou por um segundo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 30,
+   "text": "“Para ser honesto, nosso relacionamento é muito bom. Durante este período, eu me encontrei com ele e Naya frequentemente para interpretar e discutir o caderno da Quarta Época que pertencia a ele. Inspetores, algo aconteceu com ele?”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 31,
+   "text": "Em vez de responder, o inspetor de polícia de meia-idade olhou de soslaio para seu colega de olhos cinzentos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 32,
+   "text": "O inspetor com o quepe e aparência comum respondeu de forma branda: “Sinto muito, o Sr. Welch faleceu.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 33,
+   "text": "“O QUÊ?” Apesar de ter tido alguns pressentimentos, Klein não pôde evitar gritar em espanto.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 34,
+   "text": "Welch morreu assim como o dono original deste corpo?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 35,
+   "text": "Isso é um pouco assustador!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 36,
+   "text": "“E quanto a Naya?”, Klein perguntou apressadamente.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 37,
+   "text": "“A Srta. Naya também faleceu,” disse o inspetor de polícia de olhos cinzentos com bastante calma. “Os dois morreram na casa do Sr. Welch.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 38,
+   "text": "“Mortos?” Klein tinha um palpite vago.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 39,
+   "text": "Talvez tenha sido suicídio…",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 40,
+   "text": "O inspetor de olhos cinzentos balançou a cabeça.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 41,
+   "text": "“Não, a cena sugere que eles cometeram suicídio. O Sr. Welch bateu com a cabeça na parede muitas vezes, cobrindo-a de sangue. A Srta. Naya se afogou em uma bacia. Sim, daquelas usadas para lavar o rosto.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 42,
+   "text": "“Isso é impossível…” Os pelos de Klein se arrepiaram, pois ele parecia capaz de imaginar a cena estranha.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 43,
+   "text": "Uma garota ajoelhada em uma cadeira, enterrando o rosto em uma bacia cheia de água. Seu cabelo castanho macio balançando ao vento, mas sua pessoa inteira permanecendo imóvel. Welch caindo no chão e encarando o teto fixamente. Sua testa estava completamente ensanguentada e desfigurada, enquanto os vestígios do impacto na parede eram evidentes nas manchas de sangue…",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 44,
+   "text": "O inspetor de olhos cinzentos continuou: “Nós também acreditamos, mas os resultados da autópsia e a situação na cena excluem fatores como drogas e forças externas. Eles — sendo o Sr. Welch e a Srta. Naya — não mostraram sinais de luta.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 45,
+   "text": "Antes que Klein pudesse falar novamente, ele entrou na sala e perguntou, fingindo casualidade: “Quando foi a última vez que você viu o Sr. Welch ou a Srta. Naya?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 46,
+   "text": "Enquanto falava, ele gesticulou com os olhos para seu colega com dois hexágonos de prata.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 47,
+   "text": "Ele era um jovem inspetor de polícia e parecia ter a mesma idade de Klein. Com costeletas pretas e pupilas verdes, ele era bonito e possuía o temperamento romântico de um poeta.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 48,
+   "text": "Ao ouvir a pergunta, Klein refletiu e respondeu pensativamente: “Deve ter sido 26 de junho, estávamos lendo um novo capítulo nas anotações. Depois, fui para casa me preparar para minha entrevista em 30 de junho. Ahn, a entrevista era para o Departamento de História da Universidade de Tingen.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 49,
+   "text": "Tingen era conhecida como a cidade das universidades. Havia duas universidades, Tingen e Khoy, bem como escolas técnicas, faculdades de direito e faculdades de negócios. Era superada apenas por Backlund, a capital.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 50,
+   "text": "Assim que terminou, viu, com o canto do olho, o jovem inspetor de polícia caminhar em direção à sua mesa no canto e pegar as anotações que mais pareciam um diário.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 51,
+   "text": "Droga! Eu me esqueci de esconder isso!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 52,
+   "text": "“Ei!”, Klein exclamou.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 53,
+   "text": "O jovem inspetor sorriu para ele, mas não parou de folhear suas anotações, enquanto o inspetor de olhos cinzentos explicava: “Este é um procedimento necessário.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 54,
+   "text": "Neste momento, Bitsch Mountbatten e os dignos inspetores de polícia de meia-idade estavam apenas observando, sem interromper ou auxiliar na busca.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 55,
+   "text": "Onde estão seus mandados de busca? Klein pretendia questioná-los, mas pensando bem, o sistema judiciário do Loen",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 56,
+   "text": "Reino não parecia ter tal coisa como mandados de busca. Pelo menos ele não sabia se havia um. Afinal, a força policial havia sido estabelecida há apenas quinze ou dezesseis anos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 57,
+   "text": "Quando o dono original deste corpo ainda era criança, eles ainda eram chamados de Oficiais de Segurança Pública.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 58,
+   "text": "Klein não pôde impedir. Ele observou o jovem inspetor folhear suas anotações, mas o inspetor de olhos cinzentos não fez nenhuma pergunta.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 59,
+   "text": "“O que é essa coisa estranha?” O jovem inspetor de polícia virou-se para o final das anotações e perguntou de repente: “E o que isto significa? ‘Todos morrerão, inclusive eu’…”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 60,
+   "text": "Não é senso comum que todos morrem, exceto as divindades? Klein estava preparado para contestar, mas de repente lhe ocorreu que ele havia planejado se “conectar” com a polícia em caso de possível perigo, mas não tinha motivos ou desculpas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 61,
+   "text": "Ele tomou uma decisão em menos de um segundo. Levando a mão à testa, ele respondeu com sofrimento: “Não tenho a menor ideia. Eu realmente não tenho a menor ideia... Quando acordei hoje de manhã, senti que algo estava errado, como se tivesse esquecido de alguma coisa. Isso é especialmente verdade em relação ao que aconteceu recentemente. Eu sequer sei por que escrevi tal frase.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 62,
+   "text": "Às vezes, ser franco era a melhor maneira de resolver um problema. Claro, isso exigia perícia. Havia coisas que podiam ser ditas e que não podiam, e a ordem em que eram ditas importava.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 63,
+   "text": "Como um guerreiro do teclado especialista, Klein também era bom em sofismas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 64,
+   "text": "“Isso é um disparate! Acha que somos tolos?” Bitsch Mountbatten não pôde evitar intervir com raiva.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 65,
+   "text": "Essa é uma mentira tão mal contada que insulta a inteligência dele e de seus colegas!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 66,
+   "text": "É melhor fingir que é mentalmente perturbado do que fingir ser um amnésico!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 67,
+   "text": "“Estou falando a verdade,” Klein respondeu com franqueza, olhando nos olhos de Mountbatten e dos inspetores de polícia de meia-idade.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 68,
+   "text": "Não poderia ser mais verdade, na realidade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 69,
+   "text": "“Talvez seja,” disse o inspetor de polícia de olhos cinzentos, lentamente.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 70,
+   "text": "O quê? Ele realmente acreditou? O próprio Klein ficou surpreso.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 71,
+   "text": "O inspetor de olhos cinzentos sorriu para ele e disse: “Uma especialista virá em dois dias e, acredite, ela deve ser capaz de ajudá-lo a recobrar suas memórias perdidas.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 72,
+   "text": "Especialista? Ajudar-me a lembrar minhas memórias? Na área da psicologia? Klein franziu a testa.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 73,
+   "text": "Ei, e se suas memórias da Terra fossem expostas? De repente, ele sentiu vontade de dar um tapa na própria testa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 74,
+   "text": "O jovem inspetor de polícia pousou suas anotações e revistou a mesa e o cômodo. Felizmente, ele se concentrou nos livros em vez de levantar a chaleira.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 75,
+   "text": "“Bem, Sr. Klein, obrigado por sua cooperação. Aconselhamos que é melhor o senhor não deixar Tingen nos próximos dias. Se tiver de fazê-lo, por favor, notifique o Inspetor Mountbatten, ou se tornará um fugitivo,” advertiu o inspetor de polícia de olhos cinzentos.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 76,
+   "text": "É só isso? É só isso por hoje? Nenhuma outra pergunta com investigações mais profundas? Ou me levar de volta à delegacia para me torturar em busca de informações? Klein ficou perplexo.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 77,
+   "text": "No entanto, ele também queria resolver a estranha reviravolta de eventos causada por Welch. Assim, ele assentiu.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 78,
+   "text": "“Isso não seria um problema.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 79,
+   "text": "Os inspetores saíram da sala um a um, e o jovem que estava por último de repente deu um tapinha no ombro de Klein.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 80,
+   "text": "“É realmente ótimo. Muita sorte.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 81,
+   "text": "“O quê?” Klein estava confuso.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 82,
+   "text": "O inspetor de polícia de olhos verdes e temperamento de poeta sorriu e disse: “Em geral, a norma é que todas as partes envolvidas morram em eventos assim. Estamos muito felizes e afortunados por vê-lo ainda vivo.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 83,
+   "text": "Depois disso, ele saiu da sala e fechou a porta atrás de si educadamente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 84,
+   "text": "A norma é todos morrerem juntos? Muito felizes por eu ainda estar vivo? Afortunados por eu ainda estar vivo?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 85,
+   "text": "Nesta tarde de junho, Klein sentiu calafrios por todo o corpo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  }
+ ]
+}

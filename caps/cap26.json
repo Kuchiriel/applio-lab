@@ -1,0 +1,551 @@
+{
+ "title": "Capítulo 26: Prática",
+ "segments": [
+  {
+   "i": 0,
+   "text": "Taque! Taque! Taque! O som de passos ecoava pelo corredor escuro e estreito, que, de outra maneira, permanecia em silêncio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 1,
+   "text": "Klein manteve a postura ereta enquanto acompanhava o ritmo do sacerdote. Não lhe fez perguntas nem engajou em conversas ociosas, permanecendo silencioso como uma superfície de água sem vento.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 2,
+   "text": "Após atravessar a passagem fortemente vigiada, o sacerdote abriu uma porta secreta com uma chave e apontou para uma escadaria de pedra. \"Vire à esquerda no cruzamento para chegar ao Portão Chanis.\"",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 3,
+   "text": "“Que a Deusa o abençoe.” Klein fez o sinal da lua carmesim sobre o peito.",
+   "speaker": "UNKNOWN",
+   "conf": "resíduo"
+  },
+  {
+   "i": 4,
+   "text": "Cidadãos comuns praticavam a etiqueta, enquanto os religiosos se valiam de bênçãos rituais.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 5,
+   "text": "“Louvada seja a Senhora.” O sacerdote retribuiu com o mesmo gesto.",
+   "speaker": "UNKNOWN",
+   "conf": "resíduo"
+  },
+  {
+   "i": 6,
+   "text": "Klein não se pronunciou mais, enquanto descia a escura escadaria de pedra, iluminada pelos refinados lampiões a gás embutidos em ambos os lados da parede.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 7,
+   "text": "No meio do caminho, ele subconscientemente se virou e viu o sacerdote parado na entrada. Ele estava nas sombras e parecia uma estátua de cera imóvel.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 8,
+   "text": "Klein desviou o olhar e continuou a descer. Não",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 9,
+   "text": "demorou muito até que ele atingisse o chão forrado com lajes de pedra geladas. Isso o levou ao cruzamento.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 10,
+   "text": "Ele não virou na direção do Portão Chanis, pois Dunn Smith, que havia terminado recentemente seu turno, certamente não estaria lá.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 11,
+   "text": "Ele virou à direita e viu o caminho familiar. Klein subiu mais um lance de escadas e apareceu dentro da Companhia de Segurança Blackthorn.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 12,
+   "text": "Ao ver portas bem fechadas ou semiabertas, ele não se apressou em entrar. Em vez disso, dirigiu-se à recepção e viu uma garota de cabelos castanhos concentrada em uma revista, exibindo um sorriso doce.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 13,
+   "text": "“Oi, Rozanne.” Klein se aproximou dela e bateu deliberadamente na mesa.",
+   "speaker": "UNKNOWN",
+   "conf": "resíduo"
+  },
+  {
+   "i": 14,
+   "text": "Toc! Rozanne se levantou subitamente, derrubou uma cadeira e disse, em pânico: “Oi, que clima agradável hoje. V-você, Klein, por que está aqui?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 15,
+   "text": "Ela bateu no peito e soltou alguns suspiros de alívio. Parecia uma jovem com medo de que seu pai a tivesse pego cabulando o serviço.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 16,
+   "text": "“Preciso encontrar o Capitão,” respondeu Klein simplesmente.",
+   "speaker": "KLEIN",
+   "conf": "verbo-nome"
+  },
+  {
+   "i": 17,
+   "text": "“...Você me deu um susto de morte. Pensei que o Capitão tivesse saído.” Rozanne fuzilou Klein com o olhar. “Você não sabe bater!? Hmph, você deveria agradecer por eu ser uma mulher tolerante e bondosa. Bem, eu prefiro o termo ‘dama’... Há algum motivo para estar procurando o Capitão? Ele está na sala em frente à Sra. Orianna.”",
+   "speaker": "KLEIN",
+   "conf": "vizinho"
+  },
+  {
+   "i": 18,
+   "text": "Embora estivesse apreensivo, Klein ficou tão divertido com Rozanne que sorriu. Ele ponderou por um momento antes de dizer: “Um segredo.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 19,
+   "text": "“...” Os olhos de Rozanne se arregalaram e, enquanto ela absorvia sua incredulidade, Klein fez uma leve reverência antes de se despedir.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 20,
+   "text": "Ele passou pela divisória da recepção e bateu na porta do primeiro escritório à direita.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 21,
+   "text": "“Entre.” A voz profunda e suave de Dunn Smith soou.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 22,
+   "text": "Klein empurrou e abriu a porta, fechando-a em seguida. Tirou o chapéu e curvou-se. “Bom dia, Capitão.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 23,
+   "text": "“Bom dia, em que posso ajudá-lo?” O sobretudo e o chapéu pretos de Dunn estavam pendurados em um cabideiro ao seu lado. Ele vestia uma camisa branca e um colete preto. Embora sua linha do cabelo fosse um tanto recuada, seus olhos cinzentos eram profundos, e ele parecia muito mais revigorado.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 24,
+   "text": "“Há alguém me seguindo.” Klein respondeu com honestidade, sem quaisquer floreios.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 25,
+   "text": "Dunn recostou-se e juntou as mãos. Seus profundos olhos cinzentos fitaram silenciosamente os olhos de Klein. Ele não deu seguimento ao tópico de estar sendo seguido e, em vez disso, perguntou: “Você veio da catedral?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 26,
+   "text": "“Sim.” Klein respondeu.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 27,
+   "text": "Dunn acenou com a cabeça gentilmente. Ele não teceu comentários sobre seus méritos ou deméritos enquanto mudava o assunto de volta. “Pode ser que",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 28,
+   "text": "o pai de Welch não acredite na causa da morte que relatamos e tenha contratado um investigador particular da Cidade do Vento para apurar o assunto.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 29,
+   "text": "A Cidade Constante de Midseashire também era conhecida como Cidade do Vento. Era uma região com indústrias de carvão e aço extremamente avançadas. Era uma das três principais cidades do Reino de Loen.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 30,
+   "text": "Antes de esperar que Klein desse sua opinião, Dunn continuou: “Pode ser também resultado daquele caderno. Heh, por acaso estávamos investigando onde Welch obteve o caderno da família Antigonus. Claro, não podemos eliminar outras pessoas ou organizações que possam estar procurando por este caderno.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 31,
+   "text": "“O que devo fazer?” Klein perguntou com uma voz séria.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 32,
+   "text": "Sem dúvida, ele esperava que fosse o primeiro motivo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 33,
+   "text": "Dunn não lhe respondeu imediatamente. Ele ergueu sua caneca de café e tomou um gole, seus olhos não mostrando o menor indício de perturbação.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 34,
+   "text": "“Volte pelo caminho que veio, e então faça o que desejar.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 35,
+   "text": "“Qualquer coisa?” Klein retrucou com uma pergunta.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 36,
+   "text": "“Qualquer coisa.” Dunn assentiu com certeza. “Claro, não os espante nem viole a lei.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 37,
+   "text": "“Certo.” Klein respirou fundo e se despediu. Ele deixou a sala e voltou para o subsolo.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 38,
+   "text": "Ele virou à esquerda na intersecção e, banhado na luz dos lampiões a gás nas duas paredes, chegou silenciosamente ao vazio,",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 39,
+   "text": "corredor escuro e frio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 40,
+   "text": "O som de seus passos ecoou, fazendo-o soar mais solitário e aterrorizado.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 41,
+   "text": "Logo, Klein chegou à escadaria. Ele avançou e viu uma sombra parada ali — o padre de meia-idade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 42,
+   "text": "Os dois não disseram uma palavra quando se encontraram. O padre se virou em silêncio e abriu caminho.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 43,
+   "text": "Ele prosseguiu em silêncio antes de retornar à sala de orações. Os orifícios circulares atrás do altar em arco ainda eram puros e brilhantes, enquanto a escuridão e o silêncio do interior do edifício permaneciam. Ainda havia homens e mulheres na fila do lado de fora do confessionário, mas em número muito menor do que antes.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 44,
+   "text": "Após esperar por um momento, Klein deixou lentamente a sala de orações com sua bengala e jornal como se nada tivesse acontecido, deixando com sucesso a Catedral de Santa Selena.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 45,
+   "text": "No momento em que saiu, ele viu o sol escaldante. Imediatamente ele recuperou a sensação familiar de estar sendo observado. Sentiu-se como uma presa sendo visada por um falcão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 46,
+   "text": "De repente, uma pergunta surgiu em sua mente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 47,
+   "text": "Por que o “observador” não me seguiu para dentro da catedral? Embora eu ainda pudesse ter usado o ambiente escuro e o padre para ocultar meu desaparecimento temporário, seria difícil para ele continuar a me monitorar fingindo rezar? Se ele não tivesse feito nada de errado, não haveria problema em entrar de forma aberta e transparente, certo? A menos que a pessoa tenha alguma",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 48,
+   "text": "história sombria, fazendo-o temer a Igreja ou recear o bispo, sabendo que este poderia possuir os poderes de um Transcendente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 49,
+   "text": "Nesse caso, a probabilidade de ser um investigador particular é muito pequena... Klein expirou e já não agiu tão nervoso quanto antes. Ele fez uma caminhada despreocupada antes de dar a volta e ir para os fundos da Rua Zouteland.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 50,
+   "text": "Ele parou diante de um edifício de estilo antigo com paredes manchadas. O endereço na porta era ‘3’. Seu nome era Clube de Tiro Zouteland.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 51,
+   "text": "Parte do estande de tiro subterrâneo do departamento de polícia havia sido aberta ao público como forma de obter fundos adicionais.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 52,
+   "text": "Klein entrou e a sensação de ser observado desapareceu instantaneamente. Ele aproveitou esta oportunidade para entregar seu distintivo do Departamento de Operações Especiais ao atendente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 53,
+   "text": "Após uma breve verificação, ele foi conduzido ao subterrâneo, a um estande de tiro pequeno e confinado.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 54,
+   "text": "“Alvo de dez metros.” Klein informou o atendente de modo simples. Em seguida, ele sacou o revólver do coldre de axila e a caixa de balas de latão do bolso.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 55,
+   "text": "A sensação de ser subitamente visado fez com que seu desejo de autoproteção vencesse sua procrastinação. Portanto, ele mal podia esperar para vir praticar seu tiro.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 56,
+   "text": "Pá! Depois que o atendente saiu, ele abriu o tambor e removeu as balas de caça a demônios prateadas. Em seguida, preencheu o tambor com balas de latão normais.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 57,
+   "text": "Desta vez, ele nem deixou um espaço vazio para evitar falhas de ignição, nem tirou seu traje formal e o chapéu-coco. Ele planejava praticar em seu traje habitual. Afinal, seria impossível gritar “espere um minuto, deixe-me vestir algo mais confortável” depois de encontrar um inimigo ou perigo.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 58,
+   "text": "Clique! Klein fechou o tambor e o girou com o polegar.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 59,
+   "text": "De repente, ele segurou a arma com as duas mãos, levantou-a em linha reta e mirou no alvo a mais de dez metros de distância.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 60,
+   "text": "Contudo, ele não estava com pressa de atirar. Em vez disso, relembrou sua experiência no treinamento militar [1], como formar uma linha com as miras de ferro e o conhecimento sobre o recuo de uma arma.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 61,
+   "text": "Farfalhar! Farfalhar! Enquanto suas roupas farfalhavam, Klein repetia a mira e a postura de segurar a arma. Ele estava tão sério quanto um estudante prestando um exame do ensino médio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 62,
+   "text": "Após repetir o movimento várias vezes, ele recuou para a parede e sentou-se num banco longo e macio. Colocou o revólver ao lado, começou a massagear os braços e descansou por um bom tempo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 63,
+   "text": "Ele passou alguns minutos relembrando sua prática antes de pegar o revólver com o cabo de madeira e o tambor de bronze. Assumiu a posição de tiro padrão e puxou o gatilho.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 64,
+   "text": "Bangue! Seu braço tremeu enquanto seu corpo recuava com o coice. A bala errou o alvo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 65,
+   "text": "Bangue! Bangue! Bangue! Aproveitando a experiência que ganhara, ele atirou repetidamente até que todas as seis balas tivessem acabado.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 66,
+   "text": "Estou começando a acertar o alvo... Klein recuou e sentou-se novamente enquanto expirava.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 67,
+   "text": "Clique! Ele girou o tambor para fora e permitiu que as seis cápsulas caíssem no chão. Então, sem mudar a expressão, inseriu as balas de latão restantes.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 68,
+   "text": "Depois de relaxar o braço, Klein levantou-se novamente e retornou à sua posição de tiro.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 69,
+   "text": "Bangue! Bangue! Bangue! Tiros ressoantes ecoaram enquanto o alvo tremia. Klein praticou e descansou repetidamente. Ele gastou as trinta balas normais e as cinco restantes de antes. Aos poucos, ele acertou o alvo e começou a mirar no centro.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 70,
+   "text": "Ele girou seus ombros doloridos e jogou fora as últimas cinco cápsulas. Abaixou a cabeça e inseriu as balas de caça a demônios de padrões complexos de volta na arma, deixando um espaço vazio para evitar falhas de ignição.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 71,
+   "text": "Depois de recolocar o revólver em seu coldre de axila, Klein sacudiu o pó de seu corpo e saiu do estande de tiro para retornar às ruas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 72,
+   "text": "A sensação de ser observado surgiu mais uma vez. Klein sentiu-se mais calmo do que antes enquanto caminhava lentamente para a Rua Champagne. Ele gastou quatro pence em uma carruagem de linha para retornar à Rua Cruz de Ferro antes de voltar ao seu próprio apartamento.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 73,
+   "text": "A sensação de estar sendo espionado sumiu sem deixar rastros. Klein tirou as chaves e abriu a porta, vendo um homem de cabelo curto, beirando os trinta anos e vestindo uma camisa de linho, sentado a uma escrivaninha.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 74,
+   "text": "Seu coração se encolheu antes de relaxar imediatamente. Klein cumprimentou com um sorriso: “Bom dia… não, boa tarde, Benson.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 75,
+   "text": "Este homem não era outro senão o irmão mais velho de Klein e Melissa, Benson Moretti. Ele tinha apenas vinte e cinco anos este ano, mas sua linha do cabelo recuada e sua aparência desgastada o faziam parecer ter quase trinta.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 76,
+   "text": "Ele tinha cabelos pretos e olhos castanhos, parecendo-se um pouco com Klein, mas faltava-lhe o leve ar de estudioso que Klein possuía.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 77,
+   "text": "“Boa tarde, Klein. Como foi a entrevista?” Benson se levantou, sorrindo.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 78,
+   "text": "Seu casaco preto e sua cartola cortada estavam pendurados numa saliência do beliche deles.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 79,
+   "text": "“Horrível,” Klein respondeu de forma inexpressiva.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 80,
+   "text": "Ao ver Benson atordoado, Klein riu e acrescentou: “Na verdade, eu nem cheguei a participar da entrevista. Encontrei um emprego antes dela e que paga três libras por semana…”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 81,
+   "text": "Ele repetiu o que havia dito a Melissa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 82,
+   "text": "A expressão de Benson se acalmou enquanto ele balançava a cabeça, rindo. “Parece que estou vendo uma criança crescer… Bem, esse trabalho é muito bom.” Ele suspirou e disse: “É ótimo que a primeira coisa que ouço seja uma notícia tão boa depois de passar o dia trabalhando. Vamos comemorar hoje à noite e comprar um pouco de carne de boi?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 83,
+   "text": "Klein sorriu. “Claro, mas acredito que Melissa sentirá o aperto. Vamos",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 84,
+   "text": "comprar alguns ingredientes mais tarde, nesta tarde? Vamos levar pelo menos três sólis? Bem, para ser honesto, uma libra equivale a vinte sólis, e um soli equivale a doze pence. Existem até mesmo denominações como o halfpence e o quarterpence. Um sistema de moedas assim simplesmente vai contra a lógica. É tão problemático. Acho que deve ser um dos sistemas de moedas mais tolos do mundo.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 85,
+   "text": "Ao dizer isso, ele viu a expressão de Benson ficar severa. Sentindo-se um pouco incomodado, ele se perguntou se havia dito algo errado.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 86,
+   "text": "Seria possível que, nos fragmentos de memória perdidos do Klein original, Benson fosse um nacionalista extremo e declarado que não tolerava nenhuma negatividade? Benson deu alguns passos e o refutou com uma expressão severa. “Não, não é um dos, mas sim o sistema de moedas mais tolo.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 87,
+   "text": "Não um dos! Klein foi pego de surpresa, mas rapidamente voltou a si. Ele olhou para o irmão nos olhos e riu.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 88,
+   "text": "De fato, Benson era ótimo em humor sarcástico.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 89,
+   "text": "Benson levantou os cantos dos lábios e disse com toda a seriedade: “Você deve entender que para instituir um sistema de moedas razoável e simples, é preciso saber contar e dominar o sistema decimal. Infelizmente, há poucos talentos entre essas figuras importantes.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 90,
+   "text": "1. Isso não significa que Zhou Mingrui era um soldado. Na China, os estudantes são obrigados a participar de breves períodos militares durante seus dias de escola, por curtos espaços de tempo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  }
+ ]
+}

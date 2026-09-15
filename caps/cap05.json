@@ -1,0 +1,665 @@
+{
+ "title": "Capítulo 5: Ritual",
+ "segments": [
+  {
+   "i": 0,
+   "text": "Gratuito? Coisas de graça são as que custam mais caro!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 1,
+   "text": "Zhou Mingrui murmurou silenciosamente e decidiu que não compraria quaisquer serviços adicionais. Ele os recusaria firmemente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 2,
+   "text": "Se você é realmente capaz, tente adivinhar que eu transmigrei para cá!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 3,
+   "text": "Tendo isso em mente, Zhou Mingrui seguiu a mulher cujo rosto estava pintado de vermelho e amarelo, curvando-se para entrar na tenda baixa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 4,
+   "text": "O interior da tenda estava extremamente escuro, iluminado apenas por alguns feixes de luz que conseguiam se infiltrar. Uma mesa coberta com cartas de papel podia ser distinguida vagamente na penumbra.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 5,
+   "text": "A mulher com o chapéu pontudo e afiado não foi afetada por isso em nada. Seu longo vestido preto deslizava como se estivesse movendo-se sobre a água enquanto ela contornava a mesa. Ela se sentou no lado oposto e acendeu uma vela.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 6,
+   "text": "A luz amarela e fraca bruxuleou, fazendo com que o interior da tenda parecesse claro e escuro ao mesmo tempo. Isso instantaneamente adicionou uma sensação muito mais misteriosa à atmosfera.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 7,
+   "text": "Zhou Mingrui sentou-se silenciosamente, seu olhar percorrendo as cartas de tarô sobre a mesa, onde descobriu cartas familiares como “O Mago,” “O Imperador,” “O Enforcado,” e",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 8,
+   "text": "“A Temperança,” etc.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 9,
+   "text": "Será que Roselle teria sido um ‘sênior’... Pergunto-me se ele também seria um compatriota meu... Zhou Mingrui murmurou para si mesmo subconscientemente.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 10,
+   "text": "Antes que ele pudesse terminar de olhar as cartas abertas sobre a mesa, a mulher que alegava ter adivinhações precisas já havia estendido as mãos para recolher todas as cartas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 11,
+   "text": "Ela as empilhou em um baralho e o empurrou para a frente dele.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 12,
+   "text": "“Embaralhe as cartas primeiro e corte o baralho,” disse a cartomante do circo em uma voz abafada.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 13,
+   "text": "“Eu? Embaralhar?” Zhou Mingrui perguntou por reflexo.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo+alias-zhou"
+  },
+  {
+   "i": 14,
+   "text": "A tinta amarela e vermelha no rosto da cartomante se misturou enquanto ela revelava um leve sorriso, dizendo: “Claro, o destino de cada um só pode ser desvendado por si mesmos. Eu sirvo apenas como leitora dele.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 15,
+   "text": "Zhou Mingrui imediatamente a questionou cautelosamente: “Essa leitura não exige taxas adicionais, certo?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 16,
+   "text": "Como um folclorista de teclado, eu já vi truques demais desses!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 17,
+   "text": "A cartomante ficou visivelmente surpresa antes de finalmente dizer abafadamente: “É gratuito.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 18,
+   "text": "Zhou Mingrui, aliviado, enfiou o revólver mais para trás no bolso. Depois disso, estendeu calmamente as duas mãos para embaralhar e cortar o baralho com habilidade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 19,
+   "text": "“Está feito.” Ele colocou as cartas de tarô já embaralhadas no meio da mesa.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 20,
+   "text": "A cartomante segurou as cartas com as duas mãos e olhou atentamente para elas por um tempo. Então, ela subitamente abriu a boca e disse: “Me desculpe, esqueci de perguntar, mas sobre o que o senhor gostaria de fazer a pergunta?”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 21,
+   "text": "Na época em que cortejava seu primeiro amor, Zhou Mingrui também havia feito pesquisas sobre as cartas de tarô. Ele perguntou sem hesitar: “Passado, presente e futuro.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 22,
+   "text": "Este era um tipo de adivinhação na interpretação do tarô: três cartas abertas sequencialmente simbolizavam o passado, o presente e o futuro de alguém.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 23,
+   "text": "A cartomante primeiro assentiu, depois curvou os lábios num sorriso e disse: “Então, por favor, embaralhe o baralho de novo. Você só obterá de verdade as cartas que deseja se souber o que gostaria de perguntar.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 24,
+   "text": "Você estava me enganando agora mesmo? Precisa ser tão mesquinha? Eu não perguntei apenas algumas vezes se este seria um serviço gratuito? As bochechas de Zhou Mingrui tremeram levemente. Ele respirou fundo e pegou o maço de tarô de volta para embaralhar e cortar.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 25,
+   "text": "“Não haverá problemas desta vez, certo?” Ele colocou o baralho já cortado de volta sobre a mesa.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 26,
+   "text": "“Sem problemas.” A cartomante estendeu os dedos e puxou uma carta do topo do maço. Ela a colocou à esquerda de Zhou Mingrui. Sua voz ia ficando cada vez mais baixa enquanto falava: “Esta carta simboliza o seu passado.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 27,
+   "text": "“Esta carta simboliza o seu presente.” A cartomante colocou a segunda carta bem na frente de Zhou Mingrui.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 28,
+   "text": "Então, ela escolheu a terceira carta e a colocou à direita de Zhou Mingrui.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 29,
+   "text": "“Esta carta simboliza o futuro.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 30,
+   "text": "“Muito bem, qual carta você gostaria de ver primeiro?” A cartomante levantou a cabeça após dispor as cartas e fitou Zhou Mingrui profundamente com seus olhos azul-acinzentados.",
+   "speaker": "KLEIN",
+   "conf": "vizinho+alias-zhou"
+  },
+  {
+   "i": 31,
+   "text": "“Vou ver o ‘presente’ primeiro,” disse Zhou Mingrui, após ponderar um pouco.",
+   "speaker": "KLEIN",
+   "conf": "verbo-nome+alias-zhou"
+  },
+  {
+   "i": 32,
+   "text": "A cartomante assentiu lentamente e virou a carta de tarô que estava bem na frente de Zhou Mingrui.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 33,
+   "text": "Um personagem vestido em cores vibrantes estava retratado nesta carta, usando um esplêndido toucado e carregando um bastão sobre o ombro. Havia uma trouxa pendurada na ponta do bastão e um cachorrinho o seguia. Estava numerada com “0.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 34,
+   "text": "“O Louco,” a cartomante leu suavemente o nome da carta, mantendo seus olhos azul-acinzentados fixos em Zhou Mingrui.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 35,
+   "text": "O Louco? A carta “0” do tarô? Um início? Um recomeço repleto de possibilidades? Zhou Mingrui não era sequer considerado um entusiasta amador do tarô, então pôde apenas esboçar uma interpretação grosseira baseada em suas próprias impressões.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 36,
+   "text": "Assim que a cartomante estava prestes a falar algo, as cortinas de tecido da tenda foram subitamente levantadas. O raio de sol que irrompeu era tão ofuscante que fez Zhou Mingrui, de costas para a luz, instintivamente semicerrar os olhos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 37,
+   "text": "“Por que está se passando por mim de novo! É a mim que cabe lidar com a adivinhação para as pessoas!” rosnou a voz de uma mulher, irritada. “Volte logo ao seu posto! Você precisa se lembrar que é apenas uma treinadora de animais!”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 38,
+   "text": "Uma treinadora de animais? Os olhos de Zhou Mingrui já haviam se adaptado à luz. Ele viu uma mulher de aparência similar, que também usava um chapéu pontudo e afiado, vestida com um traje preto, com o rosto pintado de vermelho e amarelo. A única diferença era que ela era mais alta e possuía um físico mais esguio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 39,
+   "text": "A mulher que estava sentada à sua frente levantou-se imediatamente e disse, descontente: “Não se incomode com isso, é só que eu gosto de fazer. Mas preciso dizer que minha adivinhação e interpretação às vezes podem ser bem precisas. É a verdade…”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 40,
+   "text": "Ela falou e levantou o vestido para contornar a mesa, antes de trotar rapidamente para fora da tenda.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 41,
+   "text": "“Senhor, gostaria que eu interpretasse as suas cartas?” a verdadeira cartomante olhou para Zhou Mingrui e perguntou com um sorriso.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 42,
+   "text": "Os lábios de Zhou Mingrui tremeram e ele perguntou, com seriedade: “É de graça?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 43,
+   "text": "“...Não,” respondeu a verdadeira cartomante.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 44,
+   "text": "“Então, esqueça.” Zhou Mingrui recolheu as mãos e as enfiou nos bolsos. Ele agarrou seu revólver e dinheiro",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 45,
+   "text": "antes de se curvar novamente para sair da tenda.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 46,
+   "text": "Droga! Ele realmente arranjou um treinador de animais para ser seu adivinho?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 47,
+   "text": "Um treinador de animais que não quisesse ser um adivinho não era um bom palhaço?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 48,
+   "text": "Zhou Mingrui muito rapidamente deixou este assunto para trás. Ele gastou sete pence no mercado ‘Alface e Carne’ por uma libra de carne de carneiro não tão boa. Depois, ele também comprou favas tenras, repolho, cebolas, batatas e outros itens. Junto com o pão que havia comprado antes, ele gastou um total de 25 moedas de cobre, o que se convertia em dois soli e um pence.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 49,
+   "text": "“Realmente não há o suficiente para as despesas. Pobre Benson...” Zhou Mingrui não apenas havia gasto as duas notas que trouxera consigo, mas também foi necessário completar o valor com o um pence que ele tinha no bolso.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 50,
+   "text": "Ele apenas suspirou e não pensou mais sobre aquilo enquanto voltava apressadamente para casa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 51,
+   "text": "Com o alimento básico, ele poderia agora realizar o ritual de aprimoramento da sorte!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 52,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 53,
+   "text": "Depois que os inquilinos do segundo andar saíram gradualmente, Zhou Mingrui ainda não tinha pressa para realizar o ritual. Em vez disso, ele traduziu “O Senhor Imortal do Céu e da Terra para Bênçãos” e frases relacionadas para a antiga língua Feysac, assim como para a língua Loen. Ele pretendia tentar o ritual novamente no dia seguinte nesses idiomas locais caso o encantamento original não",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 54,
+   "text": "fizesse efeito!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 55,
+   "text": "Afinal, ele tinha que levar em consideração as diferenças entre os dois mundos. Em Roma, aja como os romanos!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 56,
+   "text": "Quanto a traduzi-lo para uma antiga oração ritualística que usava a dedicada língua Hermes, Zhou Mingrui teve dificuldade em completá-lo devido à sua falta de vocabulário.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 57,
+   "text": "Depois de preparar tudo, ele finalmente tirou os quatro pães de centeio. Ele colocou um no canto onde originalmente ficava o fogão a carvão, um no lado interno inferior do espelho de vestir, um no topo do armário onde duas paredes se encontravam, e um no lado direito da mesa de estudo onde itens diversos eram guardados.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 58,
+   "text": "Com um suspiro profundo, Zhou Mingrui foi para o centro do quarto e passou alguns minutos para se acalmar. Então, ele deu um passo solene para frente e se moveu em direção anti-horária na forma de um quadrado.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 59,
+   "text": "Ao dar o primeiro passo, ele entoou em um sussurro baixo, “O Senhor Imortal do Céu e da Terra para Bênçãos.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 60,
+   "text": "No segundo passo, ele entoou sinceramente, “O Senhor Celestial do Céu e da Terra para Bênçãos.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 61,
+   "text": "No terceiro passo, Zhou Mingrui exalou um sussurro. “O Exaltado Monarca do Céu e da Terra para Bênçãos.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 62,
+   "text": "No quarto passo, ele expeliu um ar viciado e meditou em concentração. “O Digno Celestial do Céu e da Terra para Bênçãos.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 63,
+   "text": "Ao retornar ao ponto original, Zhou Mingrui fechou os olhos e esperou em seu lugar por um resultado. Ele tinha alguma antecipação em si, algum desconforto, alguma esperança e algum medo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 64,
+   "text": "Ele conseguiria voltar?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 65,
+   "text": "Haveria algum efeito?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 66,
+   "text": "Poderia haver alguma situação inesperada?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 67,
+   "text": "A escuridão à sua frente estava manchada pela luz carmesim da esperança. Os pensamentos de Zhou Mingrui turbilhonaram em sua cabeça e ele estava achando difícil reprimi-los.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 68,
+   "text": "Foi neste momento que ele de repente sentiu o ar circundante parecer parar, tornando-se denso e misterioso.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 69,
+   "text": "Imediatamente depois, um sussurro baixo pôde ser ouvido perto de seus ouvidos que soava por vezes real, por vezes agudo, por vezes imaginário, por vezes sedutor, por vezes maníaco, e por vezes louco.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 70,
+   "text": "Ele claramente não entendia o murmúrio que continuava, mas Zhou Mingrui ainda não conseguia evitar querer ouvi-lo e distinguir o que estava dizendo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 71,
+   "text": "Sua cabeça doía novamente. Era uma dor tão intensa que parecia que alguém havia enfiado uma barra de perfuração de aço nela.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 72,
+   "text": "Zhou Mingrui apenas sentia que sua cabeça ia explodir. Seus pensamentos estavam cheios de cores psicadélicas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 73,
+   "text": "Ele sabia que algo estava errado e tentou abrir os olhos. No entanto, ele sequer era capaz de completar uma ação tão simples.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 74,
+   "text": "Seu corpo inteiro ficava cada vez mais tenso e parecia que ele poderia se estilhaçar a qualquer momento. Neste momento, um pensamento de escárnio surgiu na mente de Zhou Mingrui:",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 75,
+   "text": "Se você não morreria se não estivesse cortejando a morte...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 76,
+   "text": "Ele não aguentava mais. No exato momento em que sua mente estava prestes a se romper, o murmúrio das vozes se desvaneceu e seu entorno ficou muito silencioso. O estado de espírito era errático.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 77,
+   "text": "Não era apenas o estado de espírito; Zhou Mingrui sentiu seu próprio corpo passar pelas mesmas sensações.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 78,
+   "text": "Ele tentou mais uma vez abrir os olhos, uma tarefa extremamente fácil desta vez.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 79,
+   "text": "Uma névoa cinzenta surgiu diante de seus olhos — nebulosidade, vaga e infinita.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 80,
+   "text": "“Que situação é essa?” Zhou Mingrui subitamente olhou em volta e então baixou a cabeça para descobrir que estava flutuando na borda de uma névoa sem fim.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 81,
+   "text": "A névoa fluía como água e estava salpicada de muitas ‘estrelas’ carmesim. Algumas delas eram enormes, enquanto outras eram minúsculas. Havia a sensação de que algumas estavam escondidas nas profundezas abissais, enquanto outras flutuavam sobre a superfície desta névoa aquosa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 82,
+   "text": "Olhando para a visão aparentemente holográfica, Zhou Mingrui estendeu a mão direita em um misto de confusão e exploração,",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 83,
+   "text": "numa tentativa de tocar a ‘estrela’ carmesim que parecia flutuar na superfície. Ele estava tentando encontrar uma maneira de deixar este lugar.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 84,
+   "text": "Quando sua mão tocou a superfície daquela estrela, uma marca d'água surgiu subitamente de dentro de seu corpo e agitou as estrelas em uma explosão “carmesim”. Parecia uma queima de chamas onírica.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 85,
+   "text": "Zhou Mingrui levou um susto com aquilo. Ele retraiu a mão direita em pânico, mas acidentalmente tocou outra estrela carmesim.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 86,
+   "text": "Como resultado, esta estrela também irrompeu com uma luz esplêndida.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 87,
+   "text": "Por sua vez, Zhou Mingrui sentiu sua mente esvaziar e seu espírito se dissipar.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 88,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 89,
+   "text": "Na capital do Reino de Loen, Backlund. Dentro de uma luxuosa mansão no distrito real.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 90,
+   "text": "Audrey Hall estava sentada em frente a uma penteadeira. As marcas nela eram antiquadas e havia um espelho de bronze rachado na superfície.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 91,
+   "text": "“Espelho, espelho, desperte...",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 92,
+   "text": "“Em nome da família Hall, eu ordeno que você desperte!”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 93,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 94,
+   "text": "Ela alternou entre muitas falas diferentes, mas não houve reação alguma do espelho.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 95,
+   "text": "Depois de mais de 10 minutos, ela finalmente optou por desistir e fez um bico de lamentação. Ela disse em um murmúrio suave: “Papai estava mesmo mentindo para mim. Ele sempre me diz que este espelho era o tesouro do Imperador Negro do Império Salomão, e que é um item extraordinário...”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 96,
+   "text": "A voz dela sumiu. O espelho de bronze que repousava sobre a cômoda de repente brilhou com uma luz carmesim que a envolveu por completo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 97,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 98,
+   "text": "No Mar Sonia, um veleiro de três mastros que parecia uma relíquia óbvia navegava em meio a uma tempestade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 99,
+   "text": "Alger Wilson estava no convés, seu corpo ondulando com as correntes do mar, mantendo o equilíbrio com facilidade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 100,
+   "text": "Ele vestia um manto bordado com padrões de relâmpagos, e em sua mão havia uma garrafa de vidro de formato peculiar. Bolhas inchavam dentro da garrafa às vezes, geada se transformava em neve em outras, e sinais de rajadas de vento podiam ser vistos ocasionalmente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 101,
+   "text": "“Ainda estou com pouco sangue de Tubarão Fantasma...” Alger murmurou.",
+   "speaker": "ALGER",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 102,
+   "text": "Então, neste momento, um clarão carmesim surgiu no espaço entre a garrafa de vidro e a superfície de sua palma. Em um instante, ele também envolveu os arredores.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 103,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 104,
+   "text": "Na névoa de bruma cinzenta, Audrey Hall recuperou a visão. Ela começou a avaliar a situação em estado de horror e confusão ao notar a imagem embaçada de um homem no lado oposto dela fazendo o mesmo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 105,
+   "text": "Imediatamente depois, ambos descobriram outra pessoa misteriosa, envolta em uma névoa cinzenta, parada não muito longe deles.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 106,
+   "text": "A ‘pessoa misteriosa’ não era outro senão Zhou Mingrui. Ele estava igualmente pasmo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 107,
+   "text": "“Senhor, onde é isto?”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 108,
+   "text": "Audrey e Alger ficaram assustados de início, silenciando no processo. Em seguida, imediatamente começaram a falar em uníssono.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 109,
+   "text": "“O que você planeja fazer?”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  }
+ ]
+}

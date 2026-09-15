@@ -1,0 +1,467 @@
+{
+ "title": "Capítulo 13: Falcão Noturno",
+ "segments": [
+  {
+   "i": 0,
+   "text": "Plop!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 1,
+   "text": "Klein não pôde deixar de dar um passo para trás. Por um momento, ele estava inseguro se estava acordado ou ainda em seus sonhos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 2,
+   "text": "A silhueta tirou sua cartola preta e fez uma pequena reverência enquanto dizia com um sorriso: “Reapresentando-me, Falcão Noturno, Dunn Smith.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 3,
+   "text": "Falcão Noturno? Um dos codinomes das equipes de Beyonders da Igreja da Meia-Noite Eterna que ‘Justiça’ e ‘O Enforcado’ mencionaram antes? Klein de repente percebeu algo e exclamou após fazer uma conexão: “Você pode controlar sonhos? Você acabou de me fazer sonhar com aquilo?”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 4,
+   "text": "O Falcão Noturno Dunn Smith recolocou seu chapéu preto, escondendo sua linha de cabelo ligeiramente alta. Com olhos cinzentos profundos, ele disse: “Não, eu apenas entrei no seu sonho e fiz a orientação necessária.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 5,
+   "text": "Sua voz era profunda e suave; ela reverberou pelo corredor mal iluminado sem perturbar os doces sonhos dos outros: “Nos sonhos, embora grande parte das suas emoções geralmente reprimidas e vários pensamentos sombrios em você sejam amplificados—fazendo com que tudo pareça caótico, absurdo e louco—eles estão todos enraizados na realidade, pois a realidade existe. Para veteranos como eu, tudo é cristalino. Comparado ao você consciente, eu creio mais no você dos seus sonhos.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 6,
+   "text": "Isto... Que ser humano normal poderia controlar o próprio sonho? Se eu tivesse sonhado com algo da Terra, Dunn Smith não teria notado? Klein estava petrificado pelo que havia acontecido no sonho.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 7,
+   "text": "No entanto, ele rapidamente achou isso bizarro. Ele se lembrava de estar muito sóbrio e racional—sabendo o que dizer e o que não dizer.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 8,
+   "text": "Simplificando, não parecia um sonho de forma alguma!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 9,
+   "text": "Então, Dunn Smith apenas “viu” o que eu queria que ele visse?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 10,
+   "text": "A mente de Klein girou enquanto ele obtinha um vislumbre de compreensão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 11,
+   "text": "Isso é uma vantagem resultante da transmigração? Como ter um corpo e uma alma especiais? Ou foram os efeitos daquele ritual de aprimoramento de sorte?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 12,
+   "text": "“Então, Sr. Smith, o senhor acredita que eu realmente perdi a memória?” Klein organizou seus pensamentos e perguntou em resposta.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 13,
+   "text": "Dunn Smith não lhe respondeu diretamente. Em vez disso, ele o olhou com perspicácia.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 14,
+   "text": "“Você, na verdade, não está surpreso com o desenrolar dos eventos?”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 15,
+   "text": "“Conheci pessoas que se recusariam a crer no poder dos Transcendentes e que prefeririam acreditar que não despertaram de verdade.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 16,
+   "text": "Klein assentiu concisamente, dizendo: “Talvez eu estivesse sempre rezando, esperando que houvesse tal poder para me ajudar.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 17,
+   "text": "“Uma linha de raciocínio interessante... Talvez você tenha sobrevivido não apenas por ter sorte.” Dunn assentiu inexpressivamente. “Posso agora confirmar que você realmente perdeu partes de suas memórias devido a",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 18,
+   "text": "o incidente, especialmente aquelas relacionadas a ele.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 19,
+   "text": "“Então, posso voltar agora?” Klein deu um longo suspiro de alívio em seu coração enquanto sondava.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 20,
+   "text": "Dunn meteu a mão no bolso e caminhou lentamente em direção a Klein, a escuridão ao redor tornando-se tranquila e serena.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 21,
+   "text": "“Não, você ainda precisa vir comigo para ver a especialista,” ele sorriu educadamente e disse.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 22,
+   "text": "“Por quê?” Klein disparou, então acrescentou: “Você não acredita nas conclusões do meu sonho?”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 23,
+   "text": "Você só pode estar brincando. Se essa “especialista” for especializada em hipnose, leitura mental ou coisas do tipo, meu maior segredo não estaria exposto?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 24,
+   "text": "As consequências estariam além da imaginação!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 25,
+   "text": "“Eu costumo ser bem humilde, mas ainda estou confiante em relação a assuntos ligados a sonhos.” Dunn respondeu calmamente: “Entretanto, para questões chave importantes, não há mal em confirmá-las novamente. Além disso, nossas especialidades se encontram em áreas diferentes. Talvez, ela possa ajudá-lo a recuperar algumas de suas memórias.”",
+   "speaker": "DUNN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 26,
+   "text": "Sem esperar pela resposta de Klein, sua voz se tornou mais grave. “Afinal, você está ligado ao paradeiro daquele caderno da família Antigonus.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 27,
+   "text": "“O quê?” Klein estacou.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 28,
+   "text": "Dunn parou à sua frente, fixando seus olhos cinzentos nos olhos de Klein e disse: “Na cena do suicídio, não havia um único rastro daquele caderno da Quarta Época. Welch está morto, Naya está morta; você é a nossa única pista.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 29,
+   "text": "“...Certo, então.” Klein silenciou por um momento antes de expirar.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 30,
+   "text": "Um caderno desaparecido... agora isto é realmente peculiar!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 31,
+   "text": "Como eu não pensei no paradeiro daquele caderno da Quarta Época!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 32,
+   "text": "Dunn assentiu levemente, passando por Klein e dizendo: “Tranque a sua porta e venha comigo para o apartamento de Welch, a especialista está nos esperando lá.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 33,
+   "text": "Klein tomou um fôlego silencioso. Seu coração martelava descontroladamente enquanto ele se sentia inquieto.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 34,
+   "text": "Ele queria recusar e até tinha a intenção de fugir. No entanto, ele acreditava que, após o que havia acontecido em seus sonhos, Dunn Smith certamente teria elevado seu nível de vigilância. E com a diferença de força entre um humano normal e um Transcendente, havia pouca chance de sucesso pelo uso da força.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 35,
+   "text": "Ele deve carregar um revólver consigo também... Ele também deve ter prática no uso do revólver...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 36,
+   "text": "Muitos pensamentos cruzaram sua mente e, por fim, Klein escolheu aceitar a realidade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 37,
+   "text": "“Tudo bem.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 38,
+   "text": "Suspiro, só posso dar um passo de cada vez e ver como as coisas se desenrolam; talvez, aquele poder miraculoso do meu sonho surta efeito novamente...",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 39,
+   "text": "“Então vamos,” disse Dunn em tom indiferente.",
+   "speaker": "DUNN",
+   "conf": "verbo-nome"
+  },
+  {
+   "i": 40,
+   "text": "Klein se virou e o seguiu. Depois de dar dois passos, parou subitamente e disse: “Sr. Smith, eu... eu gostaria de usar o banheiro primeiro.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 41,
+   "text": "Eu saí originalmente para ir ao banheiro...",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 42,
+   "text": "Dunn não o impediu. Em vez disso, deu-lhe um olhar perspicaz e disse: “Sem problemas, Klein. Acredite, sou muito mais poderoso do que você pode imaginar na noite escura.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 43,
+   "text": "Na noite escura... Klein repetiu silenciosamente essa frase.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 44,
+   "text": "Ele não fez nenhuma tentativa imprudente de fuga e honestamente aliviou-se. Em seguida, lavou o rosto com água fria, acalmando-se completamente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 45,
+   "text": "Klein trocou de roupa e fechou a porta de seu apartamento. Com passos suaves, Klein seguiu Dunn pelas escadas e caminhou em direção à entrada do prédio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 46,
+   "text": "Em um cenário tão tranquilo, Dunn Smith abriu a boca e falou de repente: “No fim do sonho, por que você tentou escapar? Do que você estava com medo?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 47,
+   "text": "Klein imediatamente pensou em uma resposta e disse: “Não me lembro do que fiz na casa de Welch, nem me lembro se estive diretamente envolvido nas mortes de Welch e Naya. Eu estava com medo de que, se fosse realmente provado ter sido obra minha, eu preferiria arriscar e fugir. Eu poderia então recomeçar no Continente Sul.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 48,
+   "text": "“Eu faria o mesmo se estivesse no seu lugar,” disse Dunn enquanto empurrava a porta do prédio, deixando a brisa fresca da meia-noite entrar para dispersar o calor sufocante lá dentro.",
+   "speaker": "DUNN",
+   "conf": "verbo-nome"
+  },
+  {
+   "i": 49,
+   "text": "Ele não teve medo de Klein fugir enquanto subia na carruagem. Era exatamente aquela com que Klein havia sonhado — uma carruagem de quatro rodas puxada por um único cavalo e o cocheiro. Havia também o emblema policial de espadas cruzadas que agrupavam uma coroa esculpida na lateral da carruagem.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 50,
+   "text": "Klein o seguiu para dentro da carruagem. No interior, havia um tapete grosso estendido e o lugar estava cheio de uma fragrância suave.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 51,
+   "text": "Tendo se sentado, ele procurou um tópico para sondar mais informações.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 52,
+   "text": "“Sr. Smith, e se — e eu digo se — o ‘especialista’ confirmar que eu realmente esqueci uma parte das minhas memórias? E que não há outras evidências que me apontem como o perpetrador ou uma vítima, isso acabaria?”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 53,
+   "text": "“Em teoria, sim. Tentaremos procurar o caderno por outros meios. Contanto que exista, ele pode ser encontrado. É claro que, antes disso, teremos que ter certeza de que você não está amaldiçoado ou tem algum odor de cacodemônios e que não há problemas psicológicos relacionados persistentes. Devemos garantir que você possa abraçar o resto de sua vida de forma pacífica e saudável.” Dunn Smith tinha um sorriso no rosto, um sorriso bastante incomum.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 54,
+   "text": "Klein captou este ponto com perspicácia, e prontamente perguntou: “Em teoria?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 55,
+   "text": "“Sim, apenas em teoria. Neste campo de trabalho, há sempre coisas distorcidas, não ortodoxas e inexplicáveis acontecendo.” Dunn olhou Klein nos olhos e disse: “Sua continuação ou fim não são o que podemos prever ou controlar às vezes.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 56,
+   "text": "“Por exemplo?” Klein realmente sentiu-se assustado por um momento.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 57,
+   "text": "A carruagem acelerou por uma rua quase vazia. Dunn tirou seu cachimbo de tabaco, cheirou-o e disse: “Quando acreditamos que as coisas chegaram ao fim, com tudo voltando ao normal, elas ressurgem de uma maneira aterrorizante e arrepiante.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 58,
+   "text": "“Há alguns anos, lidamos com um caso envolvendo um culto maligno. Eles faziam sacrifícios vivos para agradar a um deus maligno, fazendo os seguidores cometerem suicídio. Quando um dos seguidores foi escolhido, seus instintos de sobrevivência triunfaram sobre sua tolice, crenças distorcidas e drogas psicodélicas. Ele escapou secretamente e denunciou à polícia.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 59,
+   "text": "“O caso foi entregue a nós. Foi uma missão muito pequena, já que não havia Beyonders naquele culto. A divindade que eles adoravam foi, na verdade, pensada aleatoriamente por seu líder, apenas por causa de dinheiro e satisfação. A humanidade estava perdida ali.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 60,
+   "text": "“Usamos apenas dois membros, juntamente com o apoio da polícia, para suprimir este culto. Ninguém escapou. Quanto àquele denunciante, também confirmamos que ele não tinha nenhum odor demoníaco persistente. Ele não estava amaldiçoado e não sofria de quaisquer transtornos mentais. Ele não tinha problemas de personalidade ou quaisquer outras irregularidades, nada.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 61,
+   "text": "“Mais tarde, ele conseguiu uma ascensão decente em sua carreira, casou-se com uma esposa muito boa, teve um filho e uma filha. Seu passado sombrio parecia distante. O horror e o derramamento de sangue pareciam ter desaparecido completamente.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 62,
+   "text": "Neste ponto, Dunn Smith deu uma risada e disse: “No entanto, em março deste ano, apesar de ter uma boa saúde financeira e ter uma esposa amorosa e filhos adoráveis... ele se estrangulou até a morte em seu próprio escritório.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 63,
+   "text": "O luar carmesim, do lado de fora da janela da carruagem, incidia sobre Dunn Smith.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 64,
+   "text": "Naquele instante, seu sorriso de escárnio próprio fez Klein sentir um horror indescritível.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 65,
+   "text": "“Estrangulou-se até a morte...” Klein inspirou uma lufada de ar frio em silêncio, como se visse seu próprio fim trágico.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 66,
+   "text": "Mesmo que eu tenha escapado uma vez, isso pode ser apenas temporário?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 67,
+   "text": "Existe alguma maneira de resolver isso completamente?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 68,
+   "text": "Tornar-me um Beyonder para combatê-lo?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 69,
+   "text": "A carruagem retornou ao silêncio. Inúmeros pensamentos brotavam na mente de Klein.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 70,
+   "text": "Sob um silêncio constrangedor, a carruagem viajou por um longo tempo em alta velocidade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 71,
+   "text": "Assim que Klein tomou a decisão de consultar Dunn Smith sobre quaisquer soluções, a carruagem parou.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 72,
+   "text": "“Sr. Smith, chegamos ao apartamento de Welch.” Ouviu-se a voz do cocheiro.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 73,
+   "text": "“Vamos descer.” Dunn ajeitou seu sobretudo preto que ia até os joelhos.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 74,
+   "text": "“Oh, deixe-me apresentar de antemão, o disfarce oficial da ‘especialista’ é a médium espiritual mais renomada do Condado de Awwa.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 75,
+   "text": "Klein suprimiu seus outros pensamentos e perguntou com curiosidade: “Então, qual é a identidade real dela?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 76,
+   "text": "Dunn virou metade do corpo e girou a cabeça para trás, e com seus olhos cinzentos abstrusos, ele disse: “Uma verdadeira Médium Espiritual.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  }
+ ]
+}

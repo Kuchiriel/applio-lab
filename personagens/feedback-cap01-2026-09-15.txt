@@ -1,0 +1,35 @@
+PROMPT BRUTO DONO 15/09 (cap01-attenborough-kleinv4b feedback):
+
+1. Narrador ainda rápido. Pesquisar velocidade confortável de narração, gerar
+   frase/palavra exemplo, medir com STT e calibrar (talvez --speed).
+2. Usar KleinV5 nos patches do render (delta funcionando = rápido).
+3. Se os tons emotivos Edge (styles) funcionarem, usar. "Doloroso, que dor!"
+   = angry? (tags foram faladas nos testes style-*.wav = BUG a corrigir).
+4. Narrador fala "Moreti" não "Moréti" (o 'é' não respeitado). Klein pronuncia
+   certo. Investigar.
+5. "web novels": manter "web" (narrador falava certo), só corrigir novels.
+   (Regra atual remove "web" — REVERTER p/ "web nóvels".)
+6. Som de fundo da cena: quarto dele, noite steampunk abafada, pouca
+   movimentação, carroças de vez em quando, passos bem baixinhos. Imaginar a
+   cena; nada no capítulo faz barulho no quarto.
+7. "Arrepios!" virar SFX p/ testar.
+8. V5 ≈ V4 no Klein: focar outros personagens.
+9. Tirar o "p2" (pitch+2 força timbre artificial); testar sem p/ bater martelo.
+10. "E dói de verdade" = KLEIN (narrador falou). Fix permanente (arquivo + parser p/ próximos caps).
+11. "Hã por que não parece doer tanto... faca retalhando meus miolos" = KLEIN. Idem permanente.
+12. "cadeira de madeira robusta, uéaaa": verificar o que foi esse "uéaaa".
+13. Narrador narrando "[1]": filtrar marcadores + texto de nota.
+14. "Isto," = fala do Klein (tipo "Já sei/entendi"), não narração. Ocorreu
+    outras vezes. Regra permanente no parser.
+15. Verificar se XTTS/Fish/Edge/ONNX já úteis p/ re-geração.
+16. Binaural no final: narrador à frente (história de fogueira); Klein L/C/R
+    coerente por fala. NUNCA atrás/abaixo/voando (reservar p/ lutas/beyonders).
+17. "Calma, calma, calma": intervalos aleatórios entre os Calma (robótico hoje).
+18. Khoy: Cói ou Coi? Verificar STT dos eps (universidade/família Khoy).
+19. 12:05 duração quase certa, mas velho precisa respirar: pausas de fôlego
+    (quebra de imersão atual).
+20. Falas do Klein têm silêncio breve com "s" no fim: artefato do treino ou
+    slider p2? V5 sem p2 pode resolver.
+21. "[1] este é na verdade um provérbio..": filtrar (narrado!).
+22. Dunn: base certa é SANTA (antonio jovializa). Retestar dunn-v3 com santa.
+23. Limpar diretório de áudio: manter só útil, arquivar resto.

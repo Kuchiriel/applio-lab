@@ -1,0 +1,17 @@
+{"capitulo": 1, "titulo": "Carmesim",
+ "narrador": {"pos": "centro-frente", "nota": "fogueira, nunca move"},
+ "blocos": [
+  {"id": "A", "segs": [0, 22], "local": "cama, deitado, acordando",
+   "klein": {"pos": "centro-perto", "nota": "voz interna intima, leve abafado"}},
+  {"id": "B", "segs": [23, 34], "local": "sentado a escrivaninha",
+   "klein": {"pos": "centro-esquerda", "nota": "fixo, examina mesa, olha p/ cima"}},
+  {"id": "C", "segs": [35, 38], "local": "levanta/cai(Pa!)/levanta, gira agitado",
+   "klein": {"pos": "movimento", "nota": "unico movimento real: centro->queda->em pe varredura L-R leve"}},
+  {"id": "D", "segs": [39, 48], "local": "em pe ate espelho corpo inteiro",
+   "klein": {"pos": "direita", "nota": "caminha avaliando, para diante do espelho"}},
+  {"id": "E", "segs": [49, 59], "local": "parado diante do espelho, memorias",
+   "klein": {"pos": "direita", "nota": "fixo, Calma fragmentado"}},
+  {"id": "F", "segs": [60, 72], "local": "memorias + le caderno",
+   "klein": {"pos": "direita", "nota": "fixo"}},
+  {"id": "G", "segs": [73, 92], "local": "cadeira -> espelho de vestir",
+   "klein": {"pos": "centro-direita para frente-direita-perto", "nota": "senta, inclina, quase cai, levanta, poucos passos, para perto"}}]}

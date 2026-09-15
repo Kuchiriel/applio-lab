@@ -1,0 +1,41 @@
+# Pureza dos pools — 2026-09-14 (SOLAR, WeSpeaker ResNet34)
+# Refs-distrator: KLEIN (klein-v4/c0-00) x AUDREY (audrey-v1/ep10-01673).
+# 1146 clips, 43 pools. Relatorio bruto: ~/Audio/lotm/datasets/pureza-report.json
+# REGRA DE LEITURA: score alto de pool FEMININO vs Klein = sinal forte
+# (cross-gender nao sobe a 0.8 por timbre parecido — e' mislabel/sangramento).
+# Pool MASCULINO vs Klein: 0.5-0.69 e' zona cinza (timbres masculinos se
+# parecem mais); >= 0.7 merece ouvido.
+# REFS TAMBIEM SOFRERAM: varios "ref-*.wav" aparecem como suspeitos.
+
+== TIER 1 — pool FEMININO c/ Klein >= 0.7 (cross-gender = quase certo mislabel) ==
+angelica-v1   ep7-01037 / ep7-01175 (.90)  +5 mais em tier2   POOL SUSPEITO (9/11)
+megose-v1     ep12-00939/.825, ep12-00959/.811, ep12-01065/.852, ep12-01377/.825,
+              ep12-01408/.835, ep12-01530/.904, ep8-01057/.823, ref-12-03/04/05/06
+megose-v2     ep12-00939/.825, ep12-00959/.811, ep12-01065/.852, ep12-01377/.825,
+              ep12-01390, ep7-01108, ep7-01117                        POOL SUSPEITO
+elizabeth-v1  ep4-01399 + ref-4-00 (ambos .737)   (pool so tem 2 — 100% duvidoso)
+christina-v1  ep7-01074 (.782)
+selena-v1     ep4-01474/.572, ep4-01707/.635 + refs (pool inteiro na cinza)
+sharon-v1     ref-11-01 (.776)
+isabel-v1     ref-p2-11 (.858)   (levi-src: ref interna do pipeline, nao TR)
+furlan-v1     ref-p1-00 (.854)   (levi-src: idem)
+== TIER 1 — pool MASCULINO c/ Klein >= 0.7 (ouvido p/ decidir) ==
+dunn-v1/v2    ep12-01086/.725, ep6-00359 (v1) .752, ep6-00430/.784, ref-12-66
+neil-v1       ep9-01794/.850, ref-9-32/.797, ep9-00372/.711
+hood-v1       ep10-01088/.702, ref-10-00/.72, ref-10-03/.702
+leonard-v1/v2 ep7-01515/.72
+narrador-abertura narr-ep11/.581 (unico suspeito do pool "limpo")
+klein-v3 refs: ref-ep10-check-17/.805 etc → refs de check p/ treino: REAVALIAR
+== TIER 2 — zona cinza masculina (0.5-0.69), revisar so se pool for treino ==
+dunn-v1 (10), dunn-v2 (10), daly-v1/v2 (4+4), leonard-v1 (3), leonard-v2 (1),
+hood-v1 (2), neil-v1 (5), narrador-v1 (2), alger refs (2), melissa-v1 ep4-00742
+== OBSERVACOES ==
+- klein-v1: 0 suspeitos porem 136/199 "audrey" → ref AUDREY e' fraca p/
+  separar Klein-actor (limiar 0.5 absorto); klein-v4 self ok.
+- dunn-v2 (quarentena .65) ainda carrega 16 dos suspeitos do dunn-v1 →
+  quarentena por F0 nao pegou timbre.
+- azik/benson/crestet/dennis/glacis/hanass/havre/katarina/lanevus/pena/
+  roselle/tolo/trissy/vendedor/derek: LIMPOS (zero suspeitos).
+- derek-v1 (2 clips) venceu Klein em vez de Audrey: esperado (refs fem/masc).
+- CAUSA-RAIZ PROVAVEL: janela de 10s na auto-slice sangra falas do Klein
+  (narra 60%+ do arco) — conferir cada suspeito no STT antes de descartar.

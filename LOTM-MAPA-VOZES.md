@@ -120,3 +120,64 @@
 - SPK_02: RAY BIEBER ("Em nome da família") + PALHAÇO ("A sequência oito... vidente"). Novos: RAY BIEBER, PALHAÇO.
 - SPK_07: provável LEONARD ("caderno/beyonder criança") + KLEIN ("O palhaço previu tudo..."). Dono vai checar no vídeo (2:47 e 27:50).
 - Elenco sobe p/ 12: +Azik, +Ray Bieber, +Palhaço.
+
+## Eps 4-6 (2026-09-13 madrugada, lote GPU + dono no ouvido)
+- Diarize SUB-CLUSTERIZA: 1 falante = varias vozes (ep4 SPK_05 tem 6+ vozes;
+  ep6 check-09 tem Klein+Azik DENTRO de 1 turno). Rotulo por segmento, nunca por falante.
+- VEREDITO DONO: Narrador-abertura (fria exposicao 0:40, voz GRAVE quase monstruosa)
+  != Klein (voz jovem timida). Derruba hipotese de mesma voz. Narrador vira classe propria.
+- Novos (elenco ~25): Hanass Vincent, Mr. Z, Velho Neil (narrador-cand), Glacis,
+  Audrey, Alger, Melissa, Elizabeth, Selena, Susie, Triss, Anna Wayne, Ademisaul,
+  Dunn Smith, Madame Sharon, Vendedor amuletos, Capitao Havre, Leonard, Azik(conf), Neil.
+- Labels: ep4/ep4-labels.json (22), ep5/ep5-labels.json (20), ep6/ep6-labels.json (10).
+- Musicas/SFX (EXCLUIR de datasets): check-17 ep4, check-01/02/19 ep5, operas.
+- NARRADOR ex-Silverhand (roqueiro, nao combina) -> Attenborough (dono 2026-09-14;
+  fusao Lenval+Attenborough 50/50 soou bizarra, descartada). ~/models/Attenborough_narr.pth,
+  index 0.0 (igual ao A/B aprovado). lotm-audiobook.py agora passa index_rate por voz.
+- Base idosa = Kokoro pm_santa (dono 2026-09-14): atten-santa e lenval-santa
+  aprovados no ouvido; presets voices-narr-{atten,lenval}-santa.json.
+  Render aceita "voice" (voz Kokoro) por personagem. Default NARRADOR =
+  santa+attenborough (rate ignorado no kokoro; vale se voltar p/ antonio).
+- POLITICA DE BASE (dono 2026-09-14): Antonio = fallback absoluto (Kokoro
+  perde em qualidade p/ tudo; fica só como emergência offline).
+  Override por ouvido, caso a caso (ex: santa p/ vozes idosas — attenborough,
+  lenval). Nada de troca global sem A/B.
+- Hipótese: Neil deve casar com base santa (voz de velho) na inferência.
+- Dunn: v1+v2 (santa/antonio/kokoro) todos ruins no ouvido (dono 2026-09-14).
+  Hipótese: entrega do ator × base; estacionado até Klein funcionar.
+
+## Elenco BR (Dublapédia, Artworks, dir. Gustavo Nader — fonte p/ enriquecer datasets)
+- Klein=Rodrigo Rossi | Alger=Reginaldo Primo | Audrey=Luísa Viotti
+- Leonard=Fabrício Vila Verde | Azik=Gustavo Nader | Neil=Élcio Romar
+- Dunn=Gabriel Noya | Daly=Flávia Saddy | Benson=Philippe Maia
+- Melissa=Giovanna Calegaretti | Roselle=Ricardo Schnetzer
+- Hanass=Fernando Lopes | MrZ=Renan Freitas | Palhaço=Márcio Simões
+- Elizabeth=Flora Paulita | Frye=Luiz Henrique Rothier | Kenley/Folan=Rodrigo Antas
+- Rozanne/Elliott=Jéssica Marina | Selena=Hannah Buttel | Joyce=Hélio Ribeiro
+- Ademisaul=Renan Vidal | Anna=Aline Guioli | Megose=Maitê Cunha
+- Lanevus=Marcelo Campos | Hood=Márcio Dondi (+Renan Vidal ep7!)
+- Crestet=Duda Ribeiro | Dennis=Sérgio Fortuna | Trissy=Mariana Torres
+- Tris=Ricardo Daunt | Melissa=Gio Calegaretti | Angelica/Susie=Jessica Dannemann
+- NARRAÇÃO=Cassiano Ávila | Sharon=Amanda Brigido?/Luciana Baroli(ep5)
+- Derek=Derrick Berg=Charles Emmanuel (dono 2026-09-14, Crunchyroll+Dublapédia)
+- DUPLOS (mesma voz, 2 papéis): Nader=Azik+Glacis | Maia=Benson+RayBieber |
+  Dannemann=Angelica+Susie+Domadora | Antas=Kenley+Folan
+- Sharon Khoy (Vol1, viúva Tingen, 191 hits) ≠ Sharron (Vol2, dupla de Maric,
+  243 hits) — DISTINTAS (correção GLM 2026-09-14). Maric (não "Marric").
+  Xio Derecha canônico (39 hits V1+V2; "Darecha" não existe). Xio já atua no V1.
+- EXPLICA: refs Hood inconsistentes (2 dubladores!); Triss/Trissy atores
+  diferentes (poção troca a voz — canônico).
+- Silverhand aposentado da narração LOTM → reservado p/ modding Cyberpunk.
+- Narrador-v1 (abertura, nosso) ≠ narrador do anime (o do anime tem eco,
+  menos humano, mais grave; lembra Lenval). Uso: divindade masculina.
+- ENRIQUECIMENTO POR ATOR (dono 2026-09-14): mesmo dublador em outro papel
+  entra no dataset (ex: Levi/Rossi → Klein), MAS separado por papel:
+  `datasets/atores/<ator>/<papel>/` — Lelouch≠Levi≠Klein (futuros audiobooks).
+
+## Fila Kaggle (2026-09-14, 9 treinos)
+- Free = MAX 2 GPUs; push extra é REJEITADO (kernel nem criado), nao enfileira.
+  Sempre ler o retorno do push; gerente mantém 2 RUNNING (empurra ao liberar,
+  baixa output ao completar). `status` 404 = sem sessão, não falha.
+- Uploads ~70kB/s/arquivo (Klein 265 clips ≈ 1-2h). Ordem = prioridade.
+- Noite 13→14: klein+dunn COMPLETE (staging/); neil+narrador nos slots;
+  leonard→megose→daly→alger→hood no gerente. ~1 dia p/ esvaziar.

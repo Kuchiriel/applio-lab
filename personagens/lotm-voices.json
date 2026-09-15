@@ -1,14 +1,32 @@
 {
   "NARRADOR": {
-    "base": "antonio",
-    "rvc": "silver",
+    "base": "kokoro",
+    "voice": "pm_santa",
+    "rvc": "/home/nixos/models/Attenborough_narr.pth",
     "pitch": 0,
-    "rate": "-10"
+    "rate": "-10",
+    "speed": 0.8,
+    "index_rate": 0.0
   },
   "KLEIN": {
     "base": "antonio",
-    "rvc": "klein",
-    "pitch": 0
+    "rvc": "/home/nixos/models/staging/Klein_v5_400e_infer.pth",
+    "pitch": 0,
+    "index_rate": 0.75
+  },
+  "DUNN": {
+    "base": "kokoro",
+    "voice": "pm_santa",
+    "rvc": "/home/nixos/models/staging/Dunn_v3_400e_infer.pth",
+    "pitch": 0,
+    "index_rate": 0.75
+  },
+  "NEIL": {
+    "base": "kokoro",
+    "voice": "pm_santa",
+    "rvc": "/home/nixos/models/staging/Neil_v1_400e_infer.pth",
+    "pitch": 0,
+    "index_rate": 0.75
   },
   "UNKNOWN": {
     "base": "antonio",

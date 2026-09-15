@@ -59,12 +59,38 @@ def parse_epub(epub_path, chapter):
     raise SystemExit("capítulo %d não achado" % chapter)
 
 
+# Interjeições avulsas: SFX (nunca narrar) vs Klein (sentir/falar).
+SFX_WORDS = {"pá", "toc", "bum", "crac", "bang", "plop", "clique",
+             "shuasss", "honk", "fffffff", "crash", "splash", "thud", "clang"}
+
+
 def speaker_of(paras, i, last_speaker):
     """Retorna (falante, confiança)."""
     p = paras[i]
-    if not p.startswith("—"):
+    # nota de rodapé virou parágrafo: coletar p/ RELOCAR após o [N]
+    # (dono 15/09: nota do fim deve ser narrada logo após o marcador)
+    mnote = re.match(r"^(?:\[(\d+)\]|(\d{1,2})\.\s)(.*)$", p, re.S)
+    if mnote:
+        return "NOTE:%s" % (mnote.group(1) or mnote.group(2)), mnote.group(3).strip()
+    # citação “...” sem travessão = leitura do narrador (ex: caderno).
+    # NÃO é diálogo (dono 15/09: "Todos morrerão, inclusive eu.").
+    if p.startswith("\u201c"):
+        return "NARRADOR", "citacao-narrada"
+    # onomatopeia avulsa = SFX (dono 15/09: Pá!/Toc! não são fala)
+    words = [w.strip(",.…! ").lower() for w in p.split()]
+    if words and all(w in SFX_WORDS for w in words) and len(p) < 60:
+        return "SFX", "onomatopeia"
+    # interjeição avulsa curta ("Doloroso!") = Klein sentindo (dono 15/09)
+    if len(words) <= 3 and p.strip().endswith(("!", "…", "...")) and len(p) < 60 \
+            and not p.startswith(("—", "–", "-", '"', "\u201c", "«")):
+        return "KLEIN", "interjeicao-avulsa"
+    # "Isto..." = expressão de realização do Klein ("já sei/entendi", dono 15/09)
+    if re.match(r"^Isto[,.…]", p):
+        return "KLEIN", "isto-realizacao"
+    if not p.startswith(("—", "–", "-", '"', "\u201c", "\u201d", "«")):
         # pensamento 1ª pessoa do protagonista = KLEIN, resto NARRADOR
-        if re.search(r"\b(eu|meu|minha|me|mim|vou|preciso|será que)\b", p, re.I) \
+        # ("seu eu" NÃO é 1ª pessoa — dono 15/09: varrer-de-olhos era narração)
+        if re.search(r"(?<!seu )\b(eu|meu|minha|meus|minhas|me|mim|vou|preciso|será que|sinto|acho|quero|posso|devo|dói|doeu|hã)\b", p, re.I) \
                 and len(p) < 300:
             return "KLEIN", "pensamento-1p"
         return "NARRADOR", "narração"
@@ -91,15 +117,103 @@ def speaker_of(paras, i, last_speaker):
 def cmd_parse(a):
     title, paras = parse_epub(a.epub, a.chapter)
     segs, last = [], None
+    idx = 0
     for i, p in enumerate(paras):
+        # continuação minúscula = mesmo parágrafo do livro (dono 15/09: 18+19)
+        if segs and p and p[0].islower():
+            segs[-1]["text"] += " " + p
+            continue
+        # interjeição repetida ("Calma, calma, calma" até no meio do parágrafo)
+        # = 1 seg por repetição (dono 15/09: espaçamento robótico; segs
+        # separados ganham silêncio entre si)
+        m = re.match(r"^(?P<inj>(?P<w>\w+)[,.…]*(?:\s+(?i:(?P=w))[,.…]*…?){2})(?P<rest>.*)$",
+                     p.strip(), re.S)
+        if m and len(m.group("inj")) < 120:
+            # interjeição do protagonista em pensamento = KLEIN (dono 15/09)
+            for rep in [w for w in re.split(r"\s+", m.group("inj").strip()) if w]:
+                segs.append({"i": idx, "text": rep.strip(",.…! "),
+                             "speaker": "KLEIN", "conf": "interjeicao-split"})
+                idx += 1
+            last = "KLEIN"
+            rest = m.group("rest").strip()
+            if rest:
+                paras[i] = rest; p = rest  # reprocessa o resto no fluxo normal
+            else:
+                continue
+        # "Isto.../Isso.../Ai..." + continuação narrativa = só o fragmento é
+        # Klein ("já sei", dor); resto volta ao fluxo (dono 15/09)
+        m2 = re.match(r"^((?:Isto|Isso|Ai|Ei|Ah|Oh|Hã)[,.…?!]+)(.*)$", p.strip(), re.S)
+        if m2 and len(m2.group(2).strip()) > 20:
+            segs.append({"i": idx, "text": m2.group(1).strip(), "speaker": "KLEIN",
+                         "conf": "fragmento-klein"})
+            idx += 1
+            last = "KLEIN"
+            paras[i] = m2.group(2).strip(); p = paras[i]
+        # perguntas/exclamações líderes ("Uma arma? Um revólver? Zhou...") =
+        # cada uma é fala do Klein; resto volta ao fluxo (dono 15/09)
+        while True:
+            m3 = re.match(r"^([^?!.]{2,90}[?!])\s+([A-ZÀ-Ú\"“].*)$", p.strip(), re.S)
+            if not m3:
+                break
+            segs.append({"i": idx, "text": m3.group(1).strip(), "speaker": "KLEIN",
+                         "conf": "pergunta-klein"})
+            idx += 1
+            last = "KLEIN"
+            paras[i] = m3.group(2).strip(); p = paras[i]
         who, conf = speaker_of(paras, i, last)
+        if who == "SKIP":
+            continue
+        if who.startswith("NOTE:"):
+            # guarda nota p/ inserir após o segmento que cita [N]
+            notes = getattr(cmd_parse, "_notes", None)
+            if notes is None:
+                cmd_parse._notes = notes = {}
+            notes[who.split(":")[1]] = conf
+            continue
+        if who in ("ZHOU", "MINGRUI"):
+            who, conf = "KLEIN", conf + "+alias-zhou"
         if who.startswith("ALT?"):
             who = "UNKNOWN"
         if who not in ("NARRADOR", "UNKNOWN"):
             last = who
-        segs.append({"i": i, "text": p, "speaker": who, "conf": conf})
+        segs.append({"i": idx, "text": p, "speaker": who, "conf": conf})
+        idx += 1
+    # reloca notas [N] p/ logo após o segmento que as cita (dono 15/09)
+    notes = getattr(cmd_parse, "_notes", {}) or {}
+    cmd_parse._notes = {}
+    if notes:
+        final = []
+        for s in segs:
+            final.append(s)
+            for n in sorted(notes, key=int):
+                if "[%s]" % n in s["text"]:
+                    final.append({"i": -1, "text": notes[n], "speaker": "NARRADOR",
+                                  "conf": "nota-relocada"})
+        segs = final
+        for k, s in enumerate(segs):
+            s["i"] = k
+    # *palavra* = ênfase do autor. Raiva/profanidade → style angry;
+    # resto (ex: *web novels* = estrangeirismo) só tira os asteriscos.
+    ANGER_LEX = re.compile(r"merda|droga|inferno|maldit|idiota|estúpid|raiva|ódio|porra|caralho|desgraç|morte|matar|morrer", re.I)
+    for s in segs:
+        m_ang = re.search(r"\*(.+?)\*", s["text"])
+        if m_ang:
+            if ANGER_LEX.search(m_ang.group(1)):
+                s["style"] = "angry"
+                s["conf"] += "+anger"
+            s["text"] = s["text"].replace("*", "")
     os.makedirs(a.outdir, exist_ok=True)
     out = os.path.join(a.outdir, "cap%02d.json" % a.chapter)
+    # relabels persistentes do dono (por TEXTO, não índice: reparse não apaga
+    # correção — dono 15/09: "toda versão nova volta o erro")
+    relab_path = os.path.join(a.outdir, "cap%02d-relabels.json" % a.chapter)
+    relabels = {}
+    if os.path.exists(relab_path):
+        relabels = json.load(open(relab_path))
+    for s in segs:
+        if s["text"] in relabels:
+            s["speaker"] = relabels[s["text"]]
+            s["conf"] = "dono-persistente"
     json.dump({"title": title, "segments": segs}, open(out, "w"), ensure_ascii=False, indent=1)
     from collections import Counter
     print(title, "|", len(segs), "segmentos")
@@ -115,58 +229,156 @@ def cmd_tag(a):
 
 
 def cmd_relabel(a):
-    """Aplica correções do dono: --set 12=KLEIN --set 30=NARRADOR ..."""
+    """Aplica correções do dono: --set 12=KLEIN --set 30=NARRADOR ...
+    Salva TAMBÉM em capNN-relabels.json (por texto) p/ sobreviver ao reparse."""
     data = json.load(open(a.segments))
     fixes = {}
     for item in a.set:
         idx, who = item.split("=", 1)
         fixes[int(idx)] = who.strip().upper()
+    relab_path = os.path.join(os.path.dirname(a.segments),
+                              os.path.basename(a.segments).split(".")[0] + "-relabels.json")
+    relabels = json.load(open(relab_path)) if os.path.exists(relab_path) else {}
     for s in data["segments"]:
         if s["i"] in fixes:
             print("[%d] %s -> %s" % (s["i"], s["speaker"], fixes[s["i"]]))
             s["speaker"] = fixes[s["i"]]
             s["conf"] = "dono"
+            relabels[s["text"]] = fixes[s["i"]]
     json.dump(data, open(a.segments, "w"), ensure_ascii=False, indent=1)
-    print("salvo:", a.segments)
+    json.dump(relabels, open(relab_path, "w"), ensure_ascii=False, indent=1)
+    print("salvo:", a.segments, "+", relab_path)
 
 
 def cmd_render(a):
+    import hashlib
+    import shutil
     data = json.load(open(a.segments))
     voices = json.load(open(a.voices))
     tmp = a.out + ".parts"
     os.makedirs(tmp, exist_ok=True)
-    # 1. base de todos (rápido, sem RVC)
+    # Cache por conteúdo (base + RVC): re-render só refaz o que mudou.
+    # `--only 12,13` refaz só esses segmentos (resto vem do cache).
+    cdir = a.out + ".cache"
+    os.makedirs(cdir, exist_ok=True)
+
+    def bkey(text, speaker, v, style=None):
+        # salt v3: regras de pronúncia mudam sem mudar o texto (dono 15/09:
+        # "dou feedback e gera com problema de novo" = cache velho)
+        h = hashlib.sha1(json.dumps(
+            ["v3", text, speaker, v.get("base"), v.get("voice"),
+             v.get("rate"), v.get("speed"), v.get("style"), style,
+             v.get("rvc"), v.get("pitch", 0),
+             v.get("index_rate", 0.75)], ensure_ascii=False).encode()).hexdigest()[:12]
+        return h
+
+    only = None
+    if getattr(a, "only", None):
+        only = set(int(x) for x in a.only.split(","))
+        print("deltas:", sorted(only), flush=True)
+    # 1. base de todos (UM processo batch-speak, código do repo via kvenv)
+    REPO_SRC = "/home/nixos/projects/nixos-ai/modules/ai/jarvis/src"
+    KENV = "/tmp/opencode/kvenv/bin/python"
+    bj = os.path.join(tmp, "base-jobs.json")
+    bo = os.path.join(tmp, "base-out.json")
+    bj_list = []
     jobs = []  # (seg_i, base_wav, rvc_key)
     for s in data["segments"]:
         v = voices.get(s["speaker"], voices.get("UNKNOWN", {"base": "antonio", "rvc": None, "pitch": 0}))
-        cmd = ["jarvis", "speak", s["text"], "--no-play"]
-        if v.get("base", "antonio") != "antonio":
-            cmd += ["--base", v["base"]]
-        if v.get("rate"):
-            cmd += ["--rate", v["rate"]]
-        print("[base %s] %s" % (s["speaker"], s["text"][:60]), flush=True)
-        r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
-        line = (r.stdout or "").strip().splitlines()
-        wav = line[-1] if line else ""
-        if not wav or wav.startswith("ERROR") or not os.path.exists(wav):
-            print("FALHA seg", s["i"], (r.stdout or "")[-200:], (r.stderr or "")[-200:])
-            sys.exit(1)
+        st = s.get("style") or v.get("style")
+        key = bkey(s["text"], s["speaker"], v, st)
         g = os.path.join(tmp, "g%03d.wav" % s["i"])
-        subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", wav,
-                        "-ar", "44100", "-ac", "1", g], check=True)
-        jobs.append((s["i"], g, v.get("rvc"), v.get("pitch", 0)))
+        if s["speaker"] == "SFX":
+            # Sem SFX real ainda: NARRADOR fala a onomatopeia (dono 15/09).
+            # Quando o som existir, sfx-map.json marca p/ trocar no master.
+            print("[sfx %d] %s (falado, sem som ainda)" % (s["i"], s["text"][:60]), flush=True)
+            v = voices.get("NARRADOR", v)
+            st = s.get("style") or v.get("style")
+            key = bkey(s["text"], s["speaker"], v, st)
+        cached = os.path.join(cdir, key + ".base.wav")
+        if os.path.exists(cached):
+            print("[cache %s] %s" % (s["speaker"], s["text"][:60]), flush=True)
+            shutil.copy2(cached, g)
+            jobs.append((s["i"], g, v.get("rvc"), v.get("pitch", 0), v.get("index_rate", 0.75), key))
+        else:
+            bj_list.append({"i": s["i"], "text": s["text"],
+                            "base": v.get("base", "antonio"), "voice": v.get("voice"),
+                            "rate": v.get("rate"), "speed": v.get("speed"),
+                            "style": st})
+    if bj_list:
+        import copy
+        driver = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scripts", "batch-speak.py")
+        NIXDIR = "/home/nixos/projects/nixos-ai"
+        got = {}
+        # antonio (Edge) roda no kvenv (tem edge_tts); kokoro roda no nix develop (tem kokoro).
+        parts = [("edge", [j for j in bj_list if j.get("base", "antonio") == "antonio"]),
+                 ("kokoro", [j for j in bj_list if j.get("base", "antonio") != "antonio"])]
+        for tag, lst in parts:
+            if not lst:
+                continue
+            pj, po = os.path.join(tmp, "base-jobs-%s.json" % tag), os.path.join(tmp, "base-out-%s.json" % tag)
+            json.dump(lst, open(pj, "w"), ensure_ascii=False)
+            print("[batch-speak:%s] %d segmentos" % (tag, len(lst)), flush=True)
+            if tag == "edge":
+                env = dict(os.environ)
+                env["PYTHONPATH"] = REPO_SRC + (":" + env["PYTHONPATH"] if env.get("PYTHONPATH") else "")
+                r = subprocess.run([KENV, driver, pj, po],
+                                   capture_output=True, text=True, timeout=7200, env=env)
+            else:
+                env2 = {k: v for k, v in os.environ.items() if k != "LD_LIBRARY_PATH"}
+                r = subprocess.run(["nix", "develop", "--command", "python3", driver, pj, po],
+                                   capture_output=True, text=True, timeout=7200, cwd=NIXDIR, env=env2)
+            print((r.stdout or "")[-800:])
+            if r.returncode != 0:
+                print("FALHA batch-speak:%s:" % tag, (r.stderr or "")[-500:])
+                sys.exit(1)
+            got.update(json.load(open(po)))
+        for j in bj_list:
+            i, wav = j["i"], got.get(str(j["i"]), "")
+            if not wav or wav.startswith("ERROR") or not os.path.exists(wav):
+                print("FALHA seg", i, wav[:150])
+                sys.exit(1)
+            v = voices.get(next(s["speaker"] for s in data["segments"] if s["i"] == i),
+                           {"rvc": None, "pitch": 0, "index_rate": 0.75})
+            spk = next(s["speaker"] for s in data["segments"] if s["i"] == i)
+            st = next((s.get("style") for s in data["segments"] if s["i"] == i), None) or v.get("style")
+            key = bkey(j["text"], spk, v, st)
+            g = os.path.join(tmp, "g%03d.wav" % i)
+            subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", wav,
+                            "-ar", "44100", "-ac", "1", g], check=True)
+            shutil.copy2(g, os.path.join(cdir, key + ".base.wav"))
+            jobs.append((i, g, v.get("rvc"), v.get("pitch", 0), v.get("index_rate", 0.75), key))
+    jobs.sort()
     # 2. RVC em lote por timbre (UMA carga por voz; sub-lotes de 5 p/ estabilidade)
+    # Deltas: --only limita TTS; RVC reaproveita conversão cacheada.
     batches = []
-    need = [(i, g, rvc, pitch) for i, g, rvc, pitch in jobs if rvc]
+    need = []
+    for i, g, rvc, pitch, ir, k in jobs:
+        if not rvc:
+            continue
+        if only is not None and i not in only:
+            continue
+        need.append((i, g, rvc, pitch, ir, k))
     groups = {}
-    for i, g, rvc, pitch in need:
-        groups.setdefault((rvc, pitch or 0), []).append((i, g))
-    for (rvc, pitch), lst in groups.items():
-        for b in range(0, len(lst), 5):
-            sub = lst[b:b + 5]
-            print("[rvc %s pitch=%s] %d/%d segs" % (rvc, pitch, len(sub), len(lst)), flush=True)
-            batches.append({"rvc": rvc, "pitch": pitch,
-                            "pairs": [[i, g, os.path.join(os.path.dirname(g), os.path.basename(g)[:-4] + "-%s.wav" % rvc)] for i, g in sub]})
+    for i, g, rvc, pitch, ir, k in need:
+        groups.setdefault((rvc, pitch or 0, ir), []).append((i, g, k))
+    slug_of = lambda r: os.path.basename(r).rsplit(".", 1)[0]
+    for (rvc, pitch, ir), lst in groups.items():
+        todo = []
+        for i, g, k in lst:
+            dst = os.path.join(os.path.dirname(g), os.path.basename(g)[:-4] + "-%s.wav" % slug_of(rvc))
+            ck = os.path.join(cdir, k + ".rvc.wav")
+            if os.path.exists(ck):
+                print("[cache-rvc %d]" % i, flush=True)
+                shutil.copy2(ck, dst)
+            else:
+                todo.append((i, g, dst, ck))
+        for b in range(0, len(todo), 5):
+            sub = todo[b:b + 5]
+            print("[rvc %s pitch=%s index=%.2f] %d/%d segs" % (rvc, pitch, ir, len(sub), len(lst)), flush=True)
+            batches.append({"rvc": rvc, "pitch": pitch, "index_rate": ir,
+                            "pairs": [[i, g, dst] for i, g, dst, ck in sub],
+                            "cache": [ck for i, g, dst, ck in sub]})
     payload_f = os.path.join(tmp, "batches.json")
     json.dump(batches, open(payload_f, "w"))
     code = (
@@ -176,7 +388,8 @@ def cmd_render(a):
         "out={};"
         "[(mp,ix,res,None) for b in bb for (mp,ix) in [_resolve_rvc(b['rvc'])]"
         " for res in [clone_many([(p[1],p[2]) for p in b['pairs']], cpu_only=True,"
-        " model_path=mp, index_path=ix, timeout_s=1800, pitch=b['pitch'] or None)]"
+        " model_path=mp, index_path=ix, timeout_s=1800, pitch=b['pitch'] or None,"
+        " index_rate=b.get('index_rate', 0.75))]"
         " for _ in [out.update(res)]];"
         "print(json.dumps(out))"
     )
@@ -193,21 +406,57 @@ def cmd_render(a):
     if bad:
         print("FALHA clone:", bad[:3], list(got.values())[0][:150])
         sys.exit(1)
+    # guarda conversões frescas no cache
+    for b in batches:
+        for (i, g, dst), ck in zip(b["pairs"], b["cache"]):
+            if os.path.exists(dst):
+                shutil.copy2(dst, ck)
     # 3. monta final (clone ou base) e concatena
     final = {}
-    for i, g, rvc, pitch in jobs:
-        final[i] = os.path.join(os.path.dirname(g), os.path.basename(g)[:-4] + "-%s.wav" % rvc) if rvc else g
+    for i, g, rvc, pitch, ir, k in jobs:
+        final[i] = os.path.join(os.path.dirname(g), os.path.basename(g)[:-4] + "-%s.wav" % slug_of(rvc)) if rvc else g
         if not os.path.exists(final[i]):
             print("FALTA:", final[i])
             sys.exit(1)
         if rvc:
             h = os.path.join(tmp, "f%03d.wav" % i)
+            # (fade/trim no RVC REMOVIDO 15/09: afade+silenceremove zerava o
+            # áudio — rms 0.10→0.004 medido. Chiado de borda fica p/ depois,
+            # com teste em sample antes.)
             subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", final[i],
                             "-ar", "44100", "-ac", "1", h], check=True)
             final[i] = h
+    conf_of = {s["i"]: s.get("conf", "") for s in data["segments"]}
     files = [final[s["i"]] for s in data["segments"]]
+    # Respiro entre segmentos (dono 15/09: velho precisa de fôlego):
+    # 0.35s padrão; 0.9s após narração longa (>350 chars) = respiro;
+    # interjeição-split (Calma!) ganha gap aleatório 0.25-0.8s (humano,
+    # nunca timing exato — dono 15/09).
+    import random
+    random.seed(7)
+    sil = os.path.join(tmp, "sil.wav")
+    sil_long = os.path.join(tmp, "sil-long.wav")
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi",
+                    "-i", "anullsrc=r=44100:cl=mono", "-t", "0.35", sil], check=True)
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi",
+                    "-i", "anullsrc=r=44100:cl=mono", "-t", "0.9", sil_long], check=True)
+    irgaps = {}
+    for dur in (0.25, 0.4, 0.55, 0.7, 0.8):
+        p = os.path.join(tmp, "sil-r%.2f.wav" % dur)
+        subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "lavfi",
+                        "-i", "anullsrc=r=44100:cl=mono", "-t", str(dur), p], check=True)
+        irgaps[dur] = p
+    mixed = []
+    for n, s in enumerate(data["segments"]):
+        mixed.append(final[s["i"]])
+        if "interjeicao-split" in conf_of.get(s["i"], ""):
+            mixed.append(random.choice(list(irgaps.values())))
+        elif s["speaker"] == "NARRADOR" and len(s["text"]) > 350:
+            mixed.append(sil_long)
+        else:
+            mixed.append(sil)
     lst = os.path.join(tmp, "list.txt")
-    open(lst, "w").write("".join("file '%s'\n" % f for f in files))
+    open(lst, "w").write("".join("file '%s'\n" % f for f in mixed))
     subprocess.run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0",
                     "-i", lst, "-c", "copy", a.out], check=True)
     print("OK:", a.out)
@@ -220,6 +469,7 @@ def main():
     q.add_argument("--outdir", default="caps")
     r = sub.add_parser("render"); r.add_argument("segments"); r.add_argument("--voices", required=True)
     r.add_argument("--out", required=True)
+    r.add_argument("--only", default=None, help="deltas: só refaz segs i,... (resto do cache)")
     t = sub.add_parser("tag"); t.add_argument("segments")
     l = sub.add_parser("relabel"); l.add_argument("segments"); l.add_argument("--set", action="append", default=[])
     a = p.parse_args()

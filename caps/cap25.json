@@ -1,0 +1,605 @@
+{
+ "title": "Capítulo 25: Catedral",
+ "segments": [
+  {
+   "i": 0,
+   "text": "Enquanto Azik murmurava para si mesmo, ele subconscientemente lançou um olhar para Quentin Cohen, parecendo esperar por alguma pista que pudesse despertar suas memórias.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 1,
+   "text": "Cohen, com seus olhos azuis profundos, balançou a cabeça sem qualquer hesitação. “Eu não tenho nenhuma lembrança disso.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 2,
+   "text": "“...Tudo bem, então. Talvez, seja apenas uma palavra com a mesma raiz.” Azik abaixou a mão esquerda e soltou uma risada autodepreciativa.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 3,
+   "text": "Klein estava bastante decepcionado com o resultado, e não pôde deixar de acrescentar. “Mentor, Senhor Azik, como ambos sabem, estou muito interessado em explorar e restaurar a história da Quarta Época. Se por acaso se lembrarem de algo ou obtiverem informações relevantes, poderiam me escrever?”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 4,
+   "text": "“Sem problemas.” Como resultado das ações de Klein naquele dia, o Professor Associado Sênior de cabelos prateados estava bastante satisfeito com ele.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 5,
+   "text": "Azik também assentiu e disse: “O seu endereço ainda é o mesmo de antes?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 6,
+   "text": "“Por enquanto, mas estarei me mudando em breve. Escreverei uma carta para informá-los quando chegar a hora,” respondeu Klein de maneira respeitosa.",
+   "speaker": "KLEIN",
+   "conf": "verbo-nome"
+  },
+  {
+   "i": 7,
+   "text": "Cohen agitou sua bengala preta e disse: “É de fato hora de você se mudar para um lugar com um ambiente melhor.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 8,
+   "text": "Naquele momento, Klein notou o jornal na",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 9,
+   "text": "mão de Azik. Ele ponderou sobre suas palavras antes de dizer: “Mentor, Senhor Azik, o que os jornais disseram sobre Welch e Naya? Eu só soube de algo breve através dos policiais encarregados das investigações.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 10,
+   "text": "Azik estava prestes a responder quando Cohen subitamente puxou o relógio de bolso que estava ligado ao seu smoking preto por uma corrente dourada.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 11,
+   "text": "Clique! Ele abriu o relógio de bolso e bateu com a bengala.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 12,
+   "text": "“A reunião está prestes a começar. Azik, não podemos nos atrasar mais. Entregue o jornal a Moretti.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 13,
+   "text": "“Certo.” Azik entregou a Klein o jornal que havia lido. “Estaremos subindo. Lembre-se de nos escrever. Nosso endereço ainda não mudou; ainda é o Escritório do Departamento de História da Universidade Khoy. Haha.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 14,
+   "text": "Ele riu enquanto se virava e deixava a sala com Cohen.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 15,
+   "text": "Klein tirou o chapéu e fez uma reverência. Depois de observar os dois cavalheiros partirem, despediu-se do proprietário do escritório, Harvin Stone. Ele atravessou o corredor e saiu lentamente do edifício cinza de três andares.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 16,
+   "text": "De costas para o sol, ele levantou a bengala e desdobrou o jornal, vendo o título: “Tingen Morning Post.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 17,
+   "text": "Tingen certamente tem todo tipo de jornais e revistas... Há o Morning Post, Evening Post, o Honest Paper, Backlund Daily Tribune, Tussock Times, revistas familiares e resenhas de livros... Klein recordou casualmente os vários nomes que surgiram em sua",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 18,
+   "text": "mente. Claro, alguns deles não eram locais. Eles eram distribuídos via locomotivas a vapor.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 19,
+   "text": "Agora que as indústrias de fabricação de papel e impressão estavam se tornando mais avançadas, o custo de um jornal já havia diminuído para o preço de um centavo. O público que ele alcançava também crescia cada vez mais.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 20,
+   "text": "Klein não examinou os detalhes do jornal, virando rapidamente para a seção de Notícias com a reportagem “Assassinato por Roubo Armado.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 21,
+   "text": "“...Segundo o departamento de polícia, a cena na casa do Senhor Welch era horrível. Faltavam ouro, joias e dinheiro, assim como qualquer coisa de valor que pudesse ser facilmente levada. Nem mesmo um centavo foi deixado para trás. Há razões para acreditar que isso foi obra de um grupo de criminosos impiedosos que não hesitaria em matar inocentes, como o Senhor Welch e a Senhora Naya, uma vez que seus rostos fossem vistos.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 22,
+   "text": "“Isso é um flagrante desprezo pelas leis do nosso reino! Isso é um desafio à segurança pública! Ninguém deseja ter um encontro como este! Claro, uma boa notícia é que a polícia localizou o assassino e capturou o principal culpado. Faremos o nosso melhor para fornecer notícias sobre quaisquer desdobramentos.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 23,
+   "text": "“Repórter: John Browning.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 24,
+   "text": "O assunto foi tratado e encoberto... Enquanto Klein caminhava pela alameda, ele assentiu de uma forma quase imperceptível.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 25,
+   "text": "Ele folheava o jornal enquanto passeava pelo caminho, lendo os outros artigos e folhetins no processo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 26,
+   "text": "De repente, ele sentiu os pelos da nuca se arrepiarem, como se agulhas o estivessem espetando.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 27,
+   "text": "Alguém está me observando? Me espreitando? Me monitorando? Vários pensamentos surgiram nele enquanto Klein tinha uma vaga percepção.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 28,
+   "text": "De volta à Terra, ele já havia sentido um olhar invisível antes de descobrir a fonte desse olhar. Contudo, nunca fora tão cristalino quanto o que estava vivenciando agora!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 29,
+   "text": "Isso era o mesmo nos fragmentos de memória do Klein original!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 30,
+   "text": "Foi a transmigração ou o misterioso ritual de aprimoramento de sorte que melhorou meu sexto sentido? Klein conteve o impulso de procurar o observador. Usando seu conhecimento de leitura de romances e filmes, ele diminuiu o passo e guardou o jornal antes de olhar na direção do Rio Khoy.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 31,
+   "text": "Em seguida, ele agiu como se estivesse admirando a paisagem, virando a cabeça lentamente em diferentes direções. Ele agiu com naturalidade ao se virar, absorvendo tudo com os olhos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 32,
+   "text": "Além das árvores, dos campos gramados e dos estudantes que passavam ao longe, não havia mais ninguém ali.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 33,
+   "text": "Mas Klein tinha certeza de que alguém o estava observando!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 34,
+   "text": "Isto... O coração de Klein disparou enquanto seu sangue corria pelo corpo com a intensa pulsação.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 35,
+   "text": "Ele desdobrou os papéis e cobriu metade do rosto, com medo de que alguém descobrisse algo errado em sua expressão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 36,
+   "text": "Enquanto isso, ele apertou sua bengala e se preparou para sacar a arma.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 37,
+   "text": "Um passo. Dois passos. Três passos. Klein prosseguiu lentamente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 38,
+   "text": "A sensação de estar sendo espionado permaneceu, mas não houve um súbito estouro de perigo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 39,
+   "text": "Ele caminhou pela alameda de forma um tanto rígida e chegou ao ponto de espera das carruagens públicas, momento em que uma carruagem parou coincidentemente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 40,
+   "text": "“Ferro... Zoute... Não, Rua Champagne.” Klein descartava seus pensamentos continuamente.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 41,
+   "text": "Ele originalmente planejava ir para casa imediatamente, mas temia conduzir um observador de motivos desconhecidos ao seu apartamento. Em seguida, pensou em ir para a Rua Zouteland buscar ajuda dos Falcões Noturnos ou de seus colegas. No entanto, ele pensou melhor, com medo de acabar alertando seu inimigo e expor os Falcões Noturnos. Portanto, escolheu casualmente outro lugar.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 42,
+   "text": "“Seis pence,” respondeu o bilheteiro rotineiramente.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 43,
+   "text": "Klein não trouxe nenhuma libra de ouro consigo hoje. Ele havia escondido o dinheiro no local de sempre e levado apenas duas notas de soli. E antes de chegar, ele havia gastado a mesma quantia, restando-lhe um soli e seis pence. Portanto, ele pegou todas as suas moedas e as entregou ao bilheteiro.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 44,
+   "text": "Ele encontrou um assento depois de embarcar na carruagem, e finalmente com o",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 45,
+   "text": "fechar das portas da carruagem, Klein sentiu aquele desconforto de estar sendo observado desaparecer!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 46,
+   "text": "Ele exalou lentamente enquanto sentia seus membros formigarem levemente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 47,
+   "text": "O que eu faço?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 48,
+   "text": "O que devo fazer em seguida? Klein olhou para fora da carruagem enquanto quebrava a cabeça por uma solução.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 49,
+   "text": "Enquanto não tivesse clareza sobre as intenções da pessoa que o observava, Klein tinha que presumir que havia malícia!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 50,
+   "text": "Muitos pensamentos surgiram em sua mente, mas ele os descartou. Ele nunca havia vivido um evento como aquele e precisou de alguns minutos para organizar suas ideias.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 51,
+   "text": "Ele tinha que notificar os Falcões Noturnos; somente eles poderiam se livrar de verdade dessa ameaça!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 52,
+   "text": "Mas não posso ir direto para lá ou poderei expô-los. Talvez, esse seja o objetivo deles...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 53,
+   "text": "Seguindo essa linha de raciocínio, Klein supôs grosseiramente várias possibilidades enquanto seus pensamentos se tornavam mais claros.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 54,
+   "text": "Ffffffff! Ele exalou enquanto recuperava alguma aparência de compostura. Ele olhou seriamente para a paisagem que voava rapidamente lá fora.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 55,
+   "text": "Não houve acidentes no caminho para a Rua Champagne, mas quando Klein abriu a porta e saiu do carro, ele",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 56,
+   "text": "imediatamente teve a sensação incômoda de estar sendo observado novamente!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 57,
+   "text": "Ele agiu como se não tivesse sentido nada. Pegou o jornal e sua bengala, seguindo lentamente na direção da Rua Zouteland.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 58,
+   "text": "Mas ele não entrou naquela rua. Em vez disso, pegou outro caminho para a Rua Luar Vermelho, nos fundos. Havia uma bela praça branca ali, bem como uma grande catedral com um telhado pontudo!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 59,
+   "text": "Catedral de Santa Selena!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 60,
+   "text": "A sede em Tingen da Igreja da Noite Eterna!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 61,
+   "text": "Como crente, não havia nada de estranho em ele participar da Missa ou orar no seu dia de folga.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 62,
+   "text": "A catedral exibia um design semelhante ao estilo Gótico da Terra. Também possuía uma torre do relógio alta, preta e imponente, situada entre janelas em xadrez azul e vermelho.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 63,
+   "text": "Klein entrou na catedral e seguiu um corredor até o salão de orações. Ao longo do caminho, os vitrais eram compostos por padrões de vidro vermelho e azul que permitiam que a luz colorida brilhasse no salão. O azul estava mais próximo do preto, o vermelho da mesma cor da lua carmesim. Isso fazia com que os arredores parecessem excepcionalmente sombrios e misteriosos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 64,
+   "text": "A sensação de estar sendo observado desapareceu. Klein agiu imperturbável enquanto caminhava em direção ao salão de orações aberto.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 65,
+   "text": "Não havia janelas altas aqui. A escuridão profunda era",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 66,
+   "text": "enfatizada, mas atrás do altar sagrado em forma de arco, na parede diretamente oposta à porta, havia cerca de vinte buracos circulares do tamanho de um punho que permitiam que a luz solar radiante entrasse no salão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 67,
+   "text": "Era semelhante a pedestres vendo o céu estrelado quando olhavam subitamente para a noite escura para ver as estrelas cintilantes em toda a sua nobreza, pureza e santidade.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 68,
+   "text": "Embora Klein sempre tivesse acreditado que os deuses podiam ser analisados e compreendidos, ele não pôde evitar baixar a cabeça ali.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 69,
+   "text": "O bispo estava pregando em um tom suave enquanto Klein, em silêncio, percorria o corredor que dividia os bancos em duas colunas. Ele procurou por uma área vazia próxima à passagem antes de se sentar lentamente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 70,
+   "text": "Apoiando sua bengala no encosto do banco à sua frente, Klein tirou o chapéu e o colocou em seu colo junto com o jornal. Então, juntou as mãos e baixou a cabeça.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 71,
+   "text": "O processo inteiro foi feito lentamente e de forma rotineira, como se ele estivesse realmente ali para orar.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 72,
+   "text": "Klein fechou os olhos enquanto ouvia em silêncio a voz do bispo na escuridão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 73,
+   "text": "“Desprovidos de roupas e comida, não têm cobertura contra o frio.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 74,
+   "text": "“Estão encharcados pela chuva, e se amontoam em torno das rochas por falta de abrigo.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 75,
+   "text": "“São órfãos arrancados do peito, a esperança perdida neles; são os pobres que foram forçados a se desviar do caminho apropriado.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 76,
+   "text": "“A Noite Eterna não os abandonou, mas os agraciou com amor [1].”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 77,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 78,
+   "text": "Ecos se amplificaram ao entrarem em seu ouvido. Klein viu uma faixa de escuridão à sua frente ao sentir seu espírito e mente serem purificados.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 79,
+   "text": "Ele calmamente assimilou aquilo até que o bispo terminasse suas pregações e encerrasse a Missa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 80,
+   "text": "Após isso, o bispo abriu a porta de um confessionário ao seu lado. Homens e mulheres começaram a formar fila.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 81,
+   "text": "Klein abriu os olhos e pôs o chapéu mais uma vez. Com sua bengala e jornal, ele se levantou e encontrou seu lugar na fila.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 82,
+   "text": "Foi a vez dele após mais de vinte minutos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 83,
+   "text": "Ele entrou e fechou a porta atrás de si. Havia escuridão à sua frente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 84,
+   "text": "“Meu filho, o que desejas dizer?” A voz do bispo soou por trás do anteparo de madeira.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 85,
+   "text": "Klein tirou o distintivo da ‘Sétima Unidade, Departamento de Operações Especiais’ do bolso e o entregou ao bispo através de uma abertura.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 86,
+   "text": "“Alguém está me seguindo. Desejo encontrar Dunn Smith.” Como se tivesse sido contagiado pela escuridão silenciosa, seu tom também se tornou mais suave.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 87,
+   "text": "O bispo pegou o distintivo e, após alguns segundos de silêncio, disse: “Vire à direita ao sair do confessionário e caminhe até o fim. Haverá uma porta secreta na lateral. Alguém o guiará após sua entrada.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 88,
+   "text": "Enquanto falava, ele puxou uma corda dentro da sala, fazendo com que um sacerdote em particular ouvisse um sino.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 89,
+   "text": "Klein recuperou seu distintivo, tirou o chapéu e o pressionou contra o peito. Ele fez uma leve reverência antes de se virar e sair.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 90,
+   "text": "Após confirmar que a sensação de estar sendo vigiado havia desaparecido, ele colocou sua cartola. Sem emoções excessivas, ele segurou sua bengala e virou à direita, até chegar a um altar em arco.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 91,
+   "text": "Ele encontrou a porta secreta na parede à sua frente. Ele a abriu silenciosamente antes de se esgueirar para dentro rapidamente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 92,
+   "text": "A porta secreta se fechou silenciosamente enquanto um sacerdote de meia-idade e vestes negras apareceu sob a iluminação dos lampiões a gás.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 93,
+   "text": "“O que é?” o sacerdote perguntou secamente.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 94,
+   "text": "Klein mostrou seu distintivo e repetiu o que havia dito ao bispo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 95,
+   "text": "O sacerdote de meia-idade não fez mais perguntas. Ele virou",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 96,
+   "text": "e prosseguiu em frente em silêncio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 97,
+   "text": "Klein assentiu e tirou o chapéu. Com sua bengala preta, ele o seguiu em silêncio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 98,
+   "text": "Rozanne havia mencionado uma vez que, seguindo à esquerda do cruzamento em direção ao Portão Chanis, se chegaria à Catedral de Santa Selena.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 99,
+   "text": "1. Adaptado de Jó 24:8, Velho Testamento.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  }
+ ]
+}

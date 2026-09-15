@@ -1,0 +1,47 @@
+PROMPT BRUTO DONO 15/09 ~12h (cap01-kleinv5 feedback longo):
+
+A. Processo: não re-perguntar o respondido (dunn horrível, v5-p0 validado).
+Anotar. Styles: sad≈unfriendly idênticos; plain neutro voz grossa;
+cheerful fina/gentil (não cheerful); angry fina+lenta (não angry).
+Leonard: testar com TEXTO do Leonard + base jovial antonio. Daly demoníaca:
+base masculina errada; gerar samples bases femininas.
+SFX: só heater-hiss. Sala = bairro Tingen abafado (carroças, gente, falas
+distantes) + pensar integração binaural imersiva.
+Reservas: ep10-00757 = Dunn normal (MANTER); ep9-00961 = Dunn + "Entendido"
+coletivo dos Falcões no fim (MANTER).
+Tabelas: MOSTRAR inline com caminho completo, não só path do txt. Tudo
+bagunçado (Audio/Books/repo/Vídeo); sempre caminho completo.
+
+B. Cap01 erros:
+1. "Não, era mais como um objeto afiado..." tom negação errado + vírgula
+   ignorada. Tom certo: "Não, na verdade é isso".
+2. "Ai... Em seu torpor": "Ai..." = Klein dor.
+3. Artefato no fim dos wav do Klein (chiado "s") — investigar.
+4. "*merda*" asteriscos = ênfase raiva do autor → marcador de tom emotivo.
+5. "miolos" → "miólos" (BR natural).
+6. ? e ! iguais no Klein — verificar motivo.
+7. "gerente!" + ruído branco forte depois — artefato.
+8. "Hehe" → "RêRê".
+9. "Uma arma? Um revólver?" = Klein. PADRÃO: "X?/X! ... Zhou Mingrui ação"
+   → fragmento=Klein, resto=narrador. Vale p/ "Isso... Zhou Mingrui
+   sentiu-se...", "Isto... Zhou Mingrui arquejou" (só "Isto..."),
+   "E-eu poderia ter transmigrado? Zhou arregalou" (só pergunta),
+   "Uma marca de mão ensanguentada? Zhou virou" (só pergunta),
+   "Língua Hermes? A mente de Zhou..." (só pergunta).
+10. "Pá!" virou "ueu" indiscernível (narrador falando).
+11. "Com um varrer de olhos... espelho" = NARRADOR (saiu Klein; suspeito
+    "seu eu" triggerando pensamento-1p).
+12. "Isto..." só o Isto é Klein, resto narrador (correção do item 9).
+13. "Calma" gaps muito espaçados → random uniform <1s, natural; MAS a frase
+    "Após respirar fundo..." foi OMITIDA do render — bug + regras complexas
+    quebram.
+14. Moréti ainda "Moretí" no narrador (regra não pegou? cache?).
+15. Khoy = "Coz"; tentar "Cói/Khói", senão manter "Khoy".
+16. "Todos morrerão, inclusive eu." = NARRADOR (leitura do caderno).
+17. "Arrepios!" = Klein + pausa dramática (futuro SFX; default certo agora).
+18. Regras devem ir p/ configuração permanente (próximos caps), não só re-render.
+19. Self-debug via STT + verificação de segmentos (owner ouviu 5×, vai cansar).
+20. Nota omitida "[1] provérbio Lorde Ye" no fim: MOVER p/ logo após o "[1]"
+    ("...amar uma fantasia [1]?" → nota → "Em um minuto..."). Fluxo correto.
+21. Klein = Zhou Mingrui mesma pessoa (hipótese do dono p/ meus erros).
+22. GLM p/ deep reasoning se preciso (eu crio o prompt).

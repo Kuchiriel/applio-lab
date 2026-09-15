@@ -1,0 +1,47 @@
+# Ouvido do dono — VEREDITOS SOLAR (2026-09-14, 3ª rodada)
+# Método: janela EN completa (anchors-v2) + livro (epub V1) + web (wiki 2+ fontes).
+# Timbre manteve-se como TESTEMUNHA, não juiz. Falta o ouvido só onde marcado.
+
+== RESOLVIDOS POR EVIDÊNCIA (7) ==
+[DUNN-PROVADO] dunn-v2/ep10-00766 — "I can't use Nightmare to grill him"
+   Nightmare = habilidade EXCLUSIVA do Dunn (Seq.7, Sleepless; Fandom +
+   HeroesWiki + ScreenRant). Timbre disse Klein = confusão macho-macho.
+   → MANTER no dunn-v2; candidato a REF de matrícula do Dunn.
+[DUNN?→KLEIN-PROVADO] klein-v3/ep4-01507 — EN completo: "There's no time to
+   alert the captain… it's MY responsibility to save Melissa and her friends".
+   1ª pessoa salvando a IRMÃ = Klein. "Havre?" era armadilha do fragmento.
+   → MANTER no klein-v3.
+[KLEIN-PROVADO] klein-v3/ep12-00362 — "I've sent the letters… hope Azik and
+   Daly reply quickly" (EN) = monólogo do Klein. "Professor Azek" = menção
+   mangled (novo alias: Azek→Azik). → MANTER.
+[KLEIN-PROVADO] klein-v3/ep10-00918 + ep10-00923 — "Is this the spirit world
+   Miss Daly spoke of?" (EN) = Klein PERGUNTANDO; Daly é MENÇÃO. Janela
+   duplicada (mesma cena, 2 clips). → MANTER AMBOS.
+[AUDREY-PROVÁVEL] klein-v3/ep4-00856 — janela = cena da poção (EN: "Spectator
+   Pathway Sequence 9… It's clear she's a Beyonder now") + 1ª pessoa FEM
+   ("obrigada… por me tornar uma espectadora"). Livro V1 tem a cena
+   (Audrey+Alger, "ajustou seu estado para se tornar uma Espectadora").
+   Timbre disse Klein = a confusão clássica.
+   → SUGESTÃO: EXPULSAR do klein-v3 (→ audrey-v1 após ouvido).
+[SUSPEITA-INTRUSO] dunn-v2/ep12-01416 — EN completo: "It seems the vessel is
+   stable for now. I'll go first. Stand guard here." Voz de VILÃO (Megose?
+   seq. do sequestro). Timbre Klein = erro macho-macho. → OUVIDO p/ expulsar.
+[SUSPEITA-INTRUSO] klein-v3/ep10-01435 — EN: "So FRYE'S investigation was
+   interfered with" (não "minha"!). O STT PT ("minha investigação") mangled
+   a 1ª pessoa. Suspeito: FRYE (Luiz H. Rothier) ou outro Nighthawk.
+   → OUVIDO p/ decidir.
+
+== OUVIDO PENDENTE (3) — evidência não fechou ==
+klein-v3/ep10-01435 — Frye? (ver acima)
+klein-v3/ep11-00421 — "It's stalled out / Did Madam Sharon interfere? /
+   Blackthorn?" — sem 1ª pessoa decisiva nem na janela EN
+dunn-v2/ep10-00757 — "Achamos que seja um psiquiatra sequência 7" — fala
+   coletiva dos Nighthawks (Dunn ou Klein em cena de grupo)
+
+== BALANÇO ==
+Timbre: 2 erros reais — 00766 macho-macho (Dunn→"Klein") e 00856
+cross-gender (Audrey→"Klein"; provável contaminação na matrícula do
+timbre, cf. pureza-report). Conteúdo (janela EN completa): 7/10
+resolvidos com livro+wiki.
+MÉTODO VALIDADO p/ uso oficial (Muse decide a escala p/ todos os pools).
+Novos aliases: Azek→Azik (biônder→Beyonder, Dan Smith→Dunn já no §6).

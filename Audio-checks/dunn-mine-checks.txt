@@ -1,0 +1,28 @@
+# Dunn mineração — tabela p/ ouvido do dono (MANTER/EXPULSAR por linha)
+# 26 spans c/ âncora dunn nas anchors-v2 (13 eps). Minuto = posição no vídeo.
+
+[ Dunn ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep1-01473.wav | ep1 24:33 | perguntas.
+[ Dunn ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep1-01770.wav | ep1 29:30 | Gavião da Noite Dan
+[ Um narrador diferente, não é Dunn ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep12-00081.wav | ep12 01:21 | Dan Smith está sobre o corpo de Kingley White.
+[ Tolo, mas não tem obrigado ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep12-00387.wav | ep12 06:27 | Obrigado.
+[ Tolo ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep12-00389.wav | ep12 06:29 | A razão para a normalidade de Dan Smith.
+[ Tolo ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep12-00412.wav | ep12 06:52 | A anormalidade de Dan Smith vai me colocar em perigo?
+[ Pena ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep13-01228.wav | ep13 20:28 | de Dan Smith foi enormemente impactada. Claro que.
+[ Pena ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep13-01254.wav | ep13 20:54 | ação. Não, ensina ação.
+[ Pena ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep13-01265.wav | ep13 21:05 | Mas, seguindo seus ideais absurdos.
+[ Dunn ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep13-01803.wav | ep13 30:03 | Amém.
+[ Klein ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep2-00192.wav | ep2 03:12 | Para você, Dan Smith.
+[ Dunn ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep2-00359.wav | ep2 05:59 | Já decidiu?
+[ Velho Neil ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep2-00589.wav | ep2 09:49 | Dami-gundo, formado.
+[ Velho Neil ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep2-00617.wav | ep2 10:17 | Dan disse que você é fluente
+[ Velho Neil ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep2-01184.wav | ep2 19:44 | o dã para reembolsado.
+[ Klein ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep3-00490.wav | ep3 08:10 | Ô capitão!
+[ Havre ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep8-00534.wav | ep8 08:54 | Pelos castigadores mandatados. Eu preciso me encontrar com o Dun.
+[ Daly ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep9-00147.wav | ep9 02:27 | Mas recebi uma carta de Dan e como era urgente.
+[ Daly ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep9-00181.wav | ep9 03:01 | que você pediu para ser promovido.
+[ Daly ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep9-00273.wav | ep9 04:33 | Por isso perdi a chance de contar ao Tana.
+[ Daly ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep9-00280.wav | ep9 04:40 | que explique claramente o método da atuação ao
+[ Velho Neil ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep9-01128.wav | ep9 18:48 | Não! Não!
+[ Dunn ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep9-01405.wav | ep9 23:25 | Estou no caminho certo...
+[ Velho Neil ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep9-01442.wav | ep9 24:02 | Obrigado.
+[ Velho Neil ] /home/nixos/Audio/lotm/datasets/dunn-mine/ep9-01523.wav | ep9 25:23 | Não vai funcionar.

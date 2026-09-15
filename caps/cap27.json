@@ -1,0 +1,443 @@
+{
+ "title": "Capítulo 27: Jantar dos Irmãos",
+ "segments": [
+  {
+   "i": 0,
+   "text": "Isso é simplesmente sagaz e incisivo… Klein caiu na gargalhada. Usando a rica experiência que tinha de sua encarnação anterior, ele acrescentou outro insulto. “Na verdade, não há nenhuma evidência que sugira que essas figuras importantes tenham cérebro algum.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 1,
+   "text": "“Bom! Muito bom!” Benson gargalhou enquanto fazia um sinal de positivo. “Klein, você está muito mais bem-humorado do que antes.”",
+   "speaker": "UNKNOWN",
+   "conf": "resíduo"
+  },
+  {
+   "i": 2,
+   "text": "Depois de respirar fundo, ele continuou: “Eu tenho que ir para o cais à tarde. Só estarei de folga amanhã. Depois disso, terei tempo… para ir à Companhia de Melhoramento de Habitações da Cidade de Tingen com vocês dois. Vamos ver se eles têm casas geminadas baratas e boas para alugar. Além disso, preciso fazer uma visita ao Sr. Franky.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 3,
+   "text": "“Nosso senhorio?” perguntou Klein, perplexo. Será que nosso senhorio atual tem algumas casas geminadas em bairros muito bons sob seu nome?",
+   "speaker": "KLEIN",
+   "conf": "verbo-nome"
+  },
+  {
+   "i": 4,
+   "text": "Benson lançou um olhar para o irmão e disse, divertido: “Você se esqueceu do contrato de aluguel de um ano que temos com ele? Passaram-se apenas seis meses.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 5,
+   "text": "“Hsss…” Klein imediatamente soltou um suspiro de ar frio.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 6,
+   "text": "Ele realmente tinha esquecido o assunto!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 7,
+   "text": "Embora o aluguel fosse pago semanalmente, o contrato era de um ano. Se eles se mudassem agora, seria equivalente a uma quebra de contrato. Se fossem levados ao tribunal, teriam de indenizar grandes somas de dinheiro!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 8,
+   "text": "“Você ainda carece de experiência social.” Benson tocou sua linha do cabelo preta e recuada e disse melancolicamente, “Esta foi uma cláusula pela qual lutei tanto naquela época. Caso contrário, o Sr. Franky só estaria disposto a nos alugar por três meses em cada contrato. Para aqueles com dinheiro, os proprietários assinariam contratos de aluguel por um ano, dois anos, ou até três anos para buscar uma renda estável. Mas, para nós — para quem éramos no passado — e para os nossos vizinhos, os proprietários teriam que se preocupar constantemente que algo ruim pudesse acontecer, privando-os do aluguel. Portanto, eles só assinavam contratos de curto prazo.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 9,
+   "text": "“Nesse caso, eles podem se oferecer para aumentar os preços de acordo com a situação.” Klein resumiu e acrescentou, usando as memórias do Klein original e sua própria experiência como inquilino.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 10,
+   "text": "Benson suspirou e disse: “Esta é a dura realidade da sociedade de hoje. Certo, você não precisa se preocupar. O problema com o contrato pode ser facilmente resolvido. Para ser franco, mesmo que lhe devêssemos o aluguel de uma semana, o Sr. Franky nos teria posto para fora imediatamente e confiscado quaisquer itens de valor que tivéssemos. Afinal, sua inteligência está abaixo da de um babuíno de cabelo encaracolado. Não há como ele compreender assuntos excessivamente complicados.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 11,
+   "text": "Ao ouvir isso, Klein de repente se lembrou de uma referência específica de Sir Humphrey. Ele balançou a cabeça e disse seriamente: “Não, Benson. Você está errado.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 12,
+   "text": "“Por quê?” Benson estava confuso.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 13,
+   "text": "“A inteligência do Sr. Franky ainda é ligeiramente superior à de um babuíno,” Klein respondeu com toda a seriedade. Assim que Benson parecia sorrir em resposta, ele acrescentou: “Se ele estiver inspirado.”",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 14,
+   "text": "“Haha.” Benson perdeu o controle e caiu na gargalhada.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 15,
+   "text": "Após uma série de gargalhadas arrebatadoras, ele apontou para Klein,",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 16,
+   "text": "momentaneamente incapaz de colocar seus pensamentos em palavras. Só então, ele voltou ao tópico em questão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 17,
+   "text": "“Claro, como cavalheiros, não podemos empregar táticas tão descaradas. Discutirei isso com o Sr. Franky amanhã. Acredite em mim, ele é facilmente convencido, muito facilmente.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 18,
+   "text": "Klein não tinha dúvidas quanto ao argumento de Benson. A existência dos canos de gás era uma prova excelente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 19,
+   "text": "Após alguma conversa fiada entre os irmãos, os restos do peixe frito da noite anterior foram transformados em uma sopa com alguns vegetais. Durante o processo de fervura, o vapor umedecia o pão de centeio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 20,
+   "text": "Passando um pouco de manteiga no pão, Klein e Benson tiveram uma refeição simples, mas ficaram muito satisfeitos com ela. Afinal, a fragrância e a doçura da manteiga lhes traziam sabores persistentes e intermináveis.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 21,
+   "text": "Depois que Benson saiu, Klein se dirigiu ao mercado de Alface e Carne com três cédulas de Soli e alguns centavos extras. Ele gastou seis pence numa libra de carne bovina e sete pence num peixe fresco, suculento e com poucas espinhas. Além disso, comprou batatas, ervilhas, rabanetes, ruibarbos, alface e nabos, bem como especiarias como alecrim, manjericão, cominho e óleos de cozinha.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 22,
+   "text": "Durante todo esse tempo, ele continuou a sentir-se observado, mas não houve interação física.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 23,
+   "text": "Depois de passar algum tempo na Padaria Smyrin, Klein voltou para casa e começou a levantar peso com itens mais pesados, como livros, para treinar a força do braço.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 24,
+   "text": "Ele havia planejado se exercitar com boxe militar, que aprendeu em seu período de serviço militar obrigatório para estudantes. No entanto, ele já havia esquecido as rotinas de ginástica radiofônica da escola, muito menos o boxe que só era ensinado durante os períodos militares. Exasperado, ele só pôde fazer algo mais simples.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 25,
+   "text": "Klein não se esforçou demais, pois isso levaria à fadiga e, portanto, o colocaria em maior perigo. Ele fez uma pausa apropriada e começou a ler as anotações e o material de estudo do Klein original.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 26,
+   "text": "Ele desejava reler qualquer coisa sobre a Quarta Época.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 27,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 28,
+   "text": "À noite, Benson e Melissa sentaram-se em frente a uma escrivaninha. A comida estava disposta de forma organizada, como crianças no ensino fundamental.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 29,
+   "text": "Os aromas dos pratos compunham uma rica melodia de cheiros — a fragrância cativante para a alma da carne cozida, as batatas obviamente macias, a doçura da sopa espessa de ervilha, os sabores suaves do ruibarbo cozido, e a doçura do pão de centeio amanteigado.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 30,
+   "text": "Benson engoliu um bocado de saliva enquanto se virava para ver Klein colocando um peixe crocante num prato. Ele sentiu a fragrância do óleo permear suas narinas, descendo pela garganta e depois para o estômago.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 31,
+   "text": "Gemeu! Seu estômago manifestou um protesto inequívoco.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 32,
+   "text": "Klein arregaçou as mangas e ergueu um prato de peixe frito antes de colocá-lo no meio da escrivaninha arrumada. Em seguida, ele voltou ao armário, pegou dois grandes copos de cerveja de gengibre e os colocou onde ele e Benson estavam sentados.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 33,
+   "text": "Ele sorriu para Melissa e tirou um pudim de limão como se estivesse realizando um truque de mágica. “Nós beberemos cerveja, e você terá isto.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 34,
+   "text": "“...Obrigada.” Melissa pegou o pudim de limão.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 35,
+   "text": "Ao ver isso, Benson ergueu o copo e disse com um sorriso: “Isto é para celebrar o fato de Klein ter encontrado um emprego decente.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 36,
+   "text": "Klein ergueu o copo e brindou com Benson antes de tocá-lo no pudim de limão de Melissa. “Louvada seja a Dama!”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 37,
+   "text": "Gole. Ele inclinou a cabeça para trás e bebeu tudo. A sensação picante aqueceu-lhe a goela, trazendo-lhe ótimos retrogostos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 38,
+   "text": "Apesar do nome, a cerveja de gengibre não continha álcool. Era uma mistura do picante do gengibre e da acidez do limão que a fazia ter um gosto semelhante ao da cerveja. Era um tipo de bebida que tanto mulheres quanto crianças consideravam aceitável. No entanto, Melissa não gostava do sabor.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 39,
+   "text": "“Louvada seja a Dama!” Benson bebeu um bocado também, enquanto Melissa deu uma mordiscada no pudim de limão. Ela o mastigou repetidamente antes de engoli-lo a contragosto.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 40,
+   "text": "“Experimentem.” Klein pousou o copo, pegou o garfo e a colher e apontou para a mesa cheia de comida.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 41,
+   "text": "Ele estava mais pessimista em relação à sua sopa espessa de ervilhas. Afinal, ele nunca havia comido algo tão estranho na Terra. Tudo o que pôde fazer foi adaptar a receita a partir dos fragmentos de memória do Klein original.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 42,
+   "text": "Como irmão mais velho, Benson não fez cerimônia, pegando uma colherada de purê de batatas e enfiando-a na boca.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 43,
+   "text": "As batatas amassadas foram cozidas completamente e misturadas com o leve sabor de banha e a quantidade certa de sal. Isso aguçou-lhe o apetite e o fez salivar.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 44,
+   "text": "“Não é... ruim... Nada mal”, elogiou Benson vagamente. “É muito mais delicioso do que o que comi no trabalho. Eles só usaram manteiga.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 45,
+   "text": "Esta é uma das minhas especialidades, afinal... Klein aceitou o elogio. “Tudo graças aos ensinamentos do chef no lugar de Welch.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 46,
+   "text": "Melissa olhou para a sopa de carne. As folhas verdes de manjericão, as cabeças de alface verde e os rabanetes estavam submersos na sopa incolor, cobrindo a carne tenra. A sopa estava clara e sua fragrância era tentadora.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 47,
+   "text": "Ela espetou um pedaço de carne com o garfo e o colocou na boca para mastigar. A carne mantinha uma leve textura mastigável, apesar de ter sido cozida tenra. A mistura de sal, a doçura dos rabanetes e o picante das folhas de manjericão complementava a delícia da carne.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 48,
+   "text": "“...” Ela parecia dar sua aprovação, mas não conseguia parar de mastigar.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 49,
+   "text": "Klein provou e sentiu que, embora estivesse delicioso, não estava isento de pesar. Ainda estava longe do seu padrão habitual. Afinal, faltavam-lhe certos condimentos e só pôde usar substitutos. Não era de admirar que o sabor fosse diferente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 50,
+   "text": "É claro que, mesmo com os melhores padrões, só se podia contentar com os pratos que cozinhavam pessoalmente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 51,
+   "text": "De repente, seu coração doeu por Benson e Melissa, que tinham a visão de mundo atrofiada.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 52,
+   "text": "Depois de engolir um pedaço de carne, Klein pegou um pedaço de Peixe Tussock frito, polvilhado com cominho e alecrim. Estava crocante por fora e tenro por dentro. O tostado estava num castanho dourado perfeito, e o sabor salgado e a fragrância do óleo se entrelaçavam como um só.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 53,
+   "text": "Assentindo levemente, Klein experimentou um pedaço de ruibarbo cozido e achou-o palatável. Isso eliminou o sabor enjoativo da carne.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 54,
+   "text": "Finalmente, ele reuniu sua coragem e serviu-se de uma tigela de sopa espessa de ervilhas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 55,
+   "text": "Demasiado doce e demasiado azeda... Klein não pôde deixar de franzir a testa.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 56,
+   "text": "Contudo, depois de ver Benson e Melissa parecendo satisfeitos ao prová-lo, ele começou a suspeitar de seu próprio paladar. Ele não pôde evitar engolir um gole de cerveja de gengibre para limpar a língua.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 57,
+   "text": "Os irmãos estavam empanturrados ao final da refeição. Eles ficaram largados nas cadeiras por um bom tempo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 58,
+   "text": "“Louvemos a Dama mais uma vez!” Benson ergueu sua cerveja de gengibre — da qual restava apenas um gole — enquanto falava com satisfação.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 59,
+   "text": "“Louvada seja a Dama!” Klein bebeu o último gole de sua bebida.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 60,
+   "text": "“Louvada seja a Dama.” Melissa finalmente colocou o último pedaço de pudim de limão na boca e desfrutou dos sabores que giravam em sua língua.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 61,
+   "text": "Quando Klein viu isso, aproveitou sua embriaguez e sorriu. “Melissa, isso não está certo. Você deveria comer a coisa que acha mais deliciosa no início. Dessa forma, você pode apreciar plenamente seus aspectos mais saborosos. Prová-lo quando você está cheia e saciada não fará justiça à comida.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 62,
+   "text": "“Não, ainda está tão delicioso quanto pode ser,” respondeu Melissa com firmeza e teimosia.",
+   "speaker": "MELISSA",
+   "conf": "verbo-nome"
+  },
+  {
+   "i": 63,
+   "text": "Os irmãos tiveram uma conversa agradável e, após digerir as refeições, limparam os pratos, os talheres e guardaram o óleo que foi usado para fritar o peixe.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 64,
+   "text": "Depois de se ocuparem, era hora da revisão. Um refrescou seus conhecimentos de contabilidade enquanto o outro continuava lendo o material de estudo e as anotações. O tempo foi aproveitado ao máximo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 65,
+   "text": "Às onze, os irmãos apagaram a lamparina a gás e foram para a cama depois de se lavarem.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 66,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 67,
+   "text": "Klein sentia-se grogue enquanto olhava para a escuridão à sua frente. Uma figura vestindo um sobretudo preto e uma cartola cortada ao meio apareceu subitamente na visão de Klein. Era Dunn Smith.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 68,
+   "text": "“Capitão!” Klein despertou com um sobressalto e soube que estava sonhando.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 69,
+   "text": "Os olhos cinzentos de Dunn permaneceram calmos, como se ele estivesse mencionando algo trivial. “Alguém se esgueirou para o seu quarto. Pegue seu revólver e force-o a ir para o corredor. Deixe o resto conosco.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 70,
+   "text": "Alguém se esgueirou para o meu quarto? O observador finalmente agiu? Klein estremeceu de susto, mas não se atreveu a perguntar mais. Tudo o que fez foi acenar com a cabeça e dizer: “Certo!”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 71,
+   "text": "A cena diante de seus olhos mudou imediatamente, enquanto um turbilhão de cores aparecia como o estouro de bolhas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 72,
+   "text": "Os olhos de Klein se abriram enquanto ele virava a cabeça com cautela. Ele olhou para a janela e viu uma silhueta magra, mas desconhecida, parada em sua escrivaninha, remexendo algo em silêncio.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  }
+ ]
+}

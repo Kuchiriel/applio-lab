@@ -1,0 +1,12 @@
+{"_nota": "onomatopeia -> categoria SFX + status. Fonte: Sonniss/Pixabay (Sonniss bloqueado Cloudflare 14/09).",
+"Arrepios!": {"cat": "shiver", "nota": "cap01:59 unico SFX do cap. Som: whoosh grave + tremolo? A desenhar.", "status": "pendente"},
+"Bam!/Bum!": {"cat": "impacto-grave", "nota": "cap:Bum! Bum! Bum! (136) = batida/coracao ou explosao? ver contexto", "status": "pendente"},
+"Bang!": {"cat": "tiro", "status": "pendente"},
+"Clique!": {"cat": "click-mecanico", "nota": "revólver (cap:Pá! encaixou o cilindro; Clique! 75)", "status": "pendente"},
+"Crac!": {"cat": "crack-madeira", "status": "pendente"},
+"Ffffffff!": {"cat": "chama/gas", "nota": "ver contexto cap s/:39", "status": "pendente"},
+"Honk!": {"cat": "buzina-carroca", "nota": "Backlund: carruagem, nao carro", "status": "pendente"},
+"Pa!/Pá!": {"cat": "tapa-impacto-corpo", "nota": "cap01:29 = corpo caindo (cadeira/chao). TTS atual soa estranho; trocar por thud.", "status": "pendente"},
+"Plop!": {"cat": "plop-liquido", "status": "pendente"},
+"Shuasss!": {"cat": "whoosh", "status": "pendente"},
+"Toc!": {"cat": "batida-porta", "nota": "o mais frequente; knock madeira oca", "status": "pendente"}}

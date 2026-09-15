@@ -1,0 +1,545 @@
+{
+ "title": "Capítulo 12: Aqui Outra Vez",
+ "segments": [
+  {
+   "i": 0,
+   "text": "Melissa, você pode não esfregar isso na minha cara... Klein resmungou para si. Ele sentiu uma dor latejante na cabeça.",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 1,
+   "text": "O volume de conteúdo que Klein havia esquecido não era considerado muito, mas também não era desprezível. A entrevista era em dois dias, então como ele poderia encontrar tempo para recuperar isso...?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 2,
+   "text": "Além disso, ele estava envolvido numa atividade paranormal tão estranha; como seria possível que ele estivesse com ânimo para revisar?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 3,
+   "text": "Klein deu uma resposta superficial à irmã e começou a fingir que estava estudando. Melissa puxou uma cadeira para se sentar ao lado dele. Com a luz brilhando do lampião a gás, ela começou a trabalhar em suas tarefas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 4,
+   "text": "A atmosfera estava serena. Quando eram quase onze horas, os irmãos deram boa-noite um ao outro e se recolheram.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 5,
+   "text": "...",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 6,
+   "text": "Toc!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 7,
+   "text": "Toc! Toc!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 8,
+   "text": "Pancadas na porta despertaram Klein de seus sonhos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 9,
+   "text": "Ele espiou pela janela para ver o primeiro vislumbre da aurora. Em um torpor, ele se virou e se sentou.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 10,
+   "text": "“Quem é?”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 11,
+   "text": "Olhe a hora! Por que Melissa não me acordou?",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 12,
+   "text": "“Sou eu. Dunn Smith,” respondeu um homem com uma voz grave do lado de fora da porta.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 13,
+   "text": "Dunn Smith? Não o conheço... Klein levantou-se da cama e balançou a cabeça enquanto caminhava em direção à porta.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 14,
+   "text": "Ele abriu a porta e viu o inspetor de polícia de olhos cinzentos que ele havia conhecido no dia anterior parado à sua frente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 15,
+   "text": "Alarmado, Klein perguntou: “Há algo errado?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 16,
+   "text": "O policial respondeu com um olhar severo: “Encontramos um cocheiro. Ele testemunhou que o senhor havia ido à casa do Sr. Welch no dia 27 — o dia em que o Sr. Welch e a Srta. Naya morreram. Além disso, foi o Sr. Welch quem pagou pelas suas despesas de transporte.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 17,
+   "text": "Klein ficou assustado. Ele não sentiu um traço sequer do medo ou da culpa que se esperaria de alguém cujas mentiras foram expostas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 18,
+   "text": "Isso porque ele nem estava mentindo. Na verdade, ele ficou surpreso com a evidência fornecida por Dunn Smith.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 19,
+   "text": "No dia 27 de junho, o antigo Klein de fato havia ido à casa do Sr. Welch. Na noite em que retornou, ele se matou,",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 20,
+   "text": "exatamente da mesma forma que Welch e Naya!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 21,
+   "text": "Klein deu um sorriso forçado e disse: “Essa é uma evidência insuficiente. Não prova diretamente que estou associado à morte de Welch e Naya. Honestamente falando, também estou muito curioso sobre todo o incidente. Eu quero saber o que exatamente aconteceu com meus dois pobres amigos. Mas… Mas… Eu realmente não consigo me lembrar. Na verdade, esqueci quase completamente o que eu havia feito no dia 27. O senhor pode achar difícil de acreditar, mas me apoiei totalmente nos diários que havia escrito para fazer uma estimativa grosseira de que eu teria ido à casa de Welch no dia 27.”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 22,
+   "text": "“O senhor certamente tem uma grande fortaleza mental,” disse Dunn Smith, enquanto acenava. Ele não demonstrou um traço de raiva; tampouco estava sorrindo.",
+   "speaker": "DUNN",
+   "conf": "verbo-nome"
+  },
+  {
+   "i": 23,
+   "text": "“O senhor deveria ser capaz de ouvir minha sinceridade,” Klein o encarou nos olhos e disse.",
+   "speaker": "DUNN",
+   "conf": "vizinho"
+  },
+  {
+   "i": 24,
+   "text": "Estou falando a verdade! É claro, apenas parte dela!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 25,
+   "text": "Dunn Smith não deu uma resposta imediata. Ele varreu o olhar pelo quarto antes de dizer lentamente: “O Sr. Welch perdeu um revólver. Eu suponho... Eu deveria ser capaz de encontrá-lo aqui. Certo? Sr.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 26,
+   "text": "Klein?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 27,
+   "text": "De fato... Klein finalmente entendeu de onde o revólver tinha vindo. Um pensamento brilhou em sua mente e ele chegou ao veredito final em um instante.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 28,
+   "text": "Ele levantou as mãos até a metade e recuou, deixando um caminho aberto. Então, ele sinalizou a beliche com o queixo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 29,
+   "text": "“Atrás da cabeceira da cama.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 30,
+   "text": "Ele não mencionou especificamente que era o beliche de baixo, pois ninguém normalmente esconderia coisas na parte de trás da cabeceira de um beliche superior. Isso seria óbvio demais para os hóspedes notarem à primeira vista.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 31,
+   "text": "Dunn Smith não avançou. Os cantos de sua boca se contraíram enquanto ele perguntava: “Nada a acrescentar?”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 32,
+   "text": "Sem hesitar, Klein respondeu: “Há sim!”",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 33,
+   "text": "“Ontem, quando acordei no meio da noite, percebi que estava deitado sobre minha escrivaninha com um revólver ao meu lado. Havia uma bala no canto do quarto. Era como se eu tivesse tentado cometer suicídio. Mas devido à falta de experiência por nunca ter usado uma arma, ou talvez eu tenha ficado com muito medo no momento final... De qualquer forma, a bala não alcançou o resultado desejado, minha cabeça ainda está no lugar. Eu ainda estou vivo.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 34,
+   "text": "“E desde então, perdi algumas memórias, incluindo o que vi e fiz na casa de Welch no dia 27. Eu não estou mentindo. Eu realmente não consigo me lembrar.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 35,
+   "text": "Pelo bem de ser eliminado como suspeito. Pelo bem de se livrar de todos esses eventos estranhos que o cercavam, Klein explicou quase tudo o que havia acontecido. Exceto pela transmigração e pelo “ajuntamento”.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 36,
+   "text": "Além disso, Klein foi cuidadoso com suas palavras, permitindo que cada frase fosse passível de interpretação. Tal como, não revelar o fato de que a bala havia atingido seu cérebro, mas apenas mencionar que não alcançou o resultado desejado e que sua cabeça ainda estava no lugar.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 37,
+   "text": "Para os outros, essas duas afirmações poderiam parecer transmitir exatamente as mesmas ideias, mas na realidade eram como água e vinho.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 38,
+   "text": "Dunn Smith escutou em silêncio e depois disse: “Isso corresponde ao que eu havia conjecturado. Também corresponde à lógica oculta de incidentes semelhantes no passado. É claro, não tenho ideia de como você conseguiu sobreviver.”",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 39,
+   "text": "“Fico feliz que você acredite em mim. Eu também não sei como sobrevivi.” Klein soltou um pequeno suspiro de alívio.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 40,
+   "text": "“Mas—” Dunn lançou uma conjunção. “Não adianta eu acreditar em você. Você é atualmente o principal suspeito. Você precisa ser confirmado por um ‘especialista’ de que de fato se esqueceu do que passou, ou de que de fato não tem nada a ver com as mortes do Sr. Welch e da Srta. Naya.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 41,
+   "text": "Ele tossiu, sua expressão ficando séria.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 42,
+   "text": "“Sr. Klein, peço a sua cooperação para vir comigo à delegacia para a investigação. Isso deve levar de dois a três dias, se for confirmado que não há problemas com você.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 43,
+   "text": "“O especialista está aqui?” Klein perguntou com um olhar vazio em resposta.",
+   "speaker": "KLEIN",
+   "conf": "nome-verbo"
+  },
+  {
+   "i": 44,
+   "text": "Eles não disseram que levaria mais dois dias?",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 45,
+   "text": "“Ela chegou mais cedo do que o esperado.” Dunn virou-se de lado, sinalizando para Klein sair.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 46,
+   "text": "“Permita-me deixar um bilhete,” Klein solicitou.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 47,
+   "text": "Benson ainda estava fora e Melissa tinha ido para a escola. Ele só podia deixar um bilhete para informá-los de que estava envolvido em um incidente associado a Welch para que eles não se preocupassem",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 48,
+   "text": "com ele.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 49,
+   "text": "Dunn assentiu, quase sem se importar.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 50,
+   "text": "“Tudo bem.”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 51,
+   "text": "Klein voltou para a escrivaninha. Enquanto procurava por papel, começou a pensar sobre o que estava prestes a acontecer.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 52,
+   "text": "Honestamente, ele não desejava encontrar o ‘especialista’. Afinal, ele tinha um segredo maior.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 53,
+   "text": "Em um lugar onde havia sete grandes igrejas, sob a premissa de que o Imperador Roselle, que era suspeito de ser um predecessor transmigrador, foi assassinado, algo como ‘transmigração’ geralmente significava ter que ir a tribunal e entrar em arbitragem!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 54,
+   "text": "Mas, sem armas, habilidades de combate ou superpoderes, ele não era páreo para um policial profissional. Além do mais, alguns dos subordinados de Dunn estavam parados na escuridão lá fora.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 55,
+   "text": "Assim que sacassem as armas e atirassem em mim, eu estaria acabado!",
+   "speaker": "KLEIN",
+   "conf": "pensamento-1p"
+  },
+  {
+   "i": 56,
+   "text": "“Argh, vou dar um passo de cada vez.” Klein deixou a nota, pegou suas chaves e seguiu Dunn para fora do quarto.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 57,
+   "text": "Pelo corredor escuro, quatro policiais em uniformes xadrez preto e branco se dividiram em pares e os vigiavam por ambos os lados. Eles estavam muito alertas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 58,
+   "text": "Toc. Toc. Toc. Klein seguia Dunn enquanto desciam as escadas de madeira que ocasionalmente rangiam em protesto.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 59,
+   "text": "Do lado de fora do apartamento, havia uma carruagem de quatro rodas. Na lateral da carruagem, estava o emblema policial das “duas espadas cruzadas e uma coroa”. Os arredores estavam apinhados e agitados pelo ruído, como de costume.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 60,
+   "text": "“Vá em frente, suba.” Dunn sinalizou para Klein ir primeiro.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 61,
+   "text": "Klein estava prestes a avançar quando um vendedor de ostras subitamente agarrou um cliente e alegou que ele era um ladrão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 62,
+   "text": "Ambas as partes lutaram e provocaram uma reação dos cavalos, causando um grande caos.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 63,
+   "text": "Uma oportunidade!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 64,
+   "text": "Não havia muito tempo para Klein pensar mais; ele se inclinou para a frente e disparou em direção à multidão.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 65,
+   "text": "Empurrando ou se esquivando, ele fugiu freneticamente para o outro extremo da rua.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 66,
+   "text": "No momento, para não “encontrar” o especialista, ele só podia prosseguir indo para o cais fora da cidade, pegando um barco pelo Rio Tussock e fugindo para a capital, Backlund. A população era maior ali, tornando mais fácil se esconder.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 67,
+   "text": "Claro, ele também podia pegar um trem a vapor, ir para leste até o Porto Enmat mais próximo e tomar a rota marítima para Pritz, seguindo então em direção a Backlund.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 68,
+   "text": "Não muito depois, Klein chegou a uma rua e virou para a Rua da Cruz de Ferro. Havia várias carruagens que podiam ser alugadas.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 69,
+   "text": "“Para o cais fora da cidade.” Klein estendeu a mão e pulou para dentro de uma das carruagens.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 70,
+   "text": "Ele havia pensado claramente sobre as coisas. Primeiro, precisava despistar os policiais que o perseguiam. Assim que a carruagem estivesse a uma distância adequada deles, ele pularia fora!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 71,
+   "text": "“Tudo bem.” O cocheiro puxou as rédeas.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 72,
+   "text": "Clop! Clop! Clop... A carruagem deixou a Rua da Cruz de Ferro.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 73,
+   "text": "Assim que Klein estava prestes a pular da carruagem, ele notou que ela havia virado em outra estrada. Não estava levando para fora da cidade!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 74,
+   "text": "“Para onde está indo?” Klein deixou escapar em seu atordoamento momentâneo.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 75,
+   "text": "“Para o lugar de Welch...” o cocheiro respondeu monotonamente.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 76,
+   "text": "O quê!? Klein ficou sem palavras. O cocheiro se virou, expondo seus frios olhos cinzentos. Era Dunn Smith, o policial de olhos cinzentos!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 77,
+   "text": "“Você!” Klein estava agitado. Tudo de repente se tornou um borrão, como se o mundo girasse ao redor dele quando ele se sentou instantaneamente.",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 78,
+   "text": "Sentou-se? Klein olhou em volta, confuso. Ele notou a lua carmesim do lado de fora da janela e o quarto sendo coberto por uma",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 79,
+   "text": "véu carmesim.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 80,
+   "text": "Ele estendeu a mão para apalpar a testa. Estava toda úmida e fria. Suor frio. Suas costas pareciam exatamente iguais.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 81,
+   "text": "“Foi um pesadelo...” Klein soltou um suspiro. “Está tudo bem... Está tudo bem...”",
+   "speaker": "UNKNOWN",
+   "conf": "alternância-fraca"
+  },
+  {
+   "i": 82,
+   "text": "Ele achou estranho. Estava bastante lúcido em seu sonho, era até capaz de pensar com calma!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 83,
+   "text": "Depois de se acalmar, Klein olhou para o relógio de bolso. Eram apenas duas da manhã. Ele saiu da cama em silêncio e planejou ir ao lavabo, onde poderia lavar o rosto e esvaziar a bexiga crescente.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 84,
+   "text": "Ele abriu a porta e caminhou pelo corredor escuro. Sob o luar tênue, ele andou de leve em direção ao lavabo.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 85,
+   "text": "De repente, ele notou uma silhueta do lado de fora da janela, no final do corredor.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 86,
+   "text": "Essa silhueta vestia um sobretudo preto que era mais curto que um casaco, mas mais longo que uma jaqueta.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 87,
+   "text": "Essa silhueta estava parcialmente camuflada na escuridão, banhada pelo luar carmesim.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 88,
+   "text": "Essa silhueta se virou lentamente. Seus olhos profundos, cinzentos e frios.",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  },
+  {
+   "i": 89,
+   "text": "Dunn Smith!",
+   "speaker": "NARRADOR",
+   "conf": "narração"
+  }
+ ]
+}
