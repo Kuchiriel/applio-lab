@@ -1,0 +1,88 @@
+{
+ "blocos": [
+  {
+   "id": "A",
+   "klein": {
+    "nota": "deitado->escrivaninha; fome; olha relógio (meio-dia e meia); sun/warmth",
+    "pos": "cama -> escrivaninha"
+   },
+   "local": "apartamento (quarto, pontos pretos, sono de 3h)",
+   "segs": [
+    0,
+    16
+   ],
+   "sfx": [
+    "Gemido! fome (14, voz Klein)"
+   ],
+   "clima": "dia (sol forte pela janela, 10)"
+  },
+  {
+   "id": "B",
+   "klein": {
+    "nota": "cozinha/come; anda de um lado p/ o outro esperando água; senta à escrivaninha p/ comer",
+    "pos": "movimento (armário -> banheiro público -> escrivaninha)"
+   },
+   "local": "apartamento + banheiro público (almoço: batatas, pão, 'sopa')",
+   "segs": [
+    17,
+    47
+   ],
+   "sfx": [
+    "Pá! tampa do relógio (18)",
+    "Ffffffff! assopro (39)"
+   ],
+   "clima": "dia"
+  },
+  {
+   "id": "C",
+   "klein": {
+    "nota": "fixo à escrivaninha; planeja: misticismo, reunião 2ª-feira, investigar suicídio; pega o caderno",
+    "pos": "escrivaninha, sentado"
+   },
+   "local": "escrivaninha (planejamento)",
+   "segs": [
+    48,
+    56
+   ],
+   "sfx": [],
+   "clima": "dia"
+  },
+  {
+   "id": "D",
+   "klein": {
+    "nota": "fixo lendo; reage ('Tudor?' 74); vira páginas; arrepios (81)",
+    "pos": "escrivaninha, leitura"
+   },
+   "local": "escrivaninha (diário 12/05-26/06 + linha 'Todos morrerão, inclusive eu')",
+   "segs": [
+    57,
+    81
+   ],
+   "sfx": [],
+   "clima": "dia"
+  },
+  {
+   "id": "E",
+   "klein": {
+    "nota": "senta reto e escuta (88)",
+    "pos": "escrivaninha, alerta"
+   },
+   "local": "apartamento (batidas na porta/corredor)",
+   "segs": [
+    82,
+    91
+   ],
+   "sfx": [
+    "Toc! (85, 89)",
+    "Toc, toc! (86)"
+   ],
+   "clima": "dia"
+  }
+ ],
+ "capitulo": 9,
+ "narrador": {
+  "nota": "fogueira, nunca move",
+  "pos": "centro-frente"
+ },
+ "nota": "cap09 = 'O Caderno': cap caseiro, Klein solo o tempo todo; segs 2-3 duplicatas EN; SFX: relógio, assopro, batidas"
+}

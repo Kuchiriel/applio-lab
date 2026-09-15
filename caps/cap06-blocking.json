@@ -1,0 +1,99 @@
+{
+ "blocos": [
+  {
+   "id": "A",
+   "klein": {
+    "nota": "em pé, testa a 2ª ideia; risada abafada + 'Uma tentativa' (voz Fool já impostada)",
+    "pos": "centro-perto"
+   },
+   "local": "névoa cinzenta, sem palácio ainda",
+   "segs": [
+    0,
+    9
+   ],
+   "sfx": [
+    "risada abafada (9)"
+   ],
+   "clima": "névoa fechada, sem dia/noite"
+  },
+  {
+   "id": "B",
+   "klein": {
+    "nota": "fixo, observa através da névoa; calado, avalia os dois",
+    "pos": "centro"
+   },
+   "local": "névoa cinzenta, frente aos dois visitantes",
+   "segs": [
+    10,
+    23
+   ],
+   "sfx": [],
+   "clima": "névoa fechada"
+  },
+  {
+   "id": "C",
+   "klein": {
+    "nota": "fixo; imagina o palácio — a névoa obedece (33-36); senta no Assento de Honra",
+    "pos": "movimento (em pé -> Assento de Honra)"
+   },
+   "local": "névoa -> palácio gigante + mesa de bronze (surgem no bloco)",
+   "segs": [
+    24,
+    39
+   ],
+   "sfx": [
+    "agitação da névoa (33)",
+    "surgimento pedra/bronze (34-36)"
+   ],
+   "clima": "névoa -> salão vasto"
+  },
+  {
+   "id": "D",
+   "klein": {
+    "nota": "fixo no Assento de Honra; finge desatenção ouvindo tudo (44-45)",
+    "pos": "cabeceira-mesa"
+   },
+   "local": "mesa de bronze, Audrey e Alger frente a frente",
+   "segs": [
+    40,
+    59
+   ],
+   "sfx": [],
+   "clima": "salão, cúpula"
+  },
+  {
+   "id": "E",
+   "klein": {
+    "nota": "fixo; vira testemunha; decreta o nome 'O Louco' (76-77)",
+    "pos": "cabeceira-mesa"
+   },
+   "local": "mesa de bronze (trato + testemunha + nome)",
+   "segs": [
+    60,
+    77
+   ],
+   "sfx": [],
+   "clima": "salão, cúpula"
+  },
+  {
+   "id": "F",
+   "klein": {
+    "nota": "ausente (nota de rodapé narrada)",
+    "pos": "—"
+   },
+   "local": "nota [1] Jotun",
+   "segs": [
+    78,
+    78
+   ],
+   "sfx": [],
+   "clima": "—"
+  }
+ ],
+ "capitulo": 6,
+ "narrador": {
+  "nota": "fogueira, nunca move",
+  "pos": "centro-frente"
+ },
+ "nota": "cap06 = novel ch.6 'Beyonder': primeira reunião; Klein em pé depois sentado; sem SFX físicos além da névoa"
+}

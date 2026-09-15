@@ -24,7 +24,8 @@ import subprocess
 import sys
 
 VERBS = ("disse", "perguntou", "respondeu", "gritou", "sussurrou", "exclamou",
-         "murmurou", "comentou", "afirmou", "negou", "riu", "chorou", "pensou")
+         "murmurou", "comentou", "afirmou", "negou", "riu", "chorou", "pensou",
+         "retrucou", "exalou", "questionou", "leu")
 NAMES = ("Klein", "Moretti", "Zhou", "Mingrui", "Benson", "Melissa", "Dunn",
          "Leonard", "Audrey", "Alger", "Daly", "Neil", "Roselle", "Welch",
          "Naya", "Klee", "Susie", "Hanass", "Vincent", "Azik", "Dalí")
@@ -61,7 +62,8 @@ def parse_epub(epub_path, chapter):
 
 # Interjeições avulsas: SFX (nunca narrar) vs Klein (sentir/falar).
 SFX_WORDS = {"pá", "toc", "bum", "crac", "bang", "plop", "clique",
-             "shuasss", "honk", "fffffff", "crash", "splash", "thud", "clang"}
+             "shuasss", "honk", "fffffff", "crash", "splash", "thud", "clang",
+             "clop", "clinque", "clangue"}
 
 
 def speaker_of(paras, i, last_speaker):
