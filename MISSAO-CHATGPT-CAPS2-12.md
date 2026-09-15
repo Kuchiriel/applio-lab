@@ -21,9 +21,12 @@ RVC). Trabalho 100% textual e baseado em evidência. PT-BR, curto.
    Melissa=Giovanna Calegaretti; Benson=Philippe Maia; narração=Cassiano).
 2. `applio-lab/caps/cap01-blocking.json` — modelo de blocking (blocos A-G
    com segs, local, posição do Klein; narrador sempre centro-frente).
-3. Livro: `~/Books/LotM Vol 1 - Palhaço (Clown).epub` (fonte da verdade
-   das cenas). Ep↔capítulos: wiki `lordofthemysteries.fandom.com/wiki/
-   Episode_N` (seção "Adapted Chapters").
+3. Âncoras EN×PT (neste repo): `anchors-v2/epN-anchors-v2.json`
+   (spans com `anchors` canônicos) + `anchors-en/lexicon.json` (mangles:
+   Dan Smith→Dunn, Clain→Klein). Livro: use a wiki Fandom
+   (`lordofthemysteries.fandom.com/wiki/Episode_N`, "Adapted Chapters" +
+   resumos de cena) — o epub local NÃO está no repo.
+   Ep↔caps: ep1 = caps 1-7,9-10,12-14; ep13 = caps 208-213,215.
 4. Parser vigente: `lotm-audiobook.py` funções `speaker_of`/`cmd_parse`
    (regras: fragmento-líder→KLEIN, Isto/Isso/Ai→KLEIN, pergunta-líder→KLEIN,
    citação “...”→NARRADOR, *raiva*→style angry, notas [N] relocadas).

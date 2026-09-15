@@ -1,0 +1,441 @@
+{
+ "ep10-01696.wav": {
+  "ep": 10,
+  "start": 1696,
+  "janela": [
+   1694.0,
+   1713.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Tem a ver com o verdadeiro criador? | Honrado, senhor louco | Honrado, senhor louco",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.234,
+    "AUDREY": 0.361
+   }
+  }
+ },
+ "ep10-01700.wav": {
+  "ep": 10,
+  "start": 1700,
+  "janela": [
+   1698.0,
+   1717.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Tem a ver com o verdadeiro criador? | Honrado, senhor louco | A ordem da aurora busca a residência sagrada do verdadeiro c",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.237,
+    "AUDREY": 0.365
+   }
+  }
+ },
+ "ep4-00916.wav": {
+  "ep": 4,
+  "start": 916,
+  "janela": [
+   914.0,
+   933.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "spectator"
+  ],
+  "anchors": [
+   "spectator"
+  ],
+  "pt": "Primeira pergunta. | Primeiro, um espectador é eternamente um observador. | Você precisa se manter estritamente desapegada.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.112,
+    "AUDREY": 0.259
+   }
+  }
+ },
+ "ep4-00942.wav": {
+  "ep": 4,
+  "start": 942,
+  "janela": [
+   940.0,
+   959.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "spectator"
+  ],
+  "anchors": [
+   "spectator"
+  ],
+  "pt": "Além disso, preciso agarrar o poder da posição. | Extrair o significado de seu nome. | E evitar ao máximo perder o controle.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.127,
+    "AUDREY": 0.195
+   }
+  }
+ },
+ "ep4-00949.wav": {
+  "ep": 4,
+  "start": 949,
+  "janela": [
+   947.0,
+   966.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "spectator"
+  ],
+  "anchors": [
+   "spectator"
+  ],
+  "pt": "E evitar ao máximo perder o controle. | Como o espectador, no caso. | Não é questão de extrair, mas digerir.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.048,
+    "AUDREY": 0.172
+   }
+  }
+ },
+ "ep4-01016.wav": {
+  "ep": 4,
+  "start": 1016,
+  "janela": [
+   1014.0,
+   1033.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "Nessa situação, o mais provável seria a morte instantânea | Nessa situação, o mais provável seria a morte instantânea | então o animal será uma criatura biônda.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.122,
+    "AUDREY": 0.05
+   }
+  }
+ },
+ "ep7-00695.wav": {
+  "ep": 7,
+  "start": 695,
+  "janela": [
+   693.0,
+   712.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "hanged man"
+  ],
+  "anchors": [
+   "hanged man"
+  ],
+  "pt": "está buscando a residência sagrada do verdadeiro Criador. | O verdadeiro Criador? | Mas que deixou para trás um núcleo, o verdadeiro Criador.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.133,
+    "AUDREY": 0.25
+   }
+  }
+ },
+ "ep7-00700.wav": {
+  "ep": 7,
+  "start": 700,
+  "janela": [
+   698.0,
+   717.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "hanged man"
+  ],
+  "anchors": [
+   "hanged man"
+  ],
+  "pt": "Mas que deixou para trás um núcleo, o verdadeiro Criador. | Mas que deixou para trás um núcleo, o verdadeiro Criador. | Alegas que a carta do enforcado foi criada pelo Imperador Ro",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.16,
+    "AUDREY": 0.244
+   }
+  }
+ },
+ "ep7-00703.wav": {
+  "ep": 7,
+  "start": 703,
+  "janela": [
+   701.0,
+   720.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "hanged man"
+  ],
+  "anchors": [
+   "hanged man"
+  ],
+  "pt": "Mas que deixou para trás um núcleo, o verdadeiro Criador. | Mas que deixou para trás um núcleo, o verdadeiro Criador. | Alegas que a carta do enforcado foi criada pelo Imperador Ro",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.056,
+    "AUDREY": 0.29
+   }
+  }
+ },
+ "ep7-00711.wav": {
+  "ep": 7,
+  "start": 711,
+  "janela": [
+   709.0,
+   728.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "usando o verdadeiro Criador como referência. | Há algo incorreto no que eu disse, Sr. Louco? | Há algo incorreto no que eu disse, Sr. Louco?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.179,
+    "AUDREY": 0.269
+   }
+  }
+ },
+ "ep7-00740.wav": {
+  "ep": 7,
+  "start": 740,
+  "janela": [
+   738.0,
+   757.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus"
+  ],
+  "anchors": [
+   "antigonus"
+  ],
+  "pt": "parecem ter mais propensão a perder o controle. | Posso perguntar, que tipo de recompensa devo pagar? | Mas do diário secreto de Rosel.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.118,
+    "AUDREY": 0.352
+   }
+  }
+ },
+ "ep7-00754.wav": {
+  "ep": 7,
+  "start": 754,
+  "janela": [
+   752.0,
+   771.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus"
+  ],
+  "anchors": [
+   "antigonus"
+  ],
+  "pt": "Eu não sei muito sobre a família Antígonos, | apenas que eles possuem um caminho sinistro e assustador. | A história da família pode ser traçada até a Terceira Era,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.128,
+    "AUDREY": 0.347
+   }
+  }
+ },
+ "ep7-00759.wav": {
+  "ep": 7,
+  "start": 759,
+  "janela": [
+   757.0,
+   776.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus"
+  ],
+  "anchors": [
+   "antigonus"
+  ],
+  "pt": "apenas que eles possuem um caminho sinistro e assustador. | A história da família pode ser traçada até a Terceira Era, | Na Quarta Era era dos deuses,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.183,
+    "AUDREY": 0.267
+   }
+  }
+ },
+ "ep7-00771.wav": {
+  "ep": 7,
+  "start": 771,
+  "janela": [
+   769.0,
+   788.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A Quarta Era foi destruída pelas mãos da deusa da noite até. | A Quarta Era foi destruída pelas mãos da deusa da noite até. | A Quarta Era foi destruída pelas mãos da deusa da noite até.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.107,
+    "AUDREY": 0.201
+   }
+  }
+ },
+ "ep8-00240.wav": {
+  "ep": 8,
+  "start": 240,
+  "janela": [
+   238.0,
+   257.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A maioria dessas organizações é misteriosa e se esconde nas  | A maioria dessas organizações é misteriosa e se esconde nas  | Eu apenas conheço a ponta do iceberg. Para saber mais, preci",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.195,
+    "AUDREY": 0.258
+   }
+  }
+ },
+ "ep8-00245.wav": {
+  "ep": 8,
+  "start": 245,
+  "janela": [
+   243.0,
+   262.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A maioria dessas organizações é misteriosa e se esconde nas  | Eu apenas conheço a ponta do iceberg. Para saber mais, preci | Eu apenas conheço a ponta do iceberg. Para saber mais, preci",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.18,
+    "AUDREY": 0.372
+   }
+  }
+ },
+ "ep8-00324.wav": {
+  "ep": 8,
+  "start": 324,
+  "janela": [
+   322.0,
+   341.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Atualmente, existem cerca de 100 organizações secretas com a | As organizações antigas que surgiram na Quarta Era são a ord | a aceita da demônia e a ordem acética de Moisés.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.211,
+    "AUDREY": 0.265
+   }
+  }
+ },
+ "ep8-00328.wav": {
+  "ep": 8,
+  "start": 328,
+  "janela": [
+   326.0,
+   345.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "As organizações antigas que surgiram na Quarta Era são a ord | a aceita da demônia e a ordem acética de Moisés. | Eles controlam um caminho cuja sequência 9 se chamou intromi",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.193,
+    "AUDREY": 0.275
+   }
+  }
+ },
+ "ep8-00340.wav": {
+  "ep": 8,
+  "start": 340,
+  "janela": [
+   338.0,
+   357.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O caminho do senhor anil. | Os membros dessa organização adoram o conhecimento em si e o | No início, a ordem acética de Moisés era muito respeitada,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.193,
+    "AUDREY": 0.221
+   }
+  }
+ },
+ "ep8-00345.wav": {
+  "ep": 8,
+  "start": 345,
+  "janela": [
+   343.0,
+   362.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "No início, a ordem acética de Moisés era muito respeitada, | No início, a ordem acética de Moisés era muito respeitada, | mas hoje se tornou uma organização maligna.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.055,
+    "AUDREY": 0.269
+   }
+  }
+ },
+ "ep8-00360.wav": {
+  "ep": 8,
+  "start": 360,
+  "janela": [
+   358.0,
+   377.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Nesse o próprio conhecimento ganhar vida. | Há rumores de que o sábio oculto ganhou vida. | Ele se tornou um deus maligno personificado.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.092,
+    "AUDREY": 0.169
+   }
+  }
+ }
+}

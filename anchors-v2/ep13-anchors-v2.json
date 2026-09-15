@@ -1,0 +1,1889 @@
+{
+ "meta": {
+  "ep": 13,
+  "total_en": 225,
+  "matched": 199,
+  "alta_conf": 67,
+  "skew_medio_s": -0.26,
+  "fonte_en": "anchors-en/ep13.json",
+  "fonte_pt": "ep13/vocals.srt (whisper-small)"
+ },
+ "spans": [
+  {
+   "t0": 164.54,
+   "t1": 166.06,
+   "en": "2-105 Blood Vessel Thief  Can steal an ability from a target within range.  Against high-Sequence Beyonders, chance of success is lower.",
+   "pt": "Tá ótimo.",
+   "score": 0.015,
+   "overlap": 0.66,
+   "anchors": []
+  },
+  {
+   "t0": 1175.22,
+   "t1": 1179.06,
+   "en": "The Antigonus family's notebook arrives in Tingen",
+   "pt": "Hum, os mortais que suplicam a mim sempre têm desejos duvidosos.",
+   "score": 0.216,
+   "overlap": 1.0,
+   "anchors": [
+    "antigonus",
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1175.22,
+   "t1": 1179.06,
+   "en": "according to plan",
+   "pt": "Hum, os mortais que suplicam a mim sempre têm desejos duvidosos.",
+   "score": 0.177,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1486.9,
+   "t1": 1493.86,
+   "en": "Klein Moretti",
+   "pt": "Que o vento indomável o leve para o reino da deusa.",
+   "score": 0.19,
+   "overlap": 0.72,
+   "anchors": [
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 1486.9,
+   "t1": 1493.86,
+   "en": "The best older brother",
+   "pt": "Que o vento indomável o leve para o reino da deusa.",
+   "score": 0.25,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 1486.9,
+   "t1": 1493.86,
+   "en": "The best younger brother",
+   "pt": "Que o vento indomável o leve para o reino da deusa.",
+   "score": 0.108,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 1486.9,
+   "t1": 1493.86,
+   "en": "The best colleague",
+   "pt": "Que o vento indomável o leve para o reino da deusa.",
+   "score": 0.324,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 1801.02,
+   "t1": 1802.14,
+   "en": "The captain forever",
+   "pt": "Acabamos demellow.",
+   "score": 0.278,
+   "overlap": 0.57,
+   "anchors": []
+  },
+  {
+   "t0": 1801.02,
+   "t1": 1802.14,
+   "en": "The most trusted companion",
+   "pt": "Acabamos demellow.",
+   "score": 0.279,
+   "overlap": 0.57,
+   "anchors": []
+  },
+  {
+   "t0": 1801.02,
+   "t1": 1802.14,
+   "en": "The true guardian",
+   "pt": "Acabamos demellow.",
+   "score": 0.118,
+   "overlap": 0.57,
+   "anchors": []
+  },
+  {
+   "t0": 1802.14,
+   "t1": 1803.02,
+   "en": "The captain forever",
+   "pt": "Acabamos demellow.",
+   "score": 0.278,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1802.14,
+   "t1": 1803.02,
+   "en": "The most trusted companion",
+   "pt": "Acabamos demellow.",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1802.14,
+   "t1": 1803.02,
+   "en": "The true guardian",
+   "pt": "Acabamos demellow.",
+   "score": 0.118,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1803.02,
+   "t1": 1803.7,
+   "en": "The most trusted companion",
+   "pt": "Acabamos demellow.",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1803.02,
+   "t1": 1803.7,
+   "en": "The true guardian",
+   "pt": "Acabamos demellow.",
+   "score": 0.118,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1803.02,
+   "t1": 1803.7,
+   "en": "Dunn Smith",
+   "pt": "Acabamos demellow.",
+   "score": 0.148,
+   "overlap": 1.0,
+   "anchors": [
+    "dunn",
+    "smith"
+   ]
+  },
+  {
+   "t0": 1803.7,
+   "t1": 1807.9,
+   "en": "The most trusted companion",
+   "pt": "Acabamos demellow.",
+   "score": 0.279,
+   "overlap": 0.48,
+   "anchors": []
+  },
+  {
+   "t0": 1803.7,
+   "t1": 1807.9,
+   "en": "The true guardian",
+   "pt": "Acabamos demellow.",
+   "score": 0.118,
+   "overlap": 0.48,
+   "anchors": []
+  },
+  {
+   "t0": 1803.7,
+   "t1": 1807.9,
+   "en": "Dunn Smith",
+   "pt": "Acabamos demellow.",
+   "score": 0.148,
+   "overlap": 0.48,
+   "anchors": [
+    "dunn",
+    "smith"
+   ]
+  },
+  {
+   "t0": 2047.9,
+   "t1": 2050.86,
+   "en": "Backlund  Loen Kingdom Capital",
+   "pt": "Cresântemo de se viria.",
+   "score": 0.039,
+   "overlap": 0.54,
+   "anchors": [
+    "backlund"
+   ]
+  },
+  {
+   "t0": 2067.5,
+   "t1": 2070.38,
+   "en": "Sherlock Moriarty",
+   "pt": "Cresântemo de se viria.",
+   "score": 0.359,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 29.15,
+   "t1": 31.85,
+   "en": "In the hidden world of Beyonders,",
+   "pt": "o mundo dos Beyonders.",
+   "score": 0.528,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 31.92,
+   "t1": 35.19,
+   "en": "humans must depend upon a variety of potions",
+   "pt": "Ao beber em certas poções, humanos comuns podem obter os poderes dos Beyonders.",
+   "score": 0.281,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 35.22,
+   "t1": 38.27,
+   "en": "to travel the path of supreme ascension",
+   "pt": "Ao beber em certas poções, humanos comuns podem obter os poderes dos Beyonders.",
+   "score": 0.293,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 38.29,
+   "t1": 41.71,
+   "en": "and attain the occult powers of the Beyonder.",
+   "pt": "Eles se tornam capazes de acender a divindade.",
+   "score": 0.202,
+   "overlap": 0.88,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 41.76,
+   "t1": 44.11,
+   "en": "There are 22 pathways,",
+   "pt": "Os 22 começam com mais fraco.",
+   "score": 0.14,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 44.13,
+   "t1": 46.74,
+   "en": "each beginning with Sequence 9.",
+   "pt": "Quanto menor o número da sequência, mais poderosas as habilidades do Beyonder.",
+   "score": 0.192,
+   "overlap": 0.86,
+   "anchors": []
+  },
+  {
+   "t0": 46.8,
+   "t1": 49.42,
+   "en": "The lower one descends in the Sequence,",
+   "pt": "Quanto menor o número da sequência, mais poderosas as habilidades do Beyonder.",
+   "score": 0.316,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 49.45,
+   "t1": 52.52,
+   "en": "the greater their Beyonder powers become.",
+   "pt": "Quanto menor o número da sequência, mais poderosas as habilidades do Beyonder.",
+   "score": 0.293,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 52.55,
+   "t1": 55.19,
+   "en": "Through this enlightened progression,",
+   "pt": "Beyonders de sequências de nível mais alto dispõem de poderes grandes",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 55.22,
+   "t1": 59.73,
+   "en": "the Beyonder achieves powers strong enough to rival gods.",
+   "pt": "Beyonders de sequências de nível mais alto dispõem de poderes grandes",
+   "score": 0.272,
+   "overlap": 0.73,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 59.82,
+   "t1": 63.6,
+   "en": "Completing this evolution is an exceptional feat.",
+   "pt": "O caminho da evolução é chamado o caminho do Divino.",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 63.68,
+   "t1": 66.62,
+   "en": "It is the Path of the Divine.",
+   "pt": "O caminho da evolução é chamado o caminho do Divino.",
+   "score": 0.38,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 87.22,
+   "t1": 91.45,
+   "en": "Go! The vessel's reacting to the threat of the saint's ashes!",
+   "pt": "Puxa, você malegno não aguentou o estímulo das cinzas da santa e vai nascer!",
+   "score": 0.195,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 91.56,
+   "t1": 93.91,
+   "en": "He will soon descend!",
+   "pt": "Capitão, não temos mais como acalmar.",
+   "score": 0.145,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 122.84,
+   "t1": 123.94,
+   "en": "\"God's illimity.\"",
+   "pt": "Como não teve nem o somoleto.",
+   "score": 0.19,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 131.23,
+   "t1": 132.55,
+   "en": "You monster!",
+   "pt": "Vocês querem matar o velho!",
+   "score": 0.324,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 133.0,
+   "t1": 135.22,
+   "en": "You aim to kill my child!",
+   "pt": "Vocês querem matar o velho!",
+   "score": 0.36,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 145.39,
+   "t1": 146.22,
+   "en": "Where is she?",
+   "pt": "Ela sumiu!",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 149.47,
+   "t1": 150.72,
+   "en": "\"Apparition.\"",
+   "pt": "Apareça!",
+   "score": 0.471,
+   "overlap": 0.8,
+   "anchors": []
+  },
+  {
+   "t0": 160.37,
+   "t1": 161.14,
+   "en": "Leonard.",
+   "pt": "Leona!",
+   "score": 0.833,
+   "overlap": 1.0,
+   "anchors": [
+    "leonard"
+   ]
+  },
+  {
+   "t0": 163.4,
+   "t1": 164.62,
+   "en": "The Blood Vessel Thief.",
+   "pt": "Matrão de vasos sanguíneos?",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 165.7,
+   "t1": 166.78,
+   "en": "This should even the odds.",
+   "pt": "Tá ótimo.",
+   "score": 0.182,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 177.75,
+   "t1": 178.4,
+   "en": "Damn!",
+   "pt": "Não dá.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 178.42000000000002,
+   "t1": 179.4,
+   "en": "She's too fast.",
+   "pt": "Não dá.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 179.76,
+   "t1": 180.87,
+   "en": "I can't get a lock.",
+   "pt": "Eu não consigo mirar.",
+   "score": 0.158,
+   "overlap": 0.9,
+   "anchors": []
+  },
+  {
+   "t0": 181.85,
+   "t1": 182.86,
+   "en": "Damn it.",
+   "pt": "Ela é rápida demais.",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 196.43,
+   "t1": 198.1,
+   "en": "Get to the Memorial Sanctum.",
+   "pt": "Levem ao salão memorial.",
+   "score": 0.52,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 198.28,
+   "t1": 199.68,
+   "en": "It's the only hope we have.",
+   "pt": "É nossa única chance.",
+   "score": 0.217,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 240.68,
+   "t1": 243.89,
+   "en": "\"I pray for the power of the dark night.\"",
+   "pt": "Feira da noite eterna.",
+   "score": 0.339,
+   "overlap": 0.62,
+   "anchors": []
+  },
+  {
+   "t0": 247.19,
+   "t1": 249.93,
+   "en": "\"I pray for the power of crimson.\"",
+   "pt": "Eu invoco o poder carmin.",
+   "score": 0.473,
+   "overlap": 0.73,
+   "anchors": []
+  },
+  {
+   "t0": 254.87,
+   "t1": 257.61,
+   "en": "\"I pray for the Goddess's loving grace.\"",
+   "pt": "Eu peço a peça da deusa.",
+   "score": 0.333,
+   "overlap": 0.73,
+   "anchors": []
+  },
+  {
+   "t0": 258.13,
+   "t1": 263.63,
+   "en": "\"I pray for you to slow the movements of this evil being and His vessel.\"",
+   "pt": "Peço que retarde os movimentos da entidade e seu receptáculo.",
+   "score": 0.354,
+   "overlap": 0.73,
+   "anchors": []
+  },
+  {
+   "t0": 275.15999999999997,
+   "t1": 276.11,
+   "en": "\"Plunder.\"",
+   "pt": "Opa!",
+   "score": 0.2,
+   "overlap": 0.36,
+   "anchors": []
+  },
+  {
+   "t0": 281.87,
+   "t1": 285.86,
+   "en": "How dare you try to harm my child!",
+   "pt": "Deixe-me ouvir o invasso!",
+   "score": 0.316,
+   "overlap": 0.41,
+   "anchors": []
+  },
+  {
+   "t0": 329.32,
+   "t1": 332.31,
+   "en": "Wait, stay back while I restrain her.",
+   "pt": "Eu vou na frente para a contela.",
+   "score": 0.242,
+   "overlap": 0.67,
+   "anchors": []
+  },
+  {
+   "t0": 332.71,
+   "t1": 334.67,
+   "en": "Count to ten, then attack.",
+   "pt": "Venham depois de dez segundos.",
+   "score": 0.151,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 335.04,
+   "t1": 335.93,
+   "en": "Are you sure?",
+   "pt": "Venham depois de dez segundos.",
+   "score": 0.293,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 336.32,
+   "t1": 337.64,
+   "en": "Give me ten seconds.",
+   "pt": "Em dez segundos.",
+   "score": 0.529,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 338.15,
+   "t1": 339.05,
+   "en": "That's an order.",
+   "pt": "Em dez segundos.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 340.55,
+   "t1": 341.73,
+   "en": "No need to worry.",
+   "pt": "Não se preocupem.",
+   "score": 0.375,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 342.27,
+   "t1": 343.81,
+   "en": "This is to save Tingen.",
+   "pt": "Estamos protegendo Tindin.",
+   "score": 0.426,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 345.03,
+   "t1": 346.04,
+   "en": "I'll be fine.",
+   "pt": "Todos ali estão lutando ao meu lado.",
+   "score": 0.128,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 346.57,
+   "t1": 348.05,
+   "en": "I won't be fighting alone.",
+   "pt": "Todos ali estão lutando ao meu lado.",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 353.2,
+   "t1": 354.09000000000003,
+   "en": "Ten.",
+   "pt": "Dez.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 356.78,
+   "t1": 361.29,
+   "en": "Who the hell are you to tell me I can't keep my child?",
+   "pt": "Eu só quero ter esse filho!",
+   "score": 0.304,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 362.49,
+   "t1": 363.19,
+   "en": "Nine.",
+   "pt": "Eu só quero ter esse filho!",
+   "score": 0.067,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 363.95,
+   "t1": 365.9,
+   "en": "Look what you're doing to me.",
+   "pt": "Forte!",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 365.92,
+   "t1": 368.72,
+   "en": "Why are you forcing me to behave this way?",
+   "pt": "Querem cobrir caras do tumulo!",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 377.08,
+   "t1": 377.78,
+   "en": "Six.",
+   "pt": "Dez.",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 381.46,
+   "t1": 384.27,
+   "en": "\"As in a drowsy reverie...\"",
+   "pt": "Como num defanmeio sonoleto,",
+   "score": 0.286,
+   "overlap": 0.71,
+   "anchors": []
+  },
+  {
+   "t0": 384.81,
+   "t1": 388.69,
+   "en": "\"As if from beyond this life and the grave...\"",
+   "pt": "do outro lado do tumulo!",
+   "score": 0.281,
+   "overlap": 0.77,
+   "anchors": []
+  },
+  {
+   "t0": 390.79,
+   "t1": 391.49,
+   "en": "Five.",
+   "pt": "Tinto.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 400.28,
+   "t1": 400.98,
+   "en": "Four.",
+   "pt": "Quate!",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 421.54,
+   "t1": 422.24,
+   "en": "Three.",
+   "pt": "Dez.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 444.33,
+   "t1": 445.03,
+   "en": "One.",
+   "pt": "Um.",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 456.87,
+   "t1": 457.65,
+   "en": "\"Light.\"",
+   "pt": "Um.",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 511.09,
+   "t1": 512.06,
+   "en": "Is it over?",
+   "pt": "Acabou?",
+   "score": 0.125,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 542.29,
+   "t1": 543.23,
+   "en": "\"Submit.\"",
+   "pt": "Dez.",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 564.41,
+   "t1": 567.16,
+   "en": "Run, run. Quickly!",
+   "pt": "Vão! Vão!",
+   "score": 0.091,
+   "overlap": 0.36,
+   "anchors": []
+  },
+  {
+   "t0": 568.75,
+   "t1": 570.92,
+   "en": "Keep moving, get somewhere safe!",
+   "pt": "Andem!",
+   "score": 0.114,
+   "overlap": 0.46,
+   "anchors": []
+  },
+  {
+   "t0": 571.05,
+   "t1": 572.05,
+   "en": "Stop! you...",
+   "pt": "Espere!",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 574.27,
+   "t1": 575.65,
+   "en": "From the church?",
+   "pt": "queger dos gaviões.",
+   "score": 0.242,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 576.07,
+   "t1": 577.39,
+   "en": "Thank Goddess, you're here.",
+   "pt": "Finalmente chegou.",
+   "score": 0.238,
+   "overlap": 0.76,
+   "anchors": []
+  },
+  {
+   "t0": 608.39,
+   "t1": 609.49,
+   "en": "Old man...",
+   "pt": "Droga!",
+   "score": 0.333,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 617.91,
+   "t1": 618.59,
+   "en": "Leonard!",
+   "pt": "Dez.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": [
+    "leonard"
+   ]
+  },
+  {
+   "t0": 665.51,
+   "t1": 666.39,
+   "en": "Nightmare.",
+   "pt": "Dez.",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 680.99,
+   "t1": 681.88,
+   "en": "Now's my chance.",
+   "pt": "Agora!",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 722.26,
+   "t1": 725.23,
+   "en": "that just makes me admire the Nighthawks even more.",
+   "pt": "Eu nem vi o mesmo.",
+   "score": 0.239,
+   "overlap": 0.67,
+   "anchors": [
+    "nighthawks"
+   ]
+  },
+  {
+   "t0": 746.67,
+   "t1": 750.13,
+   "en": "We can't let the True Creator descend.",
+   "pt": "Essa... coisa não pode nascer!",
+   "score": 0.19,
+   "overlap": 0.87,
+   "anchors": []
+  },
+  {
+   "t0": 750.96,
+   "t1": 752.78,
+   "en": "Absolutely not.",
+   "pt": "De jeito nenhum!",
+   "score": 0.207,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 764.64,
+   "t1": 765.69,
+   "en": "Captain...",
+   "pt": "Capitão!",
+   "score": 0.571,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 871.39,
+   "t1": 872.17,
+   "en": "Klein.",
+   "pt": "Clic!",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 894.57,
+   "t1": 895.45,
+   "en": "\"Light.\"",
+   "pt": "Oh!",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 962.99,
+   "t1": 965.41,
+   "en": "Captain... We won.",
+   "pt": "Capitão! Capitão!",
+   "score": 0.483,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 966.17,
+   "t1": 967.73,
+   "en": "We stopped the descent.",
+   "pt": "Nós conseguimos!",
+   "score": 0.108,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 974.22,
+   "t1": 975.56,
+   "en": "It was all worth it.",
+   "pt": "Conseguimos!",
+   "score": 0.133,
+   "overlap": 0.79,
+   "anchors": []
+  },
+  {
+   "t0": 982.76,
+   "t1": 983.55,
+   "en": "Klein.",
+   "pt": "Klein!",
+   "score": 1.0,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 986.28,
+   "t1": 987.15,
+   "en": "We did it.",
+   "pt": "Nós!",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 989.02,
+   "t1": 990.59,
+   "en": "We've saved Tingen.",
+   "pt": "Só vamos, tinge.",
+   "score": 0.5,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1033.49,
+   "t1": 1034.37,
+   "en": "Daly.",
+   "pt": "Dali!",
+   "score": 0.75,
+   "overlap": 1.0,
+   "anchors": [
+    "daly"
+   ]
+  },
+  {
+   "t0": 1041.34,
+   "t1": 1042.62,
+   "en": "Captain!",
+   "pt": "Capitão!",
+   "score": 0.571,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1043.63,
+   "t1": 1044.46,
+   "en": "Captain.",
+   "pt": "Capitão!",
+   "score": 0.571,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1048.75,
+   "t1": 1049.76,
+   "en": "Captain.",
+   "pt": "Capitão!",
+   "score": 0.571,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1050.61,
+   "t1": 1051.44,
+   "en": "Captain.",
+   "pt": "Capitão!",
+   "score": 0.571,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1103.84,
+   "t1": 1104.78,
+   "en": "Who...",
+   "pt": "Clic!",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1105.7,
+   "t1": 1106.6,
+   "en": "Who is...",
+   "pt": "Clic!",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1154.36,
+   "t1": 1156.19,
+   "en": "No longer sealed.",
+   "pt": "Finalmente estou livre.",
+   "score": 0.263,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1156.58,
+   "t1": 1158.82,
+   "en": "I am liberated.",
+   "pt": "Aposta-te o tempo à liberdade.",
+   "score": 0.465,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 1161.95,
+   "t1": 1168.32,
+   "en": "Corrupt and covetous, Ince Zangwill freed me of my bondage behind the Chanis Gate.",
+   "pt": "O mortal que me tirou do portão de Cheniz.",
+   "score": 0.364,
+   "overlap": 0.47,
+   "anchors": [
+    "chanis gate"
+   ]
+  },
+  {
+   "t0": 1168.34,
+   "t1": 1173.19,
+   "en": "He craved my discreet abetment in obtaining Saint Selena's ashes.",
+   "pt": "Deseja para possuir as cinzas de Santa Selena de Tengen.",
+   "score": 0.353,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 1173.9,
+   "t1": 1176.9,
+   "en": "Despite their invariably tedious aims, mortals",
+   "pt": "Hum, os mortais que suplicam a mim sempre têm desejos duvidosos.",
+   "score": 0.206,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1176.9,
+   "t1": 1180.18,
+   "en": "always strive to obscure their machinations.",
+   "pt": "Hum, os mortais que suplicam a mim sempre têm desejos duvidosos.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1180.26,
+   "t1": 1182.51,
+   "en": "And thus, they seek me.",
+   "pt": "Isso não é nada.",
+   "score": 0.111,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 1184.69,
+   "t1": 1189.24,
+   "en": "Awoken by a dark divination, the Antigonus family's notebook influenced",
+   "pt": "Após a adivinhação das trevas, o sobrevivente Klein morete sobre a influência do Caterno de Antigonos.",
+   "score": 0.282,
+   "overlap": 1.0,
+   "anchors": [
+    "antigonus"
+   ]
+  },
+  {
+   "t0": 1189.24,
+   "t1": 1194.23,
+   "en": "the remaining survivor Klein Moretti to deliver it to the home of Ray Bieber.",
+   "pt": "O levou para a casa de Ray Bieber.",
+   "score": 0.367,
+   "overlap": 0.6,
+   "anchors": [
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 1194.66,
+   "t1": 1197.5,
+   "en": "A logical coincidence, if a bit contrived.",
+   "pt": "É uma coincidência racional.",
+   "score": 0.507,
+   "overlap": 0.7,
+   "anchors": []
+  },
+  {
+   "t0": 1197.74,
+   "t1": 1200.78,
+   "en": "After that, Klein was impelled to suicide.",
+   "pt": "Depois, Klein se matou com um tiro.",
+   "score": 0.384,
+   "overlap": 0.99,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 1203.63,
+   "t1": 1207.65,
+   "en": "What's most perplexing, though, he somehow managed to survive.",
+   "pt": "Curiosamente, Klein não morreu.",
+   "score": 0.159,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 1207.79,
+   "t1": 1210.92,
+   "en": "To further the absurdity, he even joined the Nighthawks.",
+   "pt": "Ele sobreviveu e se juntou aos gaviões da noite.",
+   "score": 0.198,
+   "overlap": 1.0,
+   "anchors": [
+    "nighthawks"
+   ]
+  },
+  {
+   "t0": 1211.47,
+   "t1": 1212.77,
+   "en": "How cruel.",
+   "pt": "Fascinante.",
+   "score": 0.211,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1213.38,
+   "t1": 1216.74,
+   "en": "Evading doom once again, Klein inexplicably killed",
+   "pt": "Klein conseguiu sobreviver e matar um membro da ordem secreta de sequência 7.",
+   "score": 0.163,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 1216.76,
+   "t1": 1219.45,
+   "en": "a Sequence 7 member of the Secret Order.",
+   "pt": "Klein conseguiu sobreviver e matar um membro da ordem secreta de sequência 7.",
+   "score": 0.414,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1220.7,
+   "t1": 1225.91,
+   "en": "This infuriated Ince, but the story remained impetrable and unaffected.",
+   "pt": "Mas, felizmente, o resultado não desviou o esperado.",
+   "score": 0.322,
+   "overlap": 0.58,
+   "anchors": []
+  },
+  {
+   "t0": 1228.07,
+   "t1": 1232.61,
+   "en": "Chronically wounding his spirituality, Dunn Smith gazed at a god.",
+   "pt": "A espiritualidade de Dan Smith foi enormemente impactada.",
+   "score": 0.42,
+   "overlap": 0.88,
+   "anchors": [
+    "dunn",
+    "smith",
+    "spirituality"
+   ]
+  },
+  {
+   "t0": 1232.64,
+   "t1": 1236.62,
+   "en": "Naturally, the True Creator observed the events around his summoning and clearly",
+   "pt": "Claro que, mesmo no ritual de descensão do verdadeiro criador, a divindade já havia percebido todas essas coincidências.",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1236.62,
+   "t1": 1240.08,
+   "en": "saw the calculated design beneath the coincidences.",
+   "pt": "Claro que, mesmo no ritual de descensão do verdadeiro criador, a divindade já havia percebido todas essas coincidências.",
+   "score": 0.359,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1240.41,
+   "t1": 1245.19,
+   "en": "Yet, given the deity's wish to be freed of his shackles, why not?",
+   "pt": "No entanto, ele não recusou o convite.",
+   "score": 0.327,
+   "overlap": 0.63,
+   "anchors": []
+  },
+  {
+   "t0": 1247.13,
+   "t1": 1249.73,
+   "en": "Belief has been beggared and evicted.",
+   "pt": "Klein morete percebeu a influência oculta de Incisanguel e ajudou o Dan a dominar o método de atuação.",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1249.76,
+   "t1": 1253.85,
+   "en": "Klein Moretti impossibly perceived the surreptitious manipulations.",
+   "pt": "Klein morete percebeu a influência oculta de Incisanguel e ajudou o Dan a dominar o método de atuação.",
+   "score": 0.371,
+   "overlap": 1.0,
+   "anchors": [
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 1254.11,
+   "t1": 1256.61,
+   "en": "He even helped Dunn with the acting method.",
+   "pt": "Incis não acreditou.",
+   "score": 0.23,
+   "overlap": 0.8,
+   "anchors": [
+    "dunn"
+   ]
+  },
+  {
+   "t0": 1257.36,
+   "t1": 1262.28,
+   "en": "No, Ince refused to believe it, yet he continued to alter the plot.",
+   "pt": "Ele alterou o plano original.",
+   "score": 0.304,
+   "overlap": 0.61,
+   "anchors": []
+  },
+  {
+   "t0": 1265.25,
+   "t1": 1267.72,
+   "en": "Wrapped with remorse, Dunn dutifully followed",
+   "pt": "Mas, seguindo seus ideais, absorveu as características de Beyonder de Kenley.",
+   "score": 0.186,
+   "overlap": 1.0,
+   "anchors": [
+    "dunn"
+   ]
+  },
+  {
+   "t0": 1267.74,
+   "t1": 1270.46,
+   "en": "protocol and consumed Kenley's characteristics.",
+   "pt": "Mas, seguindo seus ideais, absorveu as características de Beyonder de Kenley.",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1270.48,
+   "t1": 1273.61,
+   "en": "His digestion was blocked and his mind was muddled.",
+   "pt": "O processo de digestão do pesadelo foi interrompido.",
+   "score": 0.356,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1274.15,
+   "t1": 1278.79,
+   "en": "And thus his poor decision not to lure Megose into the confines of the Chanis Gate,",
+   "pt": "No momento crucial, ele tomou a decisão errada.",
+   "score": 0.252,
+   "overlap": 0.86,
+   "anchors": [
+    "chanis gate"
+   ]
+  },
+  {
+   "t0": 1278.82,
+   "t1": 1282.43,
+   "en": "but to remove Saint Selena's ashes from the bulwark instead.",
+   "pt": "Tirou as cinzas de Santa Selena do Portão de Chamísas.",
+   "score": 0.339,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1283.73,
+   "t1": 1286.94,
+   "en": "Finally, Ince removed the perpetual thorn in his side",
+   "pt": "Incisanguel matou Klein morete, que sempre fazia conquistar os planos fracasás.",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1286.97,
+   "t1": 1290.13,
+   "en": "known as Klein Moretti by removing his heart.",
+   "pt": "Incisanguel matou Klein morete, que sempre fazia conquistar os planos fracasás.",
+   "score": 0.397,
+   "overlap": 1.0,
+   "anchors": [
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 1290.29,
+   "t1": 1294.25,
+   "en": "Using the remaining characteristics of Death's descendant, Ince conducted",
+   "pt": "As características do descendente da morte serviram para montar o ritual.",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1294.28,
+   "t1": 1299.1,
+   "en": "a ritual to consume Saint Selena's ashes, allowing him to advance from a Sequence 5",
+   "pt": "Ele consumiu as cinzas de Santa Selena.",
+   "score": 0.356,
+   "overlap": 0.62,
+   "anchors": []
+  },
+  {
+   "t0": 1299.12,
+   "t1": 1303.81,
+   "en": "Gatekeeper of the Death pathway to a Sequence 4 Nightwatcher of the Evernight.",
+   "pt": "E, com isso, acendeu da sequência 5 do Caminho da Morte, Guardião do Portão,",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1304.27,
+   "t1": 1307.89,
+   "en": "As such, he ascended to the state of Demigod.",
+   "pt": "para a sequência 4 do Caminho da Noite Eterna, Vigilante da Noite.",
+   "score": 0.343,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1314.7,
+   "t1": 1317.44,
+   "en": "The sun shone upon the land as usual.",
+   "pt": "Ele se tornou meio homem, meio Deus.",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1317.55,
+   "t1": 1320.79,
+   "en": "Only a scant few of Tingen's citizenry were aware of",
+   "pt": "O Sol ainda brilha sobre a Terra.",
+   "score": 0.286,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1320.82,
+   "t1": 1325.06,
+   "en": "the merciless apocalyptic carnage they narrowly escaped.",
+   "pt": "Quase ninguém entende, percebeu que escapou por pouco de um grande desastre.",
+   "score": 0.264,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1327.57,
+   "t1": 1331.57,
+   "en": "And thus concludes the story of Tingen.",
+   "pt": "A história de Tindin termina aqui.",
+   "score": 0.338,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1346.21,
+   "t1": 1347.55,
+   "en": "I can't believe they're gone.",
+   "pt": "O capitão Euclain...",
+   "score": 0.178,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1351.15,
+   "t1": 1352.9,
+   "en": "We received an unencrypted wire.",
+   "pt": "Chegou um telegrama criptografado, deve ter sido enviado da Catedral.",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1353.49,
+   "t1": 1355.05,
+   "en": "It's from the Holy Cathedral.",
+   "pt": "Chegou um telegrama criptografado, deve ter sido enviado da Catedral.",
+   "score": 0.337,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1358.62,
+   "t1": 1360.38,
+   "en": "They've already ID'd the culprit.",
+   "pt": "O Queijê sabe quem é ocupado. Os luvas vermelhas estão atrás dele.",
+   "score": 0.146,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1360.85,
+   "t1": 1362.38,
+   "en": "The Red Gloves are on the case.",
+   "pt": "O Queijê sabe quem é ocupado. Os luvas vermelhas estão atrás dele.",
+   "score": 0.298,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1365.8,
+   "t1": 1367.51,
+   "en": "Then I intend to join them.",
+   "pt": "Como faço para ser um dos luvas vermelhas?",
+   "score": 0.149,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1368.49,
+   "t1": 1369.52,
+   "en": "The Red Gloves.",
+   "pt": "Como faço para ser um dos luvas vermelhas?",
+   "score": 0.291,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1379.5,
+   "t1": 1380.5,
+   "en": "It's all right.",
+   "pt": "Eu soube que um criminoso perigoso estava na cidade,",
+   "score": 0.215,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1380.55,
+   "t1": 1382.86,
+   "en": "Some vicious hoodlum apparently went wild.",
+   "pt": "Eu soube que um criminoso perigoso estava na cidade,",
+   "score": 0.261,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1383.01,
+   "t1": 1386.7,
+   "en": "Although, luckily, the police took proper care of her.",
+   "pt": "mas, felizmente, a polícia já conseguiu resolver o caso.",
+   "score": 0.365,
+   "overlap": 0.81,
+   "anchors": []
+  },
+  {
+   "t0": 1387.04,
+   "t1": 1388.09,
+   "en": "Thank the Goddess.",
+   "pt": "Lovada seja Deusa.",
+   "score": 0.412,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1388.94,
+   "t1": 1391.54,
+   "en": "Must have been why Klein seemed so bothered this morning.",
+   "pt": "O Clain estava tão atordoado e estressado essa manhã.",
+   "score": 0.352,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 1391.92,
+   "t1": 1393.44,
+   "en": "He really wasn't himself.",
+   "pt": "Devia ser por isso, não é?",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1393.58,
+   "t1": 1395.94,
+   "en": "Relax, Klein's just a history consultant.",
+   "pt": "O Clain é somente consultor de história. Não persegue criminosos.",
+   "score": 0.314,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1396.19,
+   "t1": 1397.49,
+   "en": "He's not chasing crooks.",
+   "pt": "O Clain é somente consultor de história. Não persegue criminosos.",
+   "score": 0.326,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1398.51,
+   "t1": 1400.85,
+   "en": "Oh, so that's why our thrifty little Melissa",
+   "pt": "Ah, por isso a sempre Regrada Milissa gastou cinco soles nessas entradas.",
+   "score": 0.281,
+   "overlap": 1.0,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1400.87,
+   "t1": 1403.17,
+   "en": "was willing to pay five soli for play tickets.",
+   "pt": "Ah, por isso a sempre Regrada Milissa gastou cinco soles nessas entradas.",
+   "score": 0.241,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1403.84,
+   "t1": 1407.05,
+   "en": "You hope to cheer him up and take his mind off work, eh?",
+   "pt": "Estava tentando fazer o Clain relaxar um pouco.",
+   "score": 0.26,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1467.07,
+   "t1": 1470.69,
+   "en": "\"The full face of the crimson moon illumines the land.\"",
+   "pt": "A lua carminha se levanta e ilumina a terra.",
+   "score": 0.358,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 1471.33,
+   "t1": 1475.52,
+   "en": "\"The flame of life is ephemeral, and the soil waits to extinguish it.\"",
+   "pt": "A chama da vida é breve, e o corpo, ao fim, retorna ao solo.",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1476.66,
+   "t1": 1480.58,
+   "en": "\"Yet a hero's soul is eternal, forever burning brilliantly.\"",
+   "pt": "A alma dos heróis é eterna, é uma chama que não se apaga.",
+   "score": 0.378,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1480.82,
+   "t1": 1483.32,
+   "en": "\"A searing blade cleaving through calamity.\"",
+   "pt": "É um espinho que corta o sofrimento, um requim para o mal.",
+   "score": 0.309,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1483.55,
+   "t1": 1486.48,
+   "en": "\"A scorching eulogy intoned over the ashes of evil.\"",
+   "pt": "É um espinho que corta o sofrimento, um requim para o mal.",
+   "score": 0.305,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1486.9,
+   "t1": 1490.68,
+   "en": "\"May the wild wind carry your endless blaze to the Goddess's kingdom.\"",
+   "pt": "Que o vento indomável o leve para o reino da deusa.",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1491.0,
+   "t1": 1494.05,
+   "en": "\"May you fuel the stars lighting the everlasting night.\"",
+   "pt": "Que estrelas iluminam em sua longa noite, e que possa retornar à sua pureza original.",
+   "score": 0.221,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1494.33,
+   "t1": 1497.13,
+   "en": "\"May you return to your original purity.\"",
+   "pt": "Que estrelas iluminam em sua longa noite, e que possa retornar à sua pureza original.",
+   "score": 0.331,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1497.61,
+   "t1": 1500.32,
+   "en": "\"The only tranquility is in rest.\"",
+   "pt": "Seu único destino é tranquilidade.",
+   "score": 0.406,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1501.04,
+   "t1": 1503.75,
+   "en": "\"The only tranquility is in rest.\"",
+   "pt": "Seu único destino é tranquilidade.",
+   "score": 0.406,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1504.41,
+   "t1": 1508.0,
+   "en": "\"The only tranquility is in rest.\"",
+   "pt": "Seu único destino é tranquilidade.",
+   "score": 0.406,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1549.52,
+   "t1": 1550.34,
+   "en": "I'm sorry.",
+   "pt": "Eu lamento muito, e não cheguei há tempo mais.",
+   "score": 0.151,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1551.2,
+   "t1": 1552.66,
+   "en": "I tried to make it in time.",
+   "pt": "Eu lamento muito, e não cheguei há tempo mais.",
+   "score": 0.371,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1554.82,
+   "t1": 1556.04,
+   "en": "I know the truth now.",
+   "pt": "Eu descobri quem foi que fez isso.",
+   "score": 0.302,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1557.31,
+   "t1": 1559.3,
+   "en": "And the mastermind will suffer.",
+   "pt": "Meu amigo.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1711.66,
+   "t1": 1713.39,
+   "en": "Guess this makes you a grave good.",
+   "pt": "Talvez seja um espírito que se arrastou pra fora do inferno em busca de vincança.",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1715.96,
+   "t1": 1718.54,
+   "en": "The question now, what am I?",
+   "pt": "Talvez seja um espírito que se arrastou pra fora do inferno em busca de vincança.",
+   "score": 0.302,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1736.18,
+   "t1": 1739.48,
+   "en": "Ince Zangwill, so he was the mastermind.",
+   "pt": "Sanguiu.",
+   "score": 0.178,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 1742.46,
+   "t1": 1745.54,
+   "en": "Could that be the power of Sealed Artifact 0-08?",
+   "pt": "Aquelas coincidências eram o poder do artefato 008.",
+   "score": 0.455,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1745.86,
+   "t1": 1747.92,
+   "en": "Its written word dictates reality.",
+   "pt": "Ele transforma em realidade tudo o que é escrito.",
+   "score": 0.321,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1748.46,
+   "t1": 1751.39,
+   "en": "No, it must control the will of its targets.",
+   "pt": "Não. Deve ter alguma limitação.",
+   "score": 0.169,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1751.7,
+   "t1": 1754.72,
+   "en": "Ince's only goal was to steal Saint Selena's ashes.",
+   "pt": "Ince estava atrás das cinzas de Santelena.",
+   "score": 0.462,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 1755.08,
+   "t1": 1756.38,
+   "en": "I was never his target.",
+   "pt": "Seu alvo não era eu.",
+   "score": 0.39,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1757.15,
+   "t1": 1760.27,
+   "en": "It was always the captain.",
+   "pt": "Era... o capitão.",
+   "score": 0.316,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 1765.9,
+   "t1": 1768.5,
+   "en": "The immediate locality of Ince Zangwill.",
+   "pt": "A cidade onde Ince Sanguiu está.",
+   "score": 0.371,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1770.24,
+   "t1": 1771.92,
+   "en": "The whereabouts of Lanevus.",
+   "pt": "Uma forma de me tornar mais forte.",
+   "score": 0.305,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1772.09,
+   "t1": 1774.17,
+   "en": "My best chance to grow stronger.",
+   "pt": "Uma forma de me tornar mais forte.",
+   "score": 0.375,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1791.39,
+   "t1": 1793.12,
+   "en": "It all leads to Backlund.",
+   "pt": "Backlands.",
+   "score": 0.424,
+   "overlap": 0.94,
+   "anchors": [
+    "backlund"
+   ]
+  },
+  {
+   "t0": 1812.88,
+   "t1": 1814.49,
+   "en": "We saved Tingen.",
+   "pt": "Nós salvamos Ince.",
+   "score": 0.5,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1935.93,
+   "t1": 1939.33,
+   "en": "The chrysanthemum, they symbolize happiness.",
+   "pt": "Um Cresântemo de se viria que simboliza alegria.",
+   "score": 0.337,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2063.15,
+   "t1": 2064.08,
+   "en": "Good day, sir.",
+   "pt": "Cresântemo de se viria.",
+   "score": 0.412,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2064.48,
+   "t1": 2065.82,
+   "en": "Might I ask your name?",
+   "pt": "Cresântemo de se viria.",
+   "score": 0.186,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2067.46,
+   "t1": 2068.46,
+   "en": "It's Sherlock.",
+   "pt": "Cresântemo de se viria.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2069.06,
+   "t1": 2070.43,
+   "en": "Sherlock Moriarty.",
+   "pt": "Cresântemo de se viria.",
+   "score": 0.359,
+   "overlap": 1.0,
+   "anchors": []
+  }
+ ],
+ "lexicon": {
+  "antigonos": "antigonus",
+  "backlands": "backlund",
+  "beyonders": "beyonder",
+  "dali": "daly",
+  "leona": "leonard",
+  "milissa": "melissa",
+  "morete": "moretti",
+  "tinge": "tingen"
+ }
+}

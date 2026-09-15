@@ -1,0 +1,137 @@
+{
+ "melissa-N5p8G7GyMa8": {
+  "speakers": {
+   "SPEAKER_02": {
+    "f0_med": 124.0,
+    "n": 1,
+    "tot_s": 1.1
+   },
+   "SPEAKER_03": {
+    "f0_med": 222.5,
+    "n": 2,
+    "tot_s": 2.3
+   },
+   "SPEAKER_01": {
+    "f0_med": 167.4,
+    "n": 4,
+    "tot_s": 5.6
+   },
+   "SPEAKER_04": {
+    "f0_med": 158.6,
+    "n": 2,
+    "tot_s": 2.6
+   },
+   "SPEAKER_07": {
+    "f0_med": 97.3,
+    "n": 1,
+    "tot_s": 1.5
+   },
+   "SPEAKER_05": {
+    "f0_med": 209.7,
+    "n": 1,
+    "tot_s": 1.1
+   },
+   "SPEAKER_00": {
+    "f0_med": 82.7,
+    "n": 1,
+    "tot_s": 2.3
+   }
+  },
+  "candidatas": []
+ },
+ "melissa-pUslfDNjd64": {
+  "speakers": {
+   "SPEAKER_01": {
+    "f0_med": 331.6,
+    "n": 2,
+    "tot_s": 6.2
+   },
+   "SPEAKER_00": {
+    "f0_med": 138.3,
+    "n": 1,
+    "tot_s": 1.8
+   }
+  },
+  "candidatas": []
+ },
+ "melissa-rmLPD8O9w-A": {
+  "speakers": {
+   "SPEAKER_03": {
+    "f0_med": 184.7,
+    "n": 1,
+    "tot_s": 1.4
+   },
+   "SPEAKER_06": {
+    "f0_med": 93.9,
+    "n": 1,
+    "tot_s": 1.2
+   },
+   "SPEAKER_00": {
+    "f0_med": 173.5,
+    "n": 2,
+    "tot_s": 3.6
+   },
+   "SPEAKER_05": {
+    "f0_med": 124.7,
+    "n": 2,
+    "tot_s": 3.8
+   },
+   "SPEAKER_02": {
+    "f0_med": 159.8,
+    "n": 1,
+    "tot_s": 1.5
+   },
+   "SPEAKER_01": {
+    "f0_med": 208.5,
+    "n": 1,
+    "tot_s": 1.0
+   },
+   "SPEAKER_07": {
+    "f0_med": 180.5,
+    "n": 1,
+    "tot_s": 1.4
+   }
+  },
+  "candidatas": []
+ },
+ "melissa-uy2ZatxciEg": {
+  "speakers": {
+   "SPEAKER_00": {
+    "f0_med": 166.4,
+    "n": 3,
+    "tot_s": 14.0
+   },
+   "SPEAKER_06": {
+    "f0_med": 146.2,
+    "n": 4,
+    "tot_s": 18.1
+   },
+   "SPEAKER_03": {
+    "f0_med": 124.7,
+    "n": 5,
+    "tot_s": 13.1
+   },
+   "SPEAKER_04": {
+    "f0_med": 109.2,
+    "n": 5,
+    "tot_s": 12.7
+   },
+   "SPEAKER_02": {
+    "f0_med": 126.5,
+    "n": 4,
+    "tot_s": 11.1
+   },
+   "SPEAKER_05": {
+    "f0_med": 142.2,
+    "n": 4,
+    "tot_s": 7.8
+   },
+   "SPEAKER_01": {
+    "f0_med": 132.9,
+    "n": 5,
+    "tot_s": 13.2
+   }
+  },
+  "candidatas": []
+ }
+}

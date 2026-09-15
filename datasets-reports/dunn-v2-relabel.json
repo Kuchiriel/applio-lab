@@ -1,0 +1,1382 @@
+{
+ "ep10-00310.wav": {
+  "ep": 10,
+  "start": 310,
+  "janela": [
+   308.0,
+   327.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Fugiu com artefato selado 008 e nunca foi encontrado. | Errou meu. Ele era um arcebispo. Perdeu controle há três ano | Errou meu. Ele era um arcebispo. Perdeu controle há três ano",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.111,
+    "AUDREY": 0.212
+   }
+  }
+ },
+ "ep10-00332.wav": {
+  "ep": 10,
+  "start": 332,
+  "janela": [
+   330.0,
+   349.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O que é o artefato 008? | Um artefato selado de nível zero, o nível mais alto de sigil | Não se pode perguntar, descrevê-lo, dar informações ou inspe",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.081,
+    "AUDREY": 0.164
+   }
+  }
+ },
+ "ep10-00337.wav": {
+  "ep": 10,
+  "start": 337,
+  "janela": [
+   335.0,
+   354.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "Um artefato selado de nível zero, o nível mais alto de sigil | Não se pode perguntar, descrevê-lo, dar informações ou inspe | Sobre o 008, só se sabe que se parece com uma pena comum e e",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.11,
+    "AUDREY": 0.287
+   }
+  }
+ },
+ "ep10-00342.wav": {
+  "ep": 10,
+  "start": 342,
+  "janela": [
+   340.0,
+   359.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "Não se pode perguntar, descrevê-lo, dar informações ou inspe | Sobre o 008, só se sabe que se parece com uma pena comum e e | Sobre o 008, só se sabe que se parece com uma pena comum e e",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.072,
+    "AUDREY": 0.132
+   }
+  }
+ },
+ "ep10-00346.wav": {
+  "ep": 10,
+  "start": 346,
+  "janela": [
+   344.0,
+   363.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "Sobre o 008, só se sabe que se parece com uma pena comum e e | Sobre o 008, só se sabe que se parece com uma pena comum e e | Sobre o 008, só se sabe que se parece com uma pena comum e e",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.297,
+    "AUDREY": 0.314
+   }
+  }
+ },
+ "ep10-00352.wav": {
+  "ep": 10,
+  "start": 352,
+  "janela": [
+   350.0,
+   369.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "Após um bião dele perder o controle e morrer. | Ele deixa objetos com poder extraordinário concentrado. | Se não puderem ser controlados, devem ser selados.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.101,
+    "AUDREY": 0.132
+   }
+  }
+ },
+ "ep10-00355.wav": {
+  "ep": 10,
+  "start": 355,
+  "janela": [
+   353.0,
+   372.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Ele deixa objetos com poder extraordinário concentrado. | Se não puderem ser controlados, devem ser selados. | Essa é uma origem dos artefatos selados.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.136,
+    "AUDREY": 0.237
+   }
+  }
+ },
+ "ep10-00368.wav": {
+  "ep": 10,
+  "start": 368,
+  "janela": [
+   366.0,
+   385.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Há coisas que é melhor não saber. | Gaviões da noite, castigadores mandatados, mente coletiva me | Todos podem perder o controle ou morrer em combate.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.151,
+    "AUDREY": 0.22
+   }
+  }
+ },
+ "ep10-00416.wav": {
+  "ep": 10,
+  "start": 416,
+  "janela": [
+   414.0,
+   433.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Um baralho de tarô, vinte e duas cartas. | Todas são incrustadas com fios de prata e outros metais. | Funcionam bem contra mortos vivos.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.056,
+    "AUDREY": 0.04
+   }
+  }
+ },
+ "ep10-00444.wav": {
+  "ep": 10,
+  "start": 444,
+  "janela": [
+   442.0,
+   461.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "No futuro ensinarei técnicas de combate e a usar a força. | No futuro ensinarei técnicas de combate e a usar a força. | No futuro ensinarei técnicas de combate e a usar a força.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.097,
+    "AUDREY": 0.274
+   }
+  }
+ },
+ "ep10-00448.wav": {
+  "ep": 10,
+  "start": 448,
+  "janela": [
+   446.0,
+   465.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "No futuro ensinarei técnicas de combate e a usar a força. | No futuro ensinarei técnicas de combate e a usar a força. | Deverei aprofundar o conhecimento sobre o mundo espiritual.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.136,
+    "AUDREY": 0.213
+   }
+  }
+ },
+ "ep10-00757.wav": {
+  "ep": 10,
+  "start": 757,
+  "janela": [
+   755.0,
+   774.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "spectator"
+  ],
+  "anchors": [
+   "spectator"
+  ],
+  "pt": "Acidentalmente revelou-se os poderes de Bionda. | Recentemente, ele enlouqueceu. | Achamos que seja um psiquiatra sequência 7.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.289,
+    "AUDREY": 0.125
+   }
+  }
+ },
+ "ep10-00766.wav": {
+  "ep": 10,
+  "start": 766,
+  "janela": [
+   764.0,
+   783.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "spectator"
+  ],
+  "anchors": [
+   "spectator"
+  ],
+  "pt": "Tente usar sua magia ritualística. | Tente usar sua magia ritualística. | Sua defesa mental é muito forte. Tome cuidado.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.245,
+    "AUDREY": 0.161
+   }
+  }
+ },
+ "ep10-01188.wav": {
+  "ep": 10,
+  "start": 1188,
+  "janela": [
+   1186.0,
+   1205.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Então, não foi à toa que Will Dean perdeu o controle. | Se saltar tem a ver com o verdadeiro criador. | É provável que esteja relacionado à ordem da aurora.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.262,
+    "AUDREY": 0.304
+   }
+  }
+ },
+ "ep10-01197.wav": {
+  "ep": 10,
+  "start": 1197,
+  "janela": [
+   1195.0,
+   1214.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "tingen"
+  ],
+  "pt": "E os alquimistas da psicologia devem se transformar. | E os alquimistas da psicologia devem se transformar. | E os alquimistas da psicologia devem estar nos bastidores,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.123,
+    "AUDREY": 0.32
+   }
+  }
+ },
+ "ep11-00305.wav": {
+  "ep": 11,
+  "start": 305,
+  "janela": [
+   303.0,
+   322.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Entendido.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.036,
+    "AUDREY": 0.18
+   }
+  }
+ },
+ "ep11-00337.wav": {
+  "ep": 11,
+  "start": 337,
+  "janela": [
+   335.0,
+   354.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Nova moda na alta sociedade. | Nova moda na alta sociedade. | Ouvi dizer que uma poção disso pode satisfazer homens e mulh",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.228,
+    "AUDREY": 0.109
+   }
+  }
+ },
+ "ep11-00895.wav": {
+  "ep": 11,
+  "start": 895,
+  "janela": [
+   893.0,
+   912.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Diga ao Frye para cobrir a guarda do portão de Shanice. | Chame Kenley. | Vou solicitar o artefato que restringe a demônia.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.146,
+    "AUDREY": 0.178
+   }
+  }
+ },
+ "ep11-01007.wav": {
+  "ep": 11,
+  "start": 1007,
+  "janela": [
+   1005.0,
+   1024.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Lembrem-se. | Até mesmo um fragmento pode transformá-las em um pó. | Até mesmo um fragmento pode transformá-las em um pó.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.133,
+    "AUDREY": 0.298
+   }
+  }
+ },
+ "ep11-01015.wav": {
+  "ep": 11,
+  "start": 1015,
+  "janela": [
+   1013.0,
+   1032.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Lembrem-se. | Não apontem o 30217 para seus colegas. | Vou puxá-la a distância para...",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.238,
+    "AUDREY": 0.058
+   }
+  }
+ },
+ "ep12-00251.wav": {
+  "ep": 12,
+  "start": 251,
+  "janela": [
+   249.0,
+   268.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "klein",
+   "tingen"
+  ],
+  "pt": "O clã canalizou o espírito da Sharon Koye. A seita da demôni | Isso tem ligação com o caso da Nevos e o dia da destruição d | Isso tem ligação com o caso da Nevos e o dia da destruição d",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.04,
+    "AUDREY": 0.173
+   }
+  }
+ },
+ "ep12-00271.wav": {
+  "ep": 12,
+  "start": 271,
+  "janela": [
+   269.0,
+   288.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A Sharon Koye era uma peça-chave no dia da destruição. Mas u | A Sharon Koye era uma peça-chave no dia da destruição. Mas u",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.18,
+    "AUDREY": 0.06
+   }
+  }
+ },
+ "ep12-01086.wav": {
+  "ep": 12,
+  "start": 1086,
+  "janela": [
+   1084.0,
+   1103.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Onde estão Fry e Royal? | Ainda não voltaram. | Peça que os civis saiam do prédio",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.725,
+    "AUDREY": 0.262
+   }
+  }
+ },
+ "ep12-01118.wav": {
+  "ep": 12,
+  "start": 1118,
+  "janela": [
+   1116.0,
+   1135.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "tingen"
+  ],
+  "pt": "é uma criatura mística de no mínimo sequência 4. | os castigadores mandatados e da mente coletiva mecânica. | Uma criatura mística de sequência 4.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.377,
+    "AUDREY": 0.121
+   }
+  }
+ },
+ "ep12-01162.wav": {
+  "ep": 12,
+  "start": 1162,
+  "janela": [
+   1160.0,
+   1179.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "backlund"
+  ],
+  "anchors": [
+   "backlund"
+  ],
+  "pt": "Pegue dois artefatos selados ofensivos. | Hoje só a entende em três artefatos selados de nível 2 | e não sabemos o efeito de dois deles sobre sequências altas.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.591,
+    "AUDREY": 0.151
+   }
+  }
+ },
+ "ep12-01182.wav": {
+  "ep": 12,
+  "start": 1182,
+  "janela": [
+   1180.0,
+   1199.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "backlund"
+  ],
+  "anchors": [
+   "backlund"
+  ],
+  "pt": "e não sabemos o efeito de dois deles sobre sequências altas. | O 2105, o ladrão de vasos sanguíneos, | O que é isso?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.039,
+    "AUDREY": 0.147
+   }
+  }
+ },
+ "ep12-01186.wav": {
+  "ep": 12,
+  "start": 1186,
+  "janela": [
+   1184.0,
+   1203.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O que é isso? | O que é isso? | O 2105, ladrão de vasos sanguíneos,",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.244,
+    "AUDREY": 0.193
+   }
+  }
+ },
+ "ep12-01189.wav": {
+  "ep": 12,
+  "start": 1189,
+  "janela": [
+   1187.0,
+   1206.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O que é isso? | O 2105, ladrão de vasos sanguíneos, | Ele pode roubar uma habilidade de um alvo dentro de um certo",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.024,
+    "AUDREY": 0.158
+   }
+  }
+ },
+ "ep12-01195.wav": {
+  "ep": 12,
+  "start": 1195,
+  "janela": [
+   1193.0,
+   1212.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "leonard"
+  ],
+  "anchors": [
+   "leonard"
+  ],
+  "pt": "Ele pode roubar uma habilidade de um alvo dentro de um certo | mas a chance de sucesso é uma pequena. | mas a chance de sucesso é uma pequena.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.561,
+    "AUDREY": 0.23
+   }
+  }
+ },
+ "ep12-01200.wav": {
+  "ep": 12,
+  "start": 1200,
+  "janela": [
+   1198.0,
+   1217.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "leonard"
+  ],
+  "anchors": [
+   "leonard"
+  ],
+  "pt": "mas a chance de sucesso é uma pequena. | Qualquer pessoa que tenha contato com o 2105 tem sua vida ro | Lembre-se, o limite para um sequência 8 é de meia hora.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.287,
+    "AUDREY": 0.127
+   }
+  }
+ },
+ "ep12-01332.wav": {
+  "ep": 12,
+  "start": 1332,
+  "janela": [
+   1330.0,
+   1349.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A Catedral Sagrada respondeu. | Agora o que precisamos é tempo. | Eu espero que o receptáculo dentro do negocio possa esperar.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.289,
+    "AUDREY": 0.224
+   }
+  }
+ },
+ "ep12-01416.wav": {
+  "ep": 12,
+  "start": 1416,
+  "janela": [
+   1414.0,
+   1433.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "daly"
+  ],
+  "anchors": [
+   "daly"
+  ],
+  "pt": "Eu já ia esquecendo. | Eu já ia esquecendo. | Eu já ia esquecendo.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.598,
+    "AUDREY": 0.114
+   }
+  }
+ },
+ "ep12-01438.wav": {
+  "ep": 12,
+  "start": 1438,
+  "janela": [
+   1436.0,
+   1455.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "No mestizismo existe uma lei. | As características de um Beyonder nunca serão destruídas ou  | São apenas transferidas de um portador para o próximo.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.191,
+    "AUDREY": 0.193
+   }
+  }
+ },
+ "ep12-01443.wav": {
+  "ep": 12,
+  "start": 1443,
+  "janela": [
+   1441.0,
+   1460.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "As características de um Beyonder nunca serão destruídas ou  | São apenas transferidas de um portador para o próximo. | Quando eu e a Dali descobrimos isso, a Catedral Sagrada nos ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.196,
+    "AUDREY": 0.211
+   }
+  }
+ },
+ "ep5-00235.wav": {
+  "ep": 5,
+  "start": 235,
+  "janela": [
+   233.0,
+   252.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Eu gostaria de saber da situação do meu noivo. Ele está a bo | Tem, Capitão. | Eu gostaria de saber da situação do meu noivo. Ele está a bo",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.131,
+    "AUDREY": 0.091
+   }
+  }
+ },
+ "ep5-00474.wav": {
+  "ep": 5,
+  "start": 474,
+  "janela": [
+   472.0,
+   491.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Para condenar um herói reconhecido publicamente. | Precisamos de provas conclusivas. | Solicitarei uma investigação conjunta.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.52,
+    "AUDREY": 0.189
+   }
+  }
+ },
+ "ep5-00480.wav": {
+  "ep": 5,
+  "start": 480,
+  "janela": [
+   478.0,
+   497.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Solicitarei uma investigação conjunta. | Com os justiceiros mandatados e a mente coletiva mecânica.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.362,
+    "AUDREY": 0.185
+   }
+  }
+ },
+ "ep5-00848.wav": {
+  "ep": 5,
+  "start": 848,
+  "janela": [
+   846.0,
+   865.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Chegamos um pouco tarde. | Venha comigo. | Precisamos da sua busca radiestésica.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.668,
+    "AUDREY": 0.217
+   }
+  }
+ },
+ "ep5-00889.wav": {
+  "ep": 5,
+  "start": 889,
+  "janela": [
+   887.0,
+   906.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder",
+   "tingen"
+  ],
+  "anchors": [
+   "beyonder",
+   "tingen"
+  ],
+  "pt": "O que é isso? | O que é isso? | Já começamos uma investigação conjunta por toda a cidade.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.514,
+    "AUDREY": 0.153
+   }
+  }
+ },
+ "ep5-00893.wav": {
+  "ep": 5,
+  "start": 893,
+  "janela": [
+   891.0,
+   910.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder",
+   "tingen"
+  ],
+  "anchors": [
+   "beyonder",
+   "tingen"
+  ],
+  "pt": "O que é isso? | O que é isso? | Já começamos uma investigação conjunta por toda a cidade.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.537,
+    "AUDREY": 0.252
+   }
+  }
+ },
+ "ep5-00902.wav": {
+  "ep": 5,
+  "start": 902,
+  "janela": [
+   900.0,
+   919.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Uma organização maligna que gosta de espalhar desastres. | Eles adoram o ser oculto chamado de demônia primordial. | Sua alta vúpula é composta só por mulheres.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.214,
+    "AUDREY": 0.163
+   }
+  }
+ },
+ "ep5-01136.wav": {
+  "ep": 5,
+  "start": 1136,
+  "janela": [
+   1134.0,
+   1153.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder",
+   "tingen"
+  ],
+  "anchors": [
+   "beyonder",
+   "tingen"
+  ],
+  "pt": "descartar a possibilidade de haver um instigador. | descartar a possibilidade de haver um instigador. | descartar a possibilidade de haver um instigador.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.48,
+    "AUDREY": 0.257
+   }
+  }
+ },
+ "ep5-01147.wav": {
+  "ep": 5,
+  "start": 1147,
+  "janela": [
+   1145.0,
+   1164.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "Então está me dizendo que tris e essa mulher beyonder estão  | Minha opinião pessoal é que todos os incidentes estão ligado | Minha opinião pessoal é que todos os incidentes estão ligado",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.322,
+    "AUDREY": 0.189
+   }
+  }
+ },
+ "ep5-01235.wav": {
+  "ep": 5,
+  "start": 1235,
+  "janela": [
+   1233.0,
+   1252.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "De fato, isso se encaixa com usurpação da vida. | Empeça um ritual. | Sim.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.195,
+    "AUDREY": 0.228
+   }
+  }
+ },
+ "ep5-01459.wav": {
+  "ep": 5,
+  "start": 1459,
+  "janela": [
+   1457.0,
+   1476.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "leonard"
+  ],
+  "anchors": [
+   "leonard"
+  ],
+  "pt": "O que é isso? | O que é isso? | Se vocês tiverem perigo, recui imediatamente.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.269,
+    "AUDREY": 0.077
+   }
+  }
+ },
+ "ep5-01525.wav": {
+  "ep": 5,
+  "start": 1525,
+  "janela": [
+   1523.0,
+   1542.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "leonard"
+  ],
+  "anchors": [
+   "leonard"
+  ],
+  "pt": "Sigam os movimentos do alvo. | Leonágia esquerda. | Sigam os movimentos do alvo.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.126,
+    "AUDREY": 0.112
+   }
+  }
+ },
+ "ep5-01784.wav": {
+  "ep": 5,
+  "start": 1784,
+  "janela": [
+   1782.0,
+   1801.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Essa mulher Beyonder se parece muito contrês. | Alguma pista do Triss? | Alguma pista do Triss?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.091,
+    "AUDREY": 0.116
+   }
+  }
+ },
+ "ep6-00155.wav": {
+  "ep": 6,
+  "start": 155,
+  "janela": [
+   153.0,
+   172.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Por isso, trouxemos o 30782, o emblema sagrado do sol em mut | O 30782 faz com que fantasmas no raio de 15 metros se disper | E em 6 horas, faz com que beyonders na sua área de feito se ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.138,
+    "AUDREY": 0.23
+   }
+  }
+ },
+ "ep6-00160.wav": {
+  "ep": 6,
+  "start": 160,
+  "janela": [
+   158.0,
+   177.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O 30782 faz com que fantasmas no raio de 15 metros se disper | E em 6 horas, faz com que beyonders na sua área de feito se  | E em 6 horas, faz com que beyonders na sua área de feito se ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.136,
+    "AUDREY": 0.17
+   }
+  }
+ },
+ "ep6-00351.wav": {
+  "ep": 6,
+  "start": 351,
+  "janela": [
+   349.0,
+   368.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Capitão, esse fantasma é muito macabro. Tem profundo apego a | Capitão, esse fantasma é muito macabro. Tem profundo apego a | Realmente, fantasmas desse nível têm pelo menos centenas de ",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.135,
+    "AUDREY": 0.114
+   }
+  }
+ },
+ "ep6-00355.wav": {
+  "ep": 6,
+  "start": 355,
+  "janela": [
+   353.0,
+   372.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Realmente, fantasmas desse nível têm pelo menos centenas de  | Realmente, fantasmas desse nível têm pelo menos centenas de  | A Era dos Castelos acabou há muito tempo e há muito folclore",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.086,
+    "AUDREY": 0.095
+   }
+  }
+ },
+ "ep6-00386.wav": {
+  "ep": 6,
+  "start": 386,
+  "janela": [
+   384.0,
+   403.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Pode ter sido quando esse castelo foi construído. | Ele pode ser o mestre do castelo, o primeiro baronete de Lam | Segundo as lendas, ele desapareceu misteriosamente.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.09,
+    "AUDREY": 0.225
+   }
+  }
+ },
+ "ep6-00415.wav": {
+  "ep": 6,
+  "start": 415,
+  "janela": [
+   413.0,
+   432.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Creio que purificamos todos os fantasmas daqui. | No entanto, devido a suas características, precisamos contin | No entanto, devido a suas características, precisamos contin",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.324,
+    "AUDREY": 0.112
+   }
+  }
+ },
+ "ep6-00422.wav": {
+  "ep": 6,
+  "start": 422,
+  "janela": [
+   420.0,
+   439.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Como de costume, um vai vigiar com o 30782 enquanto os outro | Como de costume, um vai vigiar com o 30782 enquanto os outro | Como de costume, um vai vigiar com o 30782 enquanto os outro",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.355,
+    "AUDREY": 0.172
+   }
+  }
+ },
+ "ep6-00430.wav": {
+  "ep": 6,
+  "start": 430,
+  "janela": [
+   428.0,
+   447.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Faremos turnos de duas horas. | Eu fico primeiro, capitão. Vão descansar. | Eu fico primeiro, capitão. Vão descansar.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.784,
+    "AUDREY": 0.192
+   }
+  }
+ },
+ "ep6-00732.wav": {
+  "ep": 6,
+  "start": 732,
+  "janela": [
+   730.0,
+   749.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Os problemas no castelo foram resolvidos. | A senhorita que pediu a interpretação do sonho está livre da | Levaremos o 30782 de volta para Blackthorn. Tente descansar.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.201,
+    "AUDREY": 0.071
+   }
+  }
+ },
+ "ep6-00735.wav": {
+  "ep": 6,
+  "start": 735,
+  "janela": [
+   733.0,
+   752.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Os problemas no castelo foram resolvidos. | A senhorita que pediu a interpretação do sonho está livre da | Levaremos o 30782 de volta para Blackthorn. Tente descansar.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.173,
+    "AUDREY": 0.211
+   }
+  }
+ },
+ "ep6-00741.wav": {
+  "ep": 6,
+  "start": 741,
+  "janela": [
+   739.0,
+   758.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Levaremos o 30782 de volta para Blackthorn. Tente descansar. | Bom trabalho, Clain.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.025,
+    "AUDREY": 0.212
+   }
+  }
+ },
+ "ep7-00294.wav": {
+  "ep": 7,
+  "start": 294,
+  "janela": [
+   292.0,
+   311.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "chanis gate"
+  ],
+  "anchors": [
+   "chanis gate"
+  ],
+  "pt": "é melhor ficarmos de olhos bem abertos. | Você pode assumir o lugar do Fry e cuidar do Portão de Shani | Ah, o é só eu?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.242,
+    "AUDREY": 0.297
+   }
+  }
+ },
+ "ep7-00313.wav": {
+  "ep": 7,
+  "start": 313,
+  "janela": [
+   311.0,
+   330.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Isso me deixa ainda mais nervoso. | Apropósito, faz dois meses que entrou nos gaviões da noite. | Faça seu relatório de desempenho para a avaliação.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.061,
+    "AUDREY": 0.133
+   }
+  }
+ },
+ "ep7-01402.wav": {
+  "ep": 7,
+  "start": 1402,
+  "janela": [
+   1400.0,
+   1419.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "O que é isso? | O que é isso? | Sua sorte pode te salvar um ou duas vezes.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.104,
+    "AUDREY": 0.172
+   }
+  }
+ },
+ "ep7-01409.wav": {
+  "ep": 7,
+  "start": 1409,
+  "janela": [
+   1407.0,
+   1426.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "O que é isso? | Sua sorte pode te salvar um ou duas vezes. | Mas não sempre.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.257,
+    "AUDREY": 0.157
+   }
+  }
+ },
+ "ep8-00670.wav": {
+  "ep": 8,
+  "start": 670,
+  "janela": [
+   668.0,
+   687.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Então, nesse caso, o artefato 30782 pode ser útil. | Então, nesse caso, o artefato 30782 pode ser útil. | É verdade.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.121,
+    "AUDREY": 0.249
+   }
+  }
+ },
+ "ep8-00687.wav": {
+  "ep": 8,
+  "start": 687,
+  "janela": [
+   685.0,
+   704.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O cais é densamente povoado. | Se houver pessoas comuns por perto, | que só sabem louvar o sol.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.065,
+    "AUDREY": 0.185
+   }
+  }
+ },
+ "ep9-00465.wav": {
+  "ep": 9,
+  "start": 465,
+  "janela": [
+   463.0,
+   482.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Sua força é comparável a de um semideus de sequência 4. | e realizar uma avaliação de promoção para a sequência 8. | Se fosse só uma avaliação, não seria numa sala de interrogat",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.073,
+    "AUDREY": 0.184
+   }
+  }
+ },
+ "ep9-00961.wav": {
+  "ep": 9,
+  "start": 961,
+  "janela": [
+   959.0,
+   978.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "chanis gate"
+  ],
+  "anchors": [
+   "chanis gate"
+  ],
+  "pt": "Depois do expediente, | Depois do expediente, | Está bem?",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.64,
+    "AUDREY": 0.235
+   }
+  }
+ },
+ "ep9-01147.wav": {
+  "ep": 9,
+  "start": 1147,
+  "janela": [
+   1145.0,
+   1164.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "deixe-nos ver como está. | deixe-nos ver como está.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.506,
+    "AUDREY": 0.308
+   }
+  }
+ }
+}

@@ -1,0 +1,3334 @@
+{
+ "meta": {
+  "ep": 5,
+  "total_en": 379,
+  "matched": 362,
+  "alta_conf": 72,
+  "skew_medio_s": -0.3,
+  "fonte_en": "anchors-en/ep05.json",
+  "fonte_pt": "ep5/vocals.srt (whisper-small)"
+ },
+ "spans": [
+  {
+   "t0": 85.86,
+   "t1": 87.66,
+   "en": "Gathering for the survivors  and families of the Alfalfa Tragedy",
+   "pt": "Ao beber em certas poções, humanos comuns podem obter os poderes de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.283,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 240.82,
+   "t1": 243.82,
+   "en": "One Week Earlier — The Divination Club",
+   "pt": "Eu gostaria de saber da situação do meu noivo. Ele está a bordo do Alphafa, que começou sua viagem de volta a um mês.",
+   "score": 0.227,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 325.54,
+   "t1": 329.54,
+   "en": "Topaz Room",
+   "pt": "eu tenho o mesmo pesadelo todas as noites.",
+   "score": 0.196,
+   "overlap": 0.62,
+   "anchors": []
+  },
+  {
+   "t0": 532.66,
+   "t1": 536.5,
+   "en": "Assassin Pathway Sequence 8 Instigator Tris",
+   "pt": "O que pode haver de mais estasiante e satisfatória?",
+   "score": 0.33,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 1068.9,
+   "t1": 1073.74,
+   "en": "August 11th, 11pm, West Borough Workhouse:  Bankrupt Businessman, Salus, commits arson as an act of revenge",
+   "pt": "Em sua maioria, trabalhadores de baixa renda e pessoas sem teto.",
+   "score": 0.289,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 1074.82,
+   "t1": 1077.78,
+   "en": "August 11th, 10pm: Dock worker named Sid  commits suicide in the river due to extreme poverty",
+   "pt": "Gente na extrema pobreza ou com enfermidades.",
+   "score": 0.277,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1085.06,
+   "t1": 1087.86,
+   "en": "August 11th, 8pm. Lower Iron Cross Street:  Mrs. Lewis dies from exhaustion due to her heart illness",
+   "pt": "Uma vez doente, é difícil escapar da morte.",
+   "score": 0.241,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1134.9,
+   "t1": 1141.66,
+   "en": "Sailor Pathway, Sequence 8 Folk of Rage Tingen City Mandated Punisher Squad Captain Havre",
+   "pt": "descartar a possibilidade de haver um instigador.",
+   "score": 0.194,
+   "overlap": 0.44,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1544.62,
+   "t1": 1546.26,
+   "en": "Four Ranks of Dead Soul-Type Monsters  Remnants of Resentment, Shadows, Wraiths, Evil Spirits",
+   "pt": "Sombra-se.",
+   "score": 0.122,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 34.24,
+   "t1": 37.16,
+   "en": "In the hidden world of Beyonders,",
+   "pt": "Este é o mundo dos Beyonders. Ao beber em certas poções, humanos comuns podem obter",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 37.36,
+   "t1": 40.4,
+   "en": "humans must depend upon a variety of potions",
+   "pt": "Este é o mundo dos Beyonders. Ao beber em certas poções, humanos comuns podem obter",
+   "score": 0.224,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 40.6,
+   "t1": 43.44,
+   "en": "to travel the path of supreme ascension",
+   "pt": "os poderes dos Beyonders. Eles se tornam capazes de acender a divindade. Os 22 começam com",
+   "score": 0.242,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 43.64,
+   "t1": 46.8,
+   "en": "and attain the occult powers of the Beyonder.",
+   "pt": "os poderes dos Beyonders. Eles se tornam capazes de acender a divindade. Os 22 começam com",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 47.0,
+   "t1": 49.24,
+   "en": "There are 22 pathways,",
+   "pt": "mais fraco, a sequência 9. Quanto menor o número da sequência, mais poderosas as habilidades",
+   "score": 0.152,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 49.44,
+   "t1": 51.92,
+   "en": "each beginning with Sequence 9.",
+   "pt": "mais fraco, a sequência 9. Quanto menor o número da sequência, mais poderosas as habilidades",
+   "score": 0.209,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 52.12,
+   "t1": 54.64,
+   "en": "The lower one descends in the Sequence,",
+   "pt": "mais fraco, a sequência 9. Quanto menor o número da sequência, mais poderosas as habilidades",
+   "score": 0.192,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 54.84,
+   "t1": 58.0,
+   "en": "the greater their Beyonder powers become.",
+   "pt": "do Beyonder. Beyonders de sequências de nível mais alto dispõem de poderes grandes o bastante",
+   "score": 0.318,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 58.2,
+   "t1": 60.6,
+   "en": "Through this enlightened progression,",
+   "pt": "do Beyonder. Beyonders de sequências de nível mais alto dispõem de poderes grandes o bastante",
+   "score": 0.281,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 60.8,
+   "t1": 65.16,
+   "en": "the Beyonder achieves powers strong enough to rival gods.",
+   "pt": "para rivalizar com os deuses. O caminho da evolução é chamado o caminho do divino.",
+   "score": 0.176,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 65.56,
+   "t1": 69.28,
+   "en": "Completing this evolution is an exceptional feat.",
+   "pt": "para rivalizar com os deuses. O caminho da evolução é chamado o caminho do divino.",
+   "score": 0.266,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 69.48,
+   "t1": 72.48,
+   "en": "It is the Path of the Divine.",
+   "pt": "para rivalizar com os deuses. O caminho da evolução é chamado o caminho do divino.",
+   "score": 0.296,
+   "overlap": 0.54,
+   "anchors": []
+  },
+  {
+   "t0": 184.56,
+   "t1": 185.71,
+   "en": "Tris! Tris!",
+   "pt": "Perdão, Capitão. Não ia escutar a Sra. Dali? Não. O quartel-general mandou o pessoal levar o caderno para",
+   "score": 0.11,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 185.72,
+   "t1": 188.32,
+   "en": "Captain, I thought Miss Daly was joining you.",
+   "pt": "Perdão, Capitão. Não ia escutar a Sra. Dali? Não. O quartel-general mandou o pessoal levar o caderno para",
+   "score": 0.266,
+   "overlap": 1.0,
+   "anchors": [
+    "daly"
+   ]
+  },
+  {
+   "t0": 188.52,
+   "t1": 189.6,
+   "en": "Oh, she joined the team",
+   "pt": "Perdão, Capitão. Não ia escutar a Sra. Dali? Não. O quartel-general mandou o pessoal levar o caderno para",
+   "score": 0.213,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 189.8,
+   "t1": 191.92,
+   "en": "sent to retrieve the Antigonus Notebook.",
+   "pt": "Perdão, Capitão. Não ia escutar a Sra. Dali? Não. O quartel-general mandou o pessoal levar o caderno para",
+   "score": 0.173,
+   "overlap": 1.0,
+   "anchors": [
+    "antigonus"
+   ]
+  },
+  {
+   "t0": 192.36,
+   "t1": 194.88,
+   "en": "They're on the way to Backlund.",
+   "pt": "Backland. A Sra. Dali foi com eles. O senhor ainda não se recuperou? Sorte não ter sido infectado.",
+   "score": 0.114,
+   "overlap": 1.0,
+   "anchors": [
+    "backlund"
+   ]
+  },
+  {
+   "t0": 195.08,
+   "t1": 196.8,
+   "en": "You haven't recovered yet?",
+   "pt": "Backland. A Sra. Dali foi com eles. O senhor ainda não se recuperou? Sorte não ter sido infectado.",
+   "score": 0.254,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 197.24,
+   "t1": 199.16,
+   "en": "My body needs time.",
+   "pt": "Backland. A Sra. Dali foi com eles. O senhor ainda não se recuperou? Sorte não ter sido infectado.",
+   "score": 0.234,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 199.36,
+   "t1": 201.32,
+   "en": "It's pure luck I wasn't infected.",
+   "pt": "Por que aquele palhaço causou um belo choque na minha espiritualidade? Segundo registros, o verdadeiro",
+   "score": 0.106,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 201.52,
+   "t1": 204.52,
+   "en": "That hanging behemoth sapped my spirituality.",
+   "pt": "Por que aquele palhaço causou um belo choque na minha espiritualidade? Segundo registros, o verdadeiro",
+   "score": 0.347,
+   "overlap": 1.0,
+   "anchors": [
+    "spirituality"
+   ]
+  },
+  {
+   "t0": 204.92000000000002,
+   "t1": 206.32,
+   "en": "From what I've read,",
+   "pt": "Por que aquele palhaço causou um belo choque na minha espiritualidade? Segundo registros, o verdadeiro",
+   "score": 0.235,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 206.52,
+   "t1": 208.4,
+   "en": "some newer sects, like the Aurora Order,",
+   "pt": "criador é um ser maligno adorado por organizações como a Ordem da Aurora. Tem tanto semelhanças quanto diferenças com o que ele escreveu.",
+   "score": 0.243,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 208.6,
+   "t1": 210.28,
+   "en": "worship this True Creator.",
+   "pt": "criador é um ser maligno adorado por organizações como a Ordem da Aurora. Tem tanto semelhanças quanto diferenças com o que ele escreveu.",
+   "score": 0.225,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 210.48,
+   "t1": 211.96,
+   "en": "It fits your description,",
+   "pt": "criador é um ser maligno adorado por organizações como a Ordem da Aurora. Tem tanto semelhanças quanto diferenças com o que ele escreveu.",
+   "score": 0.176,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 212.32,
+   "t1": 214.16,
+   "en": "although not entirely.",
+   "pt": "criador é um ser maligno adorado por organizações como a Ordem da Aurora. Tem tanto semelhanças quanto diferenças com o que ele escreveu.",
+   "score": 0.128,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 214.36,
+   "t1": 216.32,
+   "en": "And the way Vincent perished.",
+   "pt": "Se vincente não tivesse morrido no sonho, poderíamos ter descoberto mais.",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 216.72,
+   "t1": 219.28,
+   "en": "I wish we had more to go on.",
+   "pt": "Se vincente não tivesse morrido no sonho, poderíamos ter descoberto mais.",
+   "score": 0.245,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 219.48,
+   "t1": 221.4,
+   "en": "Tris! Tris! Tris!",
+   "pt": "Se vincente não tivesse morrido no sonho, poderíamos ter descoberto mais.",
+   "score": 0.212,
+   "overlap": 0.47,
+   "anchors": []
+  },
+  {
+   "t0": 235.0,
+   "t1": 236.4,
+   "en": "Do you believe there's more",
+   "pt": "Tem, Capitão.",
+   "score": 0.053,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 236.6,
+   "t1": 238.4,
+   "en": "to the story of the Alfalfa tragedy?",
+   "pt": "Eu gostaria de saber da situação do meu noivo. Ele está a bordo do Alphafa, que começou sua viagem de volta a um mês.",
+   "score": 0.282,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 238.6,
+   "t1": 239.88,
+   "en": "Yes, sir, I do.",
+   "pt": "Eu gostaria de saber da situação do meu noivo. Ele está a bordo do Alphafa, que começou sua viagem de volta a um mês.",
+   "score": 0.127,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 241.42,
+   "t1": 243.78,
+   "en": "I'm concerned about my fiancé, Joyce.",
+   "pt": "Eu gostaria de saber da situação do meu noivo. Ele está a bordo do Alphafa, que começou sua viagem de volta a um mês.",
+   "score": 0.174,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 244.08,
+   "t1": 246.08,
+   "en": "He set out to return aboard the Alfalfa",
+   "pt": "Mas ainda não o abortou.",
+   "score": 0.29,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 246.28,
+   "t1": 248.96,
+   "en": "over a month ago, and the ship still hasn't arrived.",
+   "pt": "A situação do Eldejois, Maia.",
+   "score": 0.234,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 249.52,
+   "t1": 251.96,
+   "en": "Joyce Meyer's current whereabouts.",
+   "pt": "Digamos que foi a intuição de Vidente. Na verdade, após seu relato, os gaviões também receberam informações.",
+   "score": 0.234,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 270.12,
+   "t1": 273.28,
+   "en": "You're right to intuit there's more at play here.",
+   "pt": "Digamos que foi a intuição de Vidente.",
+   "score": 0.4,
+   "overlap": 0.63,
+   "anchors": []
+  },
+  {
+   "t0": 273.48,
+   "t1": 275.4,
+   "en": "In fact, we've got intel.",
+   "pt": "Na verdade, após seu relato,",
+   "score": 0.327,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 275.76,
+   "t1": 277.56,
+   "en": "He corroborates your hunch, but...",
+   "pt": "os gaviões também receberam informações.",
+   "score": 0.203,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 278.32,
+   "t1": 279.64,
+   "en": "we need a lead.",
+   "pt": "Preciso de novas pistas.",
+   "score": 0.27,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 288.68,
+   "t1": 289.75,
+   "en": "Thank you. Thank you all.",
+   "pt": "Obrigada. Obrigada.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 289.76,
+   "t1": 293.12,
+   "en": "Thank you, Mr. Tris. You saved my Joyce.",
+   "pt": "Obrigada por salvar meu marido.",
+   "score": 0.273,
+   "overlap": 0.6,
+   "anchors": []
+  },
+  {
+   "t0": 293.92,
+   "t1": 295.76,
+   "en": "I'm only happy I could help.",
+   "pt": "Que bom que ele voltou em segurança.",
+   "score": 0.258,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 307.48,
+   "t1": 308.96,
+   "en": "Mr. Moretti.",
+   "pt": "Senhor Klein?",
+   "score": 0.364,
+   "overlap": 0.68,
+   "anchors": [
+    "moretti"
+   ]
+  },
+  {
+   "t0": 309.52,
+   "t1": 312.04,
+   "en": "Joyce, this is the fortune teller,",
+   "pt": "Eu gostaria muito de apresentar ao Senhor Klein.",
+   "score": 0.253,
+   "overlap": 0.79,
+   "anchors": []
+  },
+  {
+   "t0": 312.24,
+   "t1": 313.24,
+   "en": "Klein Moretti.",
+   "pt": "Eu gostaria muito de apresentar ao Senhor Klein.",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": [
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 313.48,
+   "t1": 315.76,
+   "en": "He foresaw your safe return home.",
+   "pt": "Ele que previu que você voltaria para casa.",
+   "score": 0.162,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 316.64,
+   "t1": 317.6,
+   "en": "Mm.",
+   "pt": "Senhor Maia,",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 318.2,
+   "t1": 319.6,
+   "en": "A pleasure, but...",
+   "pt": "o Senhor está sofrendo com alguma coisa?",
+   "score": 0.113,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 319.92,
+   "t1": 322.04,
+   "en": "is something troubling you, Mr. Meyer?",
+   "pt": "o Senhor está sofrendo com alguma coisa?",
+   "score": 0.162,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 326.24,
+   "t1": 328.28,
+   "en": "Ever since the Alfalfa mutiny,",
+   "pt": "Desde que deixei o alfafa,",
+   "score": 0.444,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 328.48,
+   "t1": 331.68,
+   "en": "every night, I've endured the same nightmare.",
+   "pt": "eu tenho o mesmo pesadelo todas as noites.",
+   "score": 0.19,
+   "overlap": 0.78,
+   "anchors": []
+  },
+  {
+   "t0": 332.12,
+   "t1": 334.92,
+   "en": "But it feels too real. It torments me.",
+   "pt": "Parece realista demais.",
+   "score": 0.345,
+   "overlap": 0.54,
+   "anchors": []
+  },
+  {
+   "t0": 335.12,
+   "t1": 337.32,
+   "en": "Please try to relax. You're fine.",
+   "pt": "Relaxe, Senhor Maia.",
+   "score": 0.327,
+   "overlap": 0.68,
+   "anchors": []
+  },
+  {
+   "t0": 337.52,
+   "t1": 339.8,
+   "en": "Share your dream in detail.",
+   "pt": "Primeiro, deixe-me ver seu sonho.",
+   "score": 0.246,
+   "overlap": 0.66,
+   "anchors": []
+  },
+  {
+   "t0": 370.08,
+   "t1": 372.64,
+   "en": "What compelled you to rescue that mutineer?",
+   "pt": "Por que tentou salvar um amontinado?",
+   "score": 0.286,
+   "overlap": 0.78,
+   "anchors": []
+  },
+  {
+   "t0": 372.84,
+   "t1": 376.04,
+   "en": "He was the last mutineer left alive.",
+   "pt": "Eu precisava saber porque cometeram aquelas atrocidades.",
+   "score": 0.178,
+   "overlap": 0.67,
+   "anchors": []
+  },
+  {
+   "t0": 376.24,
+   "t1": 377.07,
+   "en": "I needed to know",
+   "pt": "Eu precisava saber porque cometeram aquelas atrocidades.",
+   "score": 0.169,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 377.08,
+   "t1": 379.08,
+   "en": "what thrust them all into madness.",
+   "pt": "Eu precisava saber porque cometeram aquelas atrocidades.",
+   "score": 0.295,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 379.28,
+   "t1": 380.76,
+   "en": "The way it happened.",
+   "pt": "Eu precisava saber porque cometeram aquelas atrocidades.",
+   "score": 0.189,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 380.96,
+   "t1": 382.84,
+   "en": "Abrupt and senseless.",
+   "pt": "Parece que tudo começou do nada.",
+   "score": 0.275,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 383.04,
+   "t1": 384.92,
+   "en": "It was too abnormal.",
+   "pt": "Não é normal.",
+   "score": 0.516,
+   "overlap": 0.53,
+   "anchors": []
+  },
+  {
+   "t0": 385.6,
+   "t1": 387.72,
+   "en": "You're repressing vital details.",
+   "pt": "Pode haver detalhes que viu com tudo.",
+   "score": 0.299,
+   "overlap": 0.71,
+   "anchors": []
+  },
+  {
+   "t0": 387.92,
+   "t1": 389.11,
+   "en": "These dreams.",
+   "pt": "Eles querem revelar o verdadeiro culpado.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 389.12,
+   "t1": 392.44,
+   "en": "They're trying to reveal them to wake you to the truth.",
+   "pt": "Eles querem revelar o verdadeiro culpado.",
+   "score": 0.362,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 406.0,
+   "t1": 407.12,
+   "en": "Is this...?",
+   "pt": "Isso é...",
+   "score": 0.462,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 423.44,
+   "t1": 425.76,
+   "en": "Was that the Hornacis Mountain Range?",
+   "pt": "Quantas vezes isso já aconteceu?",
+   "score": 0.328,
+   "overlap": 0.81,
+   "anchors": []
+  },
+  {
+   "t0": 425.96,
+   "t1": 427.44,
+   "en": "Why did I see that?",
+   "pt": "Quantas vezes isso já aconteceu?",
+   "score": 0.245,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 429.48,
+   "t1": 431.6,
+   "en": "Those whispers aren't letting me go.",
+   "pt": "Por que continua me assombrando?",
+   "score": 0.364,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 432.48,
+   "t1": 434.96,
+   "en": "That palace wasn't meant for humans.",
+   "pt": "Será algum encantamento de um deus maligno?",
+   "score": 0.338,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 435.16,
+   "t1": 436.48,
+   "en": "The luck ritual.",
+   "pt": "Aquele palácio poderia ter pistas relacionadas à minha transmigração?",
+   "score": 0.217,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 436.8,
+   "t1": 439.52,
+   "en": "Has it drawn the attention of some existence?",
+   "pt": "Aquele palácio poderia ter pistas relacionadas à minha transmigração?",
+   "score": 0.179,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 440.04,
+   "t1": 441.48,
+   "en": "I really hope Professor Azik",
+   "pt": "Espero que os igorás aqui encontrem informações logo e voltem a me escrever.",
+   "score": 0.252,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 441.68,
+   "t1": 443.56,
+   "en": "gets back to me with something useful.",
+   "pt": "Espero que os igorás aqui encontrem informações logo e voltem a me escrever.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 445.52,
+   "t1": 446.84,
+   "en": "Hornacis.",
+   "pt": "Oh, nascis...",
+   "score": 0.706,
+   "overlap": 0.76,
+   "anchors": []
+  },
+  {
+   "t0": 452.96,
+   "t1": 454.24,
+   "en": "We have a lead.",
+   "pt": "Capitão?",
+   "score": 0.095,
+   "overlap": 0.39,
+   "anchors": []
+  },
+  {
+   "t0": 454.44,
+   "t1": 455.52,
+   "en": "Yes?",
+   "pt": "O culpado da tragédia esteve no local.",
+   "score": 0.1,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 456.12,
+   "t1": 458.32,
+   "en": "A survivor induced the mutiny.",
+   "pt": "O culpado da tragédia esteve no local.",
+   "score": 0.212,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 459.08,
+   "t1": 460.4,
+   "en": "And the other survivors?",
+   "pt": "Fez o sobrevivente se acreditarem.",
+   "score": 0.357,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 460.6,
+   "t1": 462.76,
+   "en": "He rewrote their memories.",
+   "pt": "Na sua nova identidade.",
+   "score": 0.085,
+   "overlap": 0.69,
+   "anchors": []
+  },
+  {
+   "t0": 462.96,
+   "t1": 464.2,
+   "en": "It's the hero,",
+   "pt": "O herói.",
+   "score": 0.4,
+   "overlap": 0.81,
+   "anchors": []
+  },
+  {
+   "t0": 464.72,
+   "t1": 466.4,
+   "en": "- Tris. - Hmm.",
+   "pt": "Tris.",
+   "score": 0.667,
+   "overlap": 0.6,
+   "anchors": []
+  },
+  {
+   "t0": 469.4,
+   "t1": 470.6,
+   "en": "It's not enough.",
+   "pt": "Para condenar um herói reconhecido publicamente.",
+   "score": 0.194,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 471.04,
+   "t1": 473.68,
+   "en": "Not for us to convict a celebrated hero.",
+   "pt": "Para condenar um herói reconhecido publicamente.",
+   "score": 0.256,
+   "overlap": 0.95,
+   "anchors": []
+  },
+  {
+   "t0": 474.12,
+   "t1": 475.88,
+   "en": "We need hard evidence.",
+   "pt": "Precisamos de provas conclusivas.",
+   "score": 0.189,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 476.4,
+   "t1": 478.15999999999997,
+   "en": "We'll need some outside help.",
+   "pt": "Solicitarei uma investigação conjunta.",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 480.16,
+   "t1": 483.84,
+   "en": "From the Mandated Punishers and the Machinery Hivemind.",
+   "pt": "Com os justiceiros mandatados e a mente coletiva mecânica.",
+   "score": 0.306,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 516.56,
+   "t1": 518.52,
+   "en": "Adulated by your living victims",
+   "pt": "O que é esse gratidão das vítimas e suas famílias?",
+   "score": 0.275,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 518.72,
+   "t1": 520.32,
+   "en": "and their families.",
+   "pt": "O que é esse gratidão das vítimas e suas famílias?",
+   "score": 0.358,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 520.92,
+   "t1": 523.28,
+   "en": "You are enjoying the fruits of your labor.",
+   "pt": "Deve ser agradável, não é?",
+   "score": 0.246,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 527.24,
+   "t1": 530.16,
+   "en": "Compelling all those men to slaughter one another.",
+   "pt": "Convencer os maridos a matar uns aos outros.",
+   "score": 0.326,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 531.0,
+   "t1": 533.16,
+   "en": "And then waking next to the bereft wives.",
+   "pt": "E depois acordar nos braços das viúvas.",
+   "score": 0.333,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 533.72,
+   "t1": 537.62,
+   "en": "It's hard to imagine anything more, well, fulfilling.",
+   "pt": "O que pode haver de mais estasiante e satisfatória?",
+   "score": 0.32,
+   "overlap": 0.9,
+   "anchors": []
+  },
+  {
+   "t0": 538.84,
+   "t1": 539.88,
+   "en": "So then,",
+   "pt": "Acho que eu já completei os preparativos.",
+   "score": 0.17,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 540.08,
+   "t1": 542.36,
+   "en": "have I met the needs for advancement?",
+   "pt": "Acho que eu já completei os preparativos.",
+   "score": 0.211,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 542.56,
+   "t1": 543.72,
+   "en": "I have to agree.",
+   "pt": "Tem mais uma missão que precisa cumprir, entende?",
+   "score": 0.258,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 543.92,
+   "t1": 545.68,
+   "en": "But we have another task for you.",
+   "pt": "Tem mais uma missão que precisa cumprir, entende?",
+   "score": 0.228,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 548.0,
+   "t1": 548.95,
+   "en": "My first collaborator",
+   "pt": "Meu colaborador atual já está sendo observado pelos gaviões da noite.",
+   "score": 0.27,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 548.96,
+   "t1": 551.12,
+   "en": "managed to catch the eye of the Nighthawks.",
+   "pt": "Então agora cabe só você completá-la.",
+   "score": 0.308,
+   "overlap": 0.93,
+   "anchors": [
+    "nighthawks"
+   ]
+  },
+  {
+   "t0": 551.32,
+   "t1": 554.08,
+   "en": "So it's up to you to see things through.",
+   "pt": "Então agora cabe só você completá-la.",
+   "score": 0.187,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 554.64,
+   "t1": 556.84,
+   "en": "But your promised reward should help.",
+   "pt": "Este é o seu pagamento adiantado.",
+   "score": 0.206,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 557.44,
+   "t1": 559.84,
+   "en": "The formula for Sequence Seven.",
+   "pt": "A receita para a poção da sequência 7.",
+   "score": 0.308,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 561.52,
+   "t1": 563.56,
+   "en": "It's called \"Witch\"?",
+   "pt": "Bruxa?",
+   "score": 0.091,
+   "overlap": 0.49,
+   "anchors": []
+  },
+  {
+   "t0": 579.08,
+   "t1": 580.27,
+   "en": "Old Neil.",
+   "pt": "Eu estou procurando materiais para os amuletos do Benson e da Melissa.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 580.28,
+   "t1": 583.76,
+   "en": "I'm hunting for materials to create protection amulets.",
+   "pt": "Ha ha! Ora, tenha paciência, rapaz.",
+   "score": 0.353,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 583.96,
+   "t1": 585.23,
+   "en": "Not for booze.",
+   "pt": "Ha ha! Ora, tenha paciência, rapaz.",
+   "score": 0.227,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 585.24,
+   "t1": 588.2,
+   "en": "Do you really think I'm trying to get you pissed,",
+   "pt": "Ha ha! Ora, tenha paciência, rapaz.",
+   "score": 0.152,
+   "overlap": 0.39,
+   "anchors": []
+  },
+  {
+   "t0": 622.56,
+   "t1": 625.56,
+   "en": "Welcome to the Tingen Underground Market.",
+   "pt": "Seja bem-vindo ao Mercado Subterrâneo de King Jane.",
+   "score": 0.289,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 625.76,
+   "t1": 628.72,
+   "en": "Careful. You'll have to mind your wallet down here.",
+   "pt": "Seja bem-vindo ao Mercado Subterrâneo de King Jane.",
+   "score": 0.283,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 647.44,
+   "t1": 648.88,
+   "en": "Good variety of stock.",
+   "pt": "Seja bem-vindo ao Mercado Subterrâneo de King Jane.",
+   "score": 0.282,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 649.44,
+   "t1": 651.8,
+   "en": "Oh, it only gets better.",
+   "pt": "E claro que têm.",
+   "score": 0.162,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 652.0,
+   "t1": 654.32,
+   "en": "Eyes peeled, lad, for Beyonder items.",
+   "pt": "não são só entusiastras do mexicismo que vem aqui.",
+   "score": 0.193,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 654.52,
+   "t1": 656.76,
+   "en": "Amateurs dabbling in the occult and worse.",
+   "pt": "não são só entusiastras do mexicismo que vem aqui.",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 656.96,
+   "t1": 658.72,
+   "en": "And the Churches",
+   "pt": "não são só entusiastras do mexicismo que vem aqui.",
+   "score": 0.185,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 658.92,
+   "t1": 660.28,
+   "en": "don't have a problem with all this?",
+   "pt": "E as igrejas autorizam esse mercado subterrâneo?",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 660.48,
+   "t1": 662.12,
+   "en": "A trickle is better than a flood.",
+   "pt": "Ah, é melhor regular do que proibir.",
+   "score": 0.273,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 662.32,
+   "t1": 665.24,
+   "en": "The Mandated Punishers pretend not to see such things,",
+   "pt": "Ah, é melhor regular do que proibir.",
+   "score": 0.253,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 665.44,
+   "t1": 667.2,
+   "en": "but they've always kept a close watch",
+   "pt": "Os justiceiros mandatados da Igreja das Tempestades",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 667.4,
+   "t1": 668.2,
+   "en": "on the market.",
+   "pt": "sempre fizeram vista grossa, o que acontece aqui.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 671.96,
+   "t1": 673.96,
+   "en": "His spiritual perception is keen.",
+   "pt": "A percepção espiritual dele é forte.",
+   "score": 0.418,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 679.48,
+   "t1": 681.28,
+   "en": "You stink of death.",
+   "pt": "A morte!",
+   "score": 0.24,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 681.72,
+   "t1": 684.88,
+   "en": "You're pungent with the reek of death.",
+   "pt": "O cheiro da morte!",
+   "score": 0.333,
+   "overlap": 0.95,
+   "anchors": []
+  },
+  {
+   "t0": 686.04,
+   "t1": 688.44,
+   "en": "Yes! The stink of death.",
+   "pt": "A morte!",
+   "score": 0.069,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 688.64,
+   "t1": 691.4,
+   "en": "Pay him no mind. People call him Monster.",
+   "pt": "O apelido dele é monstro.",
+   "score": 0.476,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 691.6,
+   "t1": 693.0,
+   "en": "He was born clairvoyant.",
+   "pt": "O apelido dele é monstro.",
+   "score": 0.17,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 693.2,
+   "t1": 695.0,
+   "en": "Cryptic raving was normal for him.",
+   "pt": "É uma alta percepção espiritual.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 695.2,
+   "t1": 696.27,
+   "en": "This body.",
+   "pt": "Falar bobagens é normal pra isso.",
+   "score": 0.146,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 696.28,
+   "t1": 698.92,
+   "en": "Could he tell it was resurrected from death?",
+   "pt": "Será que percebeu que eu morri e voltei?",
+   "score": 0.146,
+   "overlap": 0.76,
+   "anchors": []
+  },
+  {
+   "t0": 704.32,
+   "t1": 707.72,
+   "en": "Ah, here we are. Amulets are on this side.",
+   "pt": "Chegamos.",
+   "score": 0.213,
+   "overlap": 0.59,
+   "anchors": []
+  },
+  {
+   "t0": 707.92,
+   "t1": 708.87,
+   "en": "Back already, Old Neil?",
+   "pt": "Aqui tem amuletos.",
+   "score": 0.316,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 708.88,
+   "t1": 711.32,
+   "en": "Got the water from the Spring of Elves in.",
+   "pt": "Olha só, o velho Neo!",
+   "score": 0.367,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 711.52,
+   "t1": 712.51,
+   "en": "But cash upfront today.",
+   "pt": "Água da fonte dos elfos chegou.",
+   "score": 0.385,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 712.52,
+   "t1": 715.28,
+   "en": "I'm fine for now, but next time for sure.",
+   "pt": "Paga agora ou ponho na cor?",
+   "score": 0.246,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 716.36,
+   "t1": 718.4,
+   "en": "The disaster-wards were a tad meager.",
+   "pt": "O efeito de afastar o mal é tão pequeno.",
+   "score": 0.4,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 718.6,
+   "t1": 720.64,
+   "en": "Of course, none of these smiths are Beyonders.",
+   "pt": "É que eles não são biônders.",
+   "score": 0.451,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 720.84,
+   "t1": 723.04,
+   "en": "The trick is to buy partial amulets.",
+   "pt": "Não conseguem fazer um amuleto de verdade.",
+   "score": 0.342,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 723.24,
+   "t1": 725.68,
+   "en": "Pick the most potent, and use them to craft your own.",
+   "pt": "Compre alguns semacabados e depois completos.",
+   "score": 0.253,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 725.88,
+   "t1": 728.28,
+   "en": "Wait. They're also costly.",
+   "pt": "Até os semacabados são caros.",
+   "score": 0.423,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 728.48,
+   "t1": 730.08,
+   "en": "I hope Dunn'll reimburse me.",
+   "pt": "Vou tentar pedir em bolso.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 731.12,
+   "t1": 733.64,
+   "en": "That's it, lad. Now you're thinking.",
+   "pt": "É assim que se faz, rapaz.",
+   "score": 0.211,
+   "overlap": 0.79,
+   "anchors": []
+  },
+  {
+   "t0": 737.96,
+   "t1": 740.12,
+   "en": "Oh, you've a refined eye, sir.",
+   "pt": "O cliente tem bom olho.",
+   "score": 0.245,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 740.32,
+   "t1": 742.12,
+   "en": "That's engraved with the secret text",
+   "pt": "É escrita secreta do Imperador Roséu.",
+   "score": 0.389,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 742.32,
+   "t1": 743.52,
+   "en": "of Emperor Roselle himself,",
+   "pt": "É escrita secreta do Imperador Roséu.",
+   "score": 0.387,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 743.72,
+   "t1": 745.64,
+   "en": "said to be imbued with great powers.",
+   "pt": "Diz a lenda que essas letras têm poder divino incomparável.",
+   "score": 0.215,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 745.84,
+   "t1": 748.52,
+   "en": "More than certain to ward off any disaster.",
+   "pt": "Com certeza afasta importúnio e calamidade.",
+   "score": 0.31,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 748.72,
+   "t1": 751.44,
+   "en": "Huh? No, thanks. I'm good.",
+   "pt": "Obrigado, mas não precisa.",
+   "score": 0.217,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 751.8,
+   "t1": 754.52,
+   "en": "Wish I could tell him the engraved word is dumbass.",
+   "pt": "Isso aqui não vai afastar importúnio nenhum.",
+   "score": 0.194,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 755.44,
+   "t1": 756.8,
+   "en": "I'll take these two.",
+   "pt": "Aqueles dois da esquerda.",
+   "score": 0.186,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 757.0,
+   "t1": 759.0,
+   "en": "Roselle's secret text, you say?",
+   "pt": "É a escrita do Imperador Roséu.",
+   "score": 0.136,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 759.2,
+   "t1": 760.64,
+   "en": "Any Shadow Lizard?",
+   "pt": "Tem lagartos das sombras?",
+   "score": 0.195,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 762.48,
+   "t1": 763.72,
+   "en": "That's Tris.",
+   "pt": "Acabou.",
+   "score": 0.118,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 774.2,
+   "t1": 776.36,
+   "en": "Any Shadow Lizard scales?",
+   "pt": "Tem lagartos das sombras?",
+   "score": 0.208,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 784.52,
+   "t1": 786.48,
+   "en": "Who's tailing him?",
+   "pt": "Tão seguindo ele?",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 786.68,
+   "t1": 788.36,
+   "en": "A covert Mandated Punisher.",
+   "pt": "Informante dos juceseiros.",
+   "score": 0.471,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 815.6,
+   "t1": 816.76,
+   "en": "That way!",
+   "pt": "Socorro!",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 822.64,
+   "t1": 824.56,
+   "en": "Slimy rat! Shoot him!",
+   "pt": "Socorro!",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 843.0,
+   "t1": 844.0,
+   "en": "Captain!",
+   "pt": "O Tríce fugiu.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 846.2,
+   "t1": 847.48,
+   "en": "Did Tris get away?",
+   "pt": "Chegamos um pouco tarde.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 847.92,
+   "t1": 849.84,
+   "en": "Hmm. We just missed him.",
+   "pt": "Venha comigo.",
+   "score": 0.235,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 850.04,
+   "t1": 850.91,
+   "en": "Come with me.",
+   "pt": "Precisamos da sua busca radiestésica.",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 850.92,
+   "t1": 853.0,
+   "en": "We'll track him with your Dowsing Rod.",
+   "pt": "Precisamos da sua busca radiestésica.",
+   "score": 0.219,
+   "overlap": 0.46,
+   "anchors": []
+  },
+  {
+   "t0": 860.72,
+   "t1": 863.44,
+   "en": "So then. We found incriminating evidence?",
+   "pt": "Com assassinatos em cidades vizinhas.",
+   "score": 0.187,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 863.8,
+   "t1": 866.04,
+   "en": "The Mandated Punishers did.",
+   "pt": "A avaliação preliminar é aqui.",
+   "score": 0.255,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 866.24,
+   "t1": 868.2,
+   "en": "They linked him to murders in other cities.",
+   "pt": "Ele seja um instigador.",
+   "score": 0.312,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 868.72,
+   "t1": 870.52,
+   "en": "Our initial inquest has him marked",
+   "pt": "Instigador.",
+   "score": 0.273,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 870.72,
+   "t1": 873.8,
+   "en": "as a Sequence Eight Instigator of the Assassin Pathway.",
+   "pt": "Um dos indesejos malígidos do coração ali",
+   "score": 0.253,
+   "overlap": 0.65,
+   "anchors": []
+  },
+  {
+   "t0": 874.64,
+   "t1": 876.12,
+   "en": "An Instigator?",
+   "pt": "para provocar conflitos.",
+   "score": 0.278,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 876.64,
+   "t1": 878.84,
+   "en": "They arouse evil desires in people's hearts",
+   "pt": "Siga em frente.",
+   "score": 0.281,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 879.04,
+   "t1": 880.36,
+   "en": "to incite mayhem.",
+   "pt": "Siga em frente.",
+   "score": 0.267,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 881.16,
+   "t1": 884.0,
+   "en": "That would explain the Alfalfa massacre.",
+   "pt": "O caminho do assassino envolve aceita da demônia.",
+   "score": 0.253,
+   "overlap": 0.7,
+   "anchors": []
+  },
+  {
+   "t0": 884.2,
+   "t1": 885.08,
+   "en": "Go straight.",
+   "pt": "O caminho do assassino envolve aceita da demônia.",
+   "score": 0.203,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 888.96,
+   "t1": 891.92,
+   "en": "That Pathway is retained by the Demoness Sect.",
+   "pt": "O que é isso?",
+   "score": 0.175,
+   "overlap": 0.68,
+   "anchors": []
+  },
+  {
+   "t0": 892.36,
+   "t1": 894.64,
+   "en": "So he's likely plotting something major.",
+   "pt": "O que é isso?",
+   "score": 0.078,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 894.84,
+   "t1": 897.36,
+   "en": "Every Beyonder division in Tingen is after him.",
+   "pt": "Já começamos uma investigação conjunta por toda a cidade.",
+   "score": 0.196,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder",
+    "tingen"
+   ]
+  },
+  {
+   "t0": 897.92,
+   "t1": 899.8,
+   "en": "The Demoness Sect?",
+   "pt": "Seita da demônia?",
+   "score": 0.364,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 900.0,
+   "t1": 902.24,
+   "en": "They worship the Primordial Demoness.",
+   "pt": "Uma organização maligna que gosta de espalhar desastres.",
+   "score": 0.33,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 902.44,
+   "t1": 905.44,
+   "en": "And are dogmatically driven to spread catastrophe.",
+   "pt": "Eles adoram o ser oculto chamado de demônia primordial.",
+   "score": 0.194,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 905.64,
+   "t1": 908.28,
+   "en": "Women solely compose their upper echelons.",
+   "pt": "Sua alta vúpula é composta só por mulheres.",
+   "score": 0.386,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 909.64,
+   "t1": 912.48,
+   "en": "This is it. My divination points here.",
+   "pt": "A adivinhação aponta para esse lugar.",
+   "score": 0.389,
+   "overlap": 0.7,
+   "anchors": []
+  },
+  {
+   "t0": 917.8,
+   "t1": 918.8,
+   "en": "Hmm.",
+   "pt": "Espere aqui.",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 919.36,
+   "t1": 920.76,
+   "en": "You wait here.",
+   "pt": "Espere aqui.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 922.32,
+   "t1": 924.56,
+   "en": "Sounds like they safeguard the advanced Sequences",
+   "pt": "As outras poções do caminho do assassino",
+   "score": 0.247,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 924.76,
+   "t1": 925.75,
+   "en": "for women.",
+   "pt": "parecem ser mais adequadas a mulheres.",
+   "score": 0.174,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 925.76,
+   "t1": 928.44,
+   "en": "Don't know how much of a future Tris has left.",
+   "pt": "Eu realmente temo pelo futuro do senhor Triss.",
+   "score": 0.356,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 930.56,
+   "t1": 931.55,
+   "en": "Keep calm.",
+   "pt": "Estamos a serviço.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 931.56,
+   "t1": 934.16,
+   "en": "Vacate the area while we search the building.",
+   "pt": "Cooperem, esvazim no local.",
+   "score": 0.145,
+   "overlap": 0.77,
+   "anchors": []
+  },
+  {
+   "t0": 937.48,
+   "t1": 939.12,
+   "en": "Oh, apologies.",
+   "pt": "Va logo, não fique aqui.",
+   "score": 0.353,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 939.52,
+   "t1": 942.16,
+   "en": "Keep moving. No lingering, lassie.",
+   "pt": "Va logo, não fique aqui.",
+   "score": 0.377,
+   "overlap": 0.76,
+   "anchors": []
+  },
+  {
+   "t0": 942.36,
+   "t1": 944.36,
+   "en": "It's fine. Do you need help, miss?",
+   "pt": "Senhorita, precisa de ajuda?",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 944.56,
+   "t1": 946.76,
+   "en": "Um, no. No need for that.",
+   "pt": "Não, não preciso.",
+   "score": 0.432,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 947.04,
+   "t1": 948.88,
+   "en": "I'm just not feeling very well today.",
+   "pt": "Não estou me sentindo muito bem, mas já vou ao médico.",
+   "score": 0.205,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 949.08,
+   "t1": 950.6,
+   "en": "But I'm heading to the doctor.",
+   "pt": "Não estou me sentindo muito bem, mas já vou ao médico.",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 971.48,
+   "t1": 973.6,
+   "en": "Tris vanished into thin air.",
+   "pt": "Triss desapareceu do nada.",
+   "score": 0.462,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 973.8,
+   "t1": 975.44,
+   "en": "The three main churches and the police",
+   "pt": "A polícia e as três principais agências de biôndas",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 975.64,
+   "t1": 977.16,
+   "en": "searched for days in vain.",
+   "pt": "A polícia e as três principais agências de biôndas",
+   "score": 0.187,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 977.72,
+   "t1": 981.44,
+   "en": "The operation was shortly called off.",
+   "pt": "A operação foi encerrada como fracasso.",
+   "score": 0.351,
+   "overlap": 0.54,
+   "anchors": []
+  },
+  {
+   "t0": 981.64,
+   "t1": 984.56,
+   "en": "Soon after, the Holy Cathedral approved my application.",
+   "pt": "a Catedral Sagrada aprovou minha efetivação.",
+   "score": 0.458,
+   "overlap": 0.68,
+   "anchors": []
+  },
+  {
+   "t0": 984.96,
+   "t1": 987.0,
+   "en": "I earn six pounds a week now.",
+   "pt": "Agora eu ganho seis libros por semana.",
+   "score": 0.369,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 987.76,
+   "t1": 989.76,
+   "en": "Is there anything better than a raise?",
+   "pt": "Tem coisa melhor do que ganhar aumento.",
+   "score": 0.347,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 990.2,
+   "t1": 992.16,
+   "en": "I still attend the Divination Club",
+   "pt": "Eu vou ao clube algumas vezes por semana",
+   "score": 0.243,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 992.36,
+   "t1": 994.44,
+   "en": "and I'm certain it's helping the digestion.",
+   "pt": "e a digestão da poção está indo bem.",
+   "score": 0.26,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 995.64,
+   "t1": 997.08,
+   "en": "The Tarot Club, though.",
+   "pt": "Conta ao clube de Tarot,",
+   "score": 0.364,
+   "overlap": 1.0,
+   "anchors": [
+    "tarot club"
+   ]
+  },
+  {
+   "t0": 997.28,
+   "t1": 999.36,
+   "en": "The success of my ritualistic prayers",
+   "pt": "desde que o teste com o honorífico",
+   "score": 0.282,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 999.56,
+   "t1": 1000.76,
+   "en": "caused a bit of unease.",
+   "pt": "com três partes do louco funcionou e eu respondi,",
+   "score": 0.257,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1001.32,
+   "t1": 1002.92,
+   "en": "The Hanged Man seems to have grown",
+   "pt": "o senhor lhe forcado parece ter tido uma mudança de atitude.",
+   "score": 0.172,
+   "overlap": 1.0,
+   "anchors": [
+    "hanged man"
+   ]
+  },
+  {
+   "t0": 1003.12,
+   "t1": 1004.31,
+   "en": "a little bit weary ever since,",
+   "pt": "o senhor lhe forcado parece ter tido uma mudança de atitude.",
+   "score": 0.318,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1004.32,
+   "t1": 1007.16,
+   "en": "and I'm not the type to force someone to pray for me.",
+   "pt": "Infelizmente, eu não consegui usar o poder da névoa cinzenta.",
+   "score": 0.324,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1007.36,
+   "t1": 1009.28,
+   "en": "So that plan is on the back burner.",
+   "pt": "Infelizmente, eu não consegui usar o poder da névoa cinzenta.",
+   "score": 0.172,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1010.64,
+   "t1": 1012.4,
+   "en": "The amulets turned out well.",
+   "pt": "Deu tudo certo na produção dos amuletos.",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1012.6,
+   "t1": 1014.6,
+   "en": "Benson and Melissa seemed to like them,",
+   "pt": "Benção e melissa parecem ter gostado.",
+   "score": 0.568,
+   "overlap": 1.0,
+   "anchors": [
+    "benson",
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1014.8,
+   "t1": 1016.0,
+   "en": "but I had to swear to Melissa",
+   "pt": "Benção e melissa parecem ter gostado.",
+   "score": 0.369,
+   "overlap": 1.0,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1016.2,
+   "t1": 1018.16,
+   "en": "I didn't blow my paycheck on them.",
+   "pt": "Só foi difícil conversar na melissa de que não eram caros.",
+   "score": 0.267,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1019.08,
+   "t1": 1021.56,
+   "en": "Every day is a new lesson in mysticism,",
+   "pt": "Tenho várias aulas de misticismo todos os dias.",
+   "score": 0.429,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1021.96,
+   "t1": 1024.56,
+   "en": "followed by target practice and combat drills.",
+   "pt": "Os treinamentos de combate incluem tiro e luta corporal.",
+   "score": 0.38,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1024.96,
+   "t1": 1027.08,
+   "en": "Feels like my mandatory military training",
+   "pt": "Me lembrou até meu treinamento militar.",
+   "score": 0.481,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1027.28,
+   "t1": 1028.56,
+   "en": "all over again.",
+   "pt": "Me lembrou até meu treinamento militar.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1029.72,
+   "t1": 1032.52,
+   "en": "We had a nice reprieve from Beyonder cases.",
+   "pt": "Não houve outros incidentes com biôndas, entendi.",
+   "score": 0.337,
+   "overlap": 0.71,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 1032.8,
+   "t1": 1034.38,
+   "en": "All was calm in Tingen.",
+   "pt": "Tudo parecia tranquilo.",
+   "score": 0.227,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1035.28,
+   "t1": 1036.18,
+   "en": "And then...",
+   "pt": "Até aqui.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1043.04,
+   "t1": 1044.0,
+   "en": "Hi.",
+   "pt": "Hã?",
+   "score": 0.5,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1049.04,
+   "t1": 1051.12,
+   "en": "Recent stats have raised eyebrows.",
+   "pt": "A polícia informou que o número de mortes nessa quinzena",
+   "score": 0.112,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1051.32,
+   "t1": 1054.2,
+   "en": "The rate of death has increased fivefold in the past two weeks.",
+   "pt": "A polícia informou que o número de mortes nessa quinzena",
+   "score": 0.254,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 1054.96,
+   "t1": 1055.92,
+   "en": "Fivefold?",
+   "pt": "O quintoplo?",
+   "score": 0.316,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1056.12,
+   "t1": 1056.95,
+   "en": "Indeed.",
+   "pt": "O quintoplo?",
+   "score": 0.235,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1056.96,
+   "t1": 1058.6,
+   "en": "So the police have given it to us,",
+   "pt": "Por isso nos colocaram nesse caso",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1058.8,
+   "t1": 1061.6,
+   "en": "the Mandated Punishers and the Machinery Hivemind.",
+   "pt": "com os justiceiros mandatados e a mente coletiva mecânica.",
+   "score": 0.264,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1078.44,
+   "t1": 1081.08,
+   "en": "Most of the deceased were laborers or vagrants.",
+   "pt": "Gente na extrema pobreza ou com enfermidades.",
+   "score": 0.2,
+   "overlap": 0.36,
+   "anchors": []
+  },
+  {
+   "t0": 1081.72,
+   "t1": 1084.2,
+   "en": "Destitute and already suffering illness.",
+   "pt": "Sobreviver já lhe custava todas as forças que ela tinha.",
+   "score": 0.234,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1088.84,
+   "t1": 1092.24,
+   "en": "The effort just to live. It sucked them dry of energy.",
+   "pt": "Uma mãe do Clay.",
+   "score": 0.179,
+   "overlap": 0.59,
+   "anchors": []
+  },
+  {
+   "t0": 1092.44,
+   "t1": 1095.12,
+   "en": "They lived every day on the edge of death.",
+   "pt": "se não fosse pelo esforço do Clay,",
+   "score": 0.27,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 1095.32,
+   "t1": 1097.08,
+   "en": "Just like Klein's mother.",
+   "pt": "se não fosse pelo esforço do Benção,",
+   "score": 0.237,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1097.8,
+   "t1": 1099.92,
+   "en": "If it weren't for Benson's hard work,",
+   "pt": "se não fosse pelo esforço do Benção para sustentar a família,",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1100.12,
+   "t1": 1101.44,
+   "en": "both Klein and Melissa,",
+   "pt": "se não fosse pelo esforço do Benção para sustentar a família,",
+   "score": 0.293,
+   "overlap": 1.0,
+   "anchors": [
+    "klein",
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1102.04,
+   "t1": 1104.12,
+   "en": "they would have met the same fate.",
+   "pt": "os três irmãos teriam tido o mesmo fim.",
+   "score": 0.338,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1118.4,
+   "t1": 1120.12,
+   "en": "Someone patted her back?",
+   "pt": "Ela foi tocada por alguém?",
+   "score": 0.292,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1120.32,
+   "t1": 1121.43,
+   "en": "Yes,",
+   "pt": "Uma mão branca delicada e guia.",
+   "score": 0.061,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1121.44,
+   "t1": 1123.8,
+   "en": "a young woman, judging by the fair and slender hand.",
+   "pt": "Uma mão branca delicada e guia.",
+   "score": 0.325,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 1124.0,
+   "t1": 1126.76,
+   "en": "That lines up with our findings.",
+   "pt": "Parecia ser uma mulher jovem.",
+   "score": 0.305,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 1126.96,
+   "t1": 1128.6,
+   "en": "Normal as the deaths appear,",
+   "pt": "a mão de uma jovem",
+   "score": 0.311,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1128.8,
+   "t1": 1130.92,
+   "en": "our detective made a similar observation",
+   "pt": "a mão de uma jovem",
+   "score": 0.241,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 1131.12,
+   "t1": 1132.8,
+   "en": "at several of the scenes.",
+   "pt": "aparece em todos os outros incidentes.",
+   "score": 0.426,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1135.32,
+   "t1": 1137.68,
+   "en": "These deaths may look natural,",
+   "pt": "descartar a possibilidade de haver um instigador.",
+   "score": 0.286,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1137.88,
+   "t1": 1139.88,
+   "en": "but we can't rule out the hand of an Instigator.",
+   "pt": "descartar a possibilidade de haver um instigador.",
+   "score": 0.379,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1140.08,
+   "t1": 1141.84,
+   "en": "I assume you mean Tris.",
+   "pt": "Um instigador tris?",
+   "score": 0.45,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1142.04,
+   "t1": 1143.92,
+   "en": "Are you suggesting he's conspiring",
+   "pt": "Então está me dizendo que tris e essa mulher beyonder estão em conluio?",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1144.12,
+   "t1": 1145.39,
+   "en": "with this unknown, Beyonder woman?",
+   "pt": "Então está me dizendo que tris e essa mulher beyonder estão em conluio?",
+   "score": 0.392,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 1145.4,
+   "t1": 1148.28,
+   "en": "I personally feel safe saying everything circles back",
+   "pt": "Minha opinião pessoal é que todos os incidentes estão ligados à seita da demônia.",
+   "score": 0.316,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1148.48,
+   "t1": 1149.63,
+   "en": "to the Demoness Sect.",
+   "pt": "Minha opinião pessoal é que todos os incidentes estão ligados à seita da demônia.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1149.64,
+   "t1": 1151.92,
+   "en": "Mrs. Lewis had a chronic heart condition.",
+   "pt": "A senhora Lios tinha uma doença cardíaca grave.",
+   "score": 0.306,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 1152.12,
+   "t1": 1154.4,
+   "en": "Salus had already settled on vengeful suicide",
+   "pt": "Salos faliu há alguns meses e já falava de vingança e suicídio.",
+   "score": 0.467,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1154.6,
+   "t1": 1155.92,
+   "en": "after going bankrupt,",
+   "pt": "Salos faliu há alguns meses e já falava de vingança e suicídio.",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1156.2,
+   "t1": 1158.68,
+   "en": "and Zid was desperate to escape his misery.",
+   "pt": "Sidi é extremamente pobre e sem perspectiva de melhora.",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1158.88,
+   "t1": 1161.48,
+   "en": "They were all practically traveling the same path.",
+   "pt": "Todos os mortos têm algo em comum.",
+   "score": 0.22,
+   "overlap": 0.77,
+   "anchors": []
+  },
+  {
+   "t0": 1162.08,
+   "t1": 1163.76,
+   "en": "It looks like you've caught up.",
+   "pt": "Parece que você também percebeu.",
+   "score": 0.262,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1163.96,
+   "t1": 1165.94,
+   "en": "You take the glory. Here.",
+   "pt": "Não vai falar nada?",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1166.44,
+   "t1": 1169.2,
+   "en": "Captain, Klein and I have a theory.",
+   "pt": "Capitão, o Clay e eu temos uma teoria.",
+   "score": 0.406,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 1172.08,
+   "t1": 1174.04,
+   "en": "This freaking guy.",
+   "pt": "Esse cara...",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1175.12,
+   "t1": 1177.84,
+   "en": "All of these deaths, supernatural or not,",
+   "pt": "Mesmo sem a participação de Beyonders,",
+   "score": 0.237,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1178.36,
+   "t1": 1180.48,
+   "en": "the deceased were already bound to die soon.",
+   "pt": "todas essas vítimas morreriam em pouco tempo.",
+   "score": 0.345,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1180.68,
+   "t1": 1183.24,
+   "en": "But their life-forces were shortened.",
+   "pt": "Mas seu tempo de vida foi encurtado breve e forçosamente.",
+   "score": 0.326,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1183.44,
+   "t1": 1184.88,
+   "en": "Stolen, in fact.",
+   "pt": "Mas seu tempo de vida foi encurtado breve e forçosamente.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1185.08,
+   "t1": 1188.08,
+   "en": "My conjecture. These aren't just any old murders.",
+   "pt": "Eu suspeito que esses incidentes tenham sido",
+   "score": 0.33,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1188.52,
+   "t1": 1190.08,
+   "en": "They're sacrifices.",
+   "pt": "usurpação da vida.",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1192.68,
+   "t1": 1196.16,
+   "en": "Life force is the best material for summoning evil gods",
+   "pt": "Se o objetivo é usar vidas para invocar deuses ou demônios malignos",
+   "score": 0.262,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1196.36,
+   "t1": 1199.44,
+   "en": "or conducting a horrifying, sweeping curse, after all.",
+   "pt": "ou realizar uma maldição grande e terrível.",
+   "score": 0.258,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1200.0,
+   "t1": 1202.56,
+   "en": "That's why the Demoness Sect is in Tingen.",
+   "pt": "É por isso que a seita da demônia está entendendo.",
+   "score": 0.289,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1208.64,
+   "t1": 1210.72,
+   "en": "Glad we are on the same wavelength.",
+   "pt": "Momentos assim fazem a roda do destino girar.",
+   "score": 0.179,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1210.92,
+   "t1": 1213.08,
+   "en": "The protagonists finally align.",
+   "pt": "Ah, descarado.",
+   "score": 0.19,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1213.28,
+   "t1": 1215.84,
+   "en": "The wheels of history set in motion.",
+   "pt": "Já viveu alguma aventura extraordinária para a protagonista?",
+   "score": 0.17,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1216.04,
+   "t1": 1217.68,
+   "en": "Ah, shameless.",
+   "pt": "Você e eu temos nossos segredos.",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1218.28,
+   "t1": 1221.48,
+   "en": "That's how you see yourself? What makes you special?",
+   "pt": "A não ser que seus atos prejudiquem os gaviões da noite,",
+   "score": 0.4,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 1222.68,
+   "t1": 1224.24,
+   "en": "We both have our secrets.",
+   "pt": "você continuará sendo o meu colega.",
+   "score": 0.345,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1224.72,
+   "t1": 1226.84,
+   "en": "Nothing wrong with that if they aren't treacherous.",
+   "pt": "E espero que me veja dando um abraço.",
+   "score": 0.14,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1227.04,
+   "t1": 1229.52,
+   "en": "And if not, we shall remain partners.",
+   "pt": "De fato, isso se encaixa com usurpação da vida.",
+   "score": 0.3,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1229.96,
+   "t1": 1233.2,
+   "en": "It's easy, but I can only hope you feel the same.",
+   "pt": "De fato, isso se encaixa com usurpação da vida.",
+   "score": 0.261,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 1233.4,
+   "t1": 1234.4,
+   "en": "Hmm.",
+   "pt": "Empeça um ritual.",
+   "score": 0.211,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1235.52,
+   "t1": 1237.0,
+   "en": "It does fit the criterion",
+   "pt": "Sim.",
+   "score": 0.071,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1237.2,
+   "t1": 1239.92,
+   "en": "of a mass sacrifice. To halt the ritual,",
+   "pt": "Um objeto pessoal de uma das vítimas.",
+   "score": 0.189,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1240.12,
+   "t1": 1243.52,
+   "en": "- we must find the altar. - I'll do my best.",
+   "pt": "Um objeto pessoal de uma das vítimas.",
+   "score": 0.324,
+   "overlap": 0.37,
+   "anchors": []
+  },
+  {
+   "t0": 1243.72,
+   "t1": 1246.24,
+   "en": "This belonged to one of the victims.",
+   "pt": "Localização do altar.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1271.0,
+   "t1": 1272.12,
+   "en": "Found it.",
+   "pt": "A sí!",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1293.88,
+   "t1": 1295.08,
+   "en": "It went dark.",
+   "pt": "Os primeiros alvos do criminoso certamente estão longe da área onde está o altar.",
+   "score": 0.196,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1295.64,
+   "t1": 1297.64,
+   "en": "Someone's obscuring the vision.",
+   "pt": "Os primeiros alvos do criminoso certamente estão longe da área onde está o altar.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1298.12,
+   "t1": 1301.24,
+   "en": "That's good enough. The culprit will target victims",
+   "pt": "Isso vem do seu instinto de preservação.",
+   "score": 0.202,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 1301.44,
+   "t1": 1302.23,
+   "en": "in an area distant",
+   "pt": "Isso vem do seu instinto de preservação.",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1302.24,
+   "t1": 1304.24,
+   "en": "from the vicinity of their altar.",
+   "pt": "Então, se isolarmos os lugares onde as mortes aumentaram nos últimos dias,",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1304.72,
+   "t1": 1307.0,
+   "en": "It's basic preservation instinct.",
+   "pt": "Então, se isolarmos os lugares onde as mortes aumentaram nos últimos dias,",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1307.2,
+   "t1": 1309.64,
+   "en": "So then, if we rule out the regions",
+   "pt": "podemos restringir nossa busca à zona industrial sul",
+   "score": 0.209,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1309.84,
+   "t1": 1312.16,
+   "en": "stricken with sudden deaths and triangulate,",
+   "pt": "e ao distrito oeste.",
+   "score": 0.258,
+   "overlap": 0.86,
+   "anchors": []
+  },
+  {
+   "t0": 1313.08,
+   "t1": 1315.92,
+   "en": "all that's left is the southern industrial district",
+   "pt": "É bem aqui. Eu tenho certeza.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1316.12,
+   "t1": 1317.44,
+   "en": "of the West Borough.",
+   "pt": "Bom trabalho.",
+   "score": 0.323,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1333.96,
+   "t1": 1335.48,
+   "en": "The altar is in there.",
+   "pt": "O que é isso?",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1335.68,
+   "t1": 1336.82,
+   "en": "I'm certain of it.",
+   "pt": "O que é isso?",
+   "score": 0.345,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1338.36,
+   "t1": 1339.4,
+   "en": "Well done.",
+   "pt": "O que é isso?",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1340.6,
+   "t1": 1343.32,
+   "en": "Standard drills. I force a nightmare. Leonard,",
+   "pt": "Como de costum, colocarei as pessoas num sonho.",
+   "score": 0.295,
+   "overlap": 1.0,
+   "anchors": [
+    "leonard"
+   ]
+  },
+  {
+   "t0": 1343.52,
+   "t1": 1345.2,
+   "en": "you waylay and barrage them.",
+   "pt": "Como de costum, colocarei as pessoas num sonho.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1349.24,
+   "t1": 1350.6,
+   "en": "Nightmare.",
+   "pt": "Pesante, Elô.",
+   "score": 0.3,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1452.76,
+   "t1": 1453.96,
+   "en": "She caught on?",
+   "pt": "O que é isso?",
+   "score": 0.32,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1454.16,
+   "t1": 1455.6,
+   "en": "And escaped the nightmare.",
+   "pt": "O que é isso?",
+   "score": 0.216,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1455.8,
+   "t1": 1457.1,
+   "en": "You stay right where you are.",
+   "pt": "O que é isso?",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1457.6,
+   "t1": 1459.04,
+   "en": "Don't go near that manor.",
+   "pt": "O que é isso?",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1459.68,
+   "t1": 1461.64,
+   "en": "If you encounter danger, retreat.",
+   "pt": "Se vocês tiverem perigo, recui imediatamente.",
+   "score": 0.243,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1462.24,
+   "t1": 1464.72,
+   "en": "Leonard and Frye are Sequences Eight and Nine",
+   "pt": "Leonard Fryson, sequência 8 e 9.",
+   "score": 0.563,
+   "overlap": 1.0,
+   "anchors": [
+    "leonard"
+   ]
+  },
+  {
+   "t0": 1464.92,
+   "t1": 1466.28,
+   "en": "and they're flailing.",
+   "pt": "Leonard Fryson, sequência 8 e 9.",
+   "score": 0.217,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1466.48,
+   "t1": 1468.56,
+   "en": "Are we up against a Sequence Seven?",
+   "pt": "Se eles não conseguem lidar com isso, será que o nosso adversário já é sequência 7?",
+   "score": 0.283,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1474.72,
+   "t1": 1476.04,
+   "en": "Mirror substitution?",
+   "pt": "Machete, substituição.",
+   "score": 0.615,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1481.0,
+   "t1": 1482.88,
+   "en": "Dust falls like snow.",
+   "pt": "Ocaico no neve.",
+   "score": 0.176,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1512.84,
+   "t1": 1515.88,
+   "en": "The eternal source of all catastrophes.",
+   "pt": "Fonte de todos os desastres.",
+   "score": 0.431,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 1516.08,
+   "t1": 1518.92,
+   "en": "The symbol of destruction and the apocalypse.",
+   "pt": "Símbolo da destruição e do apocalipse.",
+   "score": 0.667,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1519.12,
+   "t1": 1522.16,
+   "en": "The Demoness who controls chaos.",
+   "pt": "Demônia que rege o caos.",
+   "score": 0.444,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 1524.24,
+   "t1": 1525.52,
+   "en": "Take the right, Frye.",
+   "pt": "Sigam os movimentos do alvo.",
+   "score": 0.174,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 1525.52,
+   "t1": 1526.48,
+   "en": "Leonard, go left.",
+   "pt": "Leonágia esquerda.",
+   "score": 0.438,
+   "overlap": 1.0,
+   "anchors": [
+    "leonard"
+   ]
+  },
+  {
+   "t0": 1526.68,
+   "t1": 1527.56,
+   "en": "Remain alert.",
+   "pt": "Sigam os movimentos do alvo.",
+   "score": 0.256,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1527.76,
+   "t1": 1529.24,
+   "en": "She's at least Sequence Seven.",
+   "pt": "Sigam os movimentos do alvo.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1529.44,
+   "t1": 1531.2,
+   "en": "And an evil god has her back.",
+   "pt": "O alvo é sequência 7 ou menor.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1531.4,
+   "t1": 1532.56,
+   "en": "Please be safe.",
+   "pt": "E tem o apoio de um potema aligno.",
+   "score": 0.213,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1543.1,
+   "t1": 1545.26,
+   "en": "Are those shadows?",
+   "pt": "Sombra-se.",
+   "score": 0.308,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1603.5,
+   "t1": 1604.4,
+   "en": "Blood?",
+   "pt": "Sombra-se.",
+   "score": 0.143,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1611.28,
+   "t1": 1613.12,
+   "en": "The Primordial Demoness!",
+   "pt": "Ademônia primordial.",
+   "score": 0.571,
+   "overlap": 0.54,
+   "anchors": []
+  },
+  {
+   "t0": 1619.26,
+   "t1": 1620.82,
+   "en": "Release from slumber.",
+   "pt": "Sombra-se.",
+   "score": 0.276,
+   "overlap": 0.64,
+   "anchors": []
+  },
+  {
+   "t0": 1677.64,
+   "t1": 1681.0,
+   "en": "You fell right in the crosshairs of Lady Luck.",
+   "pt": "Você será o primeiro homem de sorte desta noite.",
+   "score": 0.283,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1681.2,
+   "t1": 1685.08,
+   "en": "You get to be the first to savor the Witch's Curse.",
+   "pt": "Hora do deleite.",
+   "score": 0.277,
+   "overlap": 0.52,
+   "anchors": []
+  },
+  {
+   "t0": 1695.9,
+   "t1": 1697.14,
+   "en": "Black Magic.",
+   "pt": "Magia das trevas.",
+   "score": 0.296,
+   "overlap": 0.81,
+   "anchors": []
+  },
+  {
+   "t0": 1704.6,
+   "t1": 1706.36,
+   "en": "Blossom for me.",
+   "pt": "Desafrocha.",
+   "score": 0.083,
+   "overlap": 0.57,
+   "anchors": []
+  },
+  {
+   "t0": 1761.8,
+   "t1": 1764.12,
+   "en": "I pray for an ephemeral restoration",
+   "pt": "Rézo para que o espelho seja brevemente restaurado e mostre cada pessoa que refletiu na última semana.",
+   "score": 0.338,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1764.32,
+   "t1": 1765.48,
+   "en": "of the mirror's glass.",
+   "pt": "Rézo para que o espelho seja brevemente restaurado e mostre cada pessoa que refletiu na última semana.",
+   "score": 0.18,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1766.12,
+   "t1": 1768.48,
+   "en": "To reveal the most recent reflection.",
+   "pt": "Rézo para que o espelho seja brevemente restaurado e mostre cada pessoa que refletiu na última semana.",
+   "score": 0.394,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1771.28,
+   "t1": 1773.64,
+   "en": "Why does she look so familiar?",
+   "pt": "Acho que já havia antes.",
+   "score": 0.154,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 1776.6,
+   "t1": 1778.16,
+   "en": "The search for Tris.",
+   "pt": "Era ela? Será que...",
+   "score": 0.343,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1778.36,
+   "t1": 1779.16,
+   "en": "It was her.",
+   "pt": "Era ela? Será que...",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1779.36,
+   "t1": 1780.64,
+   "en": "Mm. Well,",
+   "pt": "Essa mulher Beyonder se parece muito contrês.",
+   "score": 0.118,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1780.84,
+   "t1": 1783.04,
+   "en": "she does look strikingly similar to Tris.",
+   "pt": "Essa mulher Beyonder se parece muito contrês.",
+   "score": 0.429,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1784.08,
+   "t1": 1785.6,
+   "en": "Judging by the altar",
+   "pt": "Alguma pista do Triss?",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1786.0,
+   "t1": 1787.1,
+   "en": "the curse was intended",
+   "pt": "Alguma pista do Triss?",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1787.1,
+   "t1": 1789.34,
+   "en": "for the survivors of the Alfalfa.",
+   "pt": "O altar no térreo é para um ritual que amaldiçoa sobreviventes do alfafa.",
+   "score": 0.404,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1789.96,
+   "t1": 1791.64,
+   "en": "Tris must be involved.",
+   "pt": "Triss é o principal suspeito.",
+   "score": 0.367,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1794.4,
+   "t1": 1796.2,
+   "en": "Bit of a bold idea here.",
+   "pt": "Eu suspeito que ela, na verdade, seja o Triss.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1796.4,
+   "t1": 1797.72,
+   "en": "I believe that's Tris.",
+   "pt": "Eu suspeito que ela, na verdade, seja o Triss.",
+   "score": 0.406,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1798.32,
+   "t1": 1800.52,
+   "en": "He's disguising himself as a woman.",
+   "pt": "Não. Ele se tornou mulher.",
+   "score": 0.069,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1800.72,
+   "t1": 1801.56,
+   "en": "No.",
+   "pt": "Não. Ele se tornou mulher.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1801.96,
+   "t1": 1803.48,
+   "en": "He became a woman.",
+   "pt": "Não. Ele se tornou mulher.",
+   "score": 0.098,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1803.88,
+   "t1": 1805.03,
+   "en": "Precisely.",
+   "pt": "Bem na mosca. Isso explicaria o súbito desaparecimento de Triss.",
+   "score": 0.169,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1805.04,
+   "t1": 1808.3,
+   "en": "It explains the unexplainable vanishing act he pulled.",
+   "pt": "Bem na mosca. Isso explicaria o súbito desaparecimento de Triss.",
+   "score": 0.226,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1808.6,
+   "t1": 1810.92,
+   "en": "- He became a woman. - Hmm.",
+   "pt": "Se tornou mulher?",
+   "score": 0.108,
+   "overlap": 0.86,
+   "anchors": []
+  },
+  {
+   "t0": 1811.4,
+   "t1": 1813.0,
+   "en": "That would line up with the old female,",
+   "pt": "Por isso a autoacúpula da seita da demônia é toda de mulheres.",
+   "score": 0.283,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1813.0,
+   "t1": 1814.66,
+   "en": "upper echelons of the sect.",
+   "pt": "Por isso a autoacúpula da seita da demônia é toda de mulheres.",
+   "score": 0.23,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1816.96,
+   "t1": 1818.08,
+   "en": "Wait a moment.",
+   "pt": "Espera aí. Quer dizer que muitas das mulheres da autoacúpula já foram homens?",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1818.38,
+   "t1": 1819.48,
+   "en": "That would infer...",
+   "pt": "Espera aí. Quer dizer que muitas das mulheres da autoacúpula já foram homens?",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1820.08,
+   "t1": 1822.56,
+   "en": "some of the hierarchs of the Demoness Sect",
+   "pt": "Espera aí. Quer dizer que muitas das mulheres da autoacúpula já foram homens?",
+   "score": 0.085,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1822.82,
+   "t1": 1824.11,
+   "en": "used to be men.",
+   "pt": "Espera aí. Quer dizer que muitas das mulheres da autoacúpula já foram homens?",
+   "score": 0.202,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1827.04,
+   "t1": 1828.18,
+   "en": "\"To learn this technique,",
+   "pt": "Para aprender essa técnica é preciso castrar-se.",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1828.18,
+   "t1": 1830.5,
+   "en": "one must first castrate oneself.\"",
+   "pt": "Para aprender essa técnica é preciso castrar-se.",
+   "score": 0.282,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1830.8,
+   "t1": 1833.78,
+   "en": "So this is the Sunflower Manual of the Demoness Sect?",
+   "pt": "Então a seita da demônia tem o seu manual do girassol?",
+   "score": 0.419,
+   "overlap": 1.0,
+   "anchors": []
+  }
+ ],
+ "lexicon": {
+  "backland": "backlund",
+  "beyonders": "beyonder",
+  "dali": "daly"
+ }
+}

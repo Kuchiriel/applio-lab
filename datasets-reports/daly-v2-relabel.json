@@ -1,0 +1,337 @@
+{
+ "ep10-00654.wav": {
+  "ep": 10,
+  "start": 654,
+  "janela": [
+   652.0,
+   671.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "spirituality"
+  ],
+  "anchors": [
+   "spirituality"
+  ],
+  "pt": "Eu ainda prefiro ser chamada de médio. | Hoje vou te ensinar duas habilidades de me order. | Invocar um mensageiro e um tipo diferente de vedência.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.393,
+    "AUDREY": 0.296
+   }
+  }
+ },
+ "ep10-00667.wav": {
+  "ep": 10,
+  "start": 667,
+  "janela": [
+   665.0,
+   684.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "e explora lembranças ocultas no subconsciente. | Normalmente, a vontade da pessoa oferece grande resistência, | comunicação e restrito entre os espíritos.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.371,
+    "AUDREY": 0.304
+   }
+  }
+ },
+ "ep10-00672.wav": {
+  "ep": 10,
+  "start": 672,
+  "janela": [
+   670.0,
+   689.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Normalmente, a vontade da pessoa oferece grande resistência, | comunicação e restrito entre os espíritos. | Involve inúmeros perigos e sustos.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.552,
+    "AUDREY": 0.176
+   }
+  }
+ },
+ "ep11-00769.wav": {
+  "ep": 11,
+  "start": 769,
+  "janela": [
+   767.0,
+   786.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Tenho que lembrar do que a Senhora Itadari disse. | A magia ritualística que invoca mensageiros a moração para s | como não envolve dignidades, é bem discreta.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.044,
+    "AUDREY": 0.122
+   }
+  }
+ },
+ "ep11-00771.wav": {
+  "ep": 11,
+  "start": 771,
+  "janela": [
+   769.0,
+   788.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A magia ritualística que invoca mensageiros a moração para s | como não envolve dignidades, é bem discreta. | A chave da invocação é a descrição específica do ser invocad",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.441,
+    "AUDREY": 0.188
+   }
+  }
+ },
+ "ep11-00779.wav": {
+  "ep": 11,
+  "start": 779,
+  "janela": [
+   777.0,
+   796.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "the fool"
+  ],
+  "anchors": [
+   "the fool"
+  ],
+  "pt": "A chave da invocação é a descrição específica do ser invocad | Lembre-se, não altera a descrição do ser invocado. | Isso pode facilmente atrair monstros terríveis.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.424,
+    "AUDREY": 0.239
+   }
+  }
+ },
+ "ep11-00782.wav": {
+  "ep": 11,
+  "start": 782,
+  "janela": [
+   780.0,
+   799.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "the fool"
+  ],
+  "anchors": [
+   "the fool"
+  ],
+  "pt": "Lembre-se, não altera a descrição do ser invocado. | Isso pode facilmente atrair monstros terríveis. | Eu mesmo, em meu nome, o invoco.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.486,
+    "AUDREY": 0.01
+   }
+  }
+ },
+ "ep9-00146.wav": {
+  "ep": 9,
+  "start": 146,
+  "janela": [
+   144.0,
+   163.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "backlund",
+   "dunn",
+   "spirituality"
+  ],
+  "anchors": [
+   "backlund",
+   "daly",
+   "dunn",
+   "spirituality"
+  ],
+  "pt": "Sou eu. | Perdoei por aparecer sem aviso, mas recebi uma carta de dan. | Perdoei por aparecer sem aviso, mas recebi uma carta de dan.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.523,
+    "AUDREY": 0.123
+   }
+  }
+ },
+ "ep9-00153.wav": {
+  "ep": 9,
+  "start": 153,
+  "janela": [
+   151.0,
+   170.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "backlund",
+   "dunn",
+   "spirituality"
+  ],
+  "anchors": [
+   "backlund",
+   "dunn",
+   "spirituality"
+  ],
+  "pt": "Perdoei por aparecer sem aviso, mas recebi uma carta de dan. | E como era urgente, não havia outra forma de voltar a Tinder | E como era urgente, não havia outra forma de voltar a Tinder",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.297,
+    "AUDREY": 0.153
+   }
+  }
+ },
+ "ep9-00158.wav": {
+  "ep": 9,
+  "start": 158,
+  "janela": [
+   156.0,
+   175.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "backlund",
+   "spirituality"
+  ],
+  "anchors": [
+   "backlund",
+   "daly",
+   "spirituality"
+  ],
+  "pt": "E como era urgente, não havia outra forma de voltar a Tinder | Não vai colocar um selo espiritual no quarto? | Há uma voz feminina vindo do seu quarto.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.431,
+    "AUDREY": 0.463
+   }
+  }
+ },
+ "ep9-00181.wav": {
+  "ep": 9,
+  "start": 181,
+  "janela": [
+   179.0,
+   198.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "Dana escreveu que você pediu para ser promovido. | Ele expressou algumas dúvidas na carta e principalmente preo | Ele expressou algumas dúvidas na carta e principalmente preo",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.383,
+    "AUDREY": 0.244
+   }
+  }
+ },
+ "ep9-00185.wav": {
+  "ep": 9,
+  "start": 185,
+  "janela": [
+   183.0,
+   202.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "Dana escreveu que você pediu para ser promovido. | Ele expressou algumas dúvidas na carta e principalmente preo | Ele expressou algumas dúvidas na carta e principalmente preo",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.647,
+    "AUDREY": 0.298
+   }
+  }
+ },
+ "ep9-00201.wav": {
+  "ep": 9,
+  "start": 201,
+  "janela": [
+   199.0,
+   218.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Método de atuação? Que que é isso? | Método de atuação? Que que é isso? | Método de atuação? Que que é isso?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.162,
+    "AUDREY": 0.396
+   }
+  }
+ },
+ "ep9-00229.wav": {
+  "ep": 9,
+  "start": 229,
+  "janela": [
+   227.0,
+   246.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Que bom que podemos falar sobre isso abertamente. | Eu levei quase dois anos para conseguir. | Você se tornou biôntera apenas dois meses.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.344,
+    "AUDREY": 0.313
+   }
+  }
+ },
+ "ep9-00289.wav": {
+  "ep": 9,
+  "start": 289,
+  "janela": [
+   287.0,
+   306.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "klein",
+   "tingen"
+  ],
+  "anchors": [
+   "klein",
+   "tingen"
+  ],
+  "pt": "Descobrir o método em apenas dois meses o torna um caso pecu | Ou melhor, um prônimo. | Na verdade, eles já estão a caminho daqui.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.511,
+    "AUDREY": 0.274
+   }
+  }
+ }
+}

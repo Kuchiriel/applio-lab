@@ -1,0 +1,4988 @@
+{
+ "meta": {
+  "ep": 4,
+  "total_en": 547,
+  "matched": 533,
+  "alta_conf": 159,
+  "skew_medio_s": -0.52,
+  "fonte_en": "anchors-en/ep04.json",
+  "fonte_pt": "ep4/vocals.srt (whisper-small)"
+ },
+ "spans": [
+  {
+   "t0": 170.98,
+   "t1": 174.02,
+   "en": "Blackthorn  Security  Company",
+   "pt": "Ah, Clain. Bom dia. O que temos para hoje, senhor Neil?",
+   "score": 0.234,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 209.78,
+   "t1": 212.14,
+   "en": "Wall of Spirituality A closed environment created by using spirituality that prevents  external interference",
+   "pt": "Nunca. Esqueça do maior tabu na magia ritualística. Você nunca jamais deve tentar se comunicar com o desconhecido.",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": [
+    "spirituality"
+   ]
+  },
+  {
+   "t0": 376.94,
+   "t1": 378.1,
+   "en": "Divination Club Receptionist Angelica",
+   "pt": "Senhor, tem interesse por a divinhação?",
+   "score": 0.189,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 382.9,
+   "t1": 384.94,
+   "en": "Tingen City Divination Club",
+   "pt": "Clube de a divinhação?",
+   "score": 0.417,
+   "overlap": 0.98,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 400.74,
+   "t1": 402.78,
+   "en": "Divination Club Fortune Teller Glacis",
+   "pt": "Entretanto, ao longo prazo, pode ser que volte.",
+   "score": 0.346,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 490.66,
+   "t1": 492.78,
+   "en": "Divination Club  Seer Hannas Vincent",
+   "pt": "Excelente.",
+   "score": 0.227,
+   "overlap": 0.94,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 619.06,
+   "t1": 624.3,
+   "en": "Aurora Order   A newer organization that has appeared in the last two to three hundred years. They worship the True Creator, believing that the Creator did not completely  perish but left behind a core existence that is the True Creator. The Hanged Giant  is the representation of that being. They believe that all things have godhood,  and that the life of a human is but a journey of the psyche. As long as one is willing  to listen to teachings, they will understand, discover, and focus their godhood,  ultimately becoming angels and ascending beyond reality. Members of the order  more or less have distorted thinking patterns. No matter how normal they may  appear in everyday life, they are, in actuality, hidden madmen. This organization  possesses the Secrets Suppliant pathway. \\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h\\h— Hidden Organizations, Nighthawk Internal Archives",
+   "pt": "Aquilo.",
+   "score": 0.011,
+   "overlap": 0.38,
+   "anchors": []
+  },
+  {
+   "t0": 641.82,
+   "t1": 645.74,
+   "en": "Potion Digestion",
+   "pt": "Então, o cerne da minha atuação aos olhos de todos é ser um vidente respeitável e verdadeiro.",
+   "score": 0.206,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 641.82,
+   "t1": 645.74,
+   "en": "Act as a Seer",
+   "pt": "Então, o cerne da minha atuação aos olhos de todos é ser um vidente respeitável e verdadeiro.",
+   "score": 0.192,
+   "overlap": 1.0,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 641.82,
+   "t1": 645.74,
+   "en": "Finish  Principles of the Seer",
+   "pt": "Então, o cerne da minha atuação aos olhos de todos é ser um vidente respeitável e verdadeiro.",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 656.86,
+   "t1": 664.82,
+   "en": "Return home -> Above the gray fog -> Try to use the fog's power?",
+   "pt": "O primeiro é digerir a poção, continuar avançando e ver se posso usar os meus poderes de biônder para controlar a neva cincenta.",
+   "score": 0.251,
+   "overlap": 0.9,
+   "anchors": []
+  },
+  {
+   "t0": 676.1,
+   "t1": 682.94,
+   "en": "1. Quickly digest the potion, advance to Clown -> Raise Beyonder powers -> Self-sufficiency",
+   "pt": "Minha segunda opção é corrigir as descrições no ritual de aumento de sorte e redirecionar o encanto a mim mesmo.",
+   "score": 0.229,
+   "overlap": 0.88,
+   "anchors": [
+    "beyonder",
+    "clown"
+   ]
+  },
+  {
+   "t0": 676.1,
+   "t1": 682.94,
+   "en": "2. Rely on external powers?",
+   "pt": "Minha segunda opção é corrigir as descrições no ritual de aumento de sorte e redirecionar o encanto a mim mesmo.",
+   "score": 0.194,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 676.1,
+   "t1": 682.94,
+   "en": "Luck enhancement ritual : Ritual offerings -> Four main dishes",
+   "pt": "Minha segunda opção é corrigir as descrições no ritual de aumento de sorte e redirecionar o encanto a mim mesmo.",
+   "score": 0.357,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 676.1,
+   "t1": 682.94,
+   "en": "Entities to pray to -> Immortal Lord of Heaven and Earth, The Sky Lord of Heaven and Earth, The Exalted Thearch of Heaven and Earth, The Celestial Worthy of Heaven and Earth for Blessings",
+   "pt": "Minha segunda opção é corrigir as descrições no ritual de aumento de sorte e redirecionar o encanto a mim mesmo.",
+   "score": 0.103,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 676.1,
+   "t1": 682.94,
+   "en": "Content of prayers -> Loss",
+   "pt": "Minha segunda opção é corrigir as descrições no ritual de aumento de sorte e redirecionar o encanto a mim mesmo.",
+   "score": 0.209,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 698.02,
+   "t1": 699.7,
+   "en": "mysterious ruler above the gray fog",
+   "pt": "O louco que não pertence a essa era, o misterioso governante acima da neva cincenta.",
+   "score": 0.291,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 703.7,
+   "t1": 706.7,
+   "en": "The King of Yellow and Black who wields good luck",
+   "pt": "Se tudo der certo, eu posso conseguir corrigir toda a prece.",
+   "score": 0.206,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 837.58,
+   "t1": 839.1,
+   "en": "Sailor Pathway Sequence 8 Folk of Rage Alger Wilson",
+   "pt": "Boa tarde, senhorita justiça.",
+   "score": 0.184,
+   "overlap": 0.71,
+   "anchors": [
+    "alger",
+    "wilson"
+   ]
+  },
+  {
+   "t0": 863.58,
+   "t1": 866.86,
+   "en": "Spectator Pathway Sequence 9 Spectator",
+   "pt": "E obrigada, senhor enforcado, por me tornar uma espectadora.",
+   "score": 0.194,
+   "overlap": 0.91,
+   "anchors": [
+    "spectator"
+   ]
+  },
+  {
+   "t0": 1231.54,
+   "t1": 1236.14,
+   "en": "July 15th, Sunday Selena's House",
+   "pt": "Aqui estamos.",
+   "score": 0.195,
+   "overlap": 0.43,
+   "anchors": []
+  },
+  {
+   "t0": 1241.14,
+   "t1": 1243.1,
+   "en": "Melissa's friend Selena Wood",
+   "pt": "Feliz aniversário, Selena.",
+   "score": 0.5,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1278.06,
+   "t1": 1281.34,
+   "en": "Selena's friend Elizabeth",
+   "pt": "Bom dia, senhor Clime.",
+   "score": 0.311,
+   "overlap": 0.61,
+   "anchors": []
+  },
+  {
+   "t0": 1431.7,
+   "t1": 1433.74,
+   "en": "Secrets Suppliant Pathway Sequence 9 Secrets Suppliant Member of the Aurora Order Hanass Vincent",
+   "pt": "Agora, Clime Moret.",
+   "score": 0.162,
+   "overlap": 0.98,
+   "anchors": [
+    "hanass vincent"
+   ]
+  },
+  {
+   "t0": 1927.62,
+   "t1": 1930.18,
+   "en": "Aurora Order Oracle 22 Mr. Z",
+   "pt": "Vincente, acente a graça do seu perdi!",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": [
+    "oracle"
+   ]
+  },
+  {
+   "t0": 34.36,
+   "t1": 37.03,
+   "en": "In the hidden world of Beyonders,",
+   "pt": "Este é o mundo dos Beyonders. Ao beber em certas poções, humanos comuns podem obter",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 37.13,
+   "t1": 40.39,
+   "en": "humans must depend upon a variety of potions",
+   "pt": "Este é o mundo dos Beyonders. Ao beber em certas poções, humanos comuns podem obter",
+   "score": 0.224,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 40.39,
+   "t1": 43.52,
+   "en": "to travel the path of supreme ascension",
+   "pt": "os poderes dos Beyonders. Eles se tornam capazes de acender a divindade. Os 22 começam com",
+   "score": 0.242,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 43.52,
+   "t1": 46.89,
+   "en": "and attain the occult powers of the Beyonder.",
+   "pt": "os poderes dos Beyonders. Eles se tornam capazes de acender a divindade. Os 22 começam com",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 46.89,
+   "t1": 49.08,
+   "en": "There are 22 pathways,",
+   "pt": "os poderes dos Beyonders. Eles se tornam capazes de acender a divindade. Os 22 começam com",
+   "score": 0.175,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 49.2,
+   "t1": 51.7,
+   "en": "each beginning with Sequence 9.",
+   "pt": "mais fraco, a sequência 9. Quanto menor o número da sequência, mais poderosas as habilidades",
+   "score": 0.209,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 51.98,
+   "t1": 54.66,
+   "en": "The lower one descends in the Sequence,",
+   "pt": "mais fraco, a sequência 9. Quanto menor o número da sequência, mais poderosas as habilidades",
+   "score": 0.192,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 54.66,
+   "t1": 57.77,
+   "en": "the greater their Beyonder powers become.",
+   "pt": "do Beyonder. Beyonders de sequências de nível mais alto dispõem de poderes grandes o bastante",
+   "score": 0.318,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 57.77,
+   "t1": 60.44,
+   "en": "Through this enlightened progression,",
+   "pt": "do Beyonder. Beyonders de sequências de nível mais alto dispõem de poderes grandes o bastante",
+   "score": 0.281,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 60.44,
+   "t1": 65.08,
+   "en": "the Beyonder achieves powers strong enough to rival gods.",
+   "pt": "do Beyonder. Beyonders de sequências de nível mais alto dispõem de poderes grandes o bastante",
+   "score": 0.405,
+   "overlap": 0.85,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 65.08,
+   "t1": 68.77,
+   "en": "Completing this evolution is an exceptional feat.",
+   "pt": "para rivalizar com os deuses. O caminho da evolução é chamado o caminho do divino.",
+   "score": 0.266,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 68.77,
+   "t1": 71.17,
+   "en": "It is the Path of the Divine.",
+   "pt": "para rivalizar com os deuses. O caminho da evolução é chamado o caminho do divino.",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 81.99,
+   "t1": 84.48,
+   "en": "The only mercy I shall grant you",
+   "pt": "Despedaçar sua alma será a maior humedade que me conceder.",
+   "score": 0.157,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 84.7,
+   "t1": 87.6,
+   "en": "will be the lacerated scraps of your soul.",
+   "pt": "Despedaçar sua alma será a maior humedade que me conceder.",
+   "score": 0.184,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 87.88,
+   "t1": 90.07,
+   "en": "I beg you, please, honorable Oracle",
+   "pt": "Honorável oráculo, permita-me oferecer uma explicação em minha defesa. O caderno da família",
+   "score": 0.213,
+   "overlap": 1.0,
+   "anchors": [
+    "oracle"
+   ]
+  },
+  {
+   "t0": 90.39,
+   "t1": 92.13,
+   "en": "allow me to offer an explanation.",
+   "pt": "Honorável oráculo, permita-me oferecer uma explicação em minha defesa. O caderno da família",
+   "score": 0.364,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 92.85,
+   "t1": 95.42,
+   "en": "The antagonist’s notebook is odd and obstinate.",
+   "pt": "antiga nos é muito estranho. Não importa o que façamos em nossas mãos, é só um caderno comum.",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 95.72,
+   "t1": 98.47,
+   "en": "No matter what we attempt, it has revealed nothing to us!",
+   "pt": "antiga nos é muito estranho. Não importa o que façamos em nossas mãos, é só um caderno comum.",
+   "score": 0.069,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 98.67,
+   "t1": 101.44,
+   "en": "We only sold it as a combat to unlock its secrets.",
+   "pt": "Por isso encontramos algumas pessoas para servir de vítimas e investigá-lo. Eu juro que não traímos",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 101.44,
+   "t1": 103.28999999999999,
+   "en": "They were just sacrificial lambs!",
+   "pt": "Por isso encontramos algumas pessoas para servir de vítimas e investigá-lo. Eu juro que não traímos",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 103.28999999999999,
+   "t1": 105.33,
+   "en": "We would never betray the Aurora Order, I swear!",
+   "pt": "Por isso encontramos algumas pessoas para servir de vítimas e investigá-lo. Eu juro que não traímos",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 106.27000000000001,
+   "t1": 109.22999999999999,
+   "en": "But those secrets died with your foolish sacrifices!",
+   "pt": "a ordem da aurora. Mas os sacrifícios infantes morreram. E o caderno agora está nas monstros",
+   "score": 0.199,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 110.14,
+   "t1": 113.08,
+   "en": "And now the notebook is in the hands of those Nighthawks.",
+   "pt": "a ordem da aurora. Mas os sacrifícios infantes morreram. E o caderno agora está nas monstros",
+   "score": 0.315,
+   "overlap": 1.0,
+   "anchors": [
+    "nighthawks"
+   ]
+  },
+  {
+   "t0": 113.08,
+   "t1": 116.8,
+   "en": "Allowing you imbeciles to live will only hinder our master's return.",
+   "pt": "de caderno esta noite. Anter todos mober para atrapalhar ao retorno do nosso mestre.",
+   "score": 0.295,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 127.67,
+   "t1": 130.57,
+   "en": "There's still... There's still one lamb left alive.",
+   "pt": "Não, ainda há uma vítima viva. Aquele que levou o caderno aos gavinhos da noite.",
+   "score": 0.242,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 130.66,
+   "t1": 132.96,
+   "en": "He's the one who gave the notebook to the Nighthawks.",
+   "pt": "Não, ainda há uma vítima viva. Aquele que levou o caderno aos gavinhos da noite.",
+   "score": 0.264,
+   "overlap": 1.0,
+   "anchors": [
+    "nighthawks"
+   ]
+  },
+  {
+   "t0": 133.0,
+   "t1": 134.93,
+   "en": "I'm certain he revealed something worthwhile.",
+   "pt": "Ele deve ter descoberto alguma coisa. Oráculo, lidarei com essa vítima o mais breve possível",
+   "score": 0.194,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 136.85,
+   "t1": 139.47,
+   "en": "Oracle, you have my word, he will be dealt with.",
+   "pt": "Ele deve ter descoberto alguma coisa. Oráculo, lidarei com essa vítima o mais breve possível",
+   "score": 0.148,
+   "overlap": 1.0,
+   "anchors": [
+    "oracle"
+   ]
+  },
+  {
+   "t0": 139.47,
+   "t1": 140.88,
+   "en": "I will find the notebook for you.",
+   "pt": "Ele deve ter descoberto alguma coisa. Oráculo, lidarei com essa vítima o mais breve possível",
+   "score": 0.164,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 141.07999999999998,
+   "t1": 143.38,
+   "en": "I beg your forgiveness, please!",
+   "pt": "e encontrarei o caderno para você. Por isso me perdoei. Esta é sua última chance.",
+   "score": 0.299,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 143.38,
+   "t1": 144.81,
+   "en": "You may live for now.",
+   "pt": "e encontrarei o caderno para você. Por isso me perdoei. Esta é sua última chance.",
+   "score": 0.122,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 145.31,
+   "t1": 147.02,
+   "en": "But this is your final chance.",
+   "pt": "e encontrarei o caderno para você. Por isso me perdoei. Esta é sua última chance.",
+   "score": 0.336,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 160.1,
+   "t1": 161.11,
+   "en": "Klein.",
+   "pt": "Clain Moretti.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 162.39,
+   "t1": 163.68,
+   "en": "Moretti.",
+   "pt": "Clain Moretti.",
+   "score": 0.7,
+   "overlap": 1.0,
+   "anchors": [
+    "moretti"
+   ]
+  },
+  {
+   "t0": 172.05,
+   "t1": 174.3,
+   "en": "Oh, you're already here.",
+   "pt": "Ah, Clain. Bom dia. O que temos para hoje, senhor Neil?",
+   "score": 0.389,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 174.6,
+   "t1": 175.57999999999998,
+   "en": "Hello, Klein.",
+   "pt": "Ah, Clain. Bom dia. O que temos para hoje, senhor Neil?",
+   "score": 0.197,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 175.57999999999998,
+   "t1": 176.37,
+   "en": "Good morning.",
+   "pt": "Ah, Clain. Bom dia. O que temos para hoje, senhor Neil?",
+   "score": 0.258,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 176.47,
+   "t1": 177.43,
+   "en": "What's on the docket?",
+   "pt": "Ah, Clain. Bom dia. O que temos para hoje, senhor Neil?",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 178.96,
+   "t1": 181.91,
+   "en": "I thought you might care to learn some advanced mystic knowledge.",
+   "pt": "Ah, vou lhe ensinar um pouco de misticismo avançado, magia ritualística.",
+   "score": 0.211,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 182.6,
+   "t1": 184.18,
+   "en": "Ritualistic magic.",
+   "pt": "Ah, vou lhe ensinar um pouco de misticismo avançado, magia ritualística.",
+   "score": 0.256,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 186.43,
+   "t1": 188.92,
+   "en": "Low Sequence Beyonders are not strong enough",
+   "pt": "Entre as magias ritualísticas realizadas por biônders de sequência baixa quase todas",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 188.92,
+   "t1": 192.67,
+   "en": "to perform ritualistic magic without the aid of a higher power.",
+   "pt": "buscam auxílio e poderes exterros. Primeiro devemos preparar os objetos necessários ao ritual,",
+   "score": 0.169,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 192.77,
+   "t1": 196.11,
+   "en": "The first step is to prepare the items needed for the ritual.",
+   "pt": "buscam auxílio e poderes exterros. Primeiro devemos preparar os objetos necessários ao ritual,",
+   "score": 0.368,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 196.11,
+   "t1": 199.32999999999998,
+   "en": "And then we chant an incantation seeking their charity.",
+   "pt": "depois entuar o encantamento correspondente à ajuda que se busca.",
+   "score": 0.356,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 199.43,
+   "t1": 201.94,
+   "en": "Enough explanation, I'll demonstrate.",
+   "pt": "Vou demonstrar, observe e tente gravar bem os detalhes.",
+   "score": 0.318,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 202.14,
+   "t1": 204.7,
+   "en": "Save your questions and watch closely.",
+   "pt": "Vou demonstrar, observe e tente gravar bem os detalhes.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 208.52,
+   "t1": 210.21,
+   "en": "A wall of spirituality.",
+   "pt": "Ah, uma parede de espiritualidade?",
+   "score": 0.556,
+   "overlap": 1.0,
+   "anchors": [
+    "spirituality"
+   ]
+  },
+  {
+   "t0": 212.44,
+   "t1": 213.24,
+   "en": "Take heed.",
+   "pt": "Nunca. Esqueça do maior tabu na magia ritualística. Você nunca jamais deve tentar se comunicar com o desconhecido.",
+   "score": 0.117,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 213.54,
+   "t1": 215.69,
+   "en": "Always stick with an orthodox divinity.",
+   "pt": "Nunca. Esqueça do maior tabu na magia ritualística. Você nunca jamais deve tentar se comunicar com o desconhecido.",
+   "score": 0.215,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 215.89,
+   "t1": 220.42000000000002,
+   "en": "Never attempt to communicate with an obscure entity whose motives are unknown.",
+   "pt": "Nunca. Esqueça do maior tabu na magia ritualística. Você nunca jamais deve tentar se comunicar com o desconhecido.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 221.17000000000002,
+   "t1": 224.07999999999998,
+   "en": "It's a slippery slope bound to drop you into the abyss,",
+   "pt": "Ou entrará no perigoso campo do abismo em que pode apenas aguardar a morte.",
+   "score": 0.141,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 224.07999999999998,
+   "t1": 226.07999999999998,
+   "en": "pitch black and endless.",
+   "pt": "Ou entrará no perigoso campo do abismo em que pode apenas aguardar a morte.",
+   "score": 0.124,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 227.12,
+   "t1": 230.28,
+   "en": "I can't shake the feeling he just described my luck enhancement ritual.",
+   "pt": "Parece que meu ritual de aumento de sorte fez exatamente isso.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 243.26,
+   "t1": 245.94,
+   "en": "I pray for the power of the Lightness Knight.",
+   "pt": "Eu reço pelo poder da noite das trevas. Eu reço pelo poder carminh.",
+   "score": 0.312,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 246.04,
+   "t1": 248.51,
+   "en": "I pray for the power of the Crimson,",
+   "pt": "Eu reço pelo poder da noite das trevas. Eu reço pelo poder carminh.",
+   "score": 0.36,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 248.51,
+   "t1": 250.96,
+   "en": "the loving grace of the Evernight Goddess.",
+   "pt": "Eu reço pela graça carinhosa da Deusa.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": [
+    "evernight goddess"
+   ]
+  },
+  {
+   "t0": 253.58,
+   "t1": 258.17,
+   "en": "Please provide me with the funds to remunerate my unsettled 30 pound debt.",
+   "pt": "Rogo que me forneça o dinheiro necessário para quitar minha dívida de trinta libras.",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 258.47,
+   "t1": 259.13,
+   "en": "What?",
+   "pt": "Rogo que me forneça o dinheiro necessário para quitar minha dívida de trinta libras.",
+   "score": 0.069,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 259.33,
+   "t1": 260.57,
+   "en": "His 30 pound debt?",
+   "pt": "Dívida de trinta libras? Como assim?",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 260.97,
+   "t1": 261.85,
+   "en": "What the hell?",
+   "pt": "Dívida de trinta libras? Como assim?",
+   "score": 0.213,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 265.99,
+   "t1": 267.8,
+   "en": "Praise the lady.",
+   "pt": "Louvada seja a Deusa.",
+   "score": 0.343,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 271.58,
+   "t1": 273.47,
+   "en": "So your debt's really settled now.",
+   "pt": "Então sua dívida está paga? Mas como?",
+   "score": 0.294,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 273.67,
+   "t1": 274.89,
+   "en": "But how do you know?",
+   "pt": "Então sua dívida está paga? Mas como?",
+   "score": 0.185,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 275.19,
+   "t1": 276.47,
+   "en": "Oh, don't you worry, lad.",
+   "pt": "Não se preocupe. A Deusa deu sua orientação. Agora é só esperar.",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 276.47,
+   "t1": 278.32,
+   "en": "You wouldn't doubt the goddess now, right?",
+   "pt": "Não se preocupe. A Deusa deu sua orientação. Agora é só esperar.",
+   "score": 0.238,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 278.32,
+   "t1": 280.12,
+   "en": "All that's left to do is wait.",
+   "pt": "Não se preocupe. A Deusa deu sua orientação. Agora é só esperar.",
+   "score": 0.178,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 281.48,
+   "t1": 282.90999999999997,
+   "en": "Well, that was fast.",
+   "pt": "Pronto, olha só.",
+   "score": 0.312,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 286.1,
+   "t1": 286.69,
+   "en": "What?",
+   "pt": "Ele pegou o mesmo dinheiro.",
+   "score": 0.067,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 286.69,
+   "t1": 287.71,
+   "en": "A lost wallet?",
+   "pt": "Ele pegou o mesmo dinheiro.",
+   "score": 0.103,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 289.72,
+   "t1": 291.14,
+   "en": "A fat wallet at that.",
+   "pt": "A carteira de alguém bem rico.",
+   "score": 0.367,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 291.87,
+   "t1": 293.19,
+   "en": "Now you understand.",
+   "pt": "Como eu disse, será resolvido de uma forma bem razoável.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 293.39,
+   "t1": 296.97,
+   "en": "My fiscal matters have been settled and in a reasonable manner as well.",
+   "pt": "Como eu disse, será resolvido de uma forma bem razoável.",
+   "score": 0.226,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 297.6,
+   "t1": 299.25,
+   "en": "Ah, right on time.",
+   "pt": "Viu?",
+   "score": 0.105,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 300.61,
+   "t1": 302.03,
+   "en": "My apologies, sirs.",
+   "pt": "Com licença, senhor. Creio que essa carteira seja minha.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 302.53,
+   "t1": 304.18,
+   "en": "I believe you're holding my wallet.",
+   "pt": "Com licença, senhor. Creio que essa carteira seja minha.",
+   "score": 0.276,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 304.75,
+   "t1": 306.03,
+   "en": "And now what will he do?",
+   "pt": "E agora?",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 306.53,
+   "t1": 308.5,
+   "en": "Can't see the goddess abetting deceit.",
+   "pt": "A Deusa não faria negar que a carteira do figurão ou que lhe seja coisa de envolver.",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 308.7,
+   "t1": 309.86,
+   "en": "Will he hand it over?",
+   "pt": "A Deusa não faria negar que a carteira do figurão ou que lhe seja coisa de envolver.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 313.18,
+   "t1": 315.72,
+   "en": "Well, sir, the crest on your carriage",
+   "pt": "Senhor, este brazão, de fato, prova que é sua. Por favor, guarde-a com cuidado.",
+   "score": 0.315,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 315.72,
+   "t1": 317.47,
+   "en": "Plenty of proof this is yours.",
+   "pt": "Senhor, este brazão, de fato, prova que é sua. Por favor, guarde-a com cuidado.",
+   "score": 0.294,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 317.47,
+   "t1": 319.14,
+   "en": "Don't go dropping it again now.",
+   "pt": "Senhor, este brazão, de fato, prova que é sua. Por favor, guarde-a com cuidado.",
+   "score": 0.272,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 319.64,
+   "t1": 322.26,
+   "en": "Such honesty deserves sincere gratitude.",
+   "pt": "Uma pessoa tão honesta merece um agradecimento sincero.",
+   "score": 0.409,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 322.36,
+   "t1": 323.46,
+   "en": "Here's thirty pounds.",
+   "pt": "Uma pessoa tão honesta merece um agradecimento sincero.",
+   "score": 0.216,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 323.46,
+   "t1": 324.83,
+   "en": "Please don't refuse it.",
+   "pt": "Por favor, acente trinta libras como recompensa.",
+   "score": 0.294,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 325.93,
+   "t1": 326.67,
+   "en": "Thank you, sir.",
+   "pt": "O senhor é um cavaleiro da magentil e generosa estíripe.",
+   "score": 0.147,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 326.67,
+   "t1": 328.91,
+   "en": "You are a most kind and generous gentleman.",
+   "pt": "O senhor é um cavaleiro da magentil e generosa estíripe.",
+   "score": 0.474,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 332.65999999999997,
+   "t1": 333.54,
+   "en": "There you have it.",
+   "pt": "E este é o poder da magia.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 333.54,
+   "t1": 335.40999999999997,
+   "en": "You've witnessed the power of magic.",
+   "pt": "E este é o poder da magia.",
+   "score": 0.567,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 335.90999999999997,
+   "t1": 337.77,
+   "en": "That's what he calls the power of magic.",
+   "pt": "O poder da magia? Uma ova?",
+   "score": 0.349,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 338.27,
+   "t1": 339.22,
+   "en": "Oh, Klein...",
+   "pt": "Ah, Klein, vim seus olhos agora a certa ignorância e uma confiança vergonhosamente fraca.",
+   "score": 0.149,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 339.96,
+   "t1": 342.56,
+   "en": "There's no hiding that shameful ignorance and distrust.",
+   "pt": "Ah, Klein, vim seus olhos agora a certa ignorância e uma confiança vergonhosamente fraca.",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 342.65999999999997,
+   "t1": 345.06,
+   "en": "It's glaring so overtly in your eyes.",
+   "pt": "Ah, Klein, vim seus olhos agora a certa ignorância e uma confiança vergonhosamente fraca.",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 345.76,
+   "t1": 348.0,
+   "en": "Have you not heard the mystery priors, Maxim?",
+   "pt": "Sabe qual o lema dos intromissores de mistérios?",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 349.01,
+   "t1": 352.31,
+   "en": "Do what they wilt, but never do harm.",
+   "pt": "Se há ninguém machucar, faça o que desejar.",
+   "score": 0.184,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 355.95,
+   "t1": 359.94,
+   "en": "Roselle's diary said the key to the potions is digesting and acting.",
+   "pt": "O diário do Imperador Rosel dizia que a chave para as poções é digerir e atuar.",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 361.13,
+   "t1": 365.29,
+   "en": "The mystery prize maxim denotes acting, but it's not true acting.",
+   "pt": "O lema dos intromissores de mistérios parece ensinar a atuação, mas não é a atuação, de verdade.",
+   "score": 0.256,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 365.59,
+   "t1": 367.81,
+   "en": "I seem to feel Seer digesting.",
+   "pt": "A poção parece ter sido digerida antes. Foi porque tanto usei a divinhação em batalha.",
+   "score": 0.212,
+   "overlap": 1.0,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 367.91,
+   "t1": 370.47,
+   "en": "Was that due to my use of divination in battle?",
+   "pt": "A poção parece ter sido digerida antes. Foi porque tanto usei a divinhação em batalha.",
+   "score": 0.431,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 370.67,
+   "t1": 373.48,
+   "en": "Does that count as I acting as a seer?",
+   "pt": "Pró-ovidente, isso conta como atuar?",
+   "score": 0.31,
+   "overlap": 1.0,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 373.48,
+   "t1": 374.22,
+   "en": "Here, sir.",
+   "pt": "Pró-ovidente, isso conta como atuar?",
+   "score": 0.238,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 375.8,
+   "t1": 377.27,
+   "en": "Interested in divination?",
+   "pt": "Senhor, tem interesse por a divinhação?",
+   "score": 0.557,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 382.29,
+   "t1": 383.48,
+   "en": "Divination Club",
+   "pt": "Clube de a divinhação?",
+   "score": 0.389,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 393.73,
+   "t1": 394.33,
+   "en": "Pity.",
+   "pt": "Invertido, eu lamento.",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 395.03,
+   "t1": 395.92,
+   "en": "It's inverted.",
+   "pt": "Invertido, eu lamento.",
+   "score": 0.424,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 395.92,
+   "t1": 398.83,
+   "en": "Sorry to say, you shan't soon return to your former home.",
+   "pt": "Não voltará ao local que deseja tão cedo.",
+   "score": 0.126,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 399.67,
+   "t1": 402.48,
+   "en": "However, it is still a possibility.",
+   "pt": "Entretanto, ao longo prazo, pode ser que volte.",
+   "score": 0.156,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 403.08,
+   "t1": 404.08,
+   "en": "There is a chance",
+   "pt": "Então eu posso conseguir voltar a terra nessa vida?",
+   "score": 0.299,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 404.38,
+   "t1": 406.57,
+   "en": "I can still get back to Earth in this lifetime.",
+   "pt": "Então eu posso conseguir voltar a terra nessa vida?",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 407.11,
+   "t1": 408.19,
+   "en": "Well, thank you.",
+   "pt": "Obrigado. Aqui está o pagamento.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 408.69,
+   "t1": 409.61,
+   "en": "Your reading fee.",
+   "pt": "Obrigado. Aqui está o pagamento.",
+   "score": 0.261,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 410.61,
+   "t1": 413.78,
+   "en": "Joining this club would allow me to exercise my acting as a seer.",
+   "pt": "Me juntar a esse local me ajudaria a melhorar minha atuação como vitente.",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 423.35,
+   "t1": 426.06,
+   "en": "Mr. Glacis, I implore you to see a doctor.",
+   "pt": "Senhor Glasses, eu sugiro que visite um médico o quanto antes, principalmente por seus pomões.",
+   "score": 0.277,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 426.79,
+   "t1": 428.09,
+   "en": "Have them check your lungs.",
+   "pt": "Senhor Glasses, eu sugiro que visite um médico o quanto antes, principalmente por seus pomões.",
+   "score": 0.291,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 430.13,
+   "t1": 431.83,
+   "en": "You'll call us off.",
+   "pt": "E olharia só a glabela.",
+   "score": 0.1,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 433.94,
+   "t1": 435.03,
+   "en": "Are you a doctor?",
+   "pt": "Você é médico ou boticário?",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 435.23,
+   "t1": 436.11,
+   "en": "Or herbalist?",
+   "pt": "Você é médico ou boticário?",
+   "score": 0.158,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 436.71,
+   "t1": 437.6,
+   "en": "Neither one.",
+   "pt": "Você é médico ou boticário?",
+   "score": 0.162,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 438.0,
+   "t1": 439.3,
+   "en": "But I am a diviner.",
+   "pt": "Nenhum dos dois. Eu sou um vidente.",
+   "score": 0.392,
+   "overlap": 1.0,
+   "anchors": [
+    "diviner"
+   ]
+  },
+  {
+   "t0": 443.47,
+   "t1": 445.74,
+   "en": "Your receipt for the 5 pound member fee.",
+   "pt": "Bem-vindo ao clube de a divinhação de Tindin.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 447.07,
+   "t1": 449.04,
+   "en": "Welcome to the Tingen Divination Club.",
+   "pt": "Bem-vindo ao clube de a divinhação de Tindin.",
+   "score": 0.395,
+   "overlap": 0.81,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 451.24,
+   "t1": 453.17,
+   "en": "Another receipt for reinvestment.",
+   "pt": "Obrigado, Imperador Rosello, pela generosa política de reembolso.",
+   "score": 0.277,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 453.27,
+   "t1": 453.95,
+   "en": "Thank you, Roselle.",
+   "pt": "Senhor Moret, parece que o senhor é o grandioso vidente que o senhor Vincent falou.",
+   "score": 0.143,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 453.95,
+   "t1": 454.81,
+   "en": "Oh, right.",
+   "pt": "Senhor Moret, parece que o senhor é o grandioso vidente que o senhor Vincent falou.",
+   "score": 0.157,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 454.90999999999997,
+   "t1": 455.98,
+   "en": "Mr. Moretti.",
+   "pt": "Senhor Moret, parece que o senhor é o grandioso vidente que o senhor Vincent falou.",
+   "score": 0.198,
+   "overlap": 1.0,
+   "anchors": [
+    "moretti"
+   ]
+  },
+  {
+   "t0": 456.18,
+   "t1": 459.22,
+   "en": "You must be the gifted diviner Mr. Vincent's expecting.",
+   "pt": "Senhor Moret, parece que o senhor é o grandioso vidente que o senhor Vincent falou.",
+   "score": 0.209,
+   "overlap": 0.82,
+   "anchors": [
+    "diviner"
+   ]
+  },
+  {
+   "t0": 459.42,
+   "t1": 460.65,
+   "en": "Mr. Vincent, you say?",
+   "pt": "O senhor Vincent?",
+   "score": 0.529,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 461.15,
+   "t1": 462.59000000000003,
+   "en": "Our finest soothsayer.",
+   "pt": "Nossa, melhor adivinho.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 462.87,
+   "t1": 466.32,
+   "en": "Earlier this morning, he said a skilled diviner would visit today.",
+   "pt": "Essa manhã, ele disse que um grandioso vidente viria nos visitar.",
+   "score": 0.409,
+   "overlap": 0.81,
+   "anchors": [
+    "diviner"
+   ]
+  },
+  {
+   "t0": 466.42,
+   "t1": 467.22,
+   "en": "Must be you.",
+   "pt": "Deve ser o senhor.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 467.42,
+   "t1": 468.07,
+   "en": "Really?",
+   "pt": "Bem, aqui é tarde.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 468.71,
+   "t1": 470.02,
+   "en": "Alas, it's so late.",
+   "pt": "A aula de adivinhação do senhor Vincent está para acabar.",
+   "score": 0.274,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 470.22,
+   "t1": 472.52,
+   "en": "His divination lecture is about to end.",
+   "pt": "A aula de adivinhação do senhor Vincent está para acabar.",
+   "score": 0.319,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 473.1,
+   "t1": 475.59000000000003,
+   "en": "Magic mirror divination, that's the subject.",
+   "pt": "Acho que a aula de hoje era adivinhação com espelho mágico.",
+   "score": 0.3,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 476.7,
+   "t1": 478.2,
+   "en": "Magic mirror, huh?",
+   "pt": "Adivinhação com espelho mágico?",
+   "score": 0.217,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 479.7,
+   "t1": 483.7,
+   "en": "The mirror is a conduit to the unknown, a door to the spiritual world.",
+   "pt": "No misticismo, os espelhos são conectados ao mistério e ao desconhecido.",
+   "score": 0.275,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 484.0,
+   "t1": 486.17,
+   "en": "Be vigilant, be unknown as Paris.",
+   "pt": "São portas para o mundo espiritual.",
+   "score": 0.277,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 488.02,
+   "t1": 491.17,
+   "en": "The Empress of Misfortune and Horror, the Evernight Goddess.",
+   "pt": "Senhora da calma e também do silêncio.",
+   "score": 0.232,
+   "overlap": 0.84,
+   "anchors": [
+    "evernight goddess"
+   ]
+  },
+  {
+   "t0": 491.17,
+   "t1": 492.05,
+   "en": "Excellent.",
+   "pt": "Excelente.",
+   "score": 0.889,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 492.69,
+   "t1": 494.94,
+   "en": "Like all forms of ritualistic magic,",
+   "pt": "como a adivinhação com espelho mágico",
+   "score": 0.25,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 494.94,
+   "t1": 497.21,
+   "en": "Only entreat the seven orthodox gods.",
+   "pt": "encantamos com três descrições.",
+   "score": 0.212,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 497.31,
+   "t1": 499.23,
+   "en": "Any sanctioned invocation works.",
+   "pt": "Para representar os sete deuses ortodoxas.",
+   "score": 0.306,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 499.93,
+   "t1": 501.88,
+   "en": "Okay, that's a relief.",
+   "pt": "Resam ao sete deuses ortodoxas.",
+   "score": 0.24,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 501.98,
+   "t1": 504.24,
+   "en": "It's orthodox magic mirror divination.",
+   "pt": "A adivinhação com espelho assim é segura.",
+   "score": 0.234,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 505.65,
+   "t1": 507.72,
+   "en": "I won't have to alert the captain after all.",
+   "pt": "que dê uma olhada no medidor de gás dele qualquer noite.",
+   "score": 0.245,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 508.12,
+   "t1": 510.8,
+   "en": "Would have been sad to see my new club hit with a midnight raid.",
+   "pt": "que dê uma olhada no medidor de gás dele qualquer noite.",
+   "score": 0.22,
+   "overlap": 0.95,
+   "anchors": []
+  },
+  {
+   "t0": 518.92,
+   "t1": 520.44,
+   "en": "His body is plenty healthy,",
+   "pt": "De resto, ele é bem saudável.",
+   "score": 0.189,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 520.64,
+   "t1": 523.51,
+   "en": "although something's vexing him.",
+   "pt": "Só tenho uns problemas ali.",
+   "score": 0.105,
+   "overlap": 0.7,
+   "anchors": []
+  },
+  {
+   "t0": 539.0,
+   "t1": 541.03,
+   "en": "Are my senses playing tricks on me?",
+   "pt": "Será que estou imaginando coisas?",
+   "score": 0.364,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 542.24,
+   "t1": 543.27,
+   "en": "You alright, lad?",
+   "pt": "Aconteceu algo de errado, meu jovem?",
+   "score": 0.327,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 543.47,
+   "t1": 544.54,
+   "en": "Something the matter?",
+   "pt": "Aconteceu algo de errado, meu jovem?",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 545.34,
+   "t1": 549.06,
+   "en": "Mr. Vincent, I'm the new diviner here, Klein Moretti.",
+   "pt": "Sr. Vincent, eu sou o novo vidente.",
+   "score": 0.444,
+   "overlap": 0.81,
+   "anchors": [
+    "diviner",
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 549.96,
+   "t1": 550.77,
+   "en": "Take a seat.",
+   "pt": "Sente-se.",
+   "score": 0.526,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 553.86,
+   "t1": 555.7,
+   "en": "My mystical perception tells me",
+   "pt": "Minha intuição de adivinho",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 556.0,
+   "t1": 558.53,
+   "en": "there is a hopefulness hidden deep in your soul,",
+   "pt": "me diz que a esperança se esconde num ponto profundo da sua alma.",
+   "score": 0.324,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 558.65,
+   "t1": 560.38,
+   "en": "and that longing brought you here.",
+   "pt": "Foi isso que o Guiote aqui.",
+   "score": 0.068,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 560.68,
+   "t1": 562.22,
+   "en": "We all have things we hope for.",
+   "pt": "Todos têm esperança com alguma coisa?",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 563.39,
+   "t1": 566.25,
+   "en": "This hope of yours though, it mystifies you,",
+   "pt": "Por essa esperança, está confuso e exausto.",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 566.47,
+   "t1": 567.95,
+   "en": "and you seek it with great pain.",
+   "pt": "Por essa esperança, está confuso e exausto.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 568.61,
+   "t1": 569.84,
+   "en": "It nearly took your life.",
+   "pt": "Chegou perto de perder a vida.",
+   "score": 0.34,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 570.67,
+   "t1": 571.98,
+   "en": "His insight's remarkable.",
+   "pt": "Não há dúvida de que um ótimo adivinho.",
+   "score": 0.194,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 572.36,
+   "t1": 573.28,
+   "en": "Quite talented.",
+   "pt": "Não há dúvida de que um ótimo adivinho.",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 573.8,
+   "t1": 576.44,
+   "en": "So, how do I handle this dilemma?",
+   "pt": "Então, como supera essa minha dificuldade?",
+   "score": 0.366,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 577.26,
+   "t1": 580.16,
+   "en": "Your plight stems from a denial of basic needs.",
+   "pt": "Ela se origina da autossupressão e autolimitação.",
+   "score": 0.234,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 580.36,
+   "t1": 582.75,
+   "en": "There are two words I most clearly sense.",
+   "pt": "Minha intuição indica duas palavras.",
+   "score": 0.187,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 583.45,
+   "t1": 584.23,
+   "en": "Gathering.",
+   "pt": "Reunião e família.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 585.27,
+   "t1": 586.02,
+   "en": "And family,",
+   "pt": "Reunião e família.",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 586.74,
+   "t1": 587.89,
+   "en": "my gift to you.",
+   "pt": "Aseite isso como um presente.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 588.57,
+   "t1": 590.11,
+   "en": "I hope it might offer you some rest.",
+   "pt": "Espero que ajude com essa dificuldade.",
+   "score": 0.278,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 590.31,
+   "t1": 591.05,
+   "en": "Family?",
+   "pt": "Família? Reunião?",
+   "score": 0.381,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 591.25,
+   "t1": 591.99,
+   "en": "Gathering?",
+   "pt": "Família? Reunião?",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 592.17,
+   "t1": 594.28,
+   "en": "Maybe the Gathering's above the Grey Fog?",
+   "pt": "Será a reunião sobre a leva cinzenta no clube de Tarot?",
+   "score": 0.191,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 595.76,
+   "t1": 597.1,
+   "en": "Much obliged, Mr. Vincent.",
+   "pt": "Obrigado, Sr. Vincent.",
+   "score": 0.714,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 599.72,
+   "t1": 601.6,
+   "en": "I think your insight will be rather useful.",
+   "pt": "Creio que suas dicas serão valiosas.",
+   "score": 0.26,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 603.69,
+   "t1": 605.08,
+   "en": "For solely a session?",
+   "pt": "Quatro soles por uma sessão?",
+   "score": 0.596,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 605.38,
+   "t1": 607.22,
+   "en": "That's almost my family's daily budget.",
+   "pt": "Requase o orçamento diário da minha família?",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 608.13,
+   "t1": 609.85,
+   "en": "Thank goodness this one was free.",
+   "pt": "Que bom que foi de graça dessa vez.",
+   "score": 0.242,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 632.9,
+   "t1": 635.4,
+   "en": "By acting as a seer and telling fortunes.",
+   "pt": "Como vidente conversar com quem busca a divinhação,",
+   "score": 0.2,
+   "overlap": 0.8,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 635.6,
+   "t1": 638.07,
+   "en": "I can make some real progress digesting the potion.",
+   "pt": "realizá-la e receber o agradecimento.",
+   "score": 0.372,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 638.37,
+   "t1": 639.17,
+   "en": "And money.",
+   "pt": "realizá-la e receber o agradecimento.",
+   "score": 0.133,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 639.67,
+   "t1": 640.71,
+   "en": "A two-for-one deal.",
+   "pt": "E, claro, o pagamento será o catalisador para a digestão da poção.",
+   "score": 0.247,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 641.86,
+   "t1": 644.67,
+   "en": "Now the acting is all about embodying the potion's name.",
+   "pt": "Então, o cerne da minha atuação aos olhos de todos é ser um vidente respeitável e verdadeiro.",
+   "score": 0.164,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 644.87,
+   "t1": 647.27,
+   "en": "Acting as a seer puts me in symmetry with it.",
+   "pt": "Então, o cerne da minha atuação aos olhos de todos é ser um vidente respeitável e verdadeiro.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 649.57,
+   "t1": 650.79,
+   "en": "That'll take some time,",
+   "pt": "Ah, o que parece, o caminho de volta está escondido na neva cincenta.",
+   "score": 0.273,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 651.05,
+   "t1": 653.6,
+   "en": "so the grey fog is still my best shot for getting home.",
+   "pt": "Ah, o que parece, o caminho de volta está escondido na neva cincenta.",
+   "score": 0.417,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 654.46,
+   "t1": 657.1,
+   "en": "If the hope is to harness its power to return to Earth,",
+   "pt": "Se eu quiser usar o poder da neva cincenta para voltar para a terra, há dois caminhos que posso traçar.",
+   "score": 0.271,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 657.71,
+   "t1": 659.47,
+   "en": "there are two ways to achieve it.",
+   "pt": "Se eu quiser usar o poder da neva cincenta para voltar para a terra, há dois caminhos que posso traçar.",
+   "score": 0.09,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 660.28,
+   "t1": 661.13,
+   "en": "The first,",
+   "pt": "O primeiro é digerir a poção, continuar avançando e ver se posso usar os meus poderes de biônder para controlar a neva cincenta.",
+   "score": 0.089,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 661.32,
+   "t1": 663.59,
+   "en": "digests Sia and advances sequentially.",
+   "pt": "O primeiro é digerir a poção, continuar avançando e ver se posso usar os meus poderes de biônder para controlar a neva cincenta.",
+   "score": 0.245,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 663.99,
+   "t1": 666.79,
+   "en": "I'll try to control the fog with my amassed Beyonder powers.",
+   "pt": "O primeiro é digerir a poção, continuar avançando e ver se posso usar os meus poderes de biônder para controlar a neva cincenta.",
+   "score": 0.205,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 667.87,
+   "t1": 671.94,
+   "en": "Although, that means finding the formulas for Clown and the rest of the potions.",
+   "pt": "Nesse caso, achar pistas das poções do palhaço e subsequentes é crucial.",
+   "score": 0.216,
+   "overlap": 1.0,
+   "anchors": [
+    "clown"
+   ]
+  },
+  {
+   "t0": 672.71,
+   "t1": 674.25,
+   "en": "And we're back to the issue of time.",
+   "pt": "Só que avançar como biônder demora muito tempo.",
+   "score": 0.321,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 674.25,
+   "t1": 675.67,
+   "en": "That's a lengthy process.",
+   "pt": "Só que avançar como biônder demora muito tempo.",
+   "score": 0.257,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 676.59,
+   "t1": 677.37,
+   "en": "Option two.",
+   "pt": "Só que avançar como biônder demora muito tempo.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 678.07,
+   "t1": 680.89,
+   "en": "Amend the luck ritual chant to direct it towards myself.",
+   "pt": "Minha segunda opção é corrigir as descrições no ritual de aumento de sorte e redirecionar o encanto a mim mesmo.",
+   "score": 0.398,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 682.18,
+   "t1": 684.35,
+   "en": "If I'm able to tether myself to the gray fog,",
+   "pt": "Se eu puder me ligar à neva cincenta, devo conseguir usar encantamentos para pegar emprestado o poder na neva.",
+   "score": 0.224,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 684.85,
+   "t1": 687.9,
+   "en": "then maybe I can use the incantation to borrow its power.",
+   "pt": "Se eu puder me ligar à neva cincenta, devo conseguir usar encantamentos para pegar emprestado o poder na neva.",
+   "score": 0.317,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 689.51,
+   "t1": 691.28,
+   "en": "What description should I use?",
+   "pt": "Ah, que descrições devo usar?",
+   "score": 0.429,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 695.29,
+   "t1": 697.44,
+   "en": "The Fool that doesn't belong to this era.",
+   "pt": "O louco que não pertence a essa era, o misterioso governante acima da neva cincenta.",
+   "score": 0.23,
+   "overlap": 1.0,
+   "anchors": [
+    "the fool"
+   ]
+  },
+  {
+   "t0": 697.44,
+   "t1": 699.87,
+   "en": "The mysterious ruler above the gray fog.",
+   "pt": "O louco que não pertence a essa era, o misterioso governante acima da neva cincenta.",
+   "score": 0.314,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 702.56,
+   "t1": 704.42,
+   "en": "The King of Yellow and Black",
+   "pt": "O rei do amarelo e do preto, que reja boa sorte.",
+   "score": 0.297,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 704.85,
+   "t1": 706.54,
+   "en": "who wields good luck.",
+   "pt": "Se tudo der certo, eu posso conseguir corrigir toda a prece.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 707.86,
+   "t1": 710.84,
+   "en": "If this does work, I can try amending the rest of it.",
+   "pt": "E aí, eu vou direto para casa.",
+   "score": 0.253,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 711.25,
+   "t1": 713.73,
+   "en": "And then, it might take me home.",
+   "pt": "E aí, eu vou direto para casa.",
+   "score": 0.207,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 736.71,
+   "t1": 737.71,
+   "en": "What are you doing?",
+   "pt": "Simplicidade e estrutura, de fato, trazem relaxamento.",
+   "score": 0.203,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 737.84,
+   "t1": 739.44,
+   "en": "Here, take a look.",
+   "pt": "Simplicidade e estrutura, de fato, trazem relaxamento.",
+   "score": 0.149,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 740.56,
+   "t1": 742.2,
+   "en": "I finished building it this morning.",
+   "pt": "Você tem que ver o que você tem que ver.",
+   "score": 0.135,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 742.3,
+   "t1": 745.09,
+   "en": "Just focus on this little guy if you're ever feeling overwhelmed.",
+   "pt": "Você tem que ver o que você tem que ver.",
+   "score": 0.33,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 745.69,
+   "t1": 747.01,
+   "en": "It'll relax you.",
+   "pt": "Você tem que ver o que você tem que ver.",
+   "score": 0.259,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 749.04,
+   "t1": 750.11,
+   "en": "Ad hoc automation.",
+   "pt": "Você tem que ver o que você tem que ver.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 750.11,
+   "t1": 751.18,
+   "en": "It's rather soothing.",
+   "pt": "Simplicidade e estrutura, de fato, trazem relaxamento.",
+   "score": 0.197,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 752.04,
+   "t1": 753.07,
+   "en": "You made it yourself?",
+   "pt": "Simplicidade e estrutura, de fato, trazem relaxamento.",
+   "score": 0.282,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 754.41,
+   "t1": 754.96,
+   "en": "Yep.",
+   "pt": "Você fez isso sozinho?",
+   "score": 0.083,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 755.31,
+   "t1": 756.88,
+   "en": "It's a well-built little turtle.",
+   "pt": "Que tartaruguinha bem feita.",
+   "score": 0.241,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 759.91,
+   "t1": 760.9,
+   "en": "It's a person.",
+   "pt": "É um homenzinho.",
+   "score": 0.143,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 773.21,
+   "t1": 775.24,
+   "en": "Are you heading back into work, again?",
+   "pt": "Já tem que trabalhar de novo, Klein?",
+   "score": 0.257,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 775.54,
+   "t1": 776.81,
+   "en": "That's right, I am.",
+   "pt": "Já tem que trabalhar de novo, Klein?",
+   "score": 0.196,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 777.7,
+   "t1": 780.35,
+   "en": "I'm glad you like your job, but you're so busy now.",
+   "pt": "Desde que começou a trabalhar, passo os dias muito ocupado.",
+   "score": 0.245,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 781.63,
+   "t1": 784.83,
+   "en": "Uh, what I mean to say, try to relax when you can.",
+   "pt": "Sabe, você precisa se divertir um pouco.",
+   "score": 0.282,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 787.57,
+   "t1": 790.97,
+   "en": "Oh, we're invited to my friend Selena's birthday banquet.",
+   "pt": "Minha amiga Selena nos convidou para o seu banquete de aniversário.",
+   "score": 0.38,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 791.07,
+   "t1": 792.21,
+   "en": "Are you free Sunday?",
+   "pt": "Se estiver livre domingo, venha comigo.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 792.31,
+   "t1": 792.99,
+   "en": "Let's go!",
+   "pt": "Se estiver livre domingo, venha comigo.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 792.99,
+   "t1": 794.34,
+   "en": "A banquet, huh?",
+   "pt": "Banquete de aniversário?",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 795.62,
+   "t1": 797.74,
+   "en": "attending a gathering with family.",
+   "pt": "Era uma reunião com a família.",
+   "score": 0.355,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 798.77,
+   "t1": 801.02,
+   "en": "There are two words I most clearly sense.",
+   "pt": "Minha intuição indica duas palavras.",
+   "score": 0.187,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 801.94,
+   "t1": 802.7,
+   "en": "Gathering.",
+   "pt": "Reunião e família.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 803.96,
+   "t1": 804.73,
+   "en": "And family.",
+   "pt": "Reunião e família.",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 807.99,
+   "t1": 808.49,
+   "en": "Sure.",
+   "pt": "Tá bom.",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 831.18,
+   "t1": 833.12,
+   "en": "Mr. Fool, good afternoon.",
+   "pt": "Uma boa tarde, senhor louco.",
+   "score": 0.208,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 833.72,
+   "t1": 835.54,
+   "en": "Good afternoon, Mr. Hanged Man.",
+   "pt": "Boa tarde, senhor enforcado.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": [
+    "hanged man"
+   ]
+  },
+  {
+   "t0": 836.11,
+   "t1": 837.92,
+   "en": "The same to you, Miss Justice.",
+   "pt": "Boa tarde, senhorita justiça.",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": [
+    "justice"
+   ]
+  },
+  {
+   "t0": 848.35,
+   "t1": 852.71,
+   "en": "The core of his aether body is a deep blue, akin to a tidal storm.",
+   "pt": "O senhor enforcado parece ser um mar azul marinho de tempestades e ondas.",
+   "score": 0.162,
+   "overlap": 0.92,
+   "anchors": []
+  },
+  {
+   "t0": 853.37,
+   "t1": 854.43,
+   "en": "And her aura.",
+   "pt": "Enquanto a senhorita justiça é calma e serena como um lago.",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 855.03,
+   "t1": 856.59,
+   "en": "It's clear she's a Beyonder now.",
+   "pt": "Enquanto a senhorita justiça é calma e serena como um lago.",
+   "score": 0.225,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 857.23,
+   "t1": 859.95,
+   "en": "The gray fog really sharpens my spirit vision.",
+   "pt": "A cima da nova cincenta minha visão espiritual parece amplificada.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 860.25,
+   "t1": 862.52,
+   "en": "Miss Justice, congratulations.",
+   "pt": "Parabéns, senhorita justiça.",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": [
+    "justice"
+   ]
+  },
+  {
+   "t0": 862.62,
+   "t1": 863.86,
+   "en": "Thank you, Mr. Fool.",
+   "pt": "Obrigada, senhor louco.",
+   "score": 0.263,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 863.96,
+   "t1": 865.2,
+   "en": "I'm a spectator now.",
+   "pt": "Obrigada, senhor louco.",
+   "score": 0.45,
+   "overlap": 1.0,
+   "anchors": [
+    "spectator"
+   ]
+  },
+  {
+   "t0": 865.8,
+   "t1": 866.88,
+   "en": "Thanks to Mr. Hangman.",
+   "pt": "E obrigada, senhor enforcado, por me tornar uma espectadora.",
+   "score": 0.234,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 870.98,
+   "t1": 872.04,
+   "en": "Can they see that?",
+   "pt": "Eles não veem isso?",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 874.84,
+   "t1": 876.56,
+   "en": "The giant dragon and the storm.",
+   "pt": "O dragão e a tempestade.",
+   "score": 0.491,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 876.86,
+   "t1": 881.65,
+   "en": "The storm obviously symbolizes sailor, but a dragon and spectator.",
+   "pt": "A tempestade representa o caminho do marinheiro.",
+   "score": 0.072,
+   "overlap": 0.63,
+   "anchors": [
+    "spectator"
+   ]
+  },
+  {
+   "t0": 882.98,
+   "t1": 885.38,
+   "en": "What about the constellation behind me?",
+   "pt": "Então, símbolo da constelação atrás de mim.",
+   "score": 0.481,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 886.71,
+   "t1": 889.02,
+   "en": "The pupil-less eye denoting concealment,",
+   "pt": "O olho sem pupila que representa a ocultação.",
+   "score": 0.337,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 889.72,
+   "t1": 892.4,
+   "en": "and the contorted line symbolizing change.",
+   "pt": "As torcidas que representam a mudança.",
+   "score": 0.359,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 893.06,
+   "t1": 897.65,
+   "en": "But both symbols are incomplete, and the way they're overlapping like that...",
+   "pt": "Mas ambas estão incompletas.",
+   "score": 0.32,
+   "overlap": 0.44,
+   "anchors": []
+  },
+  {
+   "t0": 898.12,
+   "t1": 899.52,
+   "en": "What does it add up to?",
+   "pt": "O que isso significa?",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 901.79,
+   "t1": 902.53,
+   "en": "Please relax.",
+   "pt": "Eu permito que falem livremente.",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 902.53,
+   "t1": 903.89,
+   "en": "You may speak freely.",
+   "pt": "Eu permito que falem livremente.",
+   "score": 0.353,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 905.23,
+   "t1": 908.05,
+   "en": "Well then, in that case, I accept there might",
+   "pt": "Senhor louco, senhor enforcado, tenho três perguntas a fazer.",
+   "score": 0.317,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 908.05,
+   "t1": 910.62,
+   "en": "be a price, but I have three questions.",
+   "pt": "E pagarei pelas respostas.",
+   "score": 0.387,
+   "overlap": 0.78,
+   "anchors": []
+  },
+  {
+   "t0": 910.83,
+   "t1": 914.25,
+   "en": "My first, can you tell me more about Spectator?",
+   "pt": "Primeira pergunta.",
+   "score": 0.258,
+   "overlap": 0.58,
+   "anchors": [
+    "spectator"
+   ]
+  },
+  {
+   "t0": 916.82,
+   "t1": 919.81,
+   "en": "First off, you must live as an onlooker.",
+   "pt": "Primeiro, um espectador é eternamente um observador.",
+   "score": 0.205,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 919.91,
+   "t1": 922.91,
+   "en": "Maintain a detached attitude at all times.",
+   "pt": "Você precisa se manter estritamente desapegada.",
+   "score": 0.299,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 923.58,
+   "t1": 926.33,
+   "en": "You must calmly and objectively observe.",
+   "pt": "Observe com calma e objetividade.",
+   "score": 0.197,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 927.19,
+   "t1": 931.06,
+   "en": "Your heightened perception will unmask the true thoughts of others.",
+   "pt": "pode compreender os verdadeiros pensamentos.",
+   "score": 0.22,
+   "overlap": 0.52,
+   "anchors": []
+  },
+  {
+   "t0": 932.92,
+   "t1": 938.27,
+   "en": "To live as an impartial spectator, that would have to count as acting, right?",
+   "pt": "Ser um espectador absolutamente objetivo?",
+   "score": 0.333,
+   "overlap": 0.56,
+   "anchors": [
+    "spectator"
+   ]
+  },
+  {
+   "t0": 938.63,
+   "t1": 942.13,
+   "en": "Also, the power is integral to its name.",
+   "pt": "Além disso, preciso agarrar o poder da posição.",
+   "score": 0.337,
+   "overlap": 0.86,
+   "anchors": []
+  },
+  {
+   "t0": 942.38,
+   "t1": 944.31,
+   "en": "Grasp the meaning and control it.",
+   "pt": "Extrair o significado de seu nome.",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 944.75,
+   "t1": 949.85,
+   "en": "To avoid losing control, suss out the symbolism behind the name Spectator.",
+   "pt": "E evitar ao máximo perder o controle.",
+   "score": 0.296,
+   "overlap": 0.59,
+   "anchors": [
+    "spectator"
+   ]
+  },
+  {
+   "t0": 950.25,
+   "t1": 952.97,
+   "en": "All names have power.",
+   "pt": "Como o espectador, no caso.",
+   "score": 0.267,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 956.13,
+   "t1": 959.55,
+   "en": "You don't grasp potions, you digest them.",
+   "pt": "Não é questão de extrair, mas digerir.",
+   "score": 0.347,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 959.65,
+   "t1": 962.12,
+   "en": "Nor is it about discovery, but acting.",
+   "pt": "Não é sobre descoberta, mas atuação.",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 962.78,
+   "t1": 967.15,
+   "en": "A potion's name is not only symbolic, it is also imagery.",
+   "pt": "O nome de uma posição não é só simbolismo.",
+   "score": 0.375,
+   "overlap": 0.69,
+   "anchors": []
+  },
+  {
+   "t0": 967.25,
+   "t1": 970.48,
+   "en": "When digesting potions, it's key.",
+   "pt": "Ele é a chave.",
+   "score": 0.091,
+   "overlap": 0.62,
+   "anchors": []
+  },
+  {
+   "t0": 970.7,
+   "t1": 972.28,
+   "en": "Digesting and acting.",
+   "pt": "Para digerir.",
+   "score": 0.312,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 972.68,
+   "t1": 974.07,
+   "en": "Digesting and acting.",
+   "pt": "Digerir, atuar.",
+   "score": 0.485,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 974.7,
+   "t1": 976.44,
+   "en": "Digesting, acting, the name.",
+   "pt": "Digerir, atuar.",
+   "score": 0.474,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 977.72,
+   "t1": 978.44,
+   "en": "The key.",
+   "pt": "Digerir, atuar, digerir.",
+   "score": 0.143,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 979.14,
+   "t1": 981.18,
+   "en": "My deepest thanks, Mr. Fool.",
+   "pt": "Obrigado, senhor louco.",
+   "score": 0.304,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 982.21,
+   "t1": 984.48,
+   "en": "Your advice is as valuable as my life.",
+   "pt": "Sua dica é tão valiosa quanto a minha vida.",
+   "score": 0.481,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 984.84,
+   "t1": 986.38,
+   "en": "Yes, thank you, Mr. Fool.",
+   "pt": "Obrigada, senhor louco.",
+   "score": 0.238,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 986.38,
+   "t1": 987.84,
+   "en": "Your next question.",
+   "pt": "Continuem.",
+   "score": 0.37,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 988.83,
+   "t1": 990.67,
+   "en": "Right, well, my second question.",
+   "pt": "A minha segunda pergunta.",
+   "score": 0.377,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 990.77,
+   "t1": 994.69,
+   "en": "If, um, if an animal were to ingest a Sequence 9 potion,",
+   "pt": "É se um animal bebesse uma posição de sequência 9?",
+   "score": 0.51,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 994.81,
+   "t1": 996.29,
+   "en": "what would happen to it?",
+   "pt": "O que aconteceria?",
+   "score": 0.15,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 996.82,
+   "t1": 999.65,
+   "en": "Oh, Miss Justice, what have you gone and done?",
+   "pt": "Senhorita Justiça, o que foi que você fez?",
+   "score": 0.386,
+   "overlap": 1.0,
+   "anchors": [
+    "justice"
+   ]
+  },
+  {
+   "t0": 1006.73,
+   "t1": 1007.67,
+   "en": "Success!",
+   "pt": "Eu tenho que anotar.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1007.87,
+   "t1": 1009.06,
+   "en": "Quick, write it down!",
+   "pt": "Eu tenho que anotar.",
+   "score": 0.263,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1013.5,
+   "t1": 1014.42,
+   "en": "Susie?!",
+   "pt": "Nessa situação, o mais provável seria a morte instantânea",
+   "score": 0.131,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1014.46,
+   "t1": 1018.65,
+   "en": "If that were to happen, it would likely die or transform into a monster.",
+   "pt": "Nessa situação, o mais provável seria a morte instantânea",
+   "score": 0.254,
+   "overlap": 0.53,
+   "anchors": []
+  },
+  {
+   "t0": 1018.89,
+   "t1": 1023.16,
+   "en": "But if they survive, I suppose the creature would become a Beyonder.",
+   "pt": "então o animal será uma criatura biônda.",
+   "score": 0.343,
+   "overlap": 0.7,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 1024.0,
+   "t1": 1024.78,
+   "en": "Fascinating!",
+   "pt": "Entendi.",
+   "score": 0.111,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1025.52,
+   "t1": 1027.78,
+   "en": "As for my final question...",
+   "pt": "A realeza e a nobreza de Louane têm buscado reformas.",
+   "score": 0.237,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1027.91,
+   "t1": 1030.8,
+   "en": "Loen's aristocracy wished to reform the government.",
+   "pt": "A realeza e a nobreza de Louane têm buscado reformas.",
+   "score": 0.255,
+   "overlap": 0.95,
+   "anchors": []
+  },
+  {
+   "t0": 1030.8,
+   "t1": 1033.7,
+   "en": "My fa- I mean, they believe replacing",
+   "pt": "Acredita-se que a estupidez dos ministros",
+   "score": 0.184,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1033.73,
+   "t1": 1037.34,
+   "en": "all personnel with every change of the ruling party is too chaotic.",
+   "pt": "reduz a produtividade e desestabiliza a sociedade.",
+   "score": 0.139,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 1037.52,
+   "t1": 1040.32,
+   "en": "But they can't settle on a way to rectify the system.",
+   "pt": "Encontrar indivíduos talentosos é simples.",
+   "score": 0.215,
+   "overlap": 0.95,
+   "anchors": []
+  },
+  {
+   "t0": 1040.38,
+   "t1": 1042.8,
+   "en": "The answer is far simpler than you think.",
+   "pt": "Encontrar indivíduos talentosos é simples.",
+   "score": 0.37,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1042.91,
+   "t1": 1046.22,
+   "en": "Conduct a rigorous exam open to the entire public.",
+   "pt": "Isso trará a tona aos indivíduos confiáveis e habilidosos",
+   "score": 0.208,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 1046.31,
+   "t1": 1048.67,
+   "en": "This will determine the most deserving applicants to",
+   "pt": "e que servirão ao reino e ao seu povo.",
+   "score": 0.292,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1048.7,
+   "t1": 1050.86,
+   "en": "work as civil servants in the government.",
+   "pt": "e que servirão ao reino e ao seu povo.",
+   "score": 0.39,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1051.49,
+   "t1": 1053.28,
+   "en": "It must be open to all.",
+   "pt": "Um exame para todo o povo,",
+   "score": 0.383,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1053.28,
+   "t1": 1056.38,
+   "en": "Not just the nobility, but the common people as well.",
+   "pt": "não só para a nobreza, mas para as pessoas comuns.",
+   "score": 0.364,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1056.38,
+   "t1": 1058.43,
+   "en": "The examination is what's crucial.",
+   "pt": "Cria uma prova de alto nível e pode chamá-la de...",
+   "score": 0.175,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1058.76,
+   "t1": 1060.13,
+   "en": "If you need a name for it...",
+   "pt": "Cria uma prova de alto nível e pode chamá-la de...",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1061.04,
+   "t1": 1062.5,
+   "en": "Higher exam.",
+   "pt": "exame superior.",
+   "score": 0.32,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1062.6,
+   "t1": 1063.95,
+   "en": "Higher exam?",
+   "pt": "Exame superior?",
+   "score": 0.32,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1064.11,
+   "t1": 1065.55,
+   "en": "Thank you, Mr. Fool.",
+   "pt": "Senhor Louco, deve ser velho e inteligente,",
+   "score": 0.31,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1065.66,
+   "t1": 1067.41,
+   "en": "You must be very old and brilliant.",
+   "pt": "Senhor Louco, deve ser velho e inteligente,",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1067.52,
+   "t1": 1069.16,
+   "en": "I'm grateful for your wisdom.",
+   "pt": "com uma vida cheia de experiências.",
+   "score": 0.161,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1069.52,
+   "t1": 1072.49,
+   "en": "That advice, call it an advance payment.",
+   "pt": "Considere como o pagamento adiantado.",
+   "score": 0.324,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1072.74,
+   "t1": 1075.2,
+   "en": "Of course, what would you have us do?",
+   "pt": "Senhor Louco, pelo que está nos pagando?",
+   "score": 0.384,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1075.86,
+   "t1": 1077.81,
+   "en": "I'm giving you an assignment.",
+   "pt": "Preciso que recupere um objeto de Roselle Gustaf,",
+   "score": 0.158,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1077.97,
+   "t1": 1080.84,
+   "en": "You'll collect some of Roselle Gustav's secret writings.",
+   "pt": "seu diário secreto.",
+   "score": 0.274,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1081.56,
+   "t1": 1083.24,
+   "en": "His journal, in fact.",
+   "pt": "seu diário secreto.",
+   "score": 0.162,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1084.99,
+   "t1": 1087.13,
+   "en": "Roselle's missing text is a journal.",
+   "pt": "O texto secreto de Roselle é um diário?",
+   "score": 0.329,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1087.66,
+   "t1": 1088.85,
+   "en": "How could he know?",
+   "pt": "Como ele sabe?",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1089.61,
+   "t1": 1090.74,
+   "en": "Did he decipher it?",
+   "pt": "Ele consegue entender?",
+   "score": 0.256,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1091.4,
+   "t1": 1095.46,
+   "en": "Furthermore, I have something that requires your cooperation.",
+   "pt": "Além disso, tenho mais uma coisa a pedir.",
+   "score": 0.388,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 1095.48,
+   "t1": 1097.62,
+   "en": "As you will, Mr. Fool.",
+   "pt": "No seu tempo livre no domingo,",
+   "score": 0.292,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1097.82,
+   "t1": 1099.93,
+   "en": "Find some free time this Sunday.",
+   "pt": "realize magia ritualística.",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1100.01,
+   "t1": 1101.66,
+   "en": "Conduct an experiment for me.",
+   "pt": "realize magia ritualística.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1102.13,
+   "t1": 1105.74,
+   "en": "You'll perform ritualistic magic which you're both familiar with.",
+   "pt": "Vocês dois já entendem os passos para realizar magia ritualística.",
+   "score": 0.279,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 1106.54,
+   "t1": 1107.88,
+   "en": "We'll keep it simple.",
+   "pt": "Dessa vez, rezem por um sonho bom.",
+   "score": 0.346,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1107.9,
+   "t1": 1109.44,
+   "en": "Pray for a good dream.",
+   "pt": "Se der certo, podemos alterar um pouco da próxima vez.",
+   "score": 0.137,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1109.66,
+   "t1": 1113.3,
+   "en": "If it succeeds, we can try to modify it next time.",
+   "pt": "E quando não puderem comparecer as uniões,",
+   "score": 0.202,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 1113.33,
+   "t1": 1116.69,
+   "en": "Alter it to allow you to request an absence when you're unavailable.",
+   "pt": "podem pedir permissão para seus sentar.",
+   "score": 0.248,
+   "overlap": 0.6,
+   "anchors": []
+  },
+  {
+   "t0": 1117.44,
+   "t1": 1119.2,
+   "en": "Oh, that sounds wonderful.",
+   "pt": "Qual é o encantamento, Senhor Louco?",
+   "score": 0.345,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1119.22,
+   "t1": 1119.8,
+   "en": "What then?",
+   "pt": "Qual é o encantamento, Senhor Louco?",
+   "score": 0.186,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1119.82,
+   "t1": 1120.65,
+   "en": "An incantation?",
+   "pt": "Qual é o encantamento, Senhor Louco?",
+   "score": 0.458,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1120.71,
+   "t1": 1121.46,
+   "en": "Do we know it?",
+   "pt": "Qual é o encantamento, Senhor Louco?",
+   "score": 0.298,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1125.01,
+   "t1": 1127.5,
+   "en": "The Fool that does not belong to this era.",
+   "pt": "O misterioso governante acima da Nevocin senta.",
+   "score": 0.253,
+   "overlap": 1.0,
+   "anchors": [
+    "the fool"
+   ]
+  },
+  {
+   "t0": 1128.29,
+   "t1": 1131.5,
+   "en": "You are the mysterious ruler above the gray fog.",
+   "pt": "O rei do amarelo e do preto que rege a boa sorte.",
+   "score": 0.232,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 1132.14,
+   "t1": 1135.88,
+   "en": "You are the king of yellow and black who wields good luck.",
+   "pt": "O rei do amarelo e do preto que rege a boa sorte.",
+   "score": 0.343,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 1139.02,
+   "t1": 1141.62,
+   "en": "A three-part honorific name.",
+   "pt": "Será o Senhor Louco?",
+   "score": 0.261,
+   "overlap": 0.77,
+   "anchors": []
+  },
+  {
+   "t0": 1142.28,
+   "t1": 1143.81,
+   "en": "Is he the unknown?",
+   "pt": "Será o Senhor Louco uma entidade",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1143.84,
+   "t1": 1146.62,
+   "en": "Three-line invocations are only meant for deities.",
+   "pt": "quase igual aos sete deuses ortodoxos?",
+   "score": 0.302,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1146.64,
+   "t1": 1149.54,
+   "en": "If this ritualistic magic is tied to him...",
+   "pt": "Se magia ritualística pode ser direcionada a Ele.",
+   "score": 0.386,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1149.96,
+   "t1": 1152.83,
+   "en": "Then we must honor him as a god.",
+   "pt": "Então devemos venerá-lo como um deus.",
+   "score": 0.239,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1153.98,
+   "t1": 1155.35,
+   "en": "The Fool.",
+   "pt": "O Senhor Louco pode ser uma entidade antiga,",
+   "score": 0.118,
+   "overlap": 1.0,
+   "anchors": [
+    "the fool"
+   ]
+  },
+  {
+   "t0": 1155.35,
+   "t1": 1161.58,
+   "en": "He must be an ancient existence, mysterious and truly horrifying.",
+   "pt": "O Senhor Louco pode ser uma entidade antiga,",
+   "score": 0.189,
+   "overlap": 0.53,
+   "anchors": []
+  },
+  {
+   "t0": 1161.58,
+   "t1": 1163.84,
+   "en": "Well then, let's end here for today.",
+   "pt": "Muito bem. Encerramos com isso por hoje.",
+   "score": 0.306,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1164.04,
+   "t1": 1166.19,
+   "en": "Don't forget the ritual on Sunday.",
+   "pt": "Lembre-se de realizar o ritual no domingo.",
+   "score": 0.324,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1166.19,
+   "t1": 1167.72,
+   "en": "By your will, Mr. Fool.",
+   "pt": "Como desfusar?",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1173.66,
+   "t1": 1175.27,
+   "en": "Only need to verify it now.",
+   "pt": "Agora vou esperar para ver.",
+   "score": 0.346,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1176.49,
+   "t1": 1180.76,
+   "en": "Sunday's my day off work, so I should have time to deal with anything strange.",
+   "pt": "Domingo é meu dia de folga.",
+   "score": 0.196,
+   "overlap": 0.7,
+   "anchors": []
+  },
+  {
+   "t0": 1181.38,
+   "t1": 1184.44,
+   "en": "Here's hoping it doesn't anger anything living in the gray fog.",
+   "pt": "Espero que não alerte o ser misterioso dentro da Nevocin senta.",
+   "score": 0.29,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 1191.53,
+   "t1": 1193.97,
+   "en": "Should I tell them what I've really been up to?",
+   "pt": "Se eu queira atuar,",
+   "score": 0.25,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 1193.97,
+   "t1": 1196.33,
+   "en": "It would be easier to keep up the acting if they knew.",
+   "pt": "em melissa sobre minha identidade dividente?",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1238.64,
+   "t1": 1239.28,
+   "en": "Here we are.",
+   "pt": "Melissa!",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1242.87,
+   "t1": 1243.58,
+   "en": "Melissa!",
+   "pt": "Feliz aniversário, Selena.",
+   "score": 0.387,
+   "overlap": 1.0,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1244.55,
+   "t1": 1245.84,
+   "en": "Happy birthday, Selena!",
+   "pt": "Obrigada.",
+   "score": 0.207,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1246.12,
+   "t1": 1247.0,
+   "en": "Thank you!",
+   "pt": "Adorei o seu vestido.",
+   "score": 0.138,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1249.22,
+   "t1": 1250.28,
+   "en": "Your dress!",
+   "pt": "Deixa você ainda mais bonita.",
+   "score": 0.211,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1250.28,
+   "t1": 1251.74,
+   "en": "It looks so beautiful on you!",
+   "pt": "Benção e Clime me ajudaram a escolher.",
+   "score": 0.185,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1252.49,
+   "t1": 1254.34,
+   "en": "My brothers helped me pick it out.",
+   "pt": "Tome, presente de aniversário.",
+   "score": 0.262,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1254.37,
+   "t1": 1256.13,
+   "en": "Here, your birthday present.",
+   "pt": "Prazer.",
+   "score": 0.125,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1256.15,
+   "t1": 1256.68,
+   "en": "Hello.",
+   "pt": "Nossa, obrigada.",
+   "score": 0.105,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1256.7,
+   "t1": 1258.47,
+   "en": "Wow, thank you!",
+   "pt": "Nossa, obrigada.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1259.14,
+   "t1": 1259.81,
+   "en": "Come in!",
+   "pt": "Entra.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1259.93,
+   "t1": 1261.13,
+   "en": "I have something to show you!",
+   "pt": "Eu quero te mostrar uma coisa.",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1263.82,
+   "t1": 1266.37,
+   "en": "Your brothers are more handsome than I imagined they'd be.",
+   "pt": "Seus irmãos são ainda mais bonitos do que eu imaginava.",
+   "score": 0.306,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1268.5,
+   "t1": 1269.73,
+   "en": "Gosh, Selena.",
+   "pt": "Será que, senhorita Selena,",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1269.76,
+   "t1": 1271.82,
+   "en": "Just how ugly did you picture us to be?",
+   "pt": "estava achando que eu e Benson eram os feios?",
+   "score": 0.341,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1272.28,
+   "t1": 1273.51,
+   "en": "Oh, Elizabeth!",
+   "pt": "Elizabeth.",
+   "score": 0.857,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1273.96,
+   "t1": 1276.13,
+   "en": "We finally get to meet Melissa's brothers!",
+   "pt": "Esses dois cavaleiros são irmãos da melissa.",
+   "score": 0.405,
+   "overlap": 0.92,
+   "anchors": []
+  },
+  {
+   "t0": 1276.26,
+   "t1": 1277.44,
+   "en": "Benson and Klein!",
+   "pt": "O senhor Benson e o senhor Clime.",
+   "score": 0.458,
+   "overlap": 1.0,
+   "anchors": [
+    "benson",
+    "klein"
+   ]
+  },
+  {
+   "t0": 1279.91,
+   "t1": 1281.66,
+   "en": "Hello there, I'm pleased to meet you.",
+   "pt": "Bom dia, senhor Clime.",
+   "score": 0.327,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1282.31,
+   "t1": 1283.12,
+   "en": "Quickly!",
+   "pt": "Vamos. Preciso mostrar uma coisa para vocês.",
+   "score": 0.122,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1283.12,
+   "t1": 1284.57,
+   "en": "You both need to see this!",
+   "pt": "Vamos. Preciso mostrar uma coisa para vocês.",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1284.7,
+   "t1": 1287.08,
+   "en": "Ah, the vivacity of youth, am I right?",
+   "pt": "A vivacidade da juventude.",
+   "score": 0.333,
+   "overlap": 0.84,
+   "anchors": []
+  },
+  {
+   "t0": 1287.44,
+   "t1": 1288.35,
+   "en": "Look at them go.",
+   "pt": "Melissa.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1288.35,
+   "t1": 1291.02,
+   "en": "Friends who carelessly dabble in the realm of the occult.",
+   "pt": "Ter uma amiga obcecada pelo mundo do misticismo sem entendê-lo.",
+   "score": 0.119,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1291.31,
+   "t1": 1292.94,
+   "en": "They're not the best friends to have.",
+   "pt": "Ter uma amiga obcecada pelo mundo do misticismo sem entendê-lo.",
+   "score": 0.347,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1294.27,
+   "t1": 1296.91,
+   "en": "The Fool that does not belong to this era.",
+   "pt": "O senhor Eforcado já começou a tentar sua magia ritualística?",
+   "score": 0.257,
+   "overlap": 0.85,
+   "anchors": [
+    "the fool"
+   ]
+  },
+  {
+   "t0": 1297.02,
+   "t1": 1298.45,
+   "en": "It's the Hanged Man.",
+   "pt": "O senhor Eforcado já começou a tentar sua magia ritualística?",
+   "score": 0.228,
+   "overlap": 1.0,
+   "anchors": [
+    "hanged man"
+   ]
+  },
+  {
+   "t0": 1299.24,
+   "t1": 1301.23,
+   "en": "Has he already begun to attempt the ritual?",
+   "pt": "Não esperava por isso.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1302.12,
+   "t1": 1304.27,
+   "en": "You are the King of Yellow.",
+   "pt": "A gente já acabou a sorte.",
+   "score": 0.235,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1338.2,
+   "t1": 1339.66,
+   "en": "Must say I'm surprised.",
+   "pt": "Ei, tranquilo.",
+   "score": 0.118,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1339.68,
+   "t1": 1342.21,
+   "en": "I never dreamt Melissa's brother would be a gifted diviner.",
+   "pt": "A melissa não sabe da sua identidade secreta.",
+   "score": 0.412,
+   "overlap": 0.79,
+   "anchors": [
+    "diviner"
+   ]
+  },
+  {
+   "t0": 1344.22,
+   "t1": 1345.77,
+   "en": "It's fine, really.",
+   "pt": "Clime.",
+   "score": 0.19,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1346.39,
+   "t1": 1348.46,
+   "en": "Melissa doesn't know about your mystical life,",
+   "pt": "Clime.",
+   "score": 0.08,
+   "overlap": 0.97,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1348.96,
+   "t1": 1350.5,
+   "en": "and I can keep a secret.",
+   "pt": "Melissa.",
+   "score": 0.067,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1352.83,
+   "t1": 1353.7,
+   "en": "Klein!",
+   "pt": "Seria ótimo você e o Benson usarem",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 1357.2,
+   "t1": 1358.21,
+   "en": "Yes, Melissa?",
+   "pt": "O que é isso?",
+   "score": 0.435,
+   "overlap": 1.0,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1358.46,
+   "t1": 1360.59,
+   "en": "I was hoping you and Benson might use tonight",
+   "pt": "O que é isso?",
+   "score": 0.14,
+   "overlap": 0.94,
+   "anchors": [
+    "benson"
+   ]
+  },
+  {
+   "t0": 1360.62,
+   "t1": 1362.84,
+   "en": "to solve the problem of eternal bachelorhood.",
+   "pt": "Seria ótimo você e o Benson usarem esse banquete",
+   "score": 0.304,
+   "overlap": 0.9,
+   "anchors": []
+  },
+  {
+   "t0": 1364.09,
+   "t1": 1366.34,
+   "en": "But Elizabeth is only 16.",
+   "pt": "Mas ela tem só 16 anos.",
+   "score": 0.45,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 1368.98,
+   "t1": 1369.74,
+   "en": "Ouch!",
+   "pt": "Irmã, acho que é assunto esse.",
+   "score": 0.125,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1369.98,
+   "t1": 1371.59,
+   "en": "What does she think I am?",
+   "pt": "Irmã, acho que é assunto esse.",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1385.96,
+   "t1": 1388.19,
+   "en": "Oh my, what a beautiful mirror!",
+   "pt": "Que belo espelho.",
+   "score": 0.267,
+   "overlap": 0.9,
+   "anchors": []
+  },
+  {
+   "t0": 1390.34,
+   "t1": 1392.43,
+   "en": "And it's not just pretty, it's powerful.",
+   "pt": "O senhor Vincent fez para mim",
+   "score": 0.328,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 1392.45,
+   "t1": 1393.65,
+   "en": "Mr. Vincent made it.",
+   "pt": "um espelho mágico de alto nível.",
+   "score": 0.367,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1394.02,
+   "t1": 1395.4,
+   "en": "And the incantation?",
+   "pt": "Pelo que ele disse, esses encantamentos",
+   "score": 0.421,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1395.4,
+   "t1": 1396.47,
+   "en": "It's quite unique.",
+   "pt": "Pelo que ele disse, esses encantamentos",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1396.47,
+   "t1": 1398.21,
+   "en": "It offers a more direct connection.",
+   "pt": "representam um nível ainda mais alto de conexão.",
+   "score": 0.37,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1398.21,
+   "t1": 1399.84,
+   "en": "He said it's the best for divination.",
+   "pt": "O resultado da adivinhação é preciso.",
+   "score": 0.389,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1401.28,
+   "t1": 1401.95,
+   "en": "Really?",
+   "pt": "Mesmo?",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1402.32,
+   "t1": 1403.22,
+   "en": "How thrilling!",
+   "pt": "Mesmo?",
+   "score": 0.111,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1403.46,
+   "t1": 1404.45,
+   "en": "Let's start, Selena!",
+   "pt": "Mesmo?",
+   "score": 0.174,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1407.71,
+   "t1": 1409.72,
+   "en": "Oh spirit that revolves this world.",
+   "pt": "Espíritos heróicos que persistem.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1410.62,
+   "t1": 1412.68,
+   "en": "The grace of the true creator.",
+   "pt": "A graça do verdadeiro criador.",
+   "score": 0.414,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1415.62,
+   "t1": 1417.41,
+   "en": "The eyes that look at fate.",
+   "pt": "Olhos que fitam o destino.",
+   "score": 0.275,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1429.36,
+   "t1": 1431.13,
+   "en": "The altar has been prepared.",
+   "pt": "O altar do ritual foi preparado.",
+   "score": 0.586,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1431.38,
+   "t1": 1432.64,
+   "en": "Now come join us.",
+   "pt": "O altar do ritual foi preparado.",
+   "score": 0.298,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1432.64,
+   "t1": 1434.06,
+   "en": "Submit, Klein Moretti.",
+   "pt": "Agora, Clime Moret.",
+   "score": 0.432,
+   "overlap": 1.0,
+   "anchors": [
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 1434.7,
+   "t1": 1437.66,
+   "en": "It's time you accept the cruel judgment of fate!",
+   "pt": "Aceite o veredito do destino.",
+   "score": 0.16,
+   "overlap": 0.68,
+   "anchors": []
+  },
+  {
+   "t0": 1441.1,
+   "t1": 1442.32,
+   "en": "Magic Mirror, tell me.",
+   "pt": "Espelho, espelho mágico.",
+   "score": 0.238,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1442.82,
+   "t1": 1445.04,
+   "en": "Some of the love of Elizabeth's life appear.",
+   "pt": "Me diga, quando aparecerá o Cavaleiro de Elizabeth.",
+   "score": 0.413,
+   "overlap": 0.9,
+   "anchors": []
+  },
+  {
+   "t0": 1449.72,
+   "t1": 1451.68,
+   "en": "Half a year from now on the second Sunday.",
+   "pt": "No segundo domingo daqui a seis meses.",
+   "score": 0.205,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1452.6,
+   "t1": 1453.15,
+   "en": "Really?",
+   "pt": "É mesmo?",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1453.51,
+   "t1": 1454.75,
+   "en": "And what about Melissa?",
+   "pt": "Eu da melissa.",
+   "score": 0.514,
+   "overlap": 1.0,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1455.08,
+   "t1": 1456.19,
+   "en": "I'm curious to know.",
+   "pt": "Eu da melissa.",
+   "score": 0.125,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1457.04,
+   "t1": 1459.32,
+   "en": "There's danger, and it's substantial.",
+   "pt": "Perigo. Muito perigo.",
+   "score": 0.222,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 1461.88,
+   "t1": 1463.06,
+   "en": "Magic Mirror, tell me.",
+   "pt": "Espelho, espelho mágico.",
+   "score": 0.238,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1464.11,
+   "t1": 1465.73,
+   "en": "When will Melissa's love appear?",
+   "pt": "Me diga, quando aparecerá o Cavaleiro da Melissa.",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1468.23,
+   "t1": 1469.16,
+   "en": "Thirteen years.",
+   "pt": "Daqui a 13 anos.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1470.04,
+   "t1": 1471.8,
+   "en": "I'll be an old maid by then.",
+   "pt": "Ai, vai demorar tanto.",
+   "score": 0.298,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1471.87,
+   "t1": 1472.81,
+   "en": "A magic mirror.",
+   "pt": "A adivinhação com o espelho.",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1474.28,
+   "t1": 1474.98,
+   "en": "Could be worse.",
+   "pt": "Tipo, aceita a melissa e a casada com o boneco mecânico.",
+   "score": 0.206,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1475.16,
+   "t1": 1477.48,
+   "en": "I'm just relieved you're not marrying a mechanical doll.",
+   "pt": "Espere, espelho mágico.",
+   "score": 0.316,
+   "overlap": 0.86,
+   "anchors": []
+  },
+  {
+   "t0": 1478.94,
+   "t1": 1482.59,
+   "en": "Magic Mirror, tell me, will Elizabeth's husband be handsome?",
+   "pt": "Me diga, como será o Cavaleiro de Elizabeth?",
+   "score": 0.303,
+   "overlap": 0.47,
+   "anchors": []
+  },
+  {
+   "t0": 1491.68,
+   "t1": 1492.16,
+   "en": "Uh-huh.",
+   "pt": "Hum?",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1493.61,
+   "t1": 1494.36,
+   "en": "What's wrong?",
+   "pt": "O que foi?",
+   "score": 0.19,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1499.28,
+   "t1": 1501.08,
+   "en": "He's that bad?",
+   "pt": "Então, já veio a resposta?",
+   "score": 0.216,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1501.17,
+   "t1": 1502.15,
+   "en": "And he's ugly.",
+   "pt": "Então, já veio a resposta?",
+   "score": 0.216,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1504.54,
+   "t1": 1505.18,
+   "en": "Dammit.",
+   "pt": "Troca.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1505.42,
+   "t1": 1507.02,
+   "en": "There's no time to alert the captain.",
+   "pt": "Vai ser mais complicado do que eu pensei.",
+   "score": 0.316,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1507.4,
+   "t1": 1510.4,
+   "en": "Which means it's my responsibility to save Melissa and her friends.",
+   "pt": "Não dá tempo de avisar o capitão.",
+   "score": 0.122,
+   "overlap": 0.67,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1514.04,
+   "t1": 1514.69,
+   "en": "Of course.",
+   "pt": "É mesmo.",
+   "score": 0.125,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1515.2,
+   "t1": 1516.46,
+   "en": "Ritualistic magic.",
+   "pt": "É mesmo.",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1516.94,
+   "t1": 1518.78,
+   "en": "I'll beseech the Evernight Goddess for help.",
+   "pt": "O senhor Neil me ensinou.",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": [
+    "evernight goddess"
+   ]
+  },
+  {
+   "t0": 1519.6,
+   "t1": 1521.25,
+   "en": "But I don't have the items for it.",
+   "pt": "Os careios poder da deusa para contra-atacar.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1528.98,
+   "t1": 1529.67,
+   "en": "Perfect.",
+   "pt": "É excelente.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1529.85,
+   "t1": 1530.93,
+   "en": "She's fully stocked.",
+   "pt": "Aqui é tudo que eu preciso.",
+   "score": 0.089,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1531.78,
+   "t1": 1533.39,
+   "en": "But I still need to prepare the ritual.",
+   "pt": "Mais erritualística que eu quero preparo.",
+   "score": 0.41,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1534.27,
+   "t1": 1535.04,
+   "en": "Better be quick.",
+   "pt": "Eu preciso ser rápido.",
+   "score": 0.278,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1536.45,
+   "t1": 1537.18,
+   "en": "Hey, Selena.",
+   "pt": "Selena.",
+   "score": 0.75,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1537.92,
+   "t1": 1538.58,
+   "en": "Talk to us.",
+   "pt": "Selena.",
+   "score": 0.125,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1538.75,
+   "t1": 1539.51,
+   "en": "What's the matter?",
+   "pt": "Selena, o que foi?",
+   "score": 0.242,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1548.82,
+   "t1": 1549.54,
+   "en": "Elizabeth!",
+   "pt": "Elizabeth!",
+   "score": 1.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1580.56,
+   "t1": 1581.16,
+   "en": "Evernight.",
+   "pt": "Noite eterna.",
+   "score": 0.381,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1581.92,
+   "t1": 1582.62,
+   "en": "Oblivion!",
+   "pt": "Noite eterna.",
+   "score": 0.3,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1598.77,
+   "t1": 1602.07,
+   "en": "Evernight Goddess, you are the Lady of Crimson.",
+   "pt": "Teusa da noite eterna.",
+   "score": 0.152,
+   "overlap": 0.61,
+   "anchors": [
+    "evernight goddess"
+   ]
+  },
+  {
+   "t0": 1603.5,
+   "t1": 1605.62,
+   "en": "You are the empress of misfortune and horror.",
+   "pt": "Você é a imperatriz do desastre e do terror.",
+   "score": 0.299,
+   "overlap": 0.94,
+   "anchors": []
+  },
+  {
+   "t0": 1607.22,
+   "t1": 1610.41,
+   "en": "I am your loyal guard, the shield that fends",
+   "pt": "Eu sou o seu guarda leial.",
+   "score": 0.441,
+   "overlap": 0.63,
+   "anchors": []
+  },
+  {
+   "t0": 1610.44,
+   "t1": 1612.2,
+   "en": "against danger in a dark night,",
+   "pt": "O escudo que afasta o perigo na noite escura.",
+   "score": 0.324,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1612.5,
+   "t1": 1616.18,
+   "en": "and the long spear that stabs at evil in the silence.",
+   "pt": "E a longa lança que pertura",
+   "score": 0.253,
+   "overlap": 0.54,
+   "anchors": []
+  },
+  {
+   "t0": 1625.95,
+   "t1": 1629.7,
+   "en": "Please, master, grant me your power!",
+   "pt": "Demolificar eu!",
+   "score": 0.255,
+   "overlap": 0.77,
+   "anchors": []
+  },
+  {
+   "t0": 1683.12,
+   "t1": 1686.09,
+   "en": "My spirituality, it's fading.",
+   "pt": "Espiritualidade! Estás se es薩indo...",
+   "score": 0.475,
+   "overlap": 0.85,
+   "anchors": [
+    "spirituality"
+   ]
+  },
+  {
+   "t0": 1686.34,
+   "t1": 1689.03,
+   "en": "Atone for your sins, Klein Moretti!",
+   "pt": "Espiritualidade! Estás se es薩indo...",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": [
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 1689.33,
+   "t1": 1692.03,
+   "en": "You shunned Master's merciful gift of death!",
+   "pt": "Espiritualidade! Estás se es薩indo...",
+   "score": 0.267,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 1692.32,
+   "t1": 1694.92,
+   "en": "You claimed Beyonder powers never meant for you!",
+   "pt": "Recebi o poder e se virou derce, não deveriam ser cios.",
+   "score": 0.42,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 1695.99,
+   "t1": 1699.05,
+   "en": "Now answer me, vile sacrificial lamb!",
+   "pt": "Agora tica.",
+   "score": 0.222,
+   "overlap": 0.65,
+   "anchors": []
+  },
+  {
+   "t0": 1699.17,
+   "t1": 1701.05,
+   "en": "What did you see in the Antigonus notebook?",
+   "pt": "O que descobriu no caderno",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": [
+    "antigonus"
+   ]
+  },
+  {
+   "t0": 1701.82,
+   "t1": 1703.4,
+   "en": "Tell me everything you discovered!",
+   "pt": "Darvanilha Antícolos?",
+   "score": 0.113,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1704.75,
+   "t1": 1707.1,
+   "en": "Reveal the secrets you're concealing!",
+   "pt": "Simbila agora seus segredos.",
+   "score": 0.254,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1707.32,
+   "t1": 1709.97,
+   "en": "Confess and I shall spare their lives!",
+   "pt": "Se não enxergar, será um covalo de todos vocês.",
+   "score": 0.268,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 1710.38,
+   "t1": 1713.17,
+   "en": "If you refuse, the three of you will be",
+   "pt": "Se não enxergar, será um covalo de todos vocês.",
+   "score": 0.193,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1713.19,
+   "t1": 1715.32,
+   "en": "interred in this room like a tomb!",
+   "pt": "Se não enxergar, será um covalo de todos vocês.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1720.39,
+   "t1": 1721.07,
+   "en": "Melissa...",
+   "pt": "Missa!",
+   "score": 0.833,
+   "overlap": 1.0,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1724.31,
+   "t1": 1726.74,
+   "en": "I have to save... Melissa.",
+   "pt": "Missa!",
+   "score": 0.37,
+   "overlap": 0.82,
+   "anchors": [
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1733.94,
+   "t1": 1736.47,
+   "en": "The Fool that does not belong to this era.",
+   "pt": "O louco que não pertence a esta era.",
+   "score": 0.368,
+   "overlap": 1.0,
+   "anchors": [
+    "the fool"
+   ]
+  },
+  {
+   "t0": 1742.19,
+   "t1": 1745.03,
+   "en": "You are the mysterious ruler above the gray fog.",
+   "pt": "O misterioso governante Assuna da Névoa Cinzenta.",
+   "score": 0.421,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1750.89,
+   "t1": 1754.14,
+   "en": "You are the king of yellow and black who wields good luck.",
+   "pt": "O rei do amarelo e do preto que rege a boa sorte.",
+   "score": 0.343,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1756.79,
+   "t1": 1758.29,
+   "en": "I pray for your help.",
+   "pt": "Reço pelo sol Assuna.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1758.64,
+   "t1": 1760.4,
+   "en": "I pray for your loving, grace.",
+   "pt": "Reço pela sua graça.",
+   "score": 0.383,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1762.78,
+   "t1": 1763.49,
+   "en": "That voice.",
+   "pt": "Essa voz é a senhorita Justiça.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1764.28,
+   "t1": 1765.43,
+   "en": "It's Miss Justice.",
+   "pt": "Essa voz é a senhorita Justiça.",
+   "score": 0.34,
+   "overlap": 1.0,
+   "anchors": [
+    "justice"
+   ]
+  },
+  {
+   "t0": 1765.75,
+   "t1": 1767.1,
+   "en": "She's attempting the ritual.",
+   "pt": "Ela está fazendo magia ritualística.",
+   "score": 0.387,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1767.73,
+   "t1": 1768.91,
+   "en": "To you I pray.",
+   "pt": "A você eu rogo.",
+   "score": 0.37,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1769.2,
+   "t1": 1770.66,
+   "en": "Please grant me a good dream.",
+   "pt": "A você eu rogo.",
+   "score": 0.19,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1774.86,
+   "t1": 1775.87,
+   "en": "What the hell is this?",
+   "pt": "O que está acontecendo?",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1781.27,
+   "t1": 1782.39,
+   "en": "He will die!",
+   "pt": "A morte.",
+   "score": 0.111,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1782.61,
+   "t1": 1785.24,
+   "en": "Lambs will always follow their shepherd to their death!",
+   "pt": "É a forma com que o sacrifício nos faz em a vontade do mestre.",
+   "score": 0.226,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1786.99,
+   "t1": 1789.5,
+   "en": "Now succumb, Klein Moretti!",
+   "pt": "Claymorete!",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": [
+    "klein",
+    "moretti"
+   ]
+  },
+  {
+   "t0": 1796.46,
+   "t1": 1798.84,
+   "en": "I pray for the power of the light this night!",
+   "pt": "Eu reço pelo poder da noite das trevas.",
+   "score": 0.341,
+   "overlap": 0.84,
+   "anchors": []
+  },
+  {
+   "t0": 1798.9,
+   "t1": 1800.95,
+   "en": "I pray for the power of the Crimson!",
+   "pt": "Eu reço pela graça carinhosa da deusa.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1801.08,
+   "t1": 1803.35,
+   "en": "The loving grace of the Evernight Goddess!",
+   "pt": "Eu reço pela graça carinhosa da deusa.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": [
+    "evernight goddess"
+   ]
+  },
+  {
+   "t0": 1803.46,
+   "t1": 1805.91,
+   "en": "I pray that you cleanse your devout disciple!",
+   "pt": "Eu reço para que purifique sua crente defota Selena Wood.",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1805.91,
+   "t1": 1807.11,
+   "en": "Selena Wood!",
+   "pt": "Eu reço para que purifique sua crente defota Selena Wood.",
+   "score": 0.328,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1807.33,
+   "t1": 1809.06,
+   "en": "Rid her of evil's corruption!",
+   "pt": "O vértia da corrupção do mal e a mantém é longe do perigo.",
+   "score": 0.306,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1809.09,
+   "t1": 1810.96,
+   "en": "Please keep her safe from harm!",
+   "pt": "O vértia da corrupção do mal e a mantém é longe do perigo.",
+   "score": 0.207,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1866.05,
+   "t1": 1870.23,
+   "en": "I can't believe my three-part prayer actually imbued me with the gray fog.",
+   "pt": "poderia ser dirigido a mim por meio da Nevocincenta.",
+   "score": 0.258,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 1870.89,
+   "t1": 1873.3,
+   "en": "I'd be dead without Justice performing the ritual.",
+   "pt": "E foi graças às preces da senhorita Justiça",
+   "score": 0.283,
+   "overlap": 0.83,
+   "anchors": [
+    "justice"
+   ]
+  },
+  {
+   "t0": 1874.18,
+   "t1": 1876.36,
+   "en": "But it granted me the Gray Fog's powers.",
+   "pt": "que eu recopria a consciência e pude usar os poderes da Nevocincenta para me salvar.",
+   "score": 0.164,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1877.09,
+   "t1": 1877.94,
+   "en": "If not for that...",
+   "pt": "que eu recopria a consciência e pude usar os poderes da Nevocincenta para me salvar.",
+   "score": 0.184,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1879.63,
+   "t1": 1883.24,
+   "en": "Even if it hinders the acting, Melissa and Benson",
+   "pt": "por mais que a atuação exige o contrário,",
+   "score": 0.295,
+   "overlap": 0.83,
+   "anchors": [
+    "benson",
+    "melissa"
+   ]
+  },
+  {
+   "t0": 1883.24,
+   "t1": 1885.17,
+   "en": "can never know about my life as a seer.",
+   "pt": "manterei minha identidade e dividendos em secreto da Melissa e do Benson.",
+   "score": 0.291,
+   "overlap": 1.0,
+   "anchors": [
+    "seer"
+   ]
+  },
+  {
+   "t0": 1886.56,
+   "t1": 1892.07,
+   "en": "Mysticism is treacherous, and I... I can't endanger them like this again.",
+   "pt": "O mundo do mexecismo é arriscado demais.",
+   "score": 0.299,
+   "overlap": 0.54,
+   "anchors": []
+  },
+  {
+   "t0": 1910.35,
+   "t1": 1911.1,
+   "en": "Impossible.",
+   "pt": "Não.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1928.03,
+   "t1": 1930.83,
+   "en": "You failed again, Hanass Vincent.",
+   "pt": "Vincente, acente a graça do seu perdi!",
+   "score": 0.209,
+   "overlap": 1.0,
+   "anchors": [
+    "hanass vincent"
+   ]
+  },
+  {
+   "t0": 1931.08,
+   "t1": 1934.33,
+   "en": "Prostrate and accept the mercy of your master!",
+   "pt": "Vincente, acente a graça do seu perdi!",
+   "score": 0.272,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1941.8,
+   "t1": 1943.96,
+   "en": "And you think Hanass Vincent was behind it?",
+   "pt": "Algo estranho sobre Renas Vincente.",
+   "score": 0.447,
+   "overlap": 0.93,
+   "anchors": [
+    "hanass vincent"
+   ]
+  },
+  {
+   "t0": 1944.1,
+   "t1": 1945.26,
+   "en": "Well, Selena said he...",
+   "pt": "Algo estranho sobre Renas Vincente.",
+   "score": 0.377,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1945.28,
+   "t1": 1946.72,
+   "en": "gifted her the magic mirror.",
+   "pt": "Segundo Selena, o espelho mágico foi um presente dele.",
+   "score": 0.304,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1946.94,
+   "t1": 1949.02,
+   "en": "Furthermore, I suspect he's part of a",
+   "pt": "Também suspeito que Vincent tenha laços com uma ordem maligna que busca o caderno da família Antíganos.",
+   "score": 0.29,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1949.02,
+   "t1": 1951.2,
+   "en": "secret order pursuing the Antigonus Notebook.",
+   "pt": "Também suspeito que Vincent tenha laços com uma ordem maligna que busca o caderno da família Antíganos.",
+   "score": 0.274,
+   "overlap": 1.0,
+   "anchors": [
+    "antigonus"
+   ]
+  },
+  {
+   "t0": 1965.62,
+   "t1": 1968.76,
+   "en": "This, it's the same prayer Selena used.",
+   "pt": "São iguais aos da casa da Selena.",
+   "score": 0.493,
+   "overlap": 0.64,
+   "anchors": []
+  },
+  {
+   "t0": 1970.07,
+   "t1": 1971.32,
+   "en": "The true creator.",
+   "pt": "O verdadeiro criador.",
+   "score": 0.5,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1972.14,
+   "t1": 1973.46,
+   "en": "What type of evil is that?",
+   "pt": "Que tipo de ser maligno será ele?",
+   "score": 0.316,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2170.78,
+   "t1": 2171.81,
+   "en": "Yes, enter.",
+   "pt": "O traje às joias que escolheu ontem à noite.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2176.96,
+   "t1": 2179.3,
+   "en": "The garments and jewels you selected, my lady.",
+   "pt": "O traje às joias que escolheu ontem à noite.",
+   "score": 0.253,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 2181.58,
+   "t1": 2186.67,
+   "en": "Annie, I prefer the dress Guinea designed, the one made for my 17th birthday.",
+   "pt": "Eu prefiro usar o vestido que Guinea desenhou para o meu aniversário de 17 anos.",
+   "score": 0.446,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2187.51,
+   "t1": 2188.89,
+   "en": "Please, don't.",
+   "pt": "Não deveria, senhorita.",
+   "score": 0.364,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2189.12,
+   "t1": 2192.15,
+   "en": "You mustn't wear the same dress for two separate occasions.",
+   "pt": "Se usar o mesmo vestido em duas ocasiões,",
+   "score": 0.388,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 2192.48,
+   "t1": 2195.48,
+   "en": "People will infer the whole family is destitute.",
+   "pt": "as pessoas geram que os haul estão em má condição financeira.",
+   "score": 0.224,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2197.3,
+   "t1": 2197.97,
+   "en": "Very well.",
+   "pt": "Tá bom. Eu uso esse.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2198.31,
+   "t1": 2198.91,
+   "en": "You win.",
+   "pt": "Tá bom. Eu uso esse.",
+   "score": 0.24,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2233.63,
+   "t1": 2234.4,
+   "en": "Hello?",
+   "pt": "Finalmente, vou ver navios com banhões enormes.",
+   "score": 0.12,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2234.72,
+   "t1": 2235.59,
+   "en": "Who comes here?",
+   "pt": "Finalmente, vou ver navios com banhões enormes.",
+   "score": 0.373,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2237.99,
+   "t1": 2240.47,
+   "en": "So, dizzy...",
+   "pt": "Tudo gira.",
+   "score": 0.353,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2242.73,
+   "t1": 2243.5,
+   "en": "Susie!",
+   "pt": "Suze!",
+   "score": 0.667,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2244.69,
+   "t1": 2246.52,
+   "en": "Since when did you learn how to speak?",
+   "pt": "Desde quando você sabe falar?",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2246.67,
+   "t1": 2248.66,
+   "en": "Um, well, I'm sorry.",
+   "pt": "Eu... Eu não sei bem como explicar.",
+   "score": 0.292,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2248.86,
+   "t1": 2250.56,
+   "en": "I don't know how to explain.",
+   "pt": "Eu... Eu não sei bem como explicar.",
+   "score": 0.345,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2251.06,
+   "t1": 2251.69,
+   "en": "I mean...",
+   "pt": "Eu... Eu não sei bem como explicar.",
+   "score": 0.27,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2253.05,
+   "t1": 2254.78,
+   "en": "I am just a dog after all.",
+   "pt": "Sou só uma cadela.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  }
+ ],
+ "lexicon": {
+  "beyonders": "beyonder",
+  "espectador": "spectator",
+  "espectadora": "spectator",
+  "missa": "melissa",
+  "moret": "moretti"
+ }
+}

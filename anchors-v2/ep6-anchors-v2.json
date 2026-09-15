@@ -1,0 +1,2968 @@
+{
+ "meta": {
+  "ep": 6,
+  "total_en": 350,
+  "matched": 325,
+  "alta_conf": 53,
+  "skew_medio_s": -0.25,
+  "fonte_en": "anchors-en/ep06.json",
+  "fonte_pt": "ep6/vocals.srt (whisper-small)"
+ },
+ "spans": [
+  {
+   "t0": 109.38,
+   "t1": 112.94,
+   "en": "Episode Six: Teacher",
+   "pt": "A sequência de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.241,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 109.38,
+   "t1": 112.94,
+   "en": "Episode Six: Teacher",
+   "pt": "A sequência de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.241,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 109.38,
+   "t1": 112.94,
+   "en": "Every life has its meaning",
+   "pt": "A sequência de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.195,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 109.38,
+   "t1": 112.94,
+   "en": "Every life has its meaning",
+   "pt": "A sequência de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.195,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 114.82,
+   "t1": 116.25999999999999,
+   "en": "The Nighthawks'  Internal Archive",
+   "pt": "A sequência de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.264,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 120.1,
+   "t1": 122.38,
+   "en": "August 18th, 1349 — Lamud Castle",
+   "pt": "A sequência de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.185,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 663.9,
+   "t1": 666.42,
+   "en": "Must not gaze directly at gods",
+   "pt": "Não posso dar direto para uma divindade pelos céus.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 673.26,
+   "t1": 679.22,
+   "en": "Sequence 4 Unshadowed",
+   "pt": "Espera, sequência 4 é a primeira vez que receba uma receita de sequência tão alta,",
+   "score": 0.247,
+   "overlap": 0.84,
+   "anchors": []
+  },
+  {
+   "t0": 762.1,
+   "t1": 767.34,
+   "en": "The First Epoch, Age of Chaos — The Creator awakens from the Chaos, creating the first light and forming all things from his body The Second Epoch, Dark Epoch — The Evernight Goddess Awakens The Third Epoch, Cataclysm Epoch — Humans survive the great Cataclysm with the blessing and protection of the Gods  The Fourth Epoch, Epoch of the Gods — Frequent wars and changing of dynasties  The Fifth Epoch, Iron Age —  The Seven Gods bless the Northern Continent",
+   "pt": "O professor Azek encontrou informações sobre o Ornáces?",
+   "score": 0.138,
+   "overlap": 0.35,
+   "anchors": [
+    "evernight goddess",
+    "fifth epoch",
+    "iron age"
+   ]
+  },
+  {
+   "t0": 774.98,
+   "t1": 779.42,
+   "en": "Khoy  University",
+   "pt": "Eu adoraria saber dessa informação, mas...",
+   "score": 0.226,
+   "overlap": 0.66,
+   "anchors": []
+  },
+  {
+   "t0": 1748.26,
+   "t1": 1750.66,
+   "en": "Corpse Collector Pathway Sequence Unknown Azik Eggers",
+   "pt": "O professor Azeke se tornou um grande cavaleiro, bem diferente da representação na pintura.",
+   "score": 0.155,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1892.54,
+   "t1": 1897.42,
+   "en": "A Brave Knight Teno Eggers",
+   "pt": "Professor Azeke, você se lembrou de quem é?",
+   "score": 0.209,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 34.41,
+   "t1": 37.08,
+   "en": "In the hidden world of Beyonders,",
+   "pt": "Este é o mundo dos Beyonders. Ao beber em certas poções, humanos comuns podem obter os poderes dos Beyonders.",
+   "score": 0.217,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 37.08,
+   "t1": 40.37,
+   "en": "humans must depend upon a variety of potions",
+   "pt": "Este é o mundo dos Beyonders. Ao beber em certas poções, humanos comuns podem obter os poderes dos Beyonders.",
+   "score": 0.227,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 40.37,
+   "t1": 43.7,
+   "en": "to travel the path of supreme ascension",
+   "pt": "Eles se tornam capazes de acender a divindade. Os 22 começam com mais fraco, a sequência 9.",
+   "score": 0.279,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 43.7,
+   "t1": 46.89,
+   "en": "and attain the occult powers of the Beyonder.",
+   "pt": "Eles se tornam capazes de acender a divindade. Os 22 começam com mais fraco, a sequência 9.",
+   "score": 0.142,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 46.91,
+   "t1": 49.32,
+   "en": "There are 22 pathways,",
+   "pt": "Eles se tornam capazes de acender a divindade. Os 22 começam com mais fraco, a sequência 9.",
+   "score": 0.218,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 49.34,
+   "t1": 51.92,
+   "en": "each beginning with Sequence 9.",
+   "pt": "Eles se tornam capazes de acender a divindade. Os 22 começam com mais fraco, a sequência 9.",
+   "score": 0.27,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 52.05,
+   "t1": 54.69,
+   "en": "The lower one descends in the Sequence,",
+   "pt": "Quanto menor o número da sequência, mais poderosas as habilidades do Beyonder.",
+   "score": 0.316,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 54.74,
+   "t1": 57.73,
+   "en": "the greater their Beyonder powers become.",
+   "pt": "Quanto menor o número da sequência, mais poderosas as habilidades do Beyonder.",
+   "score": 0.293,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 57.75,
+   "t1": 60.33,
+   "en": "Through this enlightened progression,",
+   "pt": "Beyonders de sequências de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.234,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 60.37,
+   "t1": 65.03,
+   "en": "the Beyonder achieves powers strong enough to rival gods.",
+   "pt": "Beyonders de sequências de nível mais alto dispõem de poderes grandes o bastante para rivalizar com os deuses.",
+   "score": 0.376,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 65.06,
+   "t1": 68.88,
+   "en": "Completing this evolution is an exceptional feat.",
+   "pt": "O caminho da evolução é chamado o caminho do divino.",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 68.94,
+   "t1": 71.87,
+   "en": "It is the Path of the Divine.",
+   "pt": "O caminho da evolução é chamado o caminho do divino.",
+   "score": 0.38,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 123.33,
+   "t1": 124.54,
+   "en": "August 18th.",
+   "pt": "18 de agosto, a senhora Elisabeth veio atrás de interpretação dos seus sonhos.",
+   "score": 0.146,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 124.65,
+   "t1": 127.36,
+   "en": "Elizabeth called upon me to interpret a dream.",
+   "pt": "18 de agosto, a senhora Elisabeth veio atrás de interpretação dos seus sonhos.",
+   "score": 0.424,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 128.1,
+   "t1": 132.57,
+   "en": "Ever since her holiday in Lamud, she'd suffered chronic nightmares.",
+   "pt": "Desde que voltou de Lamund, ela tem sido atormentada por pesadelos.",
+   "score": 0.369,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 132.59,
+   "t1": 135.73,
+   "en": "In the dream, I beheld the ruins of a castle.",
+   "pt": "Em seus sonhos, eu vi um velho castelo abandonado e um fantasma de um cavaleiro.",
+   "score": 0.264,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 135.81,
+   "t1": 137.96,
+   "en": "presided over by the Wraith of the Night.",
+   "pt": "Em seus sonhos, eu vi um velho castelo abandonado e um fantasma de um cavaleiro.",
+   "score": 0.119,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 143.14,
+   "t1": 144.16,
+   "en": "It's true.",
+   "pt": "Capitão, tem um fantasma no castelo.",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 144.22,
+   "t1": 145.53,
+   "en": "There is a raven there.",
+   "pt": "Capitão, tem um fantasma no castelo.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 146.39,
+   "t1": 148.95,
+   "en": "Dream-invading wraiths are abnormally strong,",
+   "pt": "Fantasmas capazes de perturbar sonhos têm força fora do comum.",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 149.32,
+   "t1": 152.23,
+   "en": "so we brought along 3-0782 as a bulwark.",
+   "pt": "Por isso, trouxemos o 30782, o emblema sagrado do sol em mutação.",
+   "score": 0.295,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 152.75,
+   "t1": 154.87,
+   "en": "The mutated sun's sacred emblem.",
+   "pt": "Por isso, trouxemos o 30782, o emblema sagrado do sol em mutação.",
+   "score": 0.276,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 154.97,
+   "t1": 159.29,
+   "en": "The emblem only needs a minute to purify spirits within a 15 meter radius.",
+   "pt": "O 30782 faz com que fantasmas no raio de 15 metros se dispersem em 1 minuto.",
+   "score": 0.179,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 159.49,
+   "t1": 162.16,
+   "en": "A beyonder's soul can withstand it for 6 hours.",
+   "pt": "E em 6 horas, faz com que beyonders na sua área de feito se torne idiotas que só sabem adorar o sol.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 162.2,
+   "t1": 165.34,
+   "en": "One second more and you're a mindless sun-worshipping husk.",
+   "pt": "E em 6 horas, faz com que beyonders na sua área de feito se torne idiotas que só sabem adorar o sol.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 165.54,
+   "t1": 166.84,
+   "en": "Two and a half hours left.",
+   "pt": "Ainda temos 2 horas e meia. Vamos acelerar a busca.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 166.92000000000002,
+   "t1": 168.02,
+   "en": "Let's speed up the search.",
+   "pt": "Ainda temos 2 horas e meia. Vamos acelerar a busca.",
+   "score": 0.139,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 282.53,
+   "t1": 283.08,
+   "en": "Found it!",
+   "pt": "Achei! É a luva na mão direita!",
+   "score": 0.216,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 283.12,
+   "t1": 284.3,
+   "en": "The right-hand gauntlet!",
+   "pt": "Achei! É a luva na mão direita!",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 291.13,
+   "t1": 291.65999999999997,
+   "en": "Klein?",
+   "pt": "Clain!",
+   "score": 0.6,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 302.94,
+   "t1": 304.93,
+   "en": "Wait, shouldn't this hurt?",
+   "pt": "Ué, não doi?",
+   "score": 0.059,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 310.41,
+   "t1": 311.08,
+   "en": "Of course.",
+   "pt": "Isso é um sonho?",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 311.73,
+   "t1": 312.59,
+   "en": "We're in a dream.",
+   "pt": "Isso é um sonho?",
+   "score": 0.129,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 322.53,
+   "t1": 323.62,
+   "en": "It's been over a minute.",
+   "pt": "Já faz mais de 1 minuto.",
+   "score": 0.455,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 340.18,
+   "t1": 341.89,
+   "en": "Thank goddess for the emblem.",
+   "pt": "10030782, eu nem sei o que aconteceria.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 342.25,
+   "t1": 343.76,
+   "en": "That could have gone poorly.",
+   "pt": "10030782, eu nem sei o que aconteceria.",
+   "score": 0.145,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 347.02,
+   "t1": 350.27,
+   "en": "This wraith, the roots of its resentment are deeply buried.",
+   "pt": "Capitão, esse fantasma é muito macabro. Tem profundo apego a esse mundo.",
+   "score": 0.127,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 350.48,
+   "t1": 351.6,
+   "en": "That follows.",
+   "pt": "Capitão, esse fantasma é muito macabro. Tem profundo apego a esse mundo.",
+   "score": 0.148,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 351.72,
+   "t1": 353.12,
+   "en": "Wraiths this powerful?",
+   "pt": "Realmente, fantasmas desse nível têm pelo menos centenas de anos.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 353.28,
+   "t1": 354.94,
+   "en": "They're typically centuries old.",
+   "pt": "Realmente, fantasmas desse nível têm pelo menos centenas de anos.",
+   "score": 0.319,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 355.02,
+   "t1": 357.99,
+   "en": "The town's passed on plenty of folktales about this castle,",
+   "pt": "A Era dos Castelos acabou há muito tempo e há muito folclore sobre eles, mas nada relacionado a fantasmas.",
+   "score": 0.136,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 358.11,
+   "t1": 359.99,
+   "en": "but none of them even mention wraiths.",
+   "pt": "A Era dos Castelos acabou há muito tempo e há muito folclore sobre eles, mas nada relacionado a fantasmas.",
+   "score": 0.184,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 360.65,
+   "t1": 361.67,
+   "en": "My deduction?",
+   "pt": "Esse fantasma pode ter aparecido há pouco tempo.",
+   "score": 0.305,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 361.82,
+   "t1": 363.8,
+   "en": "Something recently awoke this wraith.",
+   "pt": "Esse fantasma pode ter aparecido há pouco tempo.",
+   "score": 0.289,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 363.85,
+   "t1": 364.56,
+   "en": "Captain!",
+   "pt": "Capitão!",
+   "score": 0.571,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 375.13,
+   "t1": 378.44,
+   "en": "Based on the technique, I'd wager it's from the Fourth Epoch.",
+   "pt": "Esse estilo parece que ele é da Quarta Era.",
+   "score": 0.317,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 378.48,
+   "t1": 379.93,
+   "en": "It's over a thousand years old?",
+   "pt": "A mais de mil anos?",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 380.0,
+   "t1": 381.43,
+   "en": "That fits with the castle.",
+   "pt": "O fim da Quarta Era.",
+   "score": 0.318,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 382.18,
+   "t1": 384.32,
+   "en": "It's designed as late Fourth Epoch.",
+   "pt": "Pode ter sido quando esse castelo foi construído.",
+   "score": 0.39,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 384.42,
+   "t1": 388.06,
+   "en": "So this fellow, then, he's probably the first lord of the castle.",
+   "pt": "Ele pode ser o mestre do castelo, o primeiro baronete de Lamote.",
+   "score": 0.242,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 388.29,
+   "t1": 391.12,
+   "en": "The first baron of Lamud who allegedly vanished.",
+   "pt": "Segundo as lendas, ele desapareceu misteriosamente.",
+   "score": 0.292,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 392.54,
+   "t1": 394.49,
+   "en": "Why does this guy look so familiar?",
+   "pt": "Essa pessoa parece familiar.",
+   "score": 0.492,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 396.13,
+   "t1": 397.84000000000003,
+   "en": "He looks like Professor Azik.",
+   "pt": "Não é o professor Azic?",
+   "score": 0.64,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 399.67,
+   "t1": 401.02,
+   "en": "No, that's insane.",
+   "pt": "O professor mais respeitado do Clain é um monstro de mil anos.",
+   "score": 0.078,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 401.21,
+   "t1": 404.35,
+   "en": "Klein's mentor can't be a 1500-year-old monster.",
+   "pt": "O professor mais respeitado do Clain é um monstro de mil anos.",
+   "score": 0.33,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 404.57,
+   "t1": 405.7,
+   "en": "Don't be daft.",
+   "pt": "Não pode ser. São só parecidos.",
+   "score": 0.095,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 405.89,
+   "t1": 407.33,
+   "en": "It's just a resemblance.",
+   "pt": "Não pode ser. São só parecidos.",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 407.34000000000003,
+   "t1": 409.72,
+   "en": "Azik doesn't have his cold, dead eyes.",
+   "pt": "O professor Azic é uma pessoa gentil.",
+   "score": 0.278,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 411.13,
+   "t1": 413.21,
+   "en": "There shouldn't be any wraiths left now.",
+   "pt": "Creio que purificamos todos os fantasmas daqui.",
+   "score": 0.259,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 413.38,
+   "t1": 415.17,
+   "en": "But they are relentless by nature,",
+   "pt": "No entanto, devido a suas características, precisamos continuarem alerta por algum tempo para garantir que tudo foi resolvido.",
+   "score": 0.141,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 415.31,
+   "t1": 417.5,
+   "en": "so we'll stick around for a spell to observe.",
+   "pt": "No entanto, devido a suas características, precisamos continuarem alerta por algum tempo para garantir que tudo foi resolvido.",
+   "score": 0.287,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 417.74,
+   "t1": 419.06,
+   "en": "It's best to play it safe.",
+   "pt": "No entanto, devido a suas características, precisamos continuarem alerta por algum tempo para garantir que tudo foi resolvido.",
+   "score": 0.135,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 419.75,
+   "t1": 420.71,
+   "en": "As for this...",
+   "pt": "Como de costume, um vai vigiar com o 30782 enquanto os outros descansam.",
+   "score": 0.187,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 421.4,
+   "t1": 423.4,
+   "en": "One person will take it and stand guard.",
+   "pt": "Como de costume, um vai vigiar com o 30782 enquanto os outros descansam.",
+   "score": 0.311,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 423.5,
+   "t1": 424.85,
+   "en": "The other two can rest up.",
+   "pt": "Como de costume, um vai vigiar com o 30782 enquanto os outros descansam.",
+   "score": 0.292,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 425.11,
+   "t1": 426.65,
+   "en": "We'll do two-hour shifts.",
+   "pt": "Faremos turnos de duas horas.",
+   "score": 0.346,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 427.11,
+   "t1": 428.35,
+   "en": "I'll take first watch.",
+   "pt": "Faremos turnos de duas horas.",
+   "score": 0.245,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 428.69,
+   "t1": 429.42,
+   "en": "You rest.",
+   "pt": "Eu fico primeiro, capitão. Vão descansar.",
+   "score": 0.217,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 430.35,
+   "t1": 431.5,
+   "en": "Well, alright.",
+   "pt": "Eu fico primeiro, capitão. Vão descansar.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 431.77,
+   "t1": 432.99,
+   "en": "We'll be right outside.",
+   "pt": "Certo. Estaremos lá fora. Qualquer coisa é só chamar.",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 433.14,
+   "t1": 434.6,
+   "en": "Just shout if you need us.",
+   "pt": "Certo. Estaremos lá fora. Qualquer coisa é só chamar.",
+   "score": 0.133,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 434.82,
+   "t1": 435.4,
+   "en": "Right.",
+   "pt": "Certo. Estaremos lá fora. Qualquer coisa é só chamar.",
+   "score": 0.109,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 442.29,
+   "t1": 443.64,
+   "en": "It's warm to the touch.",
+   "pt": "Que sensação agradável.",
+   "score": 0.227,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 444.49,
+   "t1": 446.33,
+   "en": "The power of this thing is staggering.",
+   "pt": "Parece que essa coisa tem enorme eficácia contra monstros de almas.",
+   "score": 0.194,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 446.36,
+   "t1": 448.62,
+   "en": "It's much stronger than Requiem charms.",
+   "pt": "Parece que essa coisa tem enorme eficácia contra monstros de almas.",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 448.64,
+   "t1": 450.27,
+   "en": "No soul is safe around it.",
+   "pt": "Muito melhor que feitiço de Reckin.",
+   "score": 0.305,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 451.13,
+   "t1": 454.57,
+   "en": "Not much info on it, just that it was found in Intis.",
+   "pt": "Os arquivos mostram que esse emblema sagrado vem de íntis relacionado ao caminho do sol,",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 454.74,
+   "t1": 456.43,
+   "en": "Why are the archives so blank?",
+   "pt": "Os arquivos mostram que esse emblema sagrado vem de íntis relacionado ao caminho do sol,",
+   "score": 0.276,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 456.46,
+   "t1": 457.77,
+   "en": "No one defined its source.",
+   "pt": "mas sua origem é desconhecida.",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 458.37,
+   "t1": 459.96,
+   "en": "Or maybe there was interference.",
+   "pt": "Será por causa da interferência?",
+   "score": 0.548,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 461.06,
+   "t1": 463.59000000000003,
+   "en": "What about divination above the gray fog?",
+   "pt": "E a adivinhação acima da neva cincenta? Será que reduz a interferência?",
+   "score": 0.349,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 463.76,
+   "t1": 465.34000000000003,
+   "en": "Could it jam the interference?",
+   "pt": "E a adivinhação acima da neva cincenta? Será que reduz a interferência?",
+   "score": 0.327,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 468.72,
+   "t1": 470.94,
+   "en": "I'll need some place a little more private.",
+   "pt": "Preciso encontrar um local mais escondido.",
+   "score": 0.169,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 480.91,
+   "t1": 482.48,
+   "en": "It practically feels real.",
+   "pt": "Parece bastante realista. É uma manifestação das minhas sensações.",
+   "score": 0.202,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 483.05,
+   "t1": 485.0,
+   "en": "Did it incarnate from my senses?",
+   "pt": "Parece bastante realista. É uma manifestação das minhas sensações.",
+   "score": 0.358,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 506.27,
+   "t1": 507.59,
+   "en": "Wait, that symbol?",
+   "pt": "O sol flamigente é terno?",
+   "score": 0.3,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 509.6,
+   "t1": 510.48,
+   "en": "Of course.",
+   "pt": "É claro. A igreja do sol flamigente é terno que possui o caminho do sol.",
+   "score": 0.127,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 511.35,
+   "t1": 514.53,
+   "en": "It's a relic of the Church of the Eternal Blazing Sun.",
+   "pt": "É claro. A igreja do sol flamigente é terno que possui o caminho do sol.",
+   "score": 0.325,
+   "overlap": 0.68,
+   "anchors": []
+  },
+  {
+   "t0": 527.2,
+   "t1": 529.14,
+   "en": "That drop of golden liquid,",
+   "pt": "Essa cota do Liga do Dourado é o motivo do 3082 não poder ser controlado pelo selo.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 529.22,
+   "t1": 532.43,
+   "en": "that's what makes the emblem so powerful and intractable.",
+   "pt": "Essa cota do Liga do Dourado é o motivo do 3082 não poder ser controlado pelo selo.",
+   "score": 0.331,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 621.27,
+   "t1": 621.96,
+   "en": "What happened?",
+   "pt": "Que foi isso? A adivinhação apontou a direção do sol?",
+   "score": 0.219,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 622.61,
+   "t1": 625.73,
+   "en": "Did my divination point towards some unfathomable existence?",
+   "pt": "Que foi isso? A adivinhação apontou a direção do sol?",
+   "score": 0.364,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 627.31,
+   "t1": 628.0,
+   "en": "Dammit!",
+   "pt": "Fala sério! Não era o sol flamigente e terno era? Eu olhei diretamente para uma divindade.",
+   "score": 0.043,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 628.52,
+   "t1": 630.31,
+   "en": "Was that the Eternal Blazing Sun?",
+   "pt": "Fala sério! Não era o sol flamigente e terno era? Eu olhei diretamente para uma divindade.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 630.52,
+   "t1": 632.11,
+   "en": "Did I just look directly at a god?",
+   "pt": "Fala sério! Não era o sol flamigente e terno era? Eu olhei diretamente para uma divindade.",
+   "score": 0.3,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 633.81,
+   "t1": 637.33,
+   "en": "If the Gray Fog hadn't shielded me, there'd be nothing left of me.",
+   "pt": "Se a neva cincenta não me protegisse, eu provavelmente teria virado ciência.",
+   "score": 0.232,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 637.99,
+   "t1": 639.51,
+   "en": "No more reckless divination.",
+   "pt": "Melhor não sair usando a adivinhação qualquer coisa.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 639.97,
+   "t1": 641.45,
+   "en": "Who knows what horrors I'll see.",
+   "pt": "Melhor não sair usando a adivinhação qualquer coisa.",
+   "score": 0.171,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 650.63,
+   "t1": 652.48,
+   "en": "Is this knowledge?",
+   "pt": "Isso! Isso é!",
+   "score": 0.429,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 653.01,
+   "t1": 656.46,
+   "en": "White Angel, the method for making a Flaring Sun Charm?",
+   "pt": "Anjo do branco poro, um método para criar um método sol flamigente.",
+   "score": 0.322,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 658.44,
+   "t1": 659.78,
+   "en": "The Sun Pathway.",
+   "pt": "O caminho do sol, o sem-sombra, o sacerdote da luz.",
+   "score": 0.127,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 659.97,
+   "t1": 660.93,
+   "en": "Unshadowed.",
+   "pt": "O caminho do sol, o sem-sombra, o sacerdote da luz.",
+   "score": 0.207,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 661.07,
+   "t1": 662.33,
+   "en": "Priest of Light.",
+   "pt": "O caminho do sol, o sem-sombra, o sacerdote da luz.",
+   "score": 0.19,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 663.99,
+   "t1": 666.2,
+   "en": "Do not gaze directly at a god.",
+   "pt": "Não posso dar direto para uma divindade pelos céus.",
+   "score": 0.405,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 666.7,
+   "t1": 669.14,
+   "en": "So much knowledge, but why?",
+   "pt": "O que é isso? Um prêmio por sobreviver a tudo isso por um minuto?",
+   "score": 0.205,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 669.78,
+   "t1": 672.76,
+   "en": "Is this some kind of reward for facing one down and surviving?",
+   "pt": "O que é isso? Um prêmio por sobreviver a tudo isso por um minuto?",
+   "score": 0.29,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 673.85,
+   "t1": 676.28,
+   "en": "Hang on, a sequence form?",
+   "pt": "Espera, sequência 4 é a primeira vez que receba uma receita de sequência tão alta,",
+   "score": 0.218,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 676.4,
+   "t1": 678.87,
+   "en": "That's the first high sequence formula I've obtained.",
+   "pt": "Espera, sequência 4 é a primeira vez que receba uma receita de sequência tão alta,",
+   "score": 0.292,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 679.61,
+   "t1": 680.52,
+   "en": "The liquid.",
+   "pt": "como pensei, o líquido dourado, o sangue de um deus.",
+   "score": 0.237,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 680.55,
+   "t1": 682.24,
+   "en": "It's the blood of a god.",
+   "pt": "como pensei, o líquido dourado, o sangue de um deus.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 682.28,
+   "t1": 683.6,
+   "en": "That emblem.",
+   "pt": "O 30782 é muito poderoso.",
+   "score": 0.207,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 683.63,
+   "t1": 685.72,
+   "en": "No one realizes how powerful it is.",
+   "pt": "O 30782 é muito poderoso.",
+   "score": 0.346,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 685.97,
+   "t1": 689.95,
+   "en": "But I know how to harness it, siphon it for a flaring sunshine.",
+   "pt": "É preciso explorar ainda mais essa cota de sangue de fina.",
+   "score": 0.339,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 711.4,
+   "t1": 712.12,
+   "en": "Okay.",
+   "pt": "Ótimo. Nada fora do normal.",
+   "score": 0.138,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 712.51,
+   "t1": 713.16,
+   "en": "Good.",
+   "pt": "Ótimo. Nada fora do normal.",
+   "score": 0.207,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 713.39,
+   "t1": 714.54,
+   "en": "Everything seems fine.",
+   "pt": "É melhor não cortejar a morte assim outra vez. Preciso me lembrar de não olhar para deusas.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 715.17,
+   "t1": 717.07,
+   "en": "I need to stop courting death, you know.",
+   "pt": "É melhor não cortejar a morte assim outra vez. Preciso me lembrar de não olhar para deusas.",
+   "score": 0.236,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 717.26,
+   "t1": 718.59,
+   "en": "I have to round and find out.",
+   "pt": "É melhor não cortejar a morte assim outra vez. Preciso me lembrar de não olhar para deusas.",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 719.0,
+   "t1": 720.29,
+   "en": "Especially with gods.",
+   "pt": "É melhor não cortejar a morte assim outra vez. Preciso me lembrar de não olhar para deusas.",
+   "score": 0.22,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 722.75,
+   "t1": 723.59,
+   "en": "I'm not good.",
+   "pt": "Ah! Que sono!",
+   "score": 0.261,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 724.18,
+   "t1": 727.03,
+   "en": "I would like to know what the hell a White Angel is, though.",
+   "pt": "Mas o que é o anjo do branco poro?",
+   "score": 0.264,
+   "overlap": 0.7,
+   "anchors": []
+  },
+  {
+   "t0": 732.23,
+   "t1": 734.3,
+   "en": "Now that the wraith has been put to rest,",
+   "pt": "Os problemas no castelo foram resolvidos.",
+   "score": 0.325,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 734.44,
+   "t1": 737.46,
+   "en": "the young lady in distress should be relieved of her nightmares.",
+   "pt": "A senhorita que pediu a interpretação do sonho está livre da perturbação.",
+   "score": 0.326,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 741.0,
+   "t1": 743.32,
+   "en": "We'll return the sealed artifact to Blackthorn.",
+   "pt": "Levaremos o 30782 de volta para Blackthorn. Tente descansar.",
+   "score": 0.449,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 744.1,
+   "t1": 745.04,
+   "en": "Get some rest.",
+   "pt": "Bom trabalho, Clain.",
+   "score": 0.258,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 775.97,
+   "t1": 778.87,
+   "en": "Professor Azik dug up information on Hornacis.",
+   "pt": "Eu adoraria saber dessa informação, mas...",
+   "score": 0.41,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 785.2,
+   "t1": 788.42,
+   "en": "I want the info, but I feel a bit apprehensive.",
+   "pt": "Ah...",
+   "score": 0.085,
+   "overlap": 0.62,
+   "anchors": []
+  },
+  {
+   "t0": 788.76,
+   "t1": 789.3,
+   "en": "I mean...",
+   "pt": "Ah...",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 790.62,
+   "t1": 794.14,
+   "en": "It seems preposterous, but what if that was a portrait of him?",
+   "pt": "O professor Azek encontrou informações sobre o Ornáces?",
+   "score": 0.281,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 808.23,
+   "t1": 808.95,
+   "en": "Hello?",
+   "pt": "Desculpe como dá, professor Azek.",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 809.02,
+   "t1": 809.86,
+   "en": "Professor Azik?",
+   "pt": "Desculpe como dá, professor Azek.",
+   "score": 0.578,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 816.88,
+   "t1": 818.42,
+   "en": "I suppose he must have stepped out.",
+   "pt": "Será que eu volto outra hora?",
+   "score": 0.355,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 847.92,
+   "t1": 848.84,
+   "en": "Lamud Castle.",
+   "pt": "O castelo, o amute...",
+   "score": 0.483,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 849.51,
+   "t1": 850.78,
+   "en": "Was I right about that?",
+   "pt": "O castelo, o amute...",
+   "score": 0.359,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 861.82,
+   "t1": 862.95,
+   "en": "Professor Azik...",
+   "pt": "Professor Azic, o senhor não estava.",
+   "score": 0.542,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 863.5,
+   "t1": 867.43,
+   "en": "You weren't in, but I saw this mural, and I walked in without thinking.",
+   "pt": "Professor Azic, o senhor não estava.",
+   "score": 0.137,
+   "overlap": 0.76,
+   "anchors": []
+  },
+  {
+   "t0": 867.5,
+   "t1": 868.15,
+   "en": "Yes.",
+   "pt": "Aí eu vi essa pintura e acabei entrando sem querer.",
+   "score": 0.075,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 868.49,
+   "t1": 870.41,
+   "en": "I've suffered odd dreams as of late.",
+   "pt": "Eu tenho tido alguns sonhos estranhos.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 870.55,
+   "t1": 872.03,
+   "en": "And these sketches.",
+   "pt": "Eu tenho tido alguns sonhos estranhos.",
+   "score": 0.145,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 872.24,
+   "t1": 873.76,
+   "en": "Done in my sleep, it seems.",
+   "pt": "Quando acordo, eu vejo que desenhei por todo lado.",
+   "score": 0.219,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 874.77,
+   "t1": 875.94,
+   "en": "My head's splitting.",
+   "pt": "Quando acordo, eu vejo que desenhei por todo lado.",
+   "score": 0.149,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 876.57,
+   "t1": 877.36,
+   "en": "Follow me.",
+   "pt": "É um grande incômodo.",
+   "score": 0.138,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 879.37,
+   "t1": 880.14,
+   "en": "Dreams?",
+   "pt": "Siga-me.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 886.56,
+   "t1": 890.0,
+   "en": "Compiled research on the Hornacis Mountain Peak ruins?",
+   "pt": "Pesquisa das Ruínas do Pico Principal de Ornácias.",
+   "score": 0.275,
+   "overlap": 0.87,
+   "anchors": []
+  },
+  {
+   "t0": 890.17,
+   "t1": 891.82,
+   "en": "Wow, thank you, Professor.",
+   "pt": "Obrigado, Professor Azic.",
+   "score": 0.565,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 892.3,
+   "t1": 893.67,
+   "en": "Guess I'll leave you to it, then.",
+   "pt": "Então eu já vou indo.",
+   "score": 0.314,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 894.18,
+   "t1": 895.17,
+   "en": "Read it here.",
+   "pt": "Então eu já vou indo.",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 899.29,
+   "t1": 901.81,
+   "en": "You're no longer enrolled as a student here.",
+   "pt": "Não é mais aluno da Universidade de Coia.",
+   "score": 0.337,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 902.21,
+   "t1": 904.91,
+   "en": "I trust you, but it can't leave the campus.",
+   "pt": "Então o material não pode sair do campus.",
+   "score": 0.321,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 907.45,
+   "t1": 908.32,
+   "en": "Relax.",
+   "pt": "Sente-se.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 908.95,
+   "t1": 909.87,
+   "en": "Settle in.",
+   "pt": "Você parece um pouco ansioso hoje.",
+   "score": 0.19,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 910.46,
+   "t1": 912.24,
+   "en": "You seem a bit tense today.",
+   "pt": "Você parece um pouco ansioso hoje.",
+   "score": 0.237,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 914.19,
+   "t1": 915.78,
+   "en": "Just anxious, I guess.",
+   "pt": "Eu fiquei meio agitado.",
+   "score": 0.238,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 915.89,
+   "t1": 918.66,
+   "en": "Eager to dig into this after hitting so many dead ends.",
+   "pt": "Afinal, procura informação sobre Ornácias há muito tempo.",
+   "score": 0.22,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 922.08,
+   "t1": 924.35,
+   "en": "Looks like the castle from my dream divination.",
+   "pt": "Esse parece o castelo que vinha na minha adivinhação do sonho.",
+   "score": 0.449,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 924.94,
+   "t1": 927.83,
+   "en": "But not as imposing, nor on a peak,",
+   "pt": "Mas aquele que ficava no pico era mais magnífico.",
+   "score": 0.247,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 928.26,
+   "t1": 931.02,
+   "en": "and lacking the massive Eldritch throne.",
+   "pt": "E tinha um grande trono que não era humano.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 933.15,
+   "t1": 936.61,
+   "en": "The Hornacis Mountains span the border of Loen and Intis.",
+   "pt": "As ruínas provam que há muito tempo havia um reino na região.",
+   "score": 0.155,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 937.11,
+   "t1": 939.82,
+   "en": "The ruins of an ancient bygone civilization",
+   "pt": "As ruínas provam que há muito tempo havia um reino na região.",
+   "score": 0.136,
+   "overlap": 0.51,
+   "anchors": []
+  },
+  {
+   "t0": 939.86,
+   "t1": 942.2,
+   "en": "scattered across the main peak of the range.",
+   "pt": "A nação da noite eterna mencionada no caderno da família antiga nos...",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 943.23,
+   "t1": 946.32,
+   "en": "Must be the nation of the Evernight from the Antigonus Notebook.",
+   "pt": "A nação da noite eterna mencionada no caderno da família antiga nos...",
+   "score": 0.385,
+   "overlap": 0.73,
+   "anchors": [
+    "antigonus"
+   ]
+  },
+  {
+   "t0": 947.65,
+   "t1": 952.77,
+   "en": "Based upon their murals, people of this fallen nation seem akin to modern humans,",
+   "pt": "Então posso considerá-los humanos.",
+   "score": 0.339,
+   "overlap": 0.59,
+   "anchors": []
+  },
+  {
+   "t0": 953.11,
+   "t1": 954.88,
+   "en": "so we may assume they were human.",
+   "pt": "Acreditavam que a morte não era o fim",
+   "score": 0.174,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 955.47,
+   "t1": 957.55,
+   "en": "They did not consider death to be the end,",
+   "pt": "e que os familiares mortos o abençoariam.",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 957.64,
+   "t1": 960.33,
+   "en": "but believed deceased relatives would protect them at night.",
+   "pt": "O que os faziam manter os mortos em suas camas por três dias.",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 960.74,
+   "t1": 962.22,
+   "en": "And it was custom to keep loved ones",
+   "pt": "O que os faziam manter os mortos em suas camas por três dias.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 962.25,
+   "t1": 964.86,
+   "en": "beside their beds for three nights after they passed.",
+   "pt": "Não fala de interro dos mortos.",
+   "score": 0.268,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 965.65,
+   "t1": 969.71,
+   "en": "Unfortunately, the murals do not provide insight into any burial rituals.",
+   "pt": "Essas ruínas antigas têm alguma mobíria e decoração preservadas.",
+   "score": 0.179,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 970.68,
+   "t1": 973.28,
+   "en": "All artifacts are remarkably well preserved,",
+   "pt": "Muitos traços de terem sido habitadas.",
+   "score": 0.3,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 973.28,
+   "t1": 976.97,
+   "en": "and the lasting signs of life raise the question of a sudden exodus.",
+   "pt": "O estranho é...",
+   "score": 0.152,
+   "overlap": 0.54,
+   "anchors": []
+  },
+  {
+   "t0": 976.97,
+   "t1": 978.66,
+   "en": "What's truly strange, though?",
+   "pt": "Sem tumbas, sem cadáveres.",
+   "score": 0.196,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 978.66,
+   "t1": 980.52,
+   "en": "I was just reading that passage.",
+   "pt": "Sem tumbas, sem cadáveres.",
+   "score": 0.327,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 980.71,
+   "t1": 981.42,
+   "en": "Thank you.",
+   "pt": "Sem tumbas, sem cadáveres.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 982.31,
+   "t1": 984.97,
+   "en": "No graves or crypts, and no remains.",
+   "pt": "Como se nunca tivessem existido.",
+   "score": 0.338,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 985.04,
+   "t1": 987.64,
+   "en": "The entire nation seems to have just up and vanished,",
+   "pt": "E esta civilização antiga adorava um ser misterioso",
+   "score": 0.311,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 987.66,
+   "t1": 989.71,
+   "en": "almost like they never even lived or died.",
+   "pt": "E esta civilização antiga adorava um ser misterioso",
+   "score": 0.326,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 990.39,
+   "t1": 993.18,
+   "en": "We do know they feared and revered the darkness of night.",
+   "pt": "que chamavam de ela.",
+   "score": 0.16,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 993.58,
+   "t1": 995.33,
+   "en": "Hence, the deity they worshipped.",
+   "pt": "A mãe do céu.",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 995.62,
+   "t1": 996.98,
+   "en": "Ruler of the Evernight.",
+   "pt": "Governante da noite eterna?",
+   "score": 0.292,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 997.15,
+   "t1": 998.27,
+   "en": "Mother of the Sky.",
+   "pt": "Governante da noite eterna?",
+   "score": 0.279,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 998.7,
+   "t1": 1000.12,
+   "en": "The ruler of the Evernight?",
+   "pt": "A nação da noite eterna e essa mãe do céu",
+   "score": 0.209,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1001.36,
+   "t1": 1004.72,
+   "en": "Was it the Evernight Goddess, or just a coincidence of translation?",
+   "pt": "não vai tomar o seu café?",
+   "score": 0.27,
+   "overlap": 0.36,
+   "anchors": [
+    "evernight goddess"
+   ]
+  },
+  {
+   "t0": 1007.37,
+   "t1": 1008.24,
+   "en": "What's wrong?",
+   "pt": "não vai tomar o seu café?",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1008.91,
+   "t1": 1010.45,
+   "en": "You haven't touched your coffee.",
+   "pt": "Não.",
+   "score": 0.059,
+   "overlap": 0.65,
+   "anchors": []
+  },
+  {
+   "t0": 1011.5,
+   "t1": 1011.98,
+   "en": "Uh...",
+   "pt": "O seu café?",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1017.16,
+   "t1": 1018.05,
+   "en": "That's bitter.",
+   "pt": "Que amargo!",
+   "score": 0.174,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1024.31,
+   "t1": 1026.65,
+   "en": "You've always taken one lump of sugar.",
+   "pt": "Costumava usar só um cubo de açúcar.",
+   "score": 0.222,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 1029.09,
+   "t1": 1031.12,
+   "en": "Tastes change with age, you know?",
+   "pt": "É que meus gostos mudaram.",
+   "score": 0.214,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 1033.31,
+   "t1": 1036.18,
+   "en": "I've recently done some dabbling in divination.",
+   "pt": "Estou estudando muita coisa relacionada ao misticismo.",
+   "score": 0.162,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1036.96,
+   "t1": 1038.4,
+   "en": "And I discovered",
+   "pt": "Eu descobri que seu destino tem flutuações erráticas.",
+   "score": 0.206,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1038.88,
+   "t1": 1041.71,
+   "en": "your fate is off, riddled with disharmony.",
+   "pt": "Eu descobri que seu destino tem flutuações erráticas.",
+   "score": 0.239,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1043.53,
+   "t1": 1044.97,
+   "en": "How is it disharmonious?",
+   "pt": "Como assim erráticas?",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1046.1,
+   "t1": 1050.31,
+   "en": "It's vague, but coincidence has been pulling you to and fro.",
+   "pt": "Sinto que essas flutuações letraram perigo.",
+   "score": 0.34,
+   "overlap": 0.71,
+   "anchors": []
+  },
+  {
+   "t0": 1050.55,
+   "t1": 1053.21,
+   "en": "But that's the extent of my insight, I'm afraid.",
+   "pt": "Mas não consegui ver mais nenhum detalhe.",
+   "score": 0.14,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 1054.16,
+   "t1": 1056.03,
+   "en": "There's one thing I'm certain of, though.",
+   "pt": "De uma coisa tenho certeza.",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1056.88,
+   "t1": 1059.0,
+   "en": "These erratic synchronies directing you.",
+   "pt": "Uma parte do seu destino errático aponta na minha direção.",
+   "score": 0.417,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1060.04,
+   "t1": 1062.11,
+   "en": "I happen to be one of them on your course.",
+   "pt": "Uma parte do seu destino errático aponta na minha direção.",
+   "score": 0.122,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1063.17,
+   "t1": 1064.18,
+   "en": "This castle.",
+   "pt": "Você viu esse castelo recentemente, não viu?",
+   "score": 0.34,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1064.76,
+   "t1": 1066.2,
+   "en": "You've been there, haven't you?",
+   "pt": "Suas emoções ficaram agitadas quando o viu.",
+   "score": 0.113,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1068.29,
+   "t1": 1071.0,
+   "en": "You seemed alarmed when I found you looking at it.",
+   "pt": "Você nunca esteve tão nervoso na minha frente.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1071.09,
+   "t1": 1074.41,
+   "en": "You were nervous, in a way I've never known you to be.",
+   "pt": "Você nunca esteve tão nervoso na minha frente.",
+   "score": 0.412,
+   "overlap": 0.73,
+   "anchors": []
+  },
+  {
+   "t0": 1078.01,
+   "t1": 1081.46,
+   "en": "You have uncovered my history.",
+   "pt": "Você sabe ser criados a meu respeito.",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1089.76,
+   "t1": 1090.93,
+   "en": "What did you see?",
+   "pt": "Seu passado?",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1110.24,
+   "t1": 1111.24,
+   "en": "Stay calm.",
+   "pt": "Fique calmo.",
+   "score": 0.5,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1111.58,
+   "t1": 1114.69,
+   "en": "The divination you performed earlier said you'll be safe.",
+   "pt": "Eu tive a chance de fazer uma divinhação antes de ver.",
+   "score": 0.275,
+   "overlap": 0.64,
+   "anchors": []
+  },
+  {
+   "t0": 1116.35,
+   "t1": 1119.01,
+   "en": "And Azik always treated Klein with kindness.",
+   "pt": "O professor Azic sempre foi gentil com o Klein.",
+   "score": 0.337,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 1119.49,
+   "t1": 1121.85,
+   "en": "The divination also suggested that if I help him",
+   "pt": "Minha divinhação me disse que contar ao professor Azic sobre o castelo",
+   "score": 0.373,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1121.88,
+   "t1": 1125.23,
+   "en": "to unearth his buried past and hide his secrets from the Nighthawks,",
+   "pt": "Minha divinhação me disse que contar ao professor Azic sobre o castelo",
+   "score": 0.204,
+   "overlap": 0.78,
+   "anchors": [
+    "nighthawks"
+   ]
+  },
+  {
+   "t0": 1125.61,
+   "t1": 1127.17,
+   "en": "he'll save me in the future.",
+   "pt": "permitirá que ele me salve no futuro.",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1128.32,
+   "t1": 1132.06,
+   "en": "This castle, it's still freshly built in my dreams.",
+   "pt": "Nos meus sonhos, não está tão destruído.",
+   "score": 0.322,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1133.69,
+   "t1": 1136.81,
+   "en": "Could he really be some ancient transcendent creature?",
+   "pt": "Professor Azic, você é mesmo antigo.",
+   "score": 0.23,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 1136.85,
+   "t1": 1138.38,
+   "en": "There was a stable here.",
+   "pt": "Professor Azic, você é mesmo antigo.",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1138.93,
+   "t1": 1140.44,
+   "en": "My most beloved steed.",
+   "pt": "Aqui é o estábulo.",
+   "score": 0.368,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1165.75,
+   "t1": 1167.33,
+   "en": "My son often played here.",
+   "pt": "O meu filho costumava brincar aqui.",
+   "score": 0.207,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1168.31,
+   "t1": 1171.44,
+   "en": "He'd run through the court dragging a broadsword taller than him.",
+   "pt": "Corria por aí, carregando aquela espada mais pesada do que ele.",
+   "score": 0.176,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1172.26,
+   "t1": 1175.48,
+   "en": "More than anything, he wished to be a knight.",
+   "pt": "Dizia que era o Cavaleiro do Rei.",
+   "score": 0.107,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1176.5,
+   "t1": 1177.61,
+   "en": "A Broadsword?",
+   "pt": "Uma espada longa?",
+   "score": 0.357,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1178.42,
+   "t1": 1179.99,
+   "en": "Was the wraith his son?",
+   "pt": "O Funtasma era o filho dele.",
+   "score": 0.367,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1212.04,
+   "t1": 1213.95,
+   "en": "Professor, what is this?",
+   "pt": "Professor Azic, o que foi?",
+   "score": 0.565,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1263.16,
+   "t1": 1265.2,
+   "en": "What a noxious stench.",
+   "pt": "O ar está humido e fétido.",
+   "score": 0.261,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1265.76,
+   "t1": 1267.1,
+   "en": "What evil lies below?",
+   "pt": "Há espíritos malignos lá embaixo?",
+   "score": 0.346,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1280.46,
+   "t1": 1281.41,
+   "en": "That coffin,",
+   "pt": "Isso parece ser um ritual de supressão de cadáveres para selar fantasmas.",
+   "score": 0.145,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1281.95,
+   "t1": 1284.64,
+   "en": "sealed with magic to pacify the spirit within.",
+   "pt": "Isso parece ser um ritual de supressão de cadáveres para selar fantasmas.",
+   "score": 0.239,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1293.46,
+   "t1": 1295.4,
+   "en": "Wait, someone broke it open.",
+   "pt": "Foi danificado por alguém?",
+   "score": 0.196,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1322.67,
+   "t1": 1324.09,
+   "en": "Are you okay, Professor?",
+   "pt": "Professor Azic...",
+   "score": 0.5,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1353.15,
+   "t1": 1355.02,
+   "en": "We purified this castle.",
+   "pt": "Nós purificamos este lugar como há tantos espíritos.",
+   "score": 0.378,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1355.16,
+   "t1": 1356.84,
+   "en": "How are there spirits left?",
+   "pt": "Nós purificamos este lugar como há tantos espíritos.",
+   "score": 0.338,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1401.96,
+   "t1": 1403.65,
+   "en": "What am I seeing?",
+   "pt": "Só pode ser.",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1404.12,
+   "t1": 1405.37,
+   "en": "There's something in there!",
+   "pt": "Só pode ser.",
+   "score": 0.108,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1405.39,
+   "t1": 1406.63,
+   "en": "There's something evil!",
+   "pt": "Ateu alguma coisa aqui! Ateu alguma coisa lá dentro!",
+   "score": 0.111,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1429.33,
+   "t1": 1431.02,
+   "en": "What are you, Professor?",
+   "pt": "Ah, Professor Azic!",
+   "score": 0.564,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1432.53,
+   "t1": 1434.09,
+   "en": "Anathema.",
+   "pt": "Maldição!",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1438.04,
+   "t1": 1441.4,
+   "en": "The fallen shall rise from the pale white.",
+   "pt": "Mortos que voltam de dentro do palho do branco só trazem sofrimento!",
+   "score": 0.315,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1441.47,
+   "t1": 1445.65,
+   "en": "Their wrath is your tragedy, your torment.",
+   "pt": "Desastre e morte!",
+   "score": 0.393,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 1445.77,
+   "t1": 1448.56,
+   "en": "This is the curse of death!",
+   "pt": "Desastre e morte!",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1448.66,
+   "t1": 1450.31,
+   "en": "Bring him down!",
+   "pt": "Fortaleve!",
+   "score": 0.087,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1588.66,
+   "t1": 1591.82,
+   "en": "Azik Eggers fought valiantly to protect our kingdom.",
+   "pt": "Azeke Eggers lutou com valentia, agora será conhecido como o grande baronete de Lamute.",
+   "score": 0.397,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1592.46,
+   "t1": 1596.06,
+   "en": "He has thus earned the title Grand Baron of Lamud.",
+   "pt": "Azeke Eggers lutou com valentia, agora será conhecido como o grande baronete de Lamute.",
+   "score": 0.328,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1596.57,
+   "t1": 1600.02,
+   "en": "With this nobility, he is bestowed a fiefdom",
+   "pt": "Confio-lhe em feudo e a medalha de primeira classe de Augustus.",
+   "score": 0.305,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1600.08,
+   "t1": 1602.58,
+   "en": "and awarded the Augustus Medal of Honor.",
+   "pt": "Confio-lhe em feudo e a medalha de primeira classe de Augustus.",
+   "score": 0.356,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1605.4,
+   "t1": 1607.18,
+   "en": "Look, Mom, when I grow up,",
+   "pt": "Mamãe, quando eu crescer eu quero ser um grande cavaleiro, igual o papai.",
+   "score": 0.237,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1607.21,
+   "t1": 1609.66,
+   "en": "I'm going to be a great knight just like Father.",
+   "pt": "Mamãe, quando eu crescer eu quero ser um grande cavaleiro, igual o papai.",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1615.89,
+   "t1": 1617.94,
+   "en": "He had such a gentle look in his eyes,",
+   "pt": "O professor Azeke tinha um olhar gentil, bem diferente da representação na pintura.",
+   "score": 0.339,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1618.74,
+   "t1": 1620.59,
+   "en": "but he was so bitter in the painting.",
+   "pt": "O professor Azeke tinha um olhar gentil, bem diferente da representação na pintura.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1637.98,
+   "t1": 1640.0,
+   "en": "Just like a completely different person.",
+   "pt": "O que aconteceu? O professor Azeke se tornou uma pessoa diferente? Isso é...",
+   "score": 0.382,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1640.74,
+   "t1": 1641.93,
+   "en": "Is this what happened to her?",
+   "pt": "O que aconteceu? O professor Azeke se tornou uma pessoa diferente? Isso é...",
+   "score": 0.202,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1644.75,
+   "t1": 1645.8,
+   "en": "Dead spirits?",
+   "pt": "O que aconteceu? O professor Azeke se tornou uma pessoa diferente? Isso é...",
+   "score": 0.217,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1658.21,
+   "t1": 1661.33,
+   "en": "Your Highness!",
+   "pt": "O professor Azeke se tornou um grande cavaleiro, bem diferente da representação na pintura.",
+   "score": 0.098,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1669.21,
+   "t1": 1670.87,
+   "en": "Fa... Father...",
+   "pt": "O professor Azeke se tornou um grande cavaleiro, bem diferente da representação na pintura.",
+   "score": 0.122,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1729.45,
+   "t1": 1730.65,
+   "en": "Father.",
+   "pt": "Papai...",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1746.3,
+   "t1": 1747.97,
+   "en": "Professor, wake up!",
+   "pt": "O professor Azeke se tornou um grande cavaleiro, bem diferente da representação na pintura.",
+   "score": 0.302,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1748.58,
+   "t1": 1750.02,
+   "en": "Please, wake up!",
+   "pt": "O professor Azeke se tornou um grande cavaleiro, bem diferente da representação na pintura.",
+   "score": 0.194,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1760.48,
+   "t1": 1765.44,
+   "en": "My son, I only love to spare you from such misfortune.",
+   "pt": "O professor Azeke se tornou um grande cavaleiro, bem diferente da representação na pintura.",
+   "score": 0.27,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1766.58,
+   "t1": 1768.37,
+   "en": "He was sealed in alive.",
+   "pt": "O caixão foi selado com ele vivo. A cabeça sumiu.",
+   "score": 0.377,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1768.59,
+   "t1": 1770.0,
+   "en": "Who could be so cruel?",
+   "pt": "O caixão foi selado com ele vivo. A cabeça sumiu.",
+   "score": 0.324,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1771.56,
+   "t1": 1772.76,
+   "en": "His head is missing.",
+   "pt": "O caixão foi selado com ele vivo. A cabeça sumiu.",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1774.13,
+   "t1": 1777.6,
+   "en": "This looks to have only happened in the last three months.",
+   "pt": "Os vestígios parecem ser dos últimos três meses.",
+   "score": 0.212,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1777.89,
+   "t1": 1779.15,
+   "en": "It makes sense now.",
+   "pt": "Os vestígios parecem ser dos últimos três meses.",
+   "score": 0.246,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1779.57,
+   "t1": 1783.19,
+   "en": "The ritual seal was broken and it released your son's wraith.",
+   "pt": "Agora entendi. Alguém danificou o redor de supressão e fez o fantasma aparecer.",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1789.96,
+   "t1": 1792.12,
+   "en": "Whoever took my child's skull.",
+   "pt": "A pessoa que roubou seu crânio, eu farei que pague dez vezes mais.",
+   "score": 0.172,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1792.67,
+   "t1": 1795.68,
+   "en": "I will hunt them and they will suffer.",
+   "pt": "A pessoa que roubou seu crânio, eu farei que pague dez vezes mais.",
+   "score": 0.079,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1799.02,
+   "t1": 1802.11,
+   "en": "The blood I share will find them.",
+   "pt": "Traçar a genealogia.",
+   "score": 0.235,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1811.06,
+   "t1": 1811.72,
+   "en": "Me?",
+   "pt": "Eu?",
+   "score": 0.5,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1829.06,
+   "t1": 1831.35,
+   "en": "Professor Azik, what are you doing?",
+   "pt": "Professor Azeke, o que está fazendo?",
+   "score": 0.597,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1862.21,
+   "t1": 1863.46,
+   "en": "It can't be found.",
+   "pt": "Não é possível rastrear.",
+   "score": 0.1,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1867.98,
+   "t1": 1873.15,
+   "en": "Although, I felt that erratic power again, the disharmony resting your fate.",
+   "pt": "E eu senti mais uma vez esse poder errático no seu destino.",
+   "score": 0.351,
+   "overlap": 0.87,
+   "anchors": []
+  },
+  {
+   "t0": 1874.49,
+   "t1": 1876.57,
+   "en": "So that's why his spell crept onto me.",
+   "pt": "Neste poder é grande demais.",
+   "score": 0.219,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1877.42,
+   "t1": 1880.01,
+   "en": "That power is quite profound.",
+   "pt": "Mas tudo bem. Vou encontrá-lo. Talvez seja útil para você.",
+   "score": 0.145,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1880.75,
+   "t1": 1883.77,
+   "en": "I assure you, when we'll find the culprit,",
+   "pt": "Mas tudo bem. Vou encontrá-lo. Talvez seja útil para você.",
+   "score": 0.337,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1907.39,
+   "t1": 1908.71,
+   "en": "How do you feel?",
+   "pt": "Talvez eu seja alguém que viveu há muito tempo.",
+   "score": 0.164,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1908.79,
+   "t1": 1911.54,
+   "en": "Do you remember who you are?",
+   "pt": "Talvez eu seja alguém que viveu há muito tempo.",
+   "score": 0.137,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1913.16,
+   "t1": 1914.86,
+   "en": "I've regained memories.",
+   "pt": "Ah!",
+   "score": 0.083,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1915.13,
+   "t1": 1916.88,
+   "en": "The rest is a black void.",
+   "pt": "Talvez tenha laços com a morte.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1918.28,
+   "t1": 1922.4,
+   "en": "It's possible I'm someone who's lived a very long life.",
+   "pt": "Após algumas décadas, eu caio em sono profundo.",
+   "score": 0.222,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1924.04,
+   "t1": 1926.78,
+   "en": "The word \"someone\" feels a little bit casual here.",
+   "pt": "Sem o meu nome, tenho conhecimentos básicos.",
+   "score": 0.36,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1927.49,
+   "t1": 1930.74,
+   "en": "Every few decades, I fall into a deep slumber.",
+   "pt": "Um documento de identificação.",
+   "score": 0.274,
+   "overlap": 0.92,
+   "anchors": []
+  },
+  {
+   "t0": 1930.81,
+   "t1": 1933.06,
+   "en": "But then I wake, and my memories are gone.",
+   "pt": "Então eu começo a sonhar.",
+   "score": 0.312,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1933.78,
+   "t1": 1936.59,
+   "en": "I retain only my name, some basic knowledge.",
+   "pt": "Ela adora o balanço que eu fiz para ela.",
+   "score": 0.272,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 1936.94,
+   "t1": 1938.51,
+   "en": "The rest is lost to me.",
+   "pt": "Ela adora o balanço que eu fiz para ela.",
+   "score": 0.164,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1940.26,
+   "t1": 1943.53,
+   "en": "After a time, the dreams begin.",
+   "pt": "Às vezes, sou um senhor feudal com uma bela esposa e três filhos.",
+   "score": 0.261,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1944.34,
+   "t1": 1946.01,
+   "en": "Sometimes I have a daughter.",
+   "pt": "Como eu amo a minha família.",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1946.54,
+   "t1": 1948.68,
+   "en": "She adores the swing I crafted for her.",
+   "pt": "Mas eu sempre os machuco no fim.",
+   "score": 0.319,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1949.75,
+   "t1": 1954.18,
+   "en": "In other dreams, I'm a feudal lord with a beautiful wife and three children.",
+   "pt": "Mas eu sempre os machuco no fim.",
+   "score": 0.171,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 1955.12,
+   "t1": 1957.17,
+   "en": "I always loved my family,",
+   "pt": "Na verdade, não são sonhos.",
+   "score": 0.245,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1957.45,
+   "t1": 1959.81,
+   "en": "but I'm doomed to always hurt them in the end.",
+   "pt": "Na verdade, não são sonhos.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1962.8,
+   "t1": 1966.76,
+   "en": "Every dream concludes with my forlorn departure.",
+   "pt": "talvez por causa da dor da separação que marcou o minha alma,",
+   "score": 0.336,
+   "overlap": 0.76,
+   "anchors": []
+  },
+  {
+   "t0": 1969.14,
+   "t1": 1974.13,
+   "en": "Now I know, they aren't dreams, but shards of past lives.",
+   "pt": "Mas eu sempre os machuco no fim.",
+   "score": 0.118,
+   "overlap": 0.8,
+   "anchors": []
+  },
+  {
+   "t0": 1976.48,
+   "t1": 1979.12,
+   "en": "Eventually, I surrendered warmth",
+   "pt": "Vou do sonho sempre e termina comigo sozinho.",
+   "score": 0.32,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1979.14,
+   "t1": 1982.89,
+   "en": "to the heartache deep in my soul, and I never sought love again.",
+   "pt": "Na verdade, não são sonhos.",
+   "score": 0.161,
+   "overlap": 0.8,
+   "anchors": []
+  },
+  {
+   "t0": 1982.94,
+   "t1": 1986.78,
+   "en": "These lives I don't remember, save for grief and solitude.",
+   "pt": "eu não consigo contar nem quantas vidas eu vivi.",
+   "score": 0.155,
+   "overlap": 0.85,
+   "anchors": []
+  },
+  {
+   "t0": 1988.4,
+   "t1": 1992.02,
+   "en": "Joy is fleeting, but loneliness lingers.",
+   "pt": "A alegria é fêmera, mas a solidão persiste.",
+   "score": 0.304,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1992.12,
+   "t1": 1995.72,
+   "en": "Is that hollow pain the sole constant in a timeless life?",
+   "pt": "Este é o preço por uma vida longa.",
+   "score": 0.112,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 1996.19,
+   "t1": 1997.5,
+   "en": "I'm in your debt, Klein.",
+   "pt": "Este é o preço por uma vida longa.",
+   "score": 0.327,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 1997.52,
+   "t1": 1998.32,
+   "en": "Truly.",
+   "pt": "Muito obrigado por isso, Klein, por ter me ajudado com as lembranças.",
+   "score": 0.113,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1998.85,
+   "t1": 2000.33,
+   "en": "You've helped me immensely.",
+   "pt": "Muito obrigado por isso, Klein, por ter me ajudado com as lembranças.",
+   "score": 0.261,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2000.67,
+   "t1": 2001.58,
+   "en": "So thank you.",
+   "pt": "Muito obrigado por isso, Klein, por ter me ajudado com as lembranças.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2008.6,
+   "t1": 2010.78,
+   "en": "You can't imagine what it's like.",
+   "pt": "Você nunca será capaz",
+   "score": 0.226,
+   "overlap": 0.92,
+   "anchors": []
+  },
+  {
+   "t0": 2010.83,
+   "t1": 2014.18,
+   "en": "The turmoil inflicted on a man living without a past.",
+   "pt": "de imaginar o estado mental de alguém sem passado",
+   "score": 0.297,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2014.34,
+   "t1": 2016.3,
+   "en": "Like a ship lost at sea.",
+   "pt": "de imaginar o estado mental de alguém sem passado",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2016.67,
+   "t1": 2019.39,
+   "en": "Forever adrift with no shoreline in sight.",
+   "pt": "sem pré-deriva, sem fim à vista.",
+   "score": 0.338,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2020.03,
+   "t1": 2023.09,
+   "en": "Only now, I have a compass to lead me.",
+   "pt": "Agora, eu finalmente vejo um caminho.",
+   "score": 0.282,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2034.89,
+   "t1": 2037.04,
+   "en": "He'll never know how much I can empathize.",
+   "pt": "Eu entendi agora, professor Azek.",
+   "score": 0.278,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2038.63,
+   "t1": 2042.22,
+   "en": "I'm also a stray ship unmoored in this world.",
+   "pt": "Nesse mundo, também sou um barco solitário.",
+   "score": 0.282,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2042.92,
+   "t1": 2045.41,
+   "en": "My life, my family are behind me.",
+   "pt": "Não sei quando seri capaz de ver meus pais,",
+   "score": 0.219,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2045.66,
+   "t1": 2046.64,
+   "en": "Maybe for good.",
+   "pt": "ou voltar para casa.",
+   "score": 0.182,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2056.38,
+   "t1": 2059.5,
+   "en": "But thankfully, I do have Benson and Melissa.",
+   "pt": "Por sorte, ainda tenho benção em a melissa.",
+   "score": 0.476,
+   "overlap": 1.0,
+   "anchors": [
+    "benson",
+    "melissa"
+   ]
+  },
+  {
+   "t0": 2060.42,
+   "t1": 2062.21,
+   "en": "I can return to this safe harbour.",
+   "pt": "Tenho um porto seguro onde posso encontrar a paz,",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2063.42,
+   "t1": 2067.9,
+   "en": "But this still isn't my life, and I will leave someday.",
+   "pt": "mas, no fim, eu não sou Klein.",
+   "score": 0.225,
+   "overlap": 0.67,
+   "anchors": []
+  },
+  {
+   "t0": 2070.23,
+   "t1": 2074.59,
+   "en": "If my fate is to leave, I won't waste these days as Klein.",
+   "pt": "então, nesses dias que viverei como Klein,",
+   "score": 0.333,
+   "overlap": 0.69,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 2075.12,
+   "t1": 2076.99,
+   "en": "I'll spend more time with the two of them.",
+   "pt": "passarei mais tempo com benção e melissa.",
+   "score": 0.247,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2078.8,
+   "t1": 2080.47,
+   "en": "I'll cherish our time together,",
+   "pt": "Celebrarei o tempo que passamos juntos,",
+   "score": 0.294,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2081.21,
+   "t1": 2083.98,
+   "en": "and I'll make sure I have memories to hold on to.",
+   "pt": "e criarei memórias o bastante para ter saudade.",
+   "score": 0.383,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 2085.3,
+   "t1": 2086.05,
+   "en": "I'm home.",
+   "pt": "e criarei memórias o bastante para ter saudade.",
+   "score": 0.148,
+   "overlap": 1.0,
+   "anchors": []
+  }
+ ],
+ "lexicon": {
+  "beyonders": "beyonder"
+ }
+}

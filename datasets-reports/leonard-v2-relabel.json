@@ -1,0 +1,829 @@
+{
+ "ep12-00522.wav": {
+  "ep": 12,
+  "start": 522,
+  "janela": [
+   520.0,
+   539.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A pista que encontraram com Rudi Aldin levantou suspeitas de | A pista que encontraram com Rudi Aldin levantou suspeitas de | Sírios tinha contato com muitos moradores da Rua Raul Smith.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.143,
+    "AUDREY": 0.34
+   }
+  }
+ },
+ "ep12-00530.wav": {
+  "ep": 12,
+  "start": 530,
+  "janela": [
+   528.0,
+   547.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Sírios tinha contato com muitos moradores da Rua Raul Smith. | Um senhor ao ver a foto de Lanevos o identificou como morado | Um senhor ao ver a foto de Lanevos o identificou como morado",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.122,
+    "AUDREY": 0.264
+   }
+  }
+ },
+ "ep12-00537.wav": {
+  "ep": 12,
+  "start": 537,
+  "janela": [
+   535.0,
+   554.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Mas ele não volta há muito tempo. | Eu suspeito que haja uma sala secreta.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.181,
+    "AUDREY": 0.267
+   }
+  }
+ },
+ "ep12-00655.wav": {
+  "ep": 12,
+  "start": 655,
+  "janela": [
+   653.0,
+   672.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Eu nunca ouvi falar de uma bomba que fica mais forte com o t | Talvez seja um ritual maligno que acumula poder. | Eu concordo com você.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.376,
+    "AUDREY": 0.312
+   }
+  }
+ },
+ "ep12-00671.wav": {
+  "ep": 12,
+  "start": 671,
+  "janela": [
+   669.0,
+   688.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O ressentimento que La Neve descreveu pode ser a fonte do po | O ressentimento que La Neve descreveu pode ser a fonte do po | O ressentimento que La Neve descreveu pode ser a fonte do po",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.17,
+    "AUDREY": 0.302
+   }
+  }
+ },
+ "ep12-01360.wav": {
+  "ep": 12,
+  "start": 1360,
+  "janela": [
+   1358.0,
+   1377.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O Sr. Lannevo teve um imprevisto e precisou deixar Tindien. | O Sr. Lannevo teve um imprevisto e precisou deixar Tindien. | Quando ele resolver o problema, ele voltará. Por vocês dois.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.158,
+    "AUDREY": 0.246
+   }
+  }
+ },
+ "ep12-01365.wav": {
+  "ep": 12,
+  "start": 1365,
+  "janela": [
+   1363.0,
+   1382.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O Sr. Lannevo teve um imprevisto e precisou deixar Tindien. | Quando ele resolver o problema, ele voltará. Por vocês dois. | Quando ele resolver o problema, ele voltará. Por vocês dois.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.14,
+    "AUDREY": 0.281
+   }
+  }
+ },
+ "ep5-01049.wav": {
+  "ep": 5,
+  "start": 1049,
+  "janela": [
+   1047.0,
+   1066.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A polícia informou que o número de mortes nessa quinzena | A polícia informou que o número de mortes nessa quinzena | O quintoplo?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.082,
+    "AUDREY": 0.236
+   }
+  }
+ },
+ "ep5-01057.wav": {
+  "ep": 5,
+  "start": 1057,
+  "janela": [
+   1055.0,
+   1074.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Em sua maioria, trabalhadores de baixa renda e pessoas sem t | O quintoplo? | O quintoplo?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.158,
+    "AUDREY": 0.246
+   }
+  }
+ },
+ "ep5-01078.wav": {
+  "ep": 5,
+  "start": 1078,
+  "janela": [
+   1076.0,
+   1095.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Gente na extrema pobreza ou com enfermidades. | Uma vez doente, é difícil escapar da morte. | Gente na extrema pobreza ou com enfermidades.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.053,
+    "AUDREY": 0.309
+   }
+  }
+ },
+ "ep5-01181.wav": {
+  "ep": 5,
+  "start": 1181,
+  "janela": [
+   1179.0,
+   1198.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "todas essas vítimas morreriam em pouco tempo. | Mas seu tempo de vida foi encurtado breve e forçosamente. | Mas seu tempo de vida foi encurtado breve e forçosamente.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.093,
+    "AUDREY": 0.298
+   }
+  }
+ },
+ "ep5-01186.wav": {
+  "ep": 5,
+  "start": 1186,
+  "janela": [
+   1184.0,
+   1203.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "tingen"
+  ],
+  "pt": "Mas seu tempo de vida foi encurtado breve e forçosamente. | Eu suspeito que esses incidentes tenham sido | usurpação da vida.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.155,
+    "AUDREY": 0.219
+   }
+  }
+ },
+ "ep5-01191.wav": {
+  "ep": 5,
+  "start": 1191,
+  "janela": [
+   1189.0,
+   1208.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "tingen"
+  ],
+  "pt": "usurpação da vida. | Se o objetivo é usar vidas para invocar deuses ou demônios m | ou realizar uma maldição grande e terrível.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.169,
+    "AUDREY": 0.28
+   }
+  }
+ },
+ "ep5-01208.wav": {
+  "ep": 5,
+  "start": 1208,
+  "janela": [
+   1206.0,
+   1225.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Momentos assim fazem a roda do destino girar. | Ah, descarado. | Já viveu alguma aventura extraordinária para a protagonista?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.212,
+    "AUDREY": 0.374
+   }
+  }
+ },
+ "ep5-01224.wav": {
+  "ep": 5,
+  "start": 1224,
+  "janela": [
+   1222.0,
+   1241.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "você continuará sendo o meu colega. | E espero que me veja dando um abraço. | De fato, isso se encaixa com usurpação da vida.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.417,
+    "AUDREY": 0.282
+   }
+  }
+ },
+ "ep5-01227.wav": {
+  "ep": 5,
+  "start": 1227,
+  "janela": [
+   1225.0,
+   1244.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "E espero que me veja dando um abraço. | De fato, isso se encaixa com usurpação da vida. | De fato, isso se encaixa com usurpação da vida.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.163,
+    "AUDREY": 0.223
+   }
+  }
+ },
+ "ep5-01299.wav": {
+  "ep": 5,
+  "start": 1299,
+  "janela": [
+   1297.0,
+   1316.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Os primeiros alvos do criminoso certamente estão longe da ár | Isso vem do seu instinto de preservação. | Isso vem do seu instinto de preservação.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.121,
+    "AUDREY": 0.249
+   }
+  }
+ },
+ "ep5-01305.wav": {
+  "ep": 5,
+  "start": 1305,
+  "janela": [
+   1303.0,
+   1322.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Então, se isolarmos os lugares onde as mortes aumentaram nos | Então, se isolarmos os lugares onde as mortes aumentaram nos | podemos restringir nossa busca à zona industrial sul",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.663,
+    "AUDREY": 0.219
+   }
+  }
+ },
+ "ep5-01308.wav": {
+  "ep": 5,
+  "start": 1308,
+  "janela": [
+   1306.0,
+   1325.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Então, se isolarmos os lugares onde as mortes aumentaram nos | podemos restringir nossa busca à zona industrial sul | e ao distrito oeste.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.19,
+    "AUDREY": 0.307
+   }
+  }
+ },
+ "ep5-01313.wav": {
+  "ep": 5,
+  "start": 1313,
+  "janela": [
+   1311.0,
+   1330.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "e ao distrito oeste. | É bem aqui. Eu tenho certeza. | Bom trabalho.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.247,
+    "AUDREY": 0.319
+   }
+  }
+ },
+ "ep5-01780.wav": {
+  "ep": 5,
+  "start": 1780,
+  "janela": [
+   1778.0,
+   1797.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Era ela? Será que... | Era ela? Será que... | Essa mulher Beyonder se parece muito contrês.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.186,
+    "AUDREY": 0.248
+   }
+  }
+ },
+ "ep5-01803.wav": {
+  "ep": 5,
+  "start": 1803,
+  "janela": [
+   1801.0,
+   1820.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Não. Ele se tornou mulher. | Não. Ele se tornou mulher. | Bem na mosca. Isso explicaria o súbito desaparecimento de Tr",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.045,
+    "AUDREY": 0.255
+   }
+  }
+ },
+ "ep7-00220.wav": {
+  "ep": 7,
+  "start": 220,
+  "janela": [
+   218.0,
+   237.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Ah, amanhã de um dia de trabalho traz alegria e satisfação. | E tudo isso se mistura e vira poemas em meu coração. | É melhor você não escrever poemas.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.143,
+    "AUDREY": 0.313
+   }
+  }
+ },
+ "ep7-00224.wav": {
+  "ep": 7,
+  "start": 224,
+  "janela": [
+   222.0,
+   241.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Ah, amanhã de um dia de trabalho traz alegria e satisfação. | E tudo isso se mistura e vira poemas em meu coração. | É melhor você não escrever poemas.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.039,
+    "AUDREY": 0.337
+   }
+  }
+ },
+ "ep7-00289.wav": {
+  "ep": 7,
+  "start": 289,
+  "janela": [
+   287.0,
+   306.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "chanis gate"
+  ],
+  "anchors": [
+   "chanis gate"
+  ],
+  "pt": "Difícil distinguir os dois. | é melhor ficarmos de olhos bem abertos. | é melhor ficarmos de olhos bem abertos.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.286,
+    "AUDREY": 0.352
+   }
+  }
+ },
+ "ep7-00481.wav": {
+  "ep": 7,
+  "start": 481,
+  "janela": [
+   479.0,
+   498.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Sumiram sem deixar rastros. | Sem abrigo na chuva tomados pelo frio. | De amor foi seu estio.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.102,
+    "AUDREY": 0.254
+   }
+  }
+ },
+ "ep7-00523.wav": {
+  "ep": 7,
+  "start": 523,
+  "janela": [
+   521.0,
+   540.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Magia ritualística é muito perigosa. | Magia ritualística é muito perigosa. | Nenhuma normalidade depois do recital.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.092,
+    "AUDREY": 0.308
+   }
+  }
+ },
+ "ep7-00535.wav": {
+  "ep": 7,
+  "start": 535,
+  "janela": [
+   533.0,
+   552.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Esse é o procedimento padrão, entendeu? | Esse é o procedimento padrão, entendeu? | Segundo sua descrição,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.176,
+    "AUDREY": 0.223
+   }
+  }
+ },
+ "ep7-00540.wav": {
+  "ep": 7,
+  "start": 540,
+  "janela": [
+   538.0,
+   557.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Segundo sua descrição, | Mas ele nunca exibiu características de vida nas décadas que | Ele ganhar vida agora.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.237,
+    "AUDREY": 0.307
+   }
+  }
+ },
+ "ep7-01421.wav": {
+  "ep": 7,
+  "start": 1421,
+  "janela": [
+   1419.0,
+   1438.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Não vai ter uma próxima. | Eu sinto que você tem um laço com os Beyonders | e essas forças do mal.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.065,
+    "AUDREY": 0.186
+   }
+  }
+ },
+ "ep7-01462.wav": {
+  "ep": 7,
+  "start": 1462,
+  "janela": [
+   1460.0,
+   1479.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus",
+   "clown",
+   "klein",
+   "seer"
+  ],
+  "anchors": [
+   "antigonus",
+   "clown",
+   "klein",
+   "seer"
+  ],
+  "pt": "Eu espero que essas anotações cheguem a vocês de maneira ráp | Eu espero que essas anotações cheguem a vocês de maneira ráp | Não encontramos nada de valor no caderno da família antigo",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.285,
+    "AUDREY": 0.324
+   }
+  }
+ },
+ "ep7-01472.wav": {
+  "ep": 7,
+  "start": 1472,
+  "janela": [
+   1470.0,
+   1489.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "backlund",
+   "clown",
+   "klein",
+   "seer"
+  ],
+  "anchors": [
+   "backlund",
+   "clown",
+   "klein",
+   "seer"
+  ],
+  "pt": "Não encontramos nada de valor no caderno da família antigo | nos além das receitas de poções que eu já forneci. | Infelizmente, a comunicação se encerrou e não consegui mais ",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.306,
+    "AUDREY": 0.217
+   }
+  }
+ },
+ "ep7-01492.wav": {
+  "ep": 7,
+  "start": 1492,
+  "janela": [
+   1490.0,
+   1509.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "seer"
+  ],
+  "anchors": [
+   "seer"
+  ],
+  "pt": "A família antigo nos deve ter deixado para trás algum tesour | A família antigo nos deve ter deixado para trás algum tesour | Dado que é um grupo que domina o caminho do vidente,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.124,
+    "AUDREY": 0.36
+   }
+  }
+ },
+ "ep7-01496.wav": {
+  "ep": 7,
+  "start": 1496,
+  "janela": [
+   1494.0,
+   1513.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "seer"
+  ],
+  "anchors": [
+   "seer"
+  ],
+  "pt": "A família antigo nos deve ter deixado para trás algum tesour | Dado que é um grupo que domina o caminho do vidente, | eles devem ter previsto a própria destruição.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.129,
+    "AUDREY": 0.3
+   }
+  }
+ },
+ "ep7-01502.wav": {
+  "ep": 7,
+  "start": 1502,
+  "janela": [
+   1500.0,
+   1519.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "eles devem ter previsto a própria destruição. | Há razões suficientes para acreditar que este tesouro está e | Há razões suficientes para acreditar que este tesouro está e",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.144,
+    "AUDREY": 0.276
+   }
+  }
+ },
+ "ep7-01505.wav": {
+  "ep": 7,
+  "start": 1505,
+  "janela": [
+   1503.0,
+   1522.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "tingen"
+  ],
+  "pt": "Há razões suficientes para acreditar que este tesouro está e | Há razões suficientes para acreditar que este tesouro está e | nas montanhas ornaces, nas ruínas da nação da noite eterna.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.418,
+    "AUDREY": 0.274
+   }
+  }
+ },
+ "ep7-01515.wav": {
+  "ep": 7,
+  "start": 1515,
+  "janela": [
+   1513.0,
+   1532.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "tingen"
+  ],
+  "pt": "Finalmente, respeitável, Senhor Hase. | Espero contar com a Sua ajuda. | Quando o dia do juízo final chegar,",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.72,
+    "AUDREY": 0.247
+   }
+  }
+ },
+ "ep8-00755.wav": {
+  "ep": 8,
+  "start": 755,
+  "janela": [
+   753.0,
+   772.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Deixe-me ser agocêntrico. | O que é que está acontecendo? | O que é que está acontecendo?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.122,
+    "AUDREY": 0.262
+   }
+  }
+ },
+ "ep8-00827.wav": {
+  "ep": 8,
+  "start": 827,
+  "janela": [
+   825.0,
+   844.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Podem ficar tranquilos, nós somos profissionais. | Para este exorcismo, nos preparamos com | Para este exorcismo, nos preparamos com",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.029,
+    "AUDREY": 0.194
+   }
+  }
+ },
+ "ep8-00962.wav": {
+  "ep": 8,
+  "start": 962,
+  "janela": [
+   960.0,
+   979.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Novada seja a deusa. | Agora, nosso exorcista vai começar o ritual oficialmente. | Ele vai purificar os espíritos malignos.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.044,
+    "AUDREY": 0.188
+   }
+  }
+ },
+ "ep8-01273.wav": {
+  "ep": 8,
+  "start": 1273,
+  "janela": [
+   1271.0,
+   1290.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Por enquanto é só. | Por enquanto é só. | enquanto os outros descansam e se recuperam.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.178,
+    "AUDREY": 0.351
+   }
+  }
+ }
+}

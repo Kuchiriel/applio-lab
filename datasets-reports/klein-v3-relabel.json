@@ -1,0 +1,1974 @@
+{
+ "ep10-00265.wav": {
+  "ep": 10,
+  "start": 265,
+  "janela": [
+   263.0,
+   282.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "E agora, se quem está tramando tudo, eu voltará a agir e eu  | E agora, se quem está tramando tudo, eu voltará a agir e eu  | Ué, o que é isso?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.19,
+    "AUDREY": 0.198
+   }
+  }
+ },
+ "ep10-00384.wav": {
+  "ep": 10,
+  "start": 384,
+  "janela": [
+   382.0,
+   401.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Entendido, capitão. | Entendido, capitão. | O capitão está certo. É hora de me reerguer.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.411,
+    "AUDREY": 0.224
+   }
+  }
+ },
+ "ep10-00918.wav": {
+  "ep": 10,
+  "start": 918,
+  "janela": [
+   916.0,
+   935.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "daly",
+   "spirituality"
+  ],
+  "anchors": [
+   "daly",
+   "spirituality"
+  ],
+  "pt": "Ora Combina. | Ora Combina. | Númeras informações.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.112,
+    "AUDREY": 0.275
+   }
+  }
+ },
+ "ep10-00923.wav": {
+  "ep": 10,
+  "start": 923,
+  "janela": [
+   921.0,
+   940.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "daly",
+   "spirituality"
+  ],
+  "anchors": [
+   "daly",
+   "spirituality"
+  ],
+  "pt": "Ora Combina. | Ora Combina. | Númeras informações.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.105,
+    "AUDREY": 0.204
+   }
+  }
+ },
+ "ep10-01023.wav": {
+  "ep": 10,
+  "start": 1023,
+  "janela": [
+   1021.0,
+   1040.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Golpista! Será o sequência 8 do caminho do ladrão, o vigaris | Golpista! Será o sequência 8 do caminho do ladrão, o vigaris | Golpista! Será o sequência 8 do caminho do ladrão, o vigaris",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.13,
+    "AUDREY": 0.301
+   }
+  }
+ },
+ "ep10-01413.wav": {
+  "ep": 10,
+  "start": 1413,
+  "janela": [
+   1411.0,
+   1430.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O responsável era um vereador muito respeitado. | O candidato a prefeito, o John Maenar. | No momento ele é o alvo principal da minha investigação.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.049,
+    "AUDREY": 0.267
+   }
+  }
+ },
+ "ep10-01435.wav": {
+  "ep": 10,
+  "start": 1435,
+  "janela": [
+   1433.0,
+   1452.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder",
+   "madam sharon"
+  ],
+  "anchors": [
+   "beyonder",
+   "madam sharon"
+  ],
+  "pt": "Estão interferindo na minha investigação. | Estão interferindo na minha investigação. | A senhora Sharon é uma biônder.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.049,
+    "AUDREY": 0.272
+   }
+  }
+ },
+ "ep10-01471.wav": {
+  "ep": 10,
+  "start": 1471,
+  "janela": [
+   1469.0,
+   1488.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "Não tenho informações suficientes. | Não tenho como confirmar mais nada. | Quantas vezes já interferiram?",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.309,
+    "AUDREY": 0.289
+   }
+  }
+ },
+ "ep10-01474.wav": {
+  "ep": 10,
+  "start": 1474,
+  "janela": [
+   1472.0,
+   1491.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Não tenho como confirmar mais nada. | Quantas vezes já interferiram? | A senhora Sharon é uma biônder.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.618,
+    "AUDREY": 0.28
+   }
+  }
+ },
+ "ep11-00421.wav": {
+  "ep": 11,
+  "start": 421,
+  "janela": [
+   419.0,
+   438.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "madam sharon"
+  ],
+  "anchors": [
+   "madam sharon"
+  ],
+  "pt": "Falhou? | Foi a interferência da senhora Sharon? | Aqui é Blackthorn?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.184,
+    "AUDREY": 0.359
+   }
+  }
+ },
+ "ep11-00762.wav": {
+  "ep": 11,
+  "start": 762,
+  "janela": [
+   760.0,
+   779.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A Senhora Sharon pode ter notado que a Siki | A Senhora Sharon pode ter notado que a Siki | Tenho que lembrar do que a Senhora Itadari disse.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.44,
+    "AUDREY": 0.249
+   }
+  }
+ },
+ "ep11-00887.wav": {
+  "ep": 11,
+  "start": 887,
+  "janela": [
+   885.0,
+   904.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Eu vi um estátua da demônia primordial. | Eu vi um estátua da demônia primordial. | Diga ao Frye para cobrir a guarda do portão de Shanice.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.341,
+    "AUDREY": 0.352
+   }
+  }
+ },
+ "ep12-00362.wav": {
+  "ep": 12,
+  "start": 362,
+  "janela": [
+   360.0,
+   379.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "daly"
+  ],
+  "anchors": [
+   "daly"
+  ],
+  "pt": "Só vocês podem me ajudar. | A razão para a normalidade de vida é que o professor Azek e  | A razão para a normalidade de vida é que o professor Azek e ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.198,
+    "AUDREY": 0.269
+   }
+  }
+ },
+ "ep12-00412.wav": {
+  "ep": 12,
+  "start": 412,
+  "janela": [
+   410.0,
+   429.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "E se eu tentar adivinhar sobre minha própria segurança? | A normalidade de Dan Smith vai me colocar em perigo? | É isso.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.153,
+    "AUDREY": 0.12
+   }
+  }
+ },
+ "ep12-00545.wav": {
+  "ep": 12,
+  "start": 545,
+  "janela": [
+   543.0,
+   562.0
+  ],
+  "veredito": "VAZIO",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.076,
+    "AUDREY": 0.134
+   }
+  }
+ },
+ "ep12-00746.wav": {
+  "ep": 12,
+  "start": 746,
+  "janela": [
+   744.0,
+   763.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O problema mental dela está piorando. | Da outra vez, não tive tempo de usar a visão espiritual. | Não olhe.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.268,
+    "AUDREY": 0.287
+   }
+  }
+ },
+ "ep12-01026.wav": {
+  "ep": 12,
+  "start": 1026,
+  "janela": [
+   1024.0,
+   1043.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Considerando o altar no mundo mental de Rudeldin | e a divindade que Lanervos prometeu, | eu suspeito que o que negoz e carrega no ventre seja",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.037,
+    "AUDREY": 0.237
+   }
+  }
+ },
+ "ep12-01030.wav": {
+  "ep": 12,
+  "start": 1030,
+  "janela": [
+   1028.0,
+   1047.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "eu suspeito que o que negoz e carrega no ventre seja | o corpo do verdadeiro criador. | É por isso que o senhor Havre, quer estar seguindo,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.153,
+    "AUDREY": 0.21
+   }
+  }
+ },
+ "ep12-01039.wav": {
+  "ep": 12,
+  "start": 1039,
+  "janela": [
+   1037.0,
+   1056.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "É por isso que o senhor Havre, quer estar seguindo, | Talvez o senhor Anil tenha sido influenciado. | negoz e bate a nossa porta.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.463,
+    "AUDREY": 0.286
+   }
+  }
+ },
+ "ep12-01102.wav": {
+  "ep": 12,
+  "start": 1102,
+  "janela": [
+   1100.0,
+   1119.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Óbes do capitão, é uma emergência. | Óbes do capitão, é uma emergência. | Todos os civis devem evacuar.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.491,
+    "AUDREY": 0.273
+   }
+  }
+ },
+ "ep4-00306.wav": {
+  "ep": 4,
+  "start": 306,
+  "janela": [
+   304.0,
+   323.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Com licença, senhor. Creio que essa carteira seja minha. | E agora? | A Deusa não faria negar que a carteira do figurão ou que lhe",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.136,
+    "AUDREY": 0.242
+   }
+  }
+ },
+ "ep4-00360.wav": {
+  "ep": 4,
+  "start": 360,
+  "janela": [
+   358.0,
+   377.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "seer"
+  ],
+  "anchors": [
+   "seer"
+  ],
+  "pt": "Senhor, tem interesse por a divinhação? | O diário do Imperador Rosel dizia que a chave para as poções | O lema dos intromissores de mistérios parece ensinar a atuaç",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.154,
+    "AUDREY": 0.065
+   }
+  }
+ },
+ "ep4-00410.wav": {
+  "ep": 4,
+  "start": 410,
+  "janela": [
+   408.0,
+   427.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "seer"
+  ],
+  "anchors": [
+   "seer"
+  ],
+  "pt": "Obrigado. Aqui está o pagamento. | Obrigado. Aqui está o pagamento. | Me juntar a esse local me ajudaria a melhorar minha atuação ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.051,
+    "AUDREY": 0.21
+   }
+  }
+ },
+ "ep4-00506.wav": {
+  "ep": 4,
+  "start": 506,
+  "janela": [
+   504.0,
+   523.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A adivinhação com espelho assim é segura. | que dê uma olhada no medidor de gás dele qualquer noite. | que dê uma olhada no medidor de gás dele qualquer noite.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.07,
+    "AUDREY": 0.21
+   }
+  }
+ },
+ "ep4-00668.wav": {
+  "ep": 4,
+  "start": 668,
+  "janela": [
+   666.0,
+   685.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder",
+   "clown"
+  ],
+  "pt": "Minha segunda opção é corrigir as descrições no ritual de au | Minha segunda opção é corrigir as descrições no ritual de au | Minha segunda opção é corrigir as descrições no ritual de au",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.284,
+    "AUDREY": 0.277
+   }
+  }
+ },
+ "ep4-00676.wav": {
+  "ep": 4,
+  "start": 676,
+  "janela": [
+   674.0,
+   693.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder",
+   "clown"
+  ],
+  "pt": "Minha segunda opção é corrigir as descrições no ritual de au | Minha segunda opção é corrigir as descrições no ritual de au | Minha segunda opção é corrigir as descrições no ritual de au",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.187,
+    "AUDREY": 0.406
+   }
+  }
+ },
+ "ep4-00856.wav": {
+  "ep": 4,
+  "start": 856,
+  "janela": [
+   854.0,
+   873.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder",
+   "justice",
+   "spectator"
+  ],
+  "anchors": [
+   "beyonder",
+   "justice",
+   "spectator"
+  ],
+  "pt": "E obrigada, senhor enforcado, por me tornar uma espectadora. | Enquanto a senhorita justiça é calma e serena como um lago. | Enquanto a senhorita justiça é calma e serena como um lago.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.534,
+    "AUDREY": 0.196
+   }
+  }
+ },
+ "ep4-00888.wav": {
+  "ep": 4,
+  "start": 888,
+  "janela": [
+   886.0,
+   905.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O olho sem pupila que representa a ocultação. | As torcidas que representam a mudança. | Mas ambas estão incompletas.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.318,
+    "AUDREY": 0.093
+   }
+  }
+ },
+ "ep4-01290.wav": {
+  "ep": 4,
+  "start": 1290,
+  "janela": [
+   1288.0,
+   1307.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "hanged man"
+  ],
+  "anchors": [
+   "hanged man",
+   "the fool"
+  ],
+  "pt": "Melissa. | Ter uma amiga obcecada pelo mundo do misticismo sem entendê- | Ter uma amiga obcecada pelo mundo do misticismo sem entendê-",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.211,
+    "AUDREY": 0.258
+   }
+  }
+ },
+ "ep4-01298.wav": {
+  "ep": 4,
+  "start": 1298,
+  "janela": [
+   1296.0,
+   1315.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "hanged man"
+  ],
+  "anchors": [
+   "hanged man",
+   "the fool"
+  ],
+  "pt": "O senhor Eforcado já começou a tentar sua magia ritualística | O senhor Eforcado já começou a tentar sua magia ritualística | Não esperava por isso.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.453,
+    "AUDREY": 0.233
+   }
+  }
+ },
+ "ep4-01507.wav": {
+  "ep": 4,
+  "start": 1507,
+  "janela": [
+   1505.0,
+   1524.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "evernight goddess",
+   "melissa"
+  ],
+  "anchors": [
+   "evernight goddess",
+   "melissa"
+  ],
+  "pt": "Troca. | Vai ser mais complicado do que eu pensei. | Não dá tempo de avisar o capitão.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.269,
+    "AUDREY": 0.288
+   }
+  }
+ },
+ "ep4-01866.wav": {
+  "ep": 4,
+  "start": 1866,
+  "janela": [
+   1864.0,
+   1883.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "benson",
+   "justice",
+   "melissa"
+  ],
+  "anchors": [
+   "benson",
+   "justice",
+   "melissa"
+  ],
+  "pt": "poderia ser dirigido a mim por meio da Nevocincenta. | E foi graças às preces da senhorita Justiça | que eu recopria a consciência e pude usar os poderes da Nevo",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.116,
+    "AUDREY": 0.196
+   }
+  }
+ },
+ "ep4-01879.wav": {
+  "ep": 4,
+  "start": 1879,
+  "janela": [
+   1877.0,
+   1896.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "benson",
+   "melissa"
+  ],
+  "anchors": [
+   "benson",
+   "melissa",
+   "seer"
+  ],
+  "pt": "que eu recopria a consciência e pude usar os poderes da Nevo | por mais que a atuação exige o contrário, | manterei minha identidade e dividendos em secreto da Melissa",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.25,
+    "AUDREY": 0.265
+   }
+  }
+ },
+ "ep4-01947.wav": {
+  "ep": 4,
+  "start": 1947,
+  "janela": [
+   1945.0,
+   1964.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus"
+  ],
+  "anchors": [
+   "antigonus"
+  ],
+  "pt": "Algo estranho sobre Renas Vincente. | Segundo Selena, o espelho mágico foi um presente dele. | Também suspeito que Vincent tenha laços com uma ordem malign",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.12,
+    "AUDREY": 0.224
+   }
+  }
+ },
+ "ep5-00922.wav": {
+  "ep": 5,
+  "start": 922,
+  "janela": [
+   920.0,
+   939.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Espere aqui. | As outras poções do caminho do assassino | parecem ser mais adequadas a mulheres.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.092,
+    "AUDREY": 0.152
+   }
+  }
+ },
+ "ep5-00971.wav": {
+  "ep": 5,
+  "start": 971,
+  "janela": [
+   969.0,
+   988.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Triss desapareceu do nada. | A polícia e as três principais agências de biôndas | A polícia e as três principais agências de biôndas",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.165,
+    "AUDREY": 0.139
+   }
+  }
+ },
+ "ep5-00997.wav": {
+  "ep": 5,
+  "start": 997,
+  "janela": [
+   995.0,
+   1014.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "benson",
+   "hanged man",
+   "melissa"
+  ],
+  "anchors": [
+   "benson",
+   "hanged man",
+   "melissa",
+   "tarot club"
+  ],
+  "pt": "Conta ao clube de Tarot, | desde que o teste com o honorífico | com três partes do louco funcionou e eu respondi,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.024,
+    "AUDREY": 0.298
+   }
+  }
+ },
+ "ep5-01005.wav": {
+  "ep": 5,
+  "start": 1005,
+  "janela": [
+   1003.0,
+   1022.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "benson",
+   "melissa"
+  ],
+  "anchors": [
+   "benson",
+   "melissa"
+  ],
+  "pt": "o senhor lhe forcado parece ter tido uma mudança de atitude. | Infelizmente, eu não consegui usar o poder da névoa cinzenta | Infelizmente, eu não consegui usar o poder da névoa cinzenta",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.045,
+    "AUDREY": 0.134
+   }
+  }
+ },
+ "ep5-01152.wav": {
+  "ep": 5,
+  "start": 1152,
+  "janela": [
+   1150.0,
+   1169.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "A senhora Lios tinha uma doença cardíaca grave. | Salos faliu há alguns meses e já falava de vingança e suicíd | Salos faliu há alguns meses e já falava de vingança e suicíd",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.079,
+    "AUDREY": 0.201
+   }
+  }
+ },
+ "ep5-01155.wav": {
+  "ep": 5,
+  "start": 1155,
+  "janela": [
+   1153.0,
+   1172.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Salos faliu há alguns meses e já falava de vingança e suicíd | Salos faliu há alguns meses e já falava de vingança e suicíd | Sidi é extremamente pobre e sem perspectiva de melhora.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.227,
+    "AUDREY": 0.206
+   }
+  }
+ },
+ "ep6-00125.wav": {
+  "ep": 6,
+  "start": 125,
+  "janela": [
+   123.0,
+   142.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "18 de agosto, a senhora Elisabeth veio atrás de interpretaçã | 18 de agosto, a senhora Elisabeth veio atrás de interpretaçã | Desde que voltou de Lamund, ela tem sido atormentada por pes",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.129,
+    "AUDREY": 0.227
+   }
+  }
+ },
+ "ep6-00128.wav": {
+  "ep": 6,
+  "start": 128,
+  "janela": [
+   126.0,
+   145.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "18 de agosto, a senhora Elisabeth veio atrás de interpretaçã | Desde que voltou de Lamund, ela tem sido atormentada por pes | Em seus sonhos, eu vi um velho castelo abandonado e um fanta",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.18,
+    "AUDREY": 0.226
+   }
+  }
+ },
+ "ep6-00146.wav": {
+  "ep": 6,
+  "start": 146,
+  "janela": [
+   144.0,
+   163.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Capitão, tem um fantasma no castelo. | Capitão, tem um fantasma no castelo. | Fantasmas capazes de perturbar sonhos têm força fora do comu",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.25,
+    "AUDREY": 0.088
+   }
+  }
+ },
+ "ep6-00401.wav": {
+  "ep": 6,
+  "start": 401,
+  "janela": [
+   399.0,
+   418.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O professor mais respeitado do Clain é um monstro de mil ano | O professor mais respeitado do Clain é um monstro de mil ano | Não pode ser. São só parecidos.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.152,
+    "AUDREY": 0.318
+   }
+  }
+ },
+ "ep6-00404.wav": {
+  "ep": 6,
+  "start": 404,
+  "janela": [
+   402.0,
+   421.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O professor mais respeitado do Clain é um monstro de mil ano | Não pode ser. São só parecidos. | Não pode ser. São só parecidos.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.096,
+    "AUDREY": 0.243
+   }
+  }
+ },
+ "ep6-00445.wav": {
+  "ep": 6,
+  "start": 445,
+  "janela": [
+   443.0,
+   462.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Que sensação agradável. | Parece que essa coisa tem enorme eficácia contra monstros de | Parece que essa coisa tem enorme eficácia contra monstros de",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.196,
+    "AUDREY": 0.336
+   }
+  }
+ },
+ "ep6-00451.wav": {
+  "ep": 6,
+  "start": 451,
+  "janela": [
+   449.0,
+   468.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Muito melhor que feitiço de Reckin. | Os arquivos mostram que esse emblema sagrado vem de íntis re | Os arquivos mostram que esse emblema sagrado vem de íntis re",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.02,
+    "AUDREY": 0.262
+   }
+  }
+ },
+ "ep6-00458.wav": {
+  "ep": 6,
+  "start": 458,
+  "janela": [
+   456.0,
+   475.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Os arquivos mostram que esse emblema sagrado vem de íntis re | mas sua origem é desconhecida. | Será por causa da interferência?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.207,
+    "AUDREY": 0.423
+   }
+  }
+ },
+ "ep6-00494.wav": {
+  "ep": 6,
+  "start": 494,
+  "janela": [
+   492.0,
+   511.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O sol flamigente é terno? | É claro. A igreja do sol flamigente é terno que possui o cam",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.155,
+    "AUDREY": 0.24
+   }
+  }
+ },
+ "ep6-00529.wav": {
+  "ep": 6,
+  "start": 529,
+  "janela": [
+   527.0,
+   546.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Essa cota do Liga do Dourado é o motivo do 3082 não poder se | Essa cota do Liga do Dourado é o motivo do 3082 não poder se",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.009,
+    "AUDREY": 0.19
+   }
+  }
+ },
+ "ep6-00776.wav": {
+  "ep": 6,
+  "start": 776,
+  "janela": [
+   774.0,
+   793.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Eu adoraria saber dessa informação, mas... | Eu adoraria saber dessa informação, mas... | Ah...",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.169,
+    "AUDREY": 0.221
+   }
+  }
+ },
+ "ep6-00933.wav": {
+  "ep": 6,
+  "start": 933,
+  "janela": [
+   931.0,
+   950.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus"
+  ],
+  "anchors": [
+   "antigonus"
+  ],
+  "pt": "E tinha um grande trono que não era humano. | As ruínas provam que há muito tempo havia um reino na região | As ruínas provam que há muito tempo havia um reino na região",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.218,
+    "AUDREY": 0.201
+   }
+  }
+ },
+ "ep6-00936.wav": {
+  "ep": 6,
+  "start": 936,
+  "janela": [
+   934.0,
+   953.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus"
+  ],
+  "anchors": [
+   "antigonus"
+  ],
+  "pt": "As ruínas provam que há muito tempo havia um reino na região | As ruínas provam que há muito tempo havia um reino na região | A nação da noite eterna mencionada no caderno da família ant",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.179,
+    "AUDREY": 0.238
+   }
+  }
+ },
+ "ep6-00949.wav": {
+  "ep": 6,
+  "start": 949,
+  "janela": [
+   947.0,
+   966.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Então posso considerá-los humanos. | Acreditavam que a morte não era o fim | e que os familiares mortos o abençoariam.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.157,
+    "AUDREY": 0.266
+   }
+  }
+ },
+ "ep6-00955.wav": {
+  "ep": 6,
+  "start": 955,
+  "janela": [
+   953.0,
+   972.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Acreditavam que a morte não era o fim | e que os familiares mortos o abençoariam. | O que os faziam manter os mortos em suas camas por três dias",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.272,
+    "AUDREY": 0.363
+   }
+  }
+ },
+ "ep6-00961.wav": {
+  "ep": 6,
+  "start": 961,
+  "janela": [
+   959.0,
+   978.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O que os faziam manter os mortos em suas camas por três dias | O que os faziam manter os mortos em suas camas por três dias | Não fala de interro dos mortos.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.223,
+    "AUDREY": 0.164
+   }
+  }
+ },
+ "ep6-01000.wav": {
+  "ep": 6,
+  "start": 1000,
+  "janela": [
+   998.0,
+   1017.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "evernight goddess"
+  ],
+  "anchors": [
+   "evernight goddess"
+  ],
+  "pt": "Governante da noite eterna? | A nação da noite eterna e essa mãe do céu | não vai tomar o seu café?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.226,
+    "AUDREY": 0.34
+   }
+  }
+ },
+ "ep6-01111.wav": {
+  "ep": 6,
+  "start": 1111,
+  "janela": [
+   1109.0,
+   1128.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "nighthawks"
+  ],
+  "anchors": [
+   "klein",
+   "nighthawks"
+  ],
+  "pt": "Fique calmo. | Eu tive a chance de fazer uma divinhação antes de ver. | O professor Azic sempre foi gentil com o Klein.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.358,
+    "AUDREY": 0.188
+   }
+  }
+ },
+ "ep6-01120.wav": {
+  "ep": 6,
+  "start": 1120,
+  "janela": [
+   1118.0,
+   1137.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "nighthawks"
+  ],
+  "anchors": [
+   "klein",
+   "nighthawks"
+  ],
+  "pt": "O professor Azic sempre foi gentil com o Klein. | Minha divinhação me disse que contar ao professor Azic sobre | Minha divinhação me disse que contar ao professor Azic sobre",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.109,
+    "AUDREY": 0.228
+   }
+  }
+ },
+ "ep6-01780.wav": {
+  "ep": 6,
+  "start": 1780,
+  "janela": [
+   1778.0,
+   1797.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Os vestígios parecem ser dos últimos três meses. | Agora entendi. Alguém danificou o redor de supressão e fez o | A pessoa que roubou seu crânio, eu farei que pague dez vezes",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.332,
+    "AUDREY": 0.365
+   }
+  }
+ },
+ "ep7-00812.wav": {
+  "ep": 7,
+  "start": 812,
+  "janela": [
+   810.0,
+   829.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus",
+   "zaratul"
+  ],
+  "anchors": [
+   "antigonus",
+   "seer",
+   "zaratul"
+  ],
+  "pt": "Sinistro e assustador. | Que caminho é esse? | que zaratou da ordem secreta que iria que o Imperador roubas",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.157,
+    "AUDREY": 0.261
+   }
+  }
+ },
+ "ep7-00819.wav": {
+  "ep": 7,
+  "start": 819,
+  "janela": [
+   817.0,
+   836.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "seer"
+  ],
+  "anchors": [
+   "seer"
+  ],
+  "pt": "A ordem secreta possui o caminho duvidente. | Será que eles têm as outras fórmulas das poções? | Será que eles têm as outras fórmulas das poções?",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.379,
+    "AUDREY": 0.189
+   }
+  }
+ },
+ "ep7-00837.wav": {
+  "ep": 7,
+  "start": 837,
+  "janela": [
+   835.0,
+   854.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "hall",
+   "tingen"
+  ],
+  "anchors": [
+   "hall",
+   "tingen"
+  ],
+  "pt": "Ou perseguir o sequestrador. | A pista do caderno da família Antígonos apareceu na casa do  | Bíbera absorveu o poder do caderno antes de escapar de Tindi",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.261,
+    "AUDREY": 0.368
+   }
+  }
+ },
+ "ep7-00963.wav": {
+  "ep": 7,
+  "start": 963,
+  "janela": [
+   961.0,
+   980.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "pra um verdadeiro vidente, o princípio da atuação não basta.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": -0.001,
+    "AUDREY": 0.379
+   }
+  }
+ },
+ "ep7-01101.wav": {
+  "ep": 7,
+  "start": 1101,
+  "janela": [
+   1099.0,
+   1118.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Ele as usou e as enganou por dinheiro, o que escolha. | Se fosse um bebê já nascido, talvez fosse possível. | Só que, infelizmente, será preciso esperar alguns meses.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.195,
+    "AUDREY": 0.204
+   }
+  }
+ },
+ "ep7-01125.wav": {
+  "ep": 7,
+  "start": 1125,
+  "janela": [
+   1123.0,
+   1142.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "moretti"
+  ],
+  "anchors": [
+   "moretti"
+  ],
+  "pt": "assubia e me ajuda a dormir. | Cantarola e assubia? | Problemas psicológicas por causa do choque?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.254,
+    "AUDREY": 0.316
+   }
+  }
+ },
+ "ep7-01194.wav": {
+  "ep": 7,
+  "start": 1194,
+  "janela": [
+   1192.0,
+   1211.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "As ruínas são o pico principal das montanhas ornácias? | As ruínas são o pico principal das montanhas ornácias? | A biblioteca de Dilwifio.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.051,
+    "AUDREY": 0.27
+   }
+  }
+ },
+ "ep7-01246.wav": {
+  "ep": 7,
+  "start": 1246,
+  "janela": [
+   1244.0,
+   1263.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Sirius Arapes. | Esse nome apareceu pela primeira vez no fim de maio | e sumiu de 14 de julho até agora.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.337,
+    "AUDREY": 0.255
+   }
+  }
+ },
+ "ep7-01294.wav": {
+  "ep": 7,
+  "start": 1294,
+  "janela": [
+   1292.0,
+   1311.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Essa não. Ele parece ser bem forte. | Essa não. Ele parece ser bem forte. | Essa não. Ele parece ser bem forte.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.503,
+    "AUDREY": 0.409
+   }
+  }
+ },
+ "ep7-01541.wav": {
+  "ep": 7,
+  "start": 1541,
+  "janela": [
+   1539.0,
+   1558.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus"
+  ],
+  "anchors": [
+   "antigonus",
+   "seer"
+  ],
+  "pt": "E esse tal tesouro secreto é real? | Para, para. | Só o caderno já matou muita gente.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.18,
+    "AUDREY": 0.405
+   }
+  }
+ },
+ "ep7-01572.wav": {
+  "ep": 7,
+  "start": 1572,
+  "janela": [
+   1570.0,
+   1589.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus",
+   "zaratul"
+  ],
+  "anchors": [
+   "antigonus",
+   "seer",
+   "zaratul"
+  ],
+  "pt": "Será que é mesmo mais do que coincidência? | A ordem secreta perdeu o caderno da família Tímonus. | A ordem secreta perdeu o caderno da família Tímonus.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.4,
+    "AUDREY": 0.225
+   }
+  }
+ },
+ "ep7-01587.wav": {
+  "ep": 7,
+  "start": 1587,
+  "janela": [
+   1585.0,
+   1604.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus",
+   "evernight goddess",
+   "zaratul"
+  ],
+  "anchors": [
+   "antigonus",
+   "clown",
+   "evernight goddess",
+   "seer",
+   "zaratul"
+  ],
+  "pt": "e fui influenciado pelo diário de Rosé. | Ela me tornou um vidente. | O imperador Rosé, eu queria escolher o caminho do vidente po",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.083,
+    "AUDREY": 0.184
+   }
+  }
+ },
+ "ep7-01592.wav": {
+  "ep": 7,
+  "start": 1592,
+  "janela": [
+   1590.0,
+   1609.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "antigonus",
+   "evernight goddess",
+   "zaratul"
+  ],
+  "anchors": [
+   "antigonus",
+   "clown",
+   "evernight goddess",
+   "seer",
+   "zaratul"
+  ],
+  "pt": "O imperador Rosé, eu queria escolher o caminho do vidente po | O imperador Rosé, eu queria escolher o caminho do vidente po | um biônder de sequência de número baixo do caminho do vident",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.256,
+    "AUDREY": 0.342
+   }
+  }
+ },
+ "ep7-01602.wav": {
+  "ep": 7,
+  "start": 1602,
+  "janela": [
+   1600.0,
+   1619.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "clown"
+  ],
+  "anchors": [
+   "clown"
+  ],
+  "pt": "Todas as coincidências anteriores, | Todas as coincidências anteriores, | Todas as coincidências anteriores,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.078,
+    "AUDREY": 0.238
+   }
+  }
+ },
+ "ep7-01619.wav": {
+  "ep": 7,
+  "start": 1619,
+  "janela": [
+   1617.0,
+   1636.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "E se tudo o que eu vivi foi planejado por alguém nos bastido | Então, a primeira e maior coincidência no meu destino | foi o dia que o Klein se deu um tiro.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.178,
+    "AUDREY": 0.15
+   }
+  }
+ },
+ "ep7-01623.wav": {
+  "ep": 7,
+  "start": 1623,
+  "janela": [
+   1621.0,
+   1640.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "E se tudo o que eu vivi foi planejado por alguém nos bastido | Então, a primeira e maior coincidência no meu destino | foi o dia que o Klein se deu um tiro.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.209,
+    "AUDREY": 0.257
+   }
+  }
+ },
+ "ep8-00110.wav": {
+  "ep": 8,
+  "start": 110,
+  "janela": [
+   108.0,
+   127.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Ah, mas além da pistola, só tenho amuletos. Amuletos? É verd | Mesmo com a neva cinzenta, não consigo romper a interferênci | ser muito forte. Além de avançar para palhaço, preciso ter n",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.085,
+    "AUDREY": 0.109
+   }
+  }
+ },
+ "ep8-00116.wav": {
+  "ep": 8,
+  "start": 116,
+  "janela": [
+   114.0,
+   133.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Ah, mas além da pistola, só tenho amuletos. Amuletos? É verd | Ah, mas além da pistola, só tenho amuletos. Amuletos? É verd | Ah, mas além da pistola, só tenho amuletos. Amuletos? É verd",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.162,
+    "AUDREY": 0.195
+   }
+  }
+ },
+ "ep8-00125.wav": {
+  "ep": 8,
+  "start": 125,
+  "janela": [
+   123.0,
+   142.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Ah, mas além da pistola, só tenho amuletos. Amuletos? É verd | Ah, mas além da pistola, só tenho amuletos. Amuletos? É verd | Talvez consiga pegar e prestar um pouco do sangue divino do ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": -0.002,
+    "AUDREY": 0.064
+   }
+  }
+ },
+ "ep8-00662.wav": {
+  "ep": 8,
+  "start": 662,
+  "janela": [
+   660.0,
+   679.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Entendido, capitão. | Ouvi dizer que esses corpos espirituais são difíceis de lida | Existe alguma forma de exorcizá-los rapidamente?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.032,
+    "AUDREY": 0.243
+   }
+  }
+ },
+ "ep8-01257.wav": {
+  "ep": 8,
+  "start": 1257,
+  "janela": [
+   1255.0,
+   1274.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Para que um incidente com os espíritos? | O que estão tramando? | O professor Azek despertou um monte de cadáveres.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.195,
+    "AUDREY": 0.139
+   }
+  }
+ },
+ "ep8-01264.wav": {
+  "ep": 8,
+  "start": 1264,
+  "janela": [
+   1262.0,
+   1281.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Seria o campo de batalha do desastre pálido. | Se o professor Azek for mesmo o descendente da morte, | então que arrombou o crânio de seu filho,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.127,
+    "AUDREY": 0.234
+   }
+  }
+ },
+ "ep8-01874.wav": {
+  "ep": 8,
+  "start": 1874,
+  "janela": [
+   1872.0,
+   1891.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "nem quando estávamos bebendo, | nem quando nos encontramos no cais, | não havia nada de normal.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.078,
+    "AUDREY": 0.243
+   }
+  }
+ },
+ "ep8-01906.wav": {
+  "ep": 8,
+  "start": 1906,
+  "janela": [
+   1904.0,
+   1923.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Mas essa minha carta na manga | não serve para lidar com a perda de controle. | Então, eu, o capitão e os outros",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.205,
+    "AUDREY": 0.166
+   }
+  }
+ },
+ "ep9-00087.wav": {
+  "ep": 9,
+  "start": 87,
+  "janela": [
+   85.0,
+   104.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "nighthawks"
+  ],
+  "anchors": [
+   "nighthawks"
+  ],
+  "pt": "Eu acho que não tem mais jeito. Amanhã preciso contar ao cap | Eu acho que não tem mais jeito. Amanhã preciso contar ao cap | Eu acho que não tem mais jeito. Amanhã preciso contar ao cap",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.217,
+    "AUDREY": 0.245
+   }
+  }
+ },
+ "ep9-00246.wav": {
+  "ep": 9,
+  "start": 246,
+  "janela": [
+   244.0,
+   263.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Na sagrada revelação da noite, a história da organização da  | Na sagrada revelação da noite, a história da organização da  | Na sagrada revelação da noite, a história da organização da ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.044,
+    "AUDREY": 0.278
+   }
+  }
+ },
+ "ep9-00251.wav": {
+  "ep": 9,
+  "start": 251,
+  "janela": [
+   249.0,
+   268.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Na sagrada revelação da noite, a história da organização da  | Na sagrada revelação da noite, a história da organização da  | Em milhares de anos, os gaviões da noite nunca tiveram conhe",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.256,
+    "AUDREY": 0.083
+   }
+  }
+ },
+ "ep9-00357.wav": {
+  "ep": 9,
+  "start": 357,
+  "janela": [
+   355.0,
+   374.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "daly"
+  ],
+  "anchors": [
+   "daly",
+   "seer"
+  ],
+  "pt": "Assim como a senhorita Dali é uma verdadeira médium. | Eu passei o tempo todo tentando ser um verdadeiro vidente | e descobrir alguns conceitos e regras.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.102,
+    "AUDREY": 0.289
+   }
+  }
+ },
+ "ep9-00369.wav": {
+  "ep": 9,
+  "start": 369,
+  "janela": [
+   367.0,
+   386.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Sabe qual é o lema dos intromissores de mistérios? | Se há ninguém machucar, faça o que desejar. | Se há ninguém machucar, faça o que desejar.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.089,
+    "AUDREY": 0.257
+   }
+  }
+ },
+ "ep9-00634.wav": {
+  "ep": 9,
+  "start": 634,
+  "janela": [
+   632.0,
+   651.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "clown",
+   "klein"
+  ],
+  "anchors": [
+   "clown",
+   "klein"
+  ],
+  "pt": "Sete gramas de pó de girassol de borda preta. | Dezenas gramas de água pura. | Dezenas gramas de água pura.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.079,
+    "AUDREY": 0.237
+   }
+  }
+ },
+ "ep9-00643.wav": {
+  "ep": 9,
+  "start": 643,
+  "janela": [
+   641.0,
+   660.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Dezenas gramas de água pura. | Dezenas gramas de água pura. | Dezenas gramas de pó dourado.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.212,
+    "AUDREY": 0.245
+   }
+  }
+ },
+ "ep9-00752.wav": {
+  "ep": 9,
+  "start": 752,
+  "janela": [
+   750.0,
+   769.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A sensação após a promoção é ótima. Meu corpo está mais leve | A sensação após a promoção é ótima. Meu corpo está mais leve | A sensação após a promoção é ótima. Meu corpo está mais leve",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.159,
+    "AUDREY": 0.212
+   }
+  }
+ }
+}

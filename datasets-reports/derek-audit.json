@@ -1,0 +1,16 @@
+{
+ "ref-ep10-1835.wav": {
+  "best": "KLEIN",
+  "sim": {
+   "AUDREY": 0.154,
+   "KLEIN": 0.191
+  }
+ },
+ "ref-ep11-0164.wav": {
+  "best": "KLEIN",
+  "sim": {
+   "AUDREY": 0.301,
+   "KLEIN": 0.438
+  }
+ }
+}

@@ -1,0 +1,3255 @@
+{
+ "meta": {
+  "ep": 12,
+  "total_en": 374,
+  "matched": 353,
+  "alta_conf": 78,
+  "skew_medio_s": -0.4,
+  "fonte_en": "anchors-en/ep12.json",
+  "fonte_pt": "ep12/vocals.srt (whisper-small)"
+ },
+ "spans": [
+  {
+   "t0": 324.74,
+   "t1": 326.54,
+   "en": "62 Howes Street",
+   "pt": "Você voltou, Koye?",
+   "score": 0.143,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 334.78,
+   "t1": 337.62,
+   "en": "Return of the Earl",
+   "pt": "Sim. É assim que terminaram o trabalho.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 334.78,
+   "t1": 337.62,
+   "en": "We await your visit!",
+   "pt": "Sim. É assim que terminaram o trabalho.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 334.78,
+   "t1": 337.62,
+   "en": "Don't miss these spectacular stories! We await your visit!",
+   "pt": "Sim. É assim que terminaram o trabalho.",
+   "score": 0.151,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 334.78,
+   "t1": 337.62,
+   "en": "\"Return of the Earl\" first day of ticket sales",
+   "pt": "Sim. É assim que terminaram o trabalho.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 387.22,
+   "t1": 388.7,
+   "en": "The reason for Dunn Smith's erratic behavior",
+   "pt": "Vamos ao meu professor.",
+   "score": 0.212,
+   "overlap": 1.0,
+   "anchors": [
+    "dunn"
+   ]
+  },
+  {
+   "t0": 890.98,
+   "t1": 892.98,
+   "en": "Corruption scandal-implicated Mayor Dennis resigns out of guilt",
+   "pt": "Eu soube que a senhorita conheceu o senhor Lannevos em um baile.",
+   "score": 0.317,
+   "overlap": 0.68,
+   "anchors": []
+  },
+  {
+   "t0": 1278.34,
+   "t1": 1281.22,
+   "en": "Saint Selena's Ashes  The ashes of a high-Sequence Beyonder.  The core seal of the Tingen Chanis Gate.",
+   "pt": "Que a deusa se abençoe.",
+   "score": 0.133,
+   "overlap": 0.69,
+   "anchors": [
+    "beyonder",
+    "chanis gate",
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1466.3,
+   "t1": 1468.94,
+   "en": "Logan",
+   "pt": "Eu não sei qual seria a vontade deles e isso afeta drasticamente minha digestão da poção.",
+   "score": 0.086,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1466.98,
+   "t1": 1468.94,
+   "en": "Hermes",
+   "pt": "Eu não sei qual seria a vontade deles e isso afeta drasticamente minha digestão da poção.",
+   "score": 0.106,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1467.94,
+   "t1": 1468.94,
+   "en": "Gehrman",
+   "pt": "Eu não sei qual seria a vontade deles e isso afeta drasticamente minha digestão da poção.",
+   "score": 0.063,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1470.74,
+   "t1": 1472.98,
+   "en": "Kenley White",
+   "pt": "Eu não sei qual seria a vontade deles e isso afeta drasticamente minha digestão da poção.",
+   "score": 0.08,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 35.05,
+   "t1": 37.75,
+   "en": "In the hidden world of Beyonders,",
+   "pt": "Este é o mundo dos Beyonders. Ao beber em certas poções, humanos comuns podem obter",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 37.82,
+   "t1": 41.09,
+   "en": "humans must depend upon a variety of potions",
+   "pt": "Este é o mundo dos Beyonders. Ao beber em certas poções, humanos comuns podem obter",
+   "score": 0.224,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 41.12,
+   "t1": 44.17,
+   "en": "to travel the path of supreme ascension",
+   "pt": "os poderes dos Beyonders. Ele se torna capaz de se acender à divindade. Os 22 começam",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 44.19,
+   "t1": 47.61,
+   "en": "and attain the occult powers of the Beyonder.",
+   "pt": "os poderes dos Beyonders. Ele se torna capaz de se acender à divindade. Os 22 começam",
+   "score": 0.29,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 47.66,
+   "t1": 50.01,
+   "en": "There are 22 pathways,",
+   "pt": "os poderes dos Beyonders. Ele se torna capaz de se acender à divindade. Os 22 começam",
+   "score": 0.184,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 50.03,
+   "t1": 52.64,
+   "en": "each beginning with Sequence 9.",
+   "pt": "com mais fraco, a sequência 9. Quanto menor o número da sequência, mais poderosas as",
+   "score": 0.224,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 52.7,
+   "t1": 55.32,
+   "en": "The lower one descends in the Sequence,",
+   "pt": "com mais fraco, a sequência 9. Quanto menor o número da sequência, mais poderosas as",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 55.35,
+   "t1": 58.42,
+   "en": "the greater their Beyonder powers become.",
+   "pt": "habilidades do Beyonder. Beyonders de sequências de nível mais alto dispõem de poderes grandes",
+   "score": 0.346,
+   "overlap": 1.0,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 58.45,
+   "t1": 61.09,
+   "en": "Through this enlightened progression,",
+   "pt": "habilidades do Beyonder. Beyonders de sequências de nível mais alto dispõem de poderes grandes",
+   "score": 0.264,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 61.12,
+   "t1": 65.63,
+   "en": "the Beyonder achieves powers strong enough to rival gods.",
+   "pt": "o bastante para rivalizar com os deuses. O caminho da evolução é chamado O Caminho do Divino.",
+   "score": 0.204,
+   "overlap": 0.95,
+   "anchors": [
+    "beyonder"
+   ]
+  },
+  {
+   "t0": 65.72,
+   "t1": 69.5,
+   "en": "Completing this evolution is an exceptional feat.",
+   "pt": "o bastante para rivalizar com os deuses. O caminho da evolução é chamado O Caminho do Divino.",
+   "score": 0.245,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 69.58,
+   "t1": 72.6,
+   "en": "It is the Path of the Divine.",
+   "pt": "o bastante para rivalizar com os deuses. O caminho da evolução é chamado O Caminho do Divino.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 79.05,
+   "t1": 81.68,
+   "en": "Trenched in the crepuscular crimson,",
+   "pt": "Sobe uma lua escarlate. Dan Smith está sobre o corpo de Gingley White.",
+   "score": 0.214,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 81.72,
+   "t1": 88.32,
+   "en": "Dunn Smith perched atop Kenley White's pallid corpse, bereft yet wantonly vulturous.",
+   "pt": "Sobe uma lua escarlate. Dan Smith está sobre o corpo de Gingley White.",
+   "score": 0.293,
+   "overlap": 0.85,
+   "anchors": [
+    "dunn",
+    "smith"
+   ]
+  },
+  {
+   "t0": 99.18,
+   "t1": 102.38,
+   "en": "My God, is he drinking Kenley's blood?",
+   "pt": "Capitão. O capitão está bebindo sangue no Gingley. O que está acontecendo? São sinais de",
+   "score": 0.149,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 105.0,
+   "t1": 106.14,
+   "en": "What's happening?",
+   "pt": "Capitão. O capitão está bebindo sangue no Gingley. O que está acontecendo? São sinais de",
+   "score": 0.158,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 106.25999999999999,
+   "t1": 108.47,
+   "en": "Is this a sign he's losing control?",
+   "pt": "Capitão. O capitão está bebindo sangue no Gingley. O que está acontecendo? São sinais de",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 108.89,
+   "t1": 111.83,
+   "en": "I can't beat it, the acting methods only made him stronger.",
+   "pt": "controle. Não pode ser. O capitão já interpreta o papel do pesadelo. Clain. O que foi? Nada. Não foi nada.",
+   "score": 0.295,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 111.85,
+   "t1": 113.17,
+   "en": "You alright, Klein?",
+   "pt": "controle. Não pode ser. O capitão já interpreta o papel do pesadelo. Clain. O que foi? Nada. Não foi nada.",
+   "score": 0.103,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 126.86,
+   "t1": 127.79,
+   "en": "What's wrong?",
+   "pt": "controle. Não pode ser. O capitão já interpreta o papel do pesadelo. Clain. O que foi? Nada. Não foi nada.",
+   "score": 0.072,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 128.81,
+   "t1": 130.39,
+   "en": "I just... sorry.",
+   "pt": "controle. Não pode ser. O capitão já interpreta o papel do pesadelo. Clain. O que foi? Nada. Não foi nada.",
+   "score": 0.072,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 131.15,
+   "t1": 132.32,
+   "en": "It all just hit me.",
+   "pt": "Só estou um pouco cansado. Não deixe a tristeza consumir você. Precisa se acostumar logo com isso.",
+   "score": 0.195,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 134.37,
+   "t1": 136.42000000000002,
+   "en": "You must try to restrain your shock.",
+   "pt": "Só estou um pouco cansado. Não deixe a tristeza consumir você. Precisa se acostumar logo com isso.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 137.01,
+   "t1": 138.74,
+   "en": "We still have work to do here.",
+   "pt": "Só estou um pouco cansado. Não deixe a tristeza consumir você. Precisa se acostumar logo com isso.",
+   "score": 0.177,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 139.96,
+   "t1": 142.25,
+   "en": "Starting with channelling Sharon's spirit,",
+   "pt": "Nós temos que interrogar a Sharon Koye antes que se dissipe. Sim, capitão.",
+   "score": 0.339,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 142.46,
+   "t1": 144.32,
+   "en": "find what you can while there's time.",
+   "pt": "Nós temos que interrogar a Sharon Koye antes que se dissipe. Sim, capitão.",
+   "score": 0.243,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 149.07,
+   "t1": 149.93,
+   "en": "Yes, captain.",
+   "pt": "Nós temos que interrogar a Sharon Koye antes que se dissipe. Sim, capitão.",
+   "score": 0.195,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 150.15,
+   "t1": 151.01,
+   "en": "Right away.",
+   "pt": "Nós temos que interrogar a Sharon Koye antes que se dissipe. Sim, capitão.",
+   "score": 0.148,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 156.31,
+   "t1": 157.65,
+   "en": "He seems fine.",
+   "pt": "O capitão não parece estar normal. Foi uma alucinação? Não. Não foi. O corpo do Gingley está falando algo.",
+   "score": 0.158,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 157.68,
+   "t1": 158.9,
+   "en": "Perfectly normal.",
+   "pt": "O capitão não parece estar normal. Foi uma alucinação? Não. Não foi. O corpo do Gingley está falando algo.",
+   "score": 0.205,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 159.73,
+   "t1": 161.05,
+   "en": "Am I just delirious?",
+   "pt": "O capitão não parece estar normal. Foi uma alucinação? Não. Não foi. O corpo do Gingley está falando algo.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 163.55,
+   "t1": 165.05,
+   "en": "No, I can feel it.",
+   "pt": "O capitão não parece estar normal. Foi uma alucinação? Não. Não foi. O corpo do Gingley está falando algo.",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 165.22,
+   "t1": 166.55,
+   "en": "Something's missing.",
+   "pt": "O capitão não parece estar normal. Foi uma alucinação? Não. Não foi. O corpo do Gingley está falando algo.",
+   "score": 0.167,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 167.07,
+   "t1": 168.68,
+   "en": "Some amorphous thing.",
+   "pt": "O capitão não parece estar normal. Foi uma alucinação? Não. Não foi. O corpo do Gingley está falando algo.",
+   "score": 0.215,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 169.31,
+   "t1": 170.89,
+   "en": "Missing from Kenley's body.",
+   "pt": "O capitão não parece estar normal. Foi uma alucinação? Não. Não foi. O corpo do Gingley está falando algo.",
+   "score": 0.173,
+   "overlap": 0.7,
+   "anchors": []
+  },
+  {
+   "t0": 188.45,
+   "t1": 189.45,
+   "en": "Why?",
+   "pt": "Por que? Por que isso foi acontecer de novo? Que ele tinha noivado no mês passado? Por que se tornar um Beyonder?",
+   "score": 0.036,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 190.14,
+   "t1": 191.85,
+   "en": "Why does this have to happen?",
+   "pt": "Por que? Por que isso foi acontecer de novo? Que ele tinha noivado no mês passado? Por que se tornar um Beyonder?",
+   "score": 0.219,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 192.52,
+   "t1": 193.82,
+   "en": "He was so young.",
+   "pt": "Por que? Por que isso foi acontecer de novo? Que ele tinha noivado no mês passado? Por que se tornar um Beyonder?",
+   "score": 0.145,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 194.57,
+   "t1": 196.93,
+   "en": "He only got engaged last month.",
+   "pt": "Por que? Por que isso foi acontecer de novo? Que ele tinha noivado no mês passado? Por que se tornar um Beyonder?",
+   "score": 0.158,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 197.55,
+   "t1": 200.12,
+   "en": "Why do people have to become Beyonders?",
+   "pt": "Por que? Por que isso foi acontecer de novo? Que ele tinha noivado no mês passado? Por que se tornar um Beyonder?",
+   "score": 0.327,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 200.79,
+   "t1": 204.05,
+   "en": "Why does helping others have to be so dangerous?",
+   "pt": "Por que? Há sempre perigo. Que a deusa te proteja e te conceda o verdadeiro descanso.",
+   "score": 0.372,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 205.71,
+   "t1": 207.36,
+   "en": "May the Goddess bless you.",
+   "pt": "Por que? Há sempre perigo. Que a deusa te proteja e te conceda o verdadeiro descanso.",
+   "score": 0.243,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 207.78,
+   "t1": 209.49,
+   "en": "May you find tranquility.",
+   "pt": "Por que? Há sempre perigo. Que a deusa te proteja e te conceda o verdadeiro descanso.",
+   "score": 0.17,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 218.46,
+   "t1": 219.56,
+   "en": "I saw it.",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 219.91,
+   "t1": 221.38,
+   "en": "But what did I see?",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.0,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 221.51,
+   "t1": 223.47,
+   "en": "He ordered me to check on the servants.",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.05,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 224.03,
+   "t1": 225.74,
+   "en": "Was that just to distract me?",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.026,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 225.96,
+   "t1": 227.11,
+   "en": "Kenley's death.",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.028,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 227.46,
+   "t1": 229.62,
+   "en": "It was the result of mishandling the mirror.",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.041,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 229.85,
+   "t1": 231.81,
+   "en": "But the captain issued it to him.",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.009,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 232.17000000000002,
+   "t1": 233.69,
+   "en": "But why Kenley and not me?",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.053,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 234.71,
+   "t1": 236.48,
+   "en": "You turn bloody paranoid.",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.026,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 236.81,
+   "t1": 238.85,
+   "en": "Arming him with it was the logical move.",
+   "pt": "Capitão, o que você fez? Quando me mandou descer para cuidar do resto, foi para me distrair? O Gingley foi sacrificado por que eu usava o 3027 saiu pela colata. 3027. Foi o capitão que deu o Gingley. O que estou pensando?",
+   "score": 0.041,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 239.72,
+   "t1": 240.86,
+   "en": "But still...",
+   "pt": "Aquela era a única opção. Mas... Espera aí. A ideia de usar o 3027 veio do próprio capitão?",
+   "score": 0.045,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 241.18,
+   "t1": 246.56,
+   "en": "Using 3-0217, it was the captain's idea in the first place.",
+   "pt": "Aquela era a única opção. Mas... Espera aí. A ideia de usar o 3027 veio do próprio capitão?",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 247.93,
+   "t1": 251.94,
+   "en": "Sharon Khoy's spirit decayed too quickly before Klein could fully channel it.",
+   "pt": "O clã canalizou o espírito da Sharon Koye. A seita da demônia está trabalhando com a ordem da Aurora.",
+   "score": 0.309,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 252.56,
+   "t1": 255.88,
+   "en": "But we suspect her plan was tied to Lanevus and Tingen's doomsday.",
+   "pt": "Isso tem ligação com o caso da Nevos e o dia da destruição de Tindin. Siga-me essa pista. Investigue-me a fundo.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 256.59,
+   "t1": 257.81,
+   "en": "The task persists.",
+   "pt": "Isso tem ligação com o caso da Nevos e o dia da destruição de Tindin. Siga-me essa pista. Investigue-me a fundo.",
+   "score": 0.19,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 257.84,
+   "t1": 259.1,
+   "en": "Hunt down Lanevus.",
+   "pt": "Isso tem ligação com o caso da Nevos e o dia da destruição de Tindin. Siga-me essa pista. Investigue-me a fundo.",
+   "score": 0.143,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 259.34,
+   "t1": 260.18,
+   "en": "Yes, sir.",
+   "pt": "Isso tem ligação com o caso da Nevos e o dia da destruição de Tindin. Siga-me essa pista. Investigue-me a fundo.",
+   "score": 0.086,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 260.66,
+   "t1": 265.75,
+   "en": "Captain, now that Sharon Khoy is dead, is Tingen out of the wood for the time being?",
+   "pt": "Entendido. Capitão, agora que a Sharon Koye está morta, a crise de Tindin está resolvida?",
+   "score": 0.398,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 267.52,
+   "t1": 270.63,
+   "en": "She might have been playing a crucial role in the doomsday plot.",
+   "pt": "A Sharon Koye era uma peça-chave no dia da destruição. Mas uma organização maligna nunca tem só uma carta na manga.",
+   "score": 0.273,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 271.92,
+   "t1": 275.98,
+   "en": "But in my experience, evil tends to have backup.",
+   "pt": "A Sharon Koye era uma peça-chave no dia da destruição. Mas uma organização maligna nunca tem só uma carta na manga.",
+   "score": 0.226,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 341.09000000000003,
+   "t1": 342.89,
+   "en": "Klein, you're finally home.",
+   "pt": "Você está bem ocupado. Tem café da manhã na cozinha, se quiser.",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 344.78,
+   "t1": 345.92,
+   "en": "Here I am.",
+   "pt": "Você está bem ocupado. Tem café da manhã na cozinha, se quiser.",
+   "score": 0.087,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 346.43,
+   "t1": 347.99,
+   "en": "Must have been one busy night.",
+   "pt": "Sim. É assim que terminaram o trabalho.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 348.11,
+   "t1": 349.8,
+   "en": "There's some brekkie made if you're hungry.",
+   "pt": "Sim. É assim que terminaram o trabalho.",
+   "score": 0.228,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 350.5,
+   "t1": 352.67,
+   "en": "Sure, once I'm done with work.",
+   "pt": "Já enviei as cartas. Espero que o professor Azek e a senhora Itadali me respondam logo.",
+   "score": 0.212,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 360.14,
+   "t1": 361.89,
+   "en": "Okay, I've sent the letters.",
+   "pt": "Só vocês podem me ajudar.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 362.3,
+   "t1": 365.0,
+   "en": "All I can do is hope Azik and Daly reply quickly.",
+   "pt": "A razão para a normalidade de vida é que o professor Azek e a senhora Itadali me respondam logo.",
+   "score": 0.322,
+   "overlap": 1.0,
+   "anchors": [
+    "daly"
+   ]
+  },
+  {
+   "t0": 365.47,
+   "t1": 367.55,
+   "en": "I don't understand what I witnessed.",
+   "pt": "A razão para a normalidade de vida é que o professor Azek e a senhora Itadali me respondam logo.",
+   "score": 0.169,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 367.92,
+   "t1": 370.1,
+   "en": "And I've no idea what state the captain's in.",
+   "pt": "Não sei o que aconteceu, nem o que estado do capitão está.",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 370.43,
+   "t1": 372.08,
+   "en": "I'm desperate for some answers.",
+   "pt": "Não sei o que aconteceu, nem o que estado do capitão está.",
+   "score": 0.256,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 389.29,
+   "t1": 392.25,
+   "en": "The reason for Dunn Smith's abnormal behavior.",
+   "pt": "A razão para a normalidade de Dan Smith.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": [
+    "dunn"
+   ]
+  },
+  {
+   "t0": 397.40999999999997,
+   "t1": 398.48,
+   "en": "No reaction.",
+   "pt": "Sem ação, sem informação suficiente, a adivinhação não funciona.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 399.86,
+   "t1": 402.36,
+   "en": "Questions too vague or the answers obstructed.",
+   "pt": "Sem ação, sem informação suficiente, a adivinhação não funciona.",
+   "score": 0.132,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 402.6,
+   "t1": 406.74,
+   "en": "Divination inquiring to one's own safety is the most difficult to interfere with.",
+   "pt": "Normalmente, uma adivinhação relacionada à própria segurança precisa do mínimo de informação.",
+   "score": 0.164,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 407.61,
+   "t1": 410.19,
+   "en": "So maybe if I frame the question around that approach.",
+   "pt": "E se eu tentar adivinhar sobre minha própria segurança?",
+   "score": 0.187,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 412.55,
+   "t1": 416.4,
+   "en": "Dunn Smith's abnormal behavior will lead me into direct danger.",
+   "pt": "A normalidade de Dan Smith vai me colocar em perigo?",
+   "score": 0.372,
+   "overlap": 1.0,
+   "anchors": [
+    "dunn"
+   ]
+  },
+  {
+   "t0": 419.39,
+   "t1": 420.21,
+   "en": "Clockwise!",
+   "pt": "É isso.",
+   "score": 0.267,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 420.97,
+   "t1": 422.8,
+   "en": "His behavior will put me in peril.",
+   "pt": "O comportamento do capitão vai me colocar em perigo e não será pouco.",
+   "score": 0.297,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 422.82,
+   "t1": 424.46,
+   "en": "Significant peril at that.",
+   "pt": "O comportamento do capitão vai me colocar em perigo e não será pouco.",
+   "score": 0.237,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 435.57,
+   "t1": 437.15,
+   "en": "Azik already wrote back?",
+   "pt": "O professor Azek respondeu...",
+   "score": 0.327,
+   "overlap": 0.66,
+   "anchors": []
+  },
+  {
+   "t0": 459.38,
+   "t1": 463.79,
+   "en": "\"As for Mutants, they're essentially normal humans corrupted by suppressed,\"",
+   "pt": "Acredita-se que eram humanos normais que foram corrompidos ou amaldiçoados e se transformaram em monstros.",
+   "score": 0.362,
+   "overlap": 0.95,
+   "anchors": []
+  },
+  {
+   "t0": 463.82,
+   "t1": 467.39,
+   "en": "\"innate iniquity that can erupt in a monstrous transformation.\"",
+   "pt": "Acredita-se que eram humanos normais que foram corrompidos ou amaldiçoados e se transformaram em monstros.",
+   "score": 0.352,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 468.97,
+   "t1": 473.29,
+   "en": "\"If he thirsts for blood, your superior may be a dormant Mutant.\"",
+   "pt": "Seu superior talvez seja um mutante latente.",
+   "score": 0.481,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 475.08,
+   "t1": 477.54,
+   "en": "\"Of course, this is all speculation.\"",
+   "pt": "Em todo caso, isso prova que a condição do seu superior é instável e extremamente perigosa.",
+   "score": 0.262,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 477.98,
+   "t1": 481.0,
+   "en": "\"Regardless of the cause, your superior's actions\"",
+   "pt": "Em todo caso, isso prova que a condição do seu superior é instável e extremamente perigosa.",
+   "score": 0.338,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 481.03,
+   "t1": 483.72,
+   "en": "\"are indicative of a volatile instability.\"",
+   "pt": "É melhor ter cuidado.",
+   "score": 0.1,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 484.17,
+   "t1": 485.34,
+   "en": "\"Take caution.\"",
+   "pt": "É melhor ter cuidado.",
+   "score": 0.375,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 498.99,
+   "t1": 499.73,
+   "en": "Captain.",
+   "pt": "Venha até a Rua Raul Smith, adolescente.",
+   "score": 0.089,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 501.25,
+   "t1": 501.94,
+   "en": "Klein.",
+   "pt": "Leonardo encontrou a residência de Lanevos.",
+   "score": 0.17,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 503.07,
+   "t1": 504.84,
+   "en": "Head to 62 Howes Street.",
+   "pt": "Ele precisa da sorte juntas.",
+   "score": 0.34,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 505.88,
+   "t1": 508.13,
+   "en": "Leonard located the residence of Lanevus.",
+   "pt": "Olha só quem apareceu.",
+   "score": 0.262,
+   "overlap": 0.89,
+   "anchors": [
+    "leonard"
+   ]
+  },
+  {
+   "t0": 508.41,
+   "t1": 509.5,
+   "en": "He needs your help.",
+   "pt": "Olha só quem apareceu.",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 512.27,
+   "t1": 514.34,
+   "en": "Oh... Look at you.",
+   "pt": "Como encontrou a casa?",
+   "score": 0.4,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 515.43,
+   "t1": 516.29,
+   "en": "No sleep?",
+   "pt": "A pista que está aqui.",
+   "score": 0.276,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 518.55,
+   "t1": 519.59,
+   "en": "What led you here?",
+   "pt": "Como encontrou a casa?",
+   "score": 0.211,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 520.61,
+   "t1": 522.42,
+   "en": "I simply followed up on your suspicion that",
+   "pt": "A pista que encontraram com Rudi Aldin levantou suspeitas de que Lanevos tinha relação com Sírios.",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 522.44,
+   "t1": 524.21,
+   "en": "Sirius could have been connected to Lanevus.",
+   "pt": "A pista que encontraram com Rudi Aldin levantou suspeitas de que Lanevos tinha relação com Sírios.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 524.91,
+   "t1": 529.03,
+   "en": "Sirius was known to frequently visit Howes Street, so I questioned the entire stretch.",
+   "pt": "Sírios tinha contato com muitos moradores da Rua Raul Smith.",
+   "score": 0.35,
+   "overlap": 0.73,
+   "anchors": []
+  },
+  {
+   "t0": 530.24,
+   "t1": 532.24,
+   "en": "Showed a photo of Lanevus to an older chap",
+   "pt": "Um senhor ao ver a foto de Lanevos o identificou como morador dos 62.",
+   "score": 0.467,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 532.27,
+   "t1": 534.1,
+   "en": "who thought he resembled the bloke living here.",
+   "pt": "Um senhor ao ver a foto de Lanevos o identificou como morador dos 62.",
+   "score": 0.252,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 534.8,
+   "t1": 536.69,
+   "en": "And he hasn't been home since mid-July.",
+   "pt": "Mas ele não volta há muito tempo.",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 537.86,
+   "t1": 541.55,
+   "en": "I have a hunch there's a secret chamber here.",
+   "pt": "Eu suspeito que haja uma sala secreta.",
+   "score": 0.444,
+   "overlap": 0.81,
+   "anchors": []
+  },
+  {
+   "t0": 562.45,
+   "t1": 563.3,
+   "en": "A letter?",
+   "pt": "Outra carta.",
+   "score": 0.316,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 566.21,
+   "t1": 569.59,
+   "en": "\"Congratulations. You've finally found this epistle.\"",
+   "pt": "Vocês encontraram a carta.",
+   "score": 0.189,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 571.61,
+   "t1": 576.7,
+   "en": "\"I suppose you're not too stupid to contend in my devious little competition after all.\"",
+   "pt": "Isso prova que não são tão idiotas.",
+   "score": 0.252,
+   "overlap": 0.59,
+   "anchors": []
+  },
+  {
+   "t0": 576.89,
+   "t1": 579.36,
+   "en": "\"I hope you enjoy games of life and death.\"",
+   "pt": "Um jogo de vida e morte.",
+   "score": 0.317,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 580.54,
+   "t1": 584.24,
+   "en": "\"The ramp into madness and blasphemy will not be forgiven.\"",
+   "pt": "A loucura sempre tem um preço.",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 584.51,
+   "t1": 589.13,
+   "en": "\"This is the worst of times, and yet it is the best of times.\"",
+   "pt": "O pecado da blasfêmia não será perdoado.",
+   "score": 0.165,
+   "overlap": 0.87,
+   "anchors": []
+  },
+  {
+   "t0": 591.12,
+   "t1": 594.76,
+   "en": "\"Poverty, illness, child labourers dying daily.\"",
+   "pt": "mortes de crianças em trabalhos pesados,",
+   "score": 0.268,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 594.89,
+   "t1": 597.51,
+   "en": "\"Workers rarely live past the age of 30.\"",
+   "pt": "mortes de crianças em trabalhos pesados,",
+   "score": 0.324,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 597.79,
+   "t1": 600.74,
+   "en": "\"Boundless resentment, floods from every factory\"",
+   "pt": "Cada fábrica nesta cidade está envolvida em um imensurável ressentimento.",
+   "score": 0.288,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 600.76,
+   "t1": 605.28,
+   "en": "\"that engulfs the streets in turmoil, drowning them in despair.\"",
+   "pt": "Cada fábrica nesta cidade está envolvida em um imensurável ressentimento.",
+   "score": 0.258,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 605.42,
+   "t1": 608.06,
+   "en": "\"This setting will serve as our fateful game board.\"",
+   "pt": "Este é o cenário do nosso jogo.",
+   "score": 0.253,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 608.31,
+   "t1": 611.44,
+   "en": "\"On your mark, fools, and get set for the hunt.\"",
+   "pt": "Seus tolos, preparem-se.",
+   "score": 0.277,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 611.68,
+   "t1": 615.04,
+   "en": "\"I planted a bomb somewhere in the vast stretch of Tingen.\"",
+   "pt": "Eu coloquei uma bomba no centro de Tinden,",
+   "score": 0.433,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 615.19,
+   "t1": 619.12,
+   "en": "\"A bomb that will only grow stronger every minute you don't find it.\"",
+   "pt": "uma bomba que fica mais forte com o tempo.",
+   "score": 0.336,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 619.46,
+   "t1": 620.19,
+   "en": "A bomb?",
+   "pt": "uma bomba que fica mais forte com o tempo.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 620.37,
+   "t1": 622.31,
+   "en": "\"Better get cracking now, mates.\"",
+   "pt": "Encontre-na, meus amigos.",
+   "score": 0.346,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 622.47,
+   "t1": 624.6,
+   "en": "\"It's waiting for you.\"",
+   "pt": "Encontre-na, meus amigos.",
+   "score": 0.326,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 624.71,
+   "t1": 625.71,
+   "en": "Clock's ticking.",
+   "pt": "Não temos tempo.",
+   "score": 0.267,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 626.08,
+   "t1": 627.53,
+   "en": "We must inform the captain.",
+   "pt": "Não temos tempo.",
+   "score": 0.341,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 633.22,
+   "t1": 636.39,
+   "en": "\"If you lose this game of mine... Boom!\"",
+   "pt": "Tinden inteira se transformará em cinzas.",
+   "score": 0.351,
+   "overlap": 0.87,
+   "anchors": []
+  },
+  {
+   "t0": 636.54,
+   "t1": 639.67,
+   "en": "\"There will be nothing left of Tingen but love and rubble!\"",
+   "pt": "Tinden inteira se transformará em cinzas.",
+   "score": 0.292,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 640.69,
+   "t1": 647.19,
+   "en": "\"Sincerely signed, your fun-loving and surprise-filled chum, Lanevus.\"",
+   "pt": "De seu amigo favorito que adora surpresas.",
+   "score": 0.396,
+   "overlap": 0.62,
+   "anchors": []
+  },
+  {
+   "t0": 655.69,
+   "t1": 658.72,
+   "en": "Never heard of a bomb that grows stronger over time.",
+   "pt": "Eu nunca ouvi falar de uma bomba que fica mais forte com o tempo.",
+   "score": 0.261,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 659.39,
+   "t1": 664.4,
+   "en": "He's alluding to mysticism, like a ritual that continuously accumulates power.",
+   "pt": "Talvez seja um ritual maligno que acumula poder.",
+   "score": 0.455,
+   "overlap": 0.6,
+   "anchors": []
+  },
+  {
+   "t0": 667.38,
+   "t1": 668.64,
+   "en": "That would make sense.",
+   "pt": "Eu concordo com você.",
+   "score": 0.293,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 669.31,
+   "t1": 671.15,
+   "en": "A swelling spite he mentioned.",
+   "pt": "O ressentimento que La Neve descreveu pode ser a fonte do poder da bomba.",
+   "score": 0.238,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 671.58,
+   "t1": 674.46,
+   "en": "Perhaps it's the fuel that strengthens the bomb.",
+   "pt": "O ressentimento que La Neve descreveu pode ser a fonte do poder da bomba.",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 675.17,
+   "t1": 676.53,
+   "en": "The big question, though...",
+   "pt": "O ressentimento que La Neve descreveu pode ser a fonte do poder da bomba.",
+   "score": 0.232,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 676.93,
+   "t1": 678.46,
+   "en": "Where is the bomb?",
+   "pt": "O problema é,",
+   "score": 0.138,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 681.04,
+   "t1": 682.05,
+   "en": "Find anything?",
+   "pt": "O que aconteceu?",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 683.38,
+   "t1": 684.44,
+   "en": "Where's the captain?",
+   "pt": "O que aconteceu?",
+   "score": 0.294,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 688.97,
+   "t1": 689.89,
+   "en": "A bomb?",
+   "pt": "Bomba?",
+   "score": 0.727,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 690.16,
+   "t1": 693.0,
+   "en": "Could that have been what Hood Eugen used that altar for?",
+   "pt": "Será aquilo no altar, no mundo mental de Rudeldin?",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 693.24,
+   "t1": 694.64,
+   "en": "But where's the altar?",
+   "pt": "Mas onde está o altar?",
+   "score": 0.429,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 694.85,
+   "t1": 696.5,
+   "en": "It could be anywhere in Tingen.",
+   "pt": "Mas onde está o altar?",
+   "score": 0.275,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 714.67,
+   "t1": 715.78,
+   "en": "Good day, sirs.",
+   "pt": "Olá, todos.",
+   "score": 0.364,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 716.73,
+   "t1": 718.06,
+   "en": "Hello, Miss Megose.",
+   "pt": "Senhorita Megose?",
+   "score": 0.606,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 719.23,
+   "t1": 720.57,
+   "en": "Lanevus's fiancée?",
+   "pt": "Senhorita Megose?",
+   "score": 0.242,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 722.66,
+   "t1": 725.09,
+   "en": "She seemed rather unstable the last time,",
+   "pt": "Ela parecia mentalmente instável quando a Vi dizia que seu filho subiava no útero.",
+   "score": 0.165,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 725.36,
+   "t1": 728.3,
+   "en": "claiming that her child hums and whistles in her womb.",
+   "pt": "Ela parecia mentalmente instável quando a Vi dizia que seu filho subiava no útero.",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 729.33,
+   "t1": 732.46,
+   "en": "So, Miss Megose, what brings you here today?",
+   "pt": "Senhorita Megose, o que traz aqui?",
+   "score": 0.466,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 733.41,
+   "t1": 734.8,
+   "en": "I'm not sure, really.",
+   "pt": "Não sei por quê,",
+   "score": 0.294,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 735.31,
+   "t1": 737.59,
+   "en": "But I had the urge to visit Zouteland Street.",
+   "pt": "mas de repente eu tive vontade de vir às ruas Outland.",
+   "score": 0.412,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 738.62,
+   "t1": 740.78,
+   "en": "Then I suddenly felt like coming up for a look.",
+   "pt": "E depois me deu vontade de vir até aqui.",
+   "score": 0.306,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 742.66,
+   "t1": 744.71,
+   "en": "Her mental state seems to have worsened.",
+   "pt": "O problema mental dela está piorando.",
+   "score": 0.427,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 745.3,
+   "t1": 748.3,
+   "en": "I missed the chance to assess her with my spirit vision before.",
+   "pt": "Da outra vez, não tive tempo de usar a visão espiritual.",
+   "score": 0.345,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 762.81,
+   "t1": 763.79,
+   "en": "Don't look!",
+   "pt": "Não olhe.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 764.24,
+   "t1": 765.22,
+   "en": "Don't look!",
+   "pt": "Não olhe.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 765.25,
+   "t1": 766.42,
+   "en": "Don't look!",
+   "pt": "Não posso olhar.",
+   "score": 0.24,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 772.38,
+   "t1": 775.28,
+   "en": "If you look, you will die.",
+   "pt": "Senhorita, eu vou morrer.",
+   "score": 0.298,
+   "overlap": 0.69,
+   "anchors": []
+  },
+  {
+   "t0": 783.92,
+   "t1": 786.34,
+   "en": "Lanevus didn't leave his bomb at the altar.",
+   "pt": "A bomba de Lannevos não está no altar.",
+   "score": 0.405,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 788.15,
+   "t1": 791.17,
+   "en": "He planted an evil god inside Megose.",
+   "pt": "Eu ser maligno dentro da Megose.",
+   "score": 0.418,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 801.24,
+   "t1": 804.57,
+   "en": "\"I started the Industrial Revolution with my own hands.\"",
+   "pt": "E agora ela será o peço para o nascimento de um Deus maligno?",
+   "score": 0.248,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 804.86,
+   "t1": 807.89,
+   "en": "\"Personally ushered in the edge of Steam and Machinery.\"",
+   "pt": "O apito está sendo suprimido.",
+   "score": 0.296,
+   "overlap": 0.99,
+   "anchors": [
+    "steam and machinery"
+   ]
+  },
+  {
+   "t0": 808.69,
+   "t1": 813.26,
+   "en": "\"But have I only made the foundation of misery for the descent of an evil god?\"",
+   "pt": "O amuleto do só flamigente não foi afetado.",
+   "score": 0.254,
+   "overlap": 0.66,
+   "anchors": []
+  },
+  {
+   "t0": 823.76,
+   "t1": 825.36,
+   "en": "The whistle's being suppressed.",
+   "pt": "O apito está sendo suprimido.",
+   "score": 0.414,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 829.27,
+   "t1": 831.49,
+   "en": "But the Flaring Sun Charm is unaffected.",
+   "pt": "O amuleto do só flamigente não foi afetado.",
+   "score": 0.444,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 833.56,
+   "t1": 836.48,
+   "en": "Well, now that you're here, can we help you with something?",
+   "pt": "Senhorita Megose, precisa de alguma coisa?",
+   "score": 0.229,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 839.39,
+   "t1": 842.41,
+   "en": "Yes, I'd like to have a chat about my Lanevus.",
+   "pt": "Eu gostaria de conversar sobre o Lannevos.",
+   "score": 0.447,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 843.14,
+   "t1": 846.25,
+   "en": "He told me that you're well informed on the matter.",
+   "pt": "Ele disse que vocês sabem de muita coisa.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 847.51,
+   "t1": 849.36,
+   "en": "Who's he, Lanevus?",
+   "pt": "Quem disse isso?",
+   "score": 0.258,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 851.39,
+   "t1": 852.46,
+   "en": "No, silly.",
+   "pt": "O meu querido filho.",
+   "score": 0.296,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 852.59,
+   "t1": 853.7,
+   "en": "He is my child.",
+   "pt": "O meu querido filho.",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 856.53,
+   "t1": 859.48,
+   "en": "Would you like a coffee or black tea?",
+   "pt": "Então, prefere café ou chá?",
+   "score": 0.197,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 861.73,
+   "t1": 862.81,
+   "en": "Warm water, please.",
+   "pt": "Um copo de água morna.",
+   "score": 0.263,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 863.4,
+   "t1": 864.8,
+   "en": "Of course, one moment.",
+   "pt": "Claro, senhorita.",
+   "score": 0.343,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 865.95,
+   "t1": 868.61,
+   "en": "Just keep her calm.",
+   "pt": "A calma.",
+   "score": 0.4,
+   "overlap": 0.75,
+   "anchors": []
+  },
+  {
+   "t0": 888.59,
+   "t1": 889.51,
+   "en": "What's wrong?",
+   "pt": "Tudo bem?",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 900.83,
+   "t1": 903.2,
+   "en": "Not to pry, but you and Mr. Lanevus.",
+   "pt": "A primeira vez que o vi foi em um baile, na procuradoria municipal.",
+   "score": 0.224,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 903.6,
+   "t1": 905.43,
+   "en": "You two first met at a ball, right?",
+   "pt": "A primeira vez que o vi foi em um baile, na procuradoria municipal.",
+   "score": 0.327,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 905.64,
+   "t1": 906.18,
+   "en": "Huh?",
+   "pt": "A primeira vez que o vi foi em um baile, na procuradoria municipal.",
+   "score": 0.029,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 906.61,
+   "t1": 907.5,
+   "en": "That's correct.",
+   "pt": "A primeira vez que o vi foi em um baile, na procuradoria municipal.",
+   "score": 0.152,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 907.7,
+   "t1": 908.69,
+   "en": "Yes, we did.",
+   "pt": "Ele era perfeito, bonito e rico.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 909.06,
+   "t1": 910.23,
+   "en": "A lovely evening.",
+   "pt": "Ele era perfeito, bonito e rico.",
+   "score": 0.261,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 910.81,
+   "t1": 912.49,
+   "en": "It was at the City Council Ball.",
+   "pt": "Ele era perfeito, bonito e rico.",
+   "score": 0.295,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 914.95,
+   "t1": 916.89,
+   "en": "He was something else to behold.",
+   "pt": "Um jovem empresário mais popular dentre as garotas do baile.",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 917.42,
+   "t1": 919.22,
+   "en": "Rich and oh, so handsome.",
+   "pt": "Muitas garotas bonitas queriam dançar com ele.",
+   "score": 0.265,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 919.96,
+   "t1": 923.19,
+   "en": "He had the attention of every young lady in the ballroom that night.",
+   "pt": "Mas, por algum motivo, ele convidou a mim.",
+   "score": 0.132,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 923.28,
+   "t1": 927.27,
+   "en": "Tingen's most beautiful girls, all lining up to dance with him.",
+   "pt": "Da valsa acourante, ele dançou comigo a noite toda.",
+   "score": 0.273,
+   "overlap": 0.66,
+   "anchors": []
+  },
+  {
+   "t0": 927.76,
+   "t1": 931.5,
+   "en": "And yet, for some reason, he only wanted to dance with me.",
+   "pt": "Da valsa acourante, ele dançou comigo a noite toda.",
+   "score": 0.346,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 932.98,
+   "t1": 937.66,
+   "en": "From waltzes to courantes, the two of us danced away the entire evening.",
+   "pt": "Cada palavra que ele dizia me deixava mais feliz.",
+   "score": 0.271,
+   "overlap": 0.64,
+   "anchors": []
+  },
+  {
+   "t0": 938.7,
+   "t1": 941.69,
+   "en": "I hung on his every word and bristled with joy.",
+   "pt": "eu soube que nunca mais poderia viver sem ele.",
+   "score": 0.33,
+   "overlap": 0.69,
+   "anchors": []
+  },
+  {
+   "t0": 942.36,
+   "t1": 945.16,
+   "en": "Absolutely captivated by his every look.",
+   "pt": "eu soube que nunca mais poderia viver sem ele.",
+   "score": 0.405,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 945.57,
+   "t1": 950.67,
+   "en": "That's when I knew I would remain by his side for the rest of my life.",
+   "pt": "Então, me disseram que ele era um forçante.",
+   "score": 0.273,
+   "overlap": 0.6,
+   "anchors": []
+  },
+  {
+   "t0": 953.61,
+   "t1": 955.77,
+   "en": "And then they told me he was a fraud.",
+   "pt": "Que ele me enganou.",
+   "score": 0.37,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 956.43,
+   "t1": 958.88,
+   "en": "That he deceived me and abandoned us.",
+   "pt": "Mas não é verdade.",
+   "score": 0.189,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 959.0,
+   "t1": 960.26,
+   "en": "Although it's not true.",
+   "pt": "Ele era muito bom para mim.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 960.85,
+   "t1": 962.3,
+   "en": "He showered me with love.",
+   "pt": "Ele me levava às reuniões com seus amigos.",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 962.83,
+   "t1": 965.65,
+   "en": "Always made a point to introduce me to his friends.",
+   "pt": "Me levou a vários lugares maravilhosos.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 966.41,
+   "t1": 968.66,
+   "en": "And the wonderful places he took me to.",
+   "pt": "Naquele dia,",
+   "score": 0.204,
+   "overlap": 0.89,
+   "anchors": []
+  },
+  {
+   "t0": 969.41,
+   "t1": 970.24,
+   "en": "That day.",
+   "pt": "naquele dia.",
+   "score": 0.421,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 981.69,
+   "t1": 984.53,
+   "en": "He gifted me the most exquisite necklace.",
+   "pt": "E disse que tinha uma surpresa para mim.",
+   "score": 0.329,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 985.01,
+   "t1": 989.17,
+   "en": "He told me it would bless my life with wondrous surprise.",
+   "pt": "As características de um descendente da morte",
+   "score": 0.139,
+   "overlap": 0.61,
+   "anchors": []
+  },
+  {
+   "t0": 991.76,
+   "t1": 994.18,
+   "en": "A remnant to be a descendant of death!",
+   "pt": "permitem que um corpo mortal seja um ser.",
+   "score": 0.078,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 994.49,
+   "t1": 997.56,
+   "en": "It should give her mortal vessel the strength to incubate,",
+   "pt": "Como receptáculo para sua chegada.",
+   "score": 0.2,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 997.58,
+   "t1": 999.72,
+   "en": "and bear the descent of our deity.",
+   "pt": "Recentimento e escuridão sem limites",
+   "score": 0.377,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1000.15,
+   "t1": 1002.99,
+   "en": "The accretion of oppression and resentment.",
+   "pt": "são um leite e um mel que nutrem o Espírito Sagrado.",
+   "score": 0.258,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1003.23,
+   "t1": 1008.44,
+   "en": "Tears and anguish will nourish the ritual's consummation.",
+   "pt": "são um leite e um mel que nutrem o Espírito Sagrado.",
+   "score": 0.299,
+   "overlap": 0.46,
+   "anchors": []
+  },
+  {
+   "t0": 1018.1,
+   "t1": 1020.41,
+   "en": "So she's not carrying the child of Lanevus.",
+   "pt": "Minha espiritualidade me alertou para não olhar diretamente",
+   "score": 0.198,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1020.86,
+   "t1": 1023.96,
+   "en": "My spirituality screamed at me not to use my Spirit Vision:",
+   "pt": "Considerando o altar no mundo mental de Rudeldin",
+   "score": 0.283,
+   "overlap": 0.75,
+   "anchors": [
+    "spirituality"
+   ]
+  },
+  {
+   "t0": 1024.06,
+   "t1": 1025.41,
+   "en": "\"Don't look at gods.\"",
+   "pt": "Considerando o altar no mundo mental de Rudeldin",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1025.71,
+   "t1": 1027.98,
+   "en": "I thought of the altar I saw in Eugen's mind.",
+   "pt": "e a divindade que Lanervos prometeu,",
+   "score": 0.203,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 1028.5,
+   "t1": 1030.6,
+   "en": "And the godhood Lanevus promised Eugen.",
+   "pt": "eu suspeito que o que negoz e carrega no ventre seja",
+   "score": 0.289,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1031.25,
+   "t1": 1033.33,
+   "en": "I suspect the bomb inside Megose.",
+   "pt": "o corpo do verdadeiro criador.",
+   "score": 0.23,
+   "overlap": 0.96,
+   "anchors": []
+  },
+  {
+   "t0": 1033.43,
+   "t1": 1035.12,
+   "en": "A vessel for the True Creator.",
+   "pt": "É por isso que o senhor Havre, quer estar seguindo,",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1035.36,
+   "t1": 1036.04,
+   "en": "Yes, sir.",
+   "pt": "É por isso que o senhor Havre, quer estar seguindo,",
+   "score": 0.179,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1036.24,
+   "t1": 1039.14,
+   "en": "It explains why Havre lost control while tailing Megose.",
+   "pt": "É por isso que o senhor Havre, quer estar seguindo,",
+   "score": 0.365,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 1040.31,
+   "t1": 1042.16,
+   "en": "It might have even corrupted Old Neil.",
+   "pt": "Talvez o senhor Anil tenha sido influenciado.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1043.85,
+   "t1": 1046.89,
+   "en": "And not even one hour after we found the letter from Lanevus.",
+   "pt": "negoz e bate a nossa porta.",
+   "score": 0.14,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 1047.59,
+   "t1": 1049.21,
+   "en": "Megose walks in our door.",
+   "pt": "negoz e bate a nossa porta.",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1051.2,
+   "t1": 1052.68,
+   "en": "Another coincidence, eh?",
+   "pt": "Conhecidências de Biondas.",
+   "score": 0.468,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1053.69,
+   "t1": 1055.42,
+   "en": "It's so direct, obvious.",
+   "pt": "Eles nem estão tentando esconder.",
+   "score": 0.259,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1055.68,
+   "t1": 1057.19,
+   "en": "They're not even hiding it now.",
+   "pt": "Eles nem estão tentando esconder.",
+   "score": 0.323,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1058.01,
+   "t1": 1061.69,
+   "en": "I have a feeling that the mastermind is about to take center stage.",
+   "pt": "Parece que aumentou a potragem de tudo, está prestes à chia.",
+   "score": 0.323,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1065.14,
+   "t1": 1067.8,
+   "en": "But then he was gone, he simply disappeared.",
+   "pt": "Mas depois daquele dia, ele desapareceu.",
+   "score": 0.375,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1068.58,
+   "t1": 1071.63,
+   "en": "I've spent so much time searching for him.",
+   "pt": "Eu o procurei por muito tempo, mas não o encontrei.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1072.33,
+   "t1": 1073.75,
+   "en": "Without a trace.",
+   "pt": "Tente não se preocupar tanto, Senhorita Amigose.",
+   "score": 0.164,
+   "overlap": 0.8,
+   "anchors": []
+  },
+  {
+   "t0": 1074.03,
+   "t1": 1075.23,
+   "en": "Come now, Miss Megose.",
+   "pt": "Tente não se preocupar tanto, Senhorita Amigose.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1075.48,
+   "t1": 1076.41,
+   "en": "Try not to worry.",
+   "pt": "Tente não se preocupar tanto, Senhorita Amigose.",
+   "score": 0.323,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1076.87,
+   "t1": 1077.91,
+   "en": "Think of your child.",
+   "pt": "Pelo bem do seu filho.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1078.28,
+   "t1": 1079.17,
+   "en": "My child!",
+   "pt": "Pelo bem do seu filho.",
+   "score": 0.276,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1079.24,
+   "t1": 1080.19,
+   "en": "Child!",
+   "pt": "Filho! Filho!",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1084.78,
+   "t1": 1086.92,
+   "en": "Her psyche is on the verge of collapsing.",
+   "pt": "Onde estão Fry e Royal?",
+   "score": 0.323,
+   "overlap": 0.93,
+   "anchors": []
+  },
+  {
+   "t0": 1087.68,
+   "t1": 1088.68,
+   "en": "Frye and Royale?",
+   "pt": "Ainda não voltaram.",
+   "score": 0.364,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1088.91,
+   "t1": 1089.71,
+   "en": "Not back yet.",
+   "pt": "Peça que os civis saiam do prédio",
+   "score": 0.178,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1089.73,
+   "t1": 1091.41,
+   "en": "Order all non-combatants to leave.",
+   "pt": "Peça que os civis saiam do prédio",
+   "score": 0.212,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1092.1,
+   "t1": 1094.05,
+   "en": "I'll have the police evacuate the area.",
+   "pt": "e que a polícia evacui o quarteirão rapidamente.",
+   "score": 0.471,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1095.36,
+   "t1": 1096.18,
+   "en": "Uh...",
+   "pt": "Sobre o paradeiro do senhor Lanervos,",
+   "score": 0.053,
+   "overlap": 0.68,
+   "anchors": []
+  },
+  {
+   "t0": 1096.65,
+   "t1": 1097.17,
+   "en": "Oh!",
+   "pt": "Sobre o paradeiro do senhor Lanervos,",
+   "score": 0.105,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1097.69,
+   "t1": 1099.76,
+   "en": "Care to hear the new leads we found?",
+   "pt": "Sobre o paradeiro do senhor Lanervos,",
+   "score": 0.366,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1102.11,
+   "t1": 1102.97,
+   "en": "Stay calm.",
+   "pt": "Óbes do capitão, é uma emergência.",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1103.03,
+   "t1": 1104.12,
+   "en": "Orders from the captain.",
+   "pt": "Óbes do capitão, é uma emergência.",
+   "score": 0.4,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1104.22,
+   "t1": 1106.25,
+   "en": "All civilian staff need to evacuate.",
+   "pt": "Todos os civis devem evacuar.",
+   "score": 0.476,
+   "overlap": 0.99,
+   "anchors": []
+  },
+  {
+   "t0": 1106.77,
+   "t1": 1107.33,
+   "en": "Go!",
+   "pt": "É perigoso. Vai.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1115.94,
+   "t1": 1119.39,
+   "en": "If it's not the True Creator, it's at least a Legendary Creature.",
+   "pt": "é uma criatura mística de no mínimo sequência 4.",
+   "score": 0.204,
+   "overlap": 0.78,
+   "anchors": []
+  },
+  {
+   "t0": 1119.51,
+   "t1": 1122.09,
+   "en": "I'll request urgent backup from the Holy Cathedral,",
+   "pt": "os castigadores mandatados e da mente coletiva mecânica.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1122.22,
+   "t1": 1123.84,
+   "en": "and the other Orthodox churches.",
+   "pt": "Uma criatura mística de sequência 4.",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1125.06,
+   "t1": 1127.11,
+   "en": "A God or a Legendary Creature?",
+   "pt": "Temos algumas chances sozinhos.",
+   "score": 0.305,
+   "overlap": 0.98,
+   "anchors": []
+  },
+  {
+   "t0": 1127.55,
+   "t1": 1129.48,
+   "en": "Is there any chance of winning on our own?",
+   "pt": "O professor Azic...",
+   "score": 0.175,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1130.15,
+   "t1": 1131.26,
+   "en": "Professor Azik.",
+   "pt": "Se o professor Azic ainda estivesse em Tinder...",
+   "score": 0.441,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1131.57,
+   "t1": 1133.29,
+   "en": "If only he was still in Tingen...",
+   "pt": "Se o professor Azic ainda estivesse em Tinder...",
+   "score": 0.373,
+   "overlap": 1.0,
+   "anchors": [
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1136.13,
+   "t1": 1137.68,
+   "en": "The whistle's power has returned.",
+   "pt": "Preciso avisar o professor Azic.",
+   "score": 0.349,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1138.41,
+   "t1": 1139.74,
+   "en": "I need to contact Azik.",
+   "pt": "Professor Azic,",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1143.65,
+   "t1": 1144.64,
+   "en": "Professor Azik.",
+   "pt": "e que roubou o crânio de seu filho está prestes a aparecer.",
+   "score": 0.194,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1144.8,
+   "t1": 1148.16,
+   "en": "The mastermind who's been weaving my fate and stole your son's skull",
+   "pt": "e que roubou o crânio de seu filho está prestes a aparecer.",
+   "score": 0.19,
+   "overlap": 0.84,
+   "anchors": []
+  },
+  {
+   "t0": 1148.19,
+   "t1": 1149.8,
+   "en": "is finally revealing themselves.",
+   "pt": "A situação é crítica.",
+   "score": 0.157,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1150.22,
+   "t1": 1152.15,
+   "en": "The True Creator might soon descend.",
+   "pt": "A situação é crítica.",
+   "score": 0.218,
+   "overlap": 0.73,
+   "anchors": []
+  },
+  {
+   "t0": 1162.37,
+   "t1": 1165.69,
+   "en": "If the evil descends before the Holy Cathedral can send backup,",
+   "pt": "Pegue dois artefatos selados ofensivos.",
+   "score": 0.26,
+   "overlap": 0.9,
+   "anchors": []
+  },
+  {
+   "t0": 1172.26,
+   "t1": 1174.54,
+   "en": "We need two powerful Sealed Artifacts.",
+   "pt": "Hoje só a entende em três artefatos selados de nível 2",
+   "score": 0.382,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1174.71,
+   "t1": 1178.0,
+   "en": "I request 3-0782, the Mutated Sun.",
+   "pt": "e não sabemos o efeito de dois deles sobre sequências altas.",
+   "score": 0.262,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 1178.51,
+   "t1": 1180.25,
+   "en": "We lent it to Backlund yesterday.",
+   "pt": "e não sabemos o efeito de dois deles sobre sequências altas.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": [
+    "backlund"
+   ]
+  },
+  {
+   "t0": 1181.65,
+   "t1": 1182.61,
+   "en": "Coincidence?",
+   "pt": "O 2105, o ladrão de vasos sanguíneos,",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1182.87,
+   "t1": 1185.24,
+   "en": "We have three Grade 2 Sealed Artifacts,",
+   "pt": "O que é isso?",
+   "score": 0.208,
+   "overlap": 0.84,
+   "anchors": []
+  },
+  {
+   "t0": 1185.47,
+   "t1": 1188.3,
+   "en": "and only one of them has been reliably tested in battle.",
+   "pt": "O que é isso?",
+   "score": 0.149,
+   "overlap": 0.71,
+   "anchors": []
+  },
+  {
+   "t0": 1188.97,
+   "t1": 1192.18,
+   "en": "2-105 has proven effective against high-Sequences.",
+   "pt": "O 2105, ladrão de vasos sanguíneos,",
+   "score": 0.225,
+   "overlap": 0.62,
+   "anchors": []
+  },
+  {
+   "t0": 1192.53,
+   "t1": 1196.16,
+   "en": "The Blood Vessel Thief can rob one ability from a target within range.",
+   "pt": "Ele pode roubar uma habilidade de um alvo dentro de um certo alcance,",
+   "score": 0.38,
+   "overlap": 0.83,
+   "anchors": []
+  },
+  {
+   "t0": 1196.51,
+   "t1": 1197.63,
+   "en": "The odds are slim.",
+   "pt": "mas a chance de sucesso é uma pequena.",
+   "score": 0.259,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1198.03,
+   "t1": 1198.97,
+   "en": "I'll take it then.",
+   "pt": "mas a chance de sucesso é uma pequena.",
+   "score": 0.259,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1200.91,
+   "t1": 1204.31,
+   "en": "2-105 drains the life force of anyone who holds it.",
+   "pt": "Qualquer pessoa que tenha contato com o 2105 tem sua vida roubada.",
+   "score": 0.269,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1204.99,
+   "t1": 1207.33,
+   "en": "And the limit for a Sequence 8?",
+   "pt": "Lembre-se, o limite para um sequência 8 é de meia hora.",
+   "score": 0.481,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1207.66,
+   "t1": 1208.54,
+   "en": "Half an hour.",
+   "pt": "Lembre-se, o limite para um sequência 8 é de meia hora.",
+   "score": 0.222,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1209.35,
+   "t1": 1211.17,
+   "en": "It's for Leonard, but I'll pass that on.",
+   "pt": "Vou avisar o Leonard sobre as aletas.",
+   "score": 0.486,
+   "overlap": 1.0,
+   "anchors": [
+    "leonard"
+   ]
+  },
+  {
+   "t0": 1212.61,
+   "t1": 1216.19,
+   "en": "Well, my dear poet, time to reveal your secret.",
+   "pt": "Meu caro poeta, essa é a hora de revelar o seu segredo.",
+   "score": 0.536,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1218.39,
+   "t1": 1219.58,
+   "en": "And as for you?",
+   "pt": "Então, qual usará?",
+   "score": 0.267,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1221.41,
+   "t1": 1222.39,
+   "en": "Already equipped.",
+   "pt": "Eu tenho outro plano.",
+   "score": 0.056,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1233.74,
+   "t1": 1235.91,
+   "en": "I request the gate's core seal:",
+   "pt": "Solicito a ativação de um selo de núcleo.",
+   "score": 0.286,
+   "overlap": 0.92,
+   "anchors": []
+  },
+  {
+   "t0": 1235.94,
+   "t1": 1237.59,
+   "en": "Saint Selena's ashes.",
+   "pt": "Há cinzas de Santa Selena.",
+   "score": 0.489,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1238.23,
+   "t1": 1240.98,
+   "en": "But... that must be authorized by...",
+   "pt": "A Catedral Sagrada precisa autorizar.",
+   "score": 0.455,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1242.01,
+   "t1": 1246.15,
+   "en": "As sanctioned captain of the Tingen Nighthawks, I invoke the crisis clause.",
+   "pt": "eu ativo a cláusula de emergência e solicito as cinzas de Santa Selena.",
+   "score": 0.182,
+   "overlap": 0.85,
+   "anchors": [
+    "nighthawks",
+    "tingen"
+   ]
+  },
+  {
+   "t0": 1246.48,
+   "t1": 1248.12,
+   "en": "Bring me Saint Selena's ashes.",
+   "pt": "eu ativo a cláusula de emergência e solicito as cinzas de Santa Selena.",
+   "score": 0.343,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1324.02,
+   "t1": 1326.01,
+   "en": "The Holy Cathedral just wired back.",
+   "pt": "Não responderam.",
+   "score": 0.204,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1326.31,
+   "t1": 1328.13,
+   "en": "Backup's on the way, try to stall.",
+   "pt": "Agora o que precisamos é tempo.",
+   "score": 0.258,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1329.01,
+   "t1": 1329.89,
+   "en": "The Mastermind?",
+   "pt": "A Catedral Sagrada respondeu.",
+   "score": 0.333,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1330.29,
+   "t1": 1331.26,
+   "en": "No response.",
+   "pt": "A Catedral Sagrada respondeu.",
+   "score": 0.41,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1332.54,
+   "t1": 1334.37,
+   "en": "Let's hope time is on our side,",
+   "pt": "Agora o que precisamos é tempo.",
+   "score": 0.233,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1334.68,
+   "t1": 1337.47,
+   "en": "and that Megose can maintain just a little while longer.",
+   "pt": "Eu espero que o receptáculo dentro do negocio possa esperar.",
+   "score": 0.228,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1340.91,
+   "t1": 1343.39,
+   "en": "He rents another home on Howes Street?",
+   "pt": "O Sr. Lannevo tem outra casa na Rua Rous. Ele nunca me disse isso!",
+   "score": 0.16,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1344.24,
+   "t1": 1346.33,
+   "en": "Why wouldn't he tell me that?",
+   "pt": "O Sr. Lannevo tem outra casa na Rua Rous. Ele nunca me disse isso!",
+   "score": 0.22,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1349.17,
+   "t1": 1350.48,
+   "en": "Don't be a fool.",
+   "pt": "Não seja tolo. Vai embora. Saia daqui.",
+   "score": 0.28,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1350.71,
+   "t1": 1351.84,
+   "en": "You must leave.",
+   "pt": "Não seja tolo. Vai embora. Saia daqui.",
+   "score": 0.082,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1351.99,
+   "t1": 1353.12,
+   "en": "Run, damn you.",
+   "pt": "Não seja tolo. Vai embora. Saia daqui.",
+   "score": 0.213,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1353.15,
+   "t1": 1353.85,
+   "en": "You!",
+   "pt": "Não seja tolo. Vai embora. Saia daqui.",
+   "score": 0.105,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1355.38,
+   "t1": 1356.52,
+   "en": "You're hiding something.",
+   "pt": "O que está escondendo de mim?",
+   "score": 0.235,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1356.55,
+   "t1": 1357.39,
+   "en": "What is it?",
+   "pt": "O que está escondendo de mim?",
+   "score": 0.158,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1360.28,
+   "t1": 1361.76,
+   "en": "You see, Mr. Lanevus...",
+   "pt": "O Sr. Lannevo teve um imprevisto e precisou deixar Tindien.",
+   "score": 0.32,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1361.94,
+   "t1": 1365.2,
+   "en": "He had no choice but to quietly leave to clear his good name.",
+   "pt": "O Sr. Lannevo teve um imprevisto e precisou deixar Tindien.",
+   "score": 0.325,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 1366.25,
+   "t1": 1367.2,
+   "en": "But it's done!",
+   "pt": "Quando ele resolver o problema, ele voltará. Por vocês dois.",
+   "score": 0.2,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1367.4,
+   "t1": 1368.63,
+   "en": "He's returning soon.",
+   "pt": "Quando ele resolver o problema, ele voltará. Por vocês dois.",
+   "score": 0.184,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1369.14,
+   "t1": 1370.59,
+   "en": "For you and your child.",
+   "pt": "Quando ele resolver o problema, ele voltará. Por vocês dois.",
+   "score": 0.203,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1372.13,
+   "t1": 1373.24,
+   "en": "Do you mean it?",
+   "pt": "É verdade?",
+   "score": 0.174,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1373.66,
+   "t1": 1374.45,
+   "en": "Of course.",
+   "pt": "Deve ser.",
+   "score": 0.353,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1374.58,
+   "t1": 1375.95,
+   "en": "It all makes sense now.",
+   "pt": "Ele ama esse filho.",
+   "score": 0.5,
+   "overlap": 0.97,
+   "anchors": []
+  },
+  {
+   "t0": 1377.48,
+   "t1": 1379.85,
+   "en": "I know how much he loves our child.",
+   "pt": "Ele, com certeza, vai voltar atrás do filho.",
+   "score": 0.16,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1380.03,
+   "t1": 1381.21,
+   "en": "He's coming back.",
+   "pt": "Ele, com certeza, vai voltar atrás do filho.",
+   "score": 0.281,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1381.31,
+   "t1": 1383.17,
+   "en": "He would never abandon him.",
+   "pt": "O Sr. Moret também disse que, enquanto eu tiver a criança, poderemos encontrar.",
+   "score": 0.297,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1383.2,
+   "t1": 1388.03,
+   "en": "Mr. Moretti even told me he would find my dear Lanevus once the child was born.",
+   "pt": "O Sr. Moret também disse que, enquanto eu tiver a criança, poderemos encontrar.",
+   "score": 0.197,
+   "overlap": 0.92,
+   "anchors": [
+    "moretti"
+   ]
+  },
+  {
+   "t0": 1388.05,
+   "t1": 1389.42,
+   "en": "Klein told you what now?",
+   "pt": "Sim. Aquele adivinho excelente.",
+   "score": 0.231,
+   "overlap": 1.0,
+   "anchors": [
+    "klein"
+   ]
+  },
+  {
+   "t0": 1390.47,
+   "t1": 1393.5,
+   "en": "He's a brilliantly gifted diviner, so it must be true.",
+   "pt": "Eu acho que alguém disse que, se eu viesse aqui, vocês poderiam me ajudar a dar a luz mais rápido.",
+   "score": 0.204,
+   "overlap": 0.95,
+   "anchors": [
+    "diviner"
+   ]
+  },
+  {
+   "t0": 1393.95,
+   "t1": 1395.82,
+   "en": "Oh, that's why I was told to come here.",
+   "pt": "Eu acho que alguém disse que, se eu viesse aqui, vocês poderiam me ajudar a dar a luz mais rápido.",
+   "score": 0.152,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1395.84,
+   "t1": 1399.68,
+   "en": "To help hasten the delivery of my child and bring his father back to me.",
+   "pt": "Eu acho que alguém disse que, se eu viesse aqui, vocês poderiam me ajudar a dar a luz mais rápido.",
+   "score": 0.241,
+   "overlap": 0.72,
+   "anchors": []
+  },
+  {
+   "t0": 1400.03,
+   "t1": 1400.69,
+   "en": "Who?",
+   "pt": "Quem? Quem disse isso?",
+   "score": 0.087,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1400.97,
+   "t1": 1401.98,
+   "en": "Who sent you?",
+   "pt": "Foi uma voz.",
+   "score": 0.348,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1403.2,
+   "t1": 1404.64,
+   "en": "Well, I heard a voice.",
+   "pt": "Uma voz que me disse para vir às ruas Old Land e reencontrar alguns amigos.",
+   "score": 0.128,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1405.79,
+   "t1": 1407.34,
+   "en": "A voice that clearly said...",
+   "pt": "Uma voz que me disse para vir às ruas Old Land e reencontrar alguns amigos.",
+   "score": 0.303,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1407.41,
+   "t1": 1409.54,
+   "en": "\"Your friend at Blackthorn will help you.\"",
+   "pt": "Uma voz que me disse para vir às ruas Old Land e reencontrar alguns amigos.",
+   "score": 0.23,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1414.97,
+   "t1": 1416.97,
+   "en": "It seems the vessel is stable for now.",
+   "pt": "Eu já ia esquecendo.",
+   "score": 0.25,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1417.02,
+   "t1": 1418.05,
+   "en": "I'll go first.",
+   "pt": "Eu já ia esquecendo.",
+   "score": 0.188,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1418.46,
+   "t1": 1419.54,
+   "en": "Stand guard here.",
+   "pt": "Eu já ia esquecendo.",
+   "score": 0.171,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1420.14,
+   "t1": 1421.01,
+   "en": "Right, Captain.",
+   "pt": "A Dali respondeu. Aqui está.",
+   "score": 0.154,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1421.39,
+   "t1": 1422.42,
+   "en": "I almost forgot.",
+   "pt": "A Dali respondeu. Aqui está.",
+   "score": 0.244,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1424.11,
+   "t1": 1425.41,
+   "en": "I've a letter from Daly.",
+   "pt": "Ela pediu que eu me explicasse.",
+   "score": 0.189,
+   "overlap": 1.0,
+   "anchors": [
+    "daly"
+   ]
+  },
+  {
+   "t0": 1426.06,
+   "t1": 1426.82,
+   "en": "For you.",
+   "pt": "Ela pediu que eu me explicasse.",
+   "score": 0.108,
+   "overlap": 0.74,
+   "anchors": []
+  },
+  {
+   "t0": 1438.36,
+   "t1": 1440.57,
+   "en": "There's a particular law in mysticism.",
+   "pt": "No mestizismo existe uma lei.",
+   "score": 0.277,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1441.87,
+   "t1": 1443.68,
+   "en": "All Beyonders characteristics.",
+   "pt": "As características de um Beyonder nunca serão destruídas ou reduzidas.",
+   "score": 0.286,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1444.35,
+   "t1": 1448.76,
+   "en": "They can never be destroyed or reduced, only passed from one carrier to the next.",
+   "pt": "São apenas transferidas de um portador para o próximo.",
+   "score": 0.303,
+   "overlap": 0.68,
+   "anchors": []
+  },
+  {
+   "t0": 1449.37,
+   "t1": 1455.17,
+   "en": "When I reported this finding, the church swore me to silence and gave me two options.",
+   "pt": "Quando eu e a Dali descobrimos isso, a Catedral Sagrada nos fez jurar segredo e nos deu duas opções.",
+   "score": 0.243,
+   "overlap": 0.86,
+   "anchors": []
+  },
+  {
+   "t0": 1456.04,
+   "t1": 1459.95,
+   "en": "Feign ignorance while the church handled the remains of my teammate as usual.",
+   "pt": "A primeira era entregar a Catedral todas as características de cada companheiro falecido.",
+   "score": 0.232,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1460.54,
+   "t1": 1464.72,
+   "en": "Or... I could consume the characteristics of those lost to me.",
+   "pt": "A outra, se ele era do mesmo caminho absorver essas características.",
+   "score": 0.274,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1466.23,
+   "t1": 1471.63,
+   "en": "I don't know if they would want this, and it even impedes my digestion.",
+   "pt": "Eu não sei qual seria a vontade deles e isso afeta drasticamente minha digestão da poção.",
+   "score": 0.255,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1473.93,
+   "t1": 1476.28,
+   "en": "But I made this choice because I miss them.",
+   "pt": "Mas essa foi a opção que escolhi.",
+   "score": 0.216,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1479.0,
+   "t1": 1480.79,
+   "en": "I chose to be with them forever.",
+   "pt": "De estar com eles para sempre.",
+   "score": 0.267,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1492.38,
+   "t1": 1493.2,
+   "en": "Captain...",
+   "pt": "Capitão.",
+   "score": 0.571,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1504.51,
+   "t1": 1506.24,
+   "en": "My child!",
+   "pt": "Meu filho!",
+   "score": 0.471,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1510.56,
+   "t1": 1512.25,
+   "en": "Please, lad, run!",
+   "pt": "Cola, rapaz. Vamos.",
+   "score": 0.267,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1518.62,
+   "t1": 1520.79,
+   "en": "Megose, please, calm down!",
+   "pt": "O nascimento deve ser abençoado pelo pai e pela mãe.",
+   "score": 0.243,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1520.81,
+   "t1": 1522.07,
+   "en": "Think of the child!",
+   "pt": "Lanegos voltará em alguns dias. Espere só mais alguns dias.",
+   "score": 0.213,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1522.53,
+   "t1": 1524.89,
+   "en": "Both of his parents should be here to welcome him!",
+   "pt": "Lanegos voltará em alguns dias. Espere só mais alguns dias.",
+   "score": 0.377,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1525.21,
+   "t1": 1526.96,
+   "en": "Lanevus will be back any day!",
+   "pt": "Alguns dias?",
+   "score": 0.308,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1527.21,
+   "t1": 1528.57,
+   "en": "A few more at most!",
+   "pt": "Alguns dias?",
+   "score": 0.276,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1530.19,
+   "t1": 1532.38,
+   "en": "Are you really asking me to wait?",
+   "pt": "Quando a criança nasce!",
+   "score": 0.222,
+   "overlap": 0.91,
+   "anchors": []
+  },
+  {
+   "t0": 1532.58,
+   "t1": 1534.89,
+   "en": "The only way he'll return to me!",
+   "pt": "Último lato.",
+   "score": 0.286,
+   "overlap": 0.55,
+   "anchors": []
+  },
+  {
+   "t0": 1535.17,
+   "t1": 1537.6,
+   "en": "It's once the child has been born!",
+   "pt": "Último lato.",
+   "score": 0.136,
+   "overlap": 0.82,
+   "anchors": []
+  },
+  {
+   "t0": 1539.82,
+   "t1": 1544.77,
+   "en": "And at last we reach the climactic act.",
+   "pt": "Começou.",
+   "score": 0.044,
+   "overlap": 0.4,
+   "anchors": []
+  },
+  {
+   "t0": 1557.27,
+   "t1": 1561.25,
+   "en": "Go! The vessel's reacting to the threat of the saint's ashes!",
+   "pt": "Puxa, você parei que não não aguidou o infrímulo das cinzas da santa e vai dar certo.",
+   "score": 0.141,
+   "overlap": 1.0,
+   "anchors": []
+  },
+  {
+   "t0": 1561.44,
+   "t1": 1563.71,
+   "en": "He will soon descend!",
+   "pt": "Cinzas da santa?",
+   "score": 0.229,
+   "overlap": 0.88,
+   "anchors": []
+  },
+  {
+   "t0": 1563.74,
+   "t1": 1564.88,
+   "en": "The saint's ashes?",
+   "pt": "Cinzas da santa?",
+   "score": 0.375,
+   "overlap": 1.0,
+   "anchors": []
+  }
+ ],
+ "lexicon": {
+  "beyonders": "beyonder",
+  "moret": "moretti",
+  "tinden": "tingen"
+ }
+}

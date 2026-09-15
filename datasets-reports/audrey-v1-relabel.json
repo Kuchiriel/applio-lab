@@ -1,0 +1,373 @@
+{
+ "ep10-01673.wav": {
+  "ep": 10,
+  "start": 1673,
+  "janela": [
+   1671.0,
+   1690.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Isso é uma nova oração? | Isso é uma nova oração? | Tem uma boa notícia?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.214,
+    "AUDREY": 1.0
+   }
+  }
+ },
+ "ep10-01677.wav": {
+  "ep": 10,
+  "start": 1677,
+  "janela": [
+   1675.0,
+   1694.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Tem uma boa notícia? | Sobre o concurso público que o senhor mencionou para selecio | A sugestão foi aprovada pelo rei",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.278,
+    "AUDREY": 0.353
+   }
+  }
+ },
+ "ep10-01683.wav": {
+  "ep": 10,
+  "start": 1683,
+  "janela": [
+   1681.0,
+   1700.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "A sugestão foi aprovada pelo rei | O primeiro ministro deve implementá-lo no ano que vem | O primeiro ministro deve implementá-lo no ano que vem",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.292,
+    "AUDREY": 0.377
+   }
+  }
+ },
+ "ep4-00861.wav": {
+  "ep": 4,
+  "start": 861,
+  "janela": [
+   859.0,
+   878.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "spectator"
+  ],
+  "anchors": [
+   "justice",
+   "spectator"
+  ],
+  "pt": "E obrigada, senhor enforcado, por me tornar uma espectadora. | A cima da nova cincenta minha visão espiritual parece amplif | Parabéns, senhorita justiça.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.306,
+    "AUDREY": 0.552
+   }
+  }
+ },
+ "ep4-00906.wav": {
+  "ep": 4,
+  "start": 906,
+  "janela": [
+   904.0,
+   923.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "spectator"
+  ],
+  "anchors": [
+   "spectator"
+  ],
+  "pt": "Senhor louco, senhor enforcado, tenho três perguntas a fazer | E pagarei pelas respostas. | Primeira pergunta.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.323,
+    "AUDREY": 0.567
+   }
+  }
+ },
+ "ep4-00988.wav": {
+  "ep": 4,
+  "start": 988,
+  "janela": [
+   986.0,
+   1005.0
+  ],
+  "veredito": "SELF",
+  "anchors_outro": [
+   "justice"
+  ],
+  "anchors": [
+   "justice"
+  ],
+  "pt": "Obrigada, senhor louco. | Continuem. | A minha segunda pergunta.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.325,
+    "AUDREY": 0.363
+   }
+  }
+ },
+ "ep4-01025.wav": {
+  "ep": 4,
+  "start": 1025,
+  "janela": [
+   1023.0,
+   1042.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "então o animal será uma criatura biônda. | Entendi. | A realeza e a nobreza de Louane têm buscado reformas.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.526,
+    "AUDREY": 0.37
+   }
+  }
+ },
+ "ep4-01033.wav": {
+  "ep": 4,
+  "start": 1033,
+  "janela": [
+   1031.0,
+   1050.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Acredita-se que a estupidez dos ministros | reduz a produtividade e desestabiliza a sociedade. | Encontrar indivíduos talentosos é simples.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.156,
+    "AUDREY": 0.349
+   }
+  }
+ },
+ "ep4-01065.wav": {
+  "ep": 4,
+  "start": 1065,
+  "janela": [
+   1063.0,
+   1082.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Exame superior? | Senhor Louco, deve ser velho e inteligente, | Senhor Louco, deve ser velho e inteligente,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.336,
+    "AUDREY": 0.437
+   }
+  }
+ },
+ "ep4-01142.wav": {
+  "ep": 4,
+  "start": 1142,
+  "janela": [
+   1140.0,
+   1159.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "the fool"
+  ],
+  "anchors": [
+   "the fool"
+  ],
+  "pt": "Será o Senhor Louco? | Será o Senhor Louco uma entidade | quase igual aos sete deuses ortodoxos?",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.445,
+    "AUDREY": 0.432
+   }
+  }
+ },
+ "ep4-02182.wav": {
+  "ep": 4,
+  "start": 2182,
+  "janela": [
+   2180.0,
+   2199.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Eu prefiro usar o vestido que Guinea desenhou para o meu ani | Não deveria, senhorita. | Se usar o mesmo vestido em duas ocasiões,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.247,
+    "AUDREY": 0.439
+   }
+  }
+ },
+ "ep7-00594.wav": {
+  "ep": 7,
+  "start": 594,
+  "janela": [
+   592.0,
+   611.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "zaratul"
+  ],
+  "anchors": [
+   "zaratul"
+  ],
+  "pt": "vi de novo o misterioso Sr. Zarathou. | É uma secreta de Roselle, mas parecem desenhos. | Eu fui imprudente demais.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.67,
+    "AUDREY": 0.284
+   }
+  }
+ },
+ "ep7-00602.wav": {
+  "ep": 7,
+  "start": 602,
+  "janela": [
+   600.0,
+   619.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "zaratul"
+  ],
+  "anchors": [
+   "zaratul"
+  ],
+  "pt": "vi de novo o misterioso Sr. Zarathou. | Eu fui imprudente demais. | Eu fui imprudente demais.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.598,
+    "AUDREY": 0.376
+   }
+  }
+ },
+ "ep7-00659.wav": {
+  "ep": 7,
+  "start": 659,
+  "janela": [
+   657.0,
+   676.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Podem interagir a vontade agora. | Senhor Louco, com a sua orientação, | eu senti um grande progresso na digestão da poção,",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.504,
+    "AUDREY": 0.411
+   }
+  }
+ },
+ "ep7-00680.wav": {
+  "ep": 7,
+  "start": 680,
+  "janela": [
+   678.0,
+   697.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "você seguir estritamente o método de atuação | Seis meses? | Obrigada por tirar minha dúvida, Senhor Louco,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.308,
+    "AUDREY": 0.519
+   }
+  }
+ },
+ "ep8-00215.wav": {
+  "ep": 8,
+  "start": 215,
+  "janela": [
+   213.0,
+   232.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Entrei em contato com alguns círculos secretos de biôndas. D | Entrei em contato com alguns círculos secretos de biôndas. D | Honrado, senhor louco, senhor enforcado, vocês têm informaçõ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.262,
+    "AUDREY": 0.391
+   }
+  }
+ },
+ "ep8-00218.wav": {
+  "ep": 8,
+  "start": 218,
+  "janela": [
+   216.0,
+   235.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Entrei em contato com alguns círculos secretos de biôndas. D | Honrado, senhor louco, senhor enforcado, vocês têm informaçõ | Honrado, senhor louco, senhor enforcado, vocês têm informaçõ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.323,
+    "AUDREY": 0.536
+   }
+  }
+ },
+ "ep8-00250.wav": {
+  "ep": 8,
+  "start": 250,
+  "janela": [
+   248.0,
+   267.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Eu apenas conheço a ponta do iceberg. Para saber mais, preci | Mesmo assim, precisará pagar um preço muito alto por isso. | Mesmo assim, precisará pagar um preço muito alto por isso.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.249,
+    "AUDREY": 0.421
+   }
+  }
+ }
+}

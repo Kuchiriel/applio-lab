@@ -1,0 +1,1118 @@
+{
+ "ep4-00186.wav": {
+  "ep": 4,
+  "start": 186,
+  "janela": [
+   184.0,
+   203.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Ah, vou lhe ensinar um pouco de misticismo avançado, magia r | Entre as magias ritualísticas realizadas por biônders de seq | buscam auxílio e poderes exterros. Primeiro devemos preparar",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.141,
+    "AUDREY": 0.229
+   }
+  }
+ },
+ "ep4-00221.wav": {
+  "ep": 4,
+  "start": 221,
+  "janela": [
+   219.0,
+   238.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Nunca. Esqueça do maior tabu na magia ritualística. Você nun | Ou entrará no perigoso campo do abismo em que pode apenas ag | Ou entrará no perigoso campo do abismo em que pode apenas ag",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": -0.017,
+    "AUDREY": 0.211
+   }
+  }
+ },
+ "ep4-00242.wav": {
+  "ep": 4,
+  "start": 242,
+  "janela": [
+   240.0,
+   259.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "evernight goddess"
+  ],
+  "anchors": [
+   "evernight goddess"
+  ],
+  "pt": "Eu reço pelo poder da noite das trevas. Eu reço pelo poder c | Eu reço pelo poder da noite das trevas. Eu reço pelo poder c | Eu reço pela graça carinhosa da Deusa.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.138,
+    "AUDREY": 0.223
+   }
+  }
+ },
+ "ep4-00253.wav": {
+  "ep": 4,
+  "start": 253,
+  "janela": [
+   251.0,
+   270.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Rogo que me forneça o dinheiro necessário para quitar minha  | Rogo que me forneça o dinheiro necessário para quitar minha  | Dívida de trinta libras? Como assim?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.171,
+    "AUDREY": 0.272
+   }
+  }
+ },
+ "ep4-00314.wav": {
+  "ep": 4,
+  "start": 314,
+  "janela": [
+   312.0,
+   331.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Senhor, este brazão, de fato, prova que é sua. Por favor, gu | Senhor, este brazão, de fato, prova que é sua. Por favor, gu | Senhor, este brazão, de fato, prova que é sua. Por favor, gu",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.036,
+    "AUDREY": 0.036
+   }
+  }
+ },
+ "ep4-00325.wav": {
+  "ep": 4,
+  "start": 325,
+  "janela": [
+   323.0,
+   342.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Uma pessoa tão honesta merece um agradecimento sincero. | Por favor, acente trinta libras como recompensa. | O senhor é um cavaleiro da magentil e generosa estíripe.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.249,
+    "AUDREY": 0.189
+   }
+  }
+ },
+ "ep5-00622.wav": {
+  "ep": 5,
+  "start": 622,
+  "janela": [
+   620.0,
+   639.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "tingen"
+  ],
+  "pt": "Seja bem-vindo ao Mercado Subterrâneo de King Jane. | Seja bem-vindo ao Mercado Subterrâneo de King Jane.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.113,
+    "AUDREY": 0.194
+   }
+  }
+ },
+ "ep5-00653.wav": {
+  "ep": 5,
+  "start": 653,
+  "janela": [
+   651.0,
+   670.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "beyonder"
+  ],
+  "anchors": [
+   "beyonder"
+  ],
+  "pt": "E claro que têm. | não são só entusiastras do mexicismo que vem aqui. | não são só entusiastras do mexicismo que vem aqui.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.112,
+    "AUDREY": 0.408
+   }
+  }
+ },
+ "ep5-00660.wav": {
+  "ep": 5,
+  "start": 660,
+  "janela": [
+   658.0,
+   677.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "não são só entusiastras do mexicismo que vem aqui. | E as igrejas autorizam esse mercado subterrâneo? | Ah, é melhor regular do que proibir.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.085,
+    "AUDREY": 0.21
+   }
+  }
+ },
+ "ep5-00704.wav": {
+  "ep": 5,
+  "start": 704,
+  "janela": [
+   702.0,
+   721.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Chegamos. | Aqui tem amuletos. | Olha só, o velho Neo!",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.208,
+    "AUDREY": 0.259
+   }
+  }
+ },
+ "ep5-00723.wav": {
+  "ep": 5,
+  "start": 723,
+  "janela": [
+   721.0,
+   740.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Não conseguem fazer um amuleto de verdade. | Compre alguns semacabados e depois completos. | Até os semacabados são caros.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.269,
+    "AUDREY": 0.306
+   }
+  }
+ },
+ "ep7-00184.wav": {
+  "ep": 7,
+  "start": 184,
+  "janela": [
+   182.0,
+   201.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Quebrar a maldição? Tenho que anotar. Ótimo. | Noivo? Ah, parabéns, Joven Kenley. Finalmente, um gavião de  | Noivo? Ah, parabéns, Joven Kenley. Finalmente, um gavião de ",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.092,
+    "AUDREY": 0.294
+   }
+  }
+ },
+ "ep8-00478.wav": {
+  "ep": 8,
+  "start": 478,
+  "janela": [
+   476.0,
+   495.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "tingen"
+  ],
+  "anchors": [
+   "tingen"
+  ],
+  "pt": "O senhor Nil e... | Ei, meu amigo, por que tanta pressa? | Ei, meu amigo, por que tanta pressa?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.186,
+    "AUDREY": 0.299
+   }
+  }
+ },
+ "ep8-00487.wav": {
+  "ep": 8,
+  "start": 487,
+  "janela": [
+   485.0,
+   504.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Ah, aquele cara. | Você completa um e sai em outra em seguida. | Você completa um e sai em outra em seguida.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.037,
+    "AUDREY": 0.316
+   }
+  }
+ },
+ "ep8-00502.wav": {
+  "ep": 8,
+  "start": 502,
+  "janela": [
+   500.0,
+   519.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Senhor Nil, bom dia. | Ah, Clain. | Ah, Clain.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.07,
+    "AUDREY": 0.305
+   }
+  }
+ },
+ "ep8-00518.wav": {
+  "ep": 8,
+  "start": 518,
+  "janela": [
+   516.0,
+   535.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "Se engajgar, não conte comigo para te salvar. | Se engajgar, não conte comigo para te salvar. | Veio por causa do que eu ouvi no cais, não é?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.102,
+    "AUDREY": 0.29
+   }
+  }
+ },
+ "ep8-00521.wav": {
+  "ep": 8,
+  "start": 521,
+  "janela": [
+   519.0,
+   538.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "Se engajgar, não conte comigo para te salvar. | Veio por causa do que eu ouvi no cais, não é? | Que fantasma é esse?",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.521,
+    "AUDREY": 0.297
+   }
+  }
+ },
+ "ep8-00641.wav": {
+  "ep": 8,
+  "start": 641,
+  "janela": [
+   639.0,
+   658.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Essas coisas devem ser resolvidas pelos jovens. | Ai, minhas costas. | Tem dia que eu amaniço o travado.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.135,
+    "AUDREY": 0.338
+   }
+  }
+ },
+ "ep8-00650.wav": {
+  "ep": 8,
+  "start": 650,
+  "janela": [
+   648.0,
+   667.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "A recompensa é dobrada para quem tem mais de 50 anos. | A recompensa é dobrada para quem tem mais de 50 anos. | Ai, o que Klein disse e tem mérito.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.284,
+    "AUDREY": 0.417
+   }
+  }
+ },
+ "ep8-00984.wav": {
+  "ep": 8,
+  "start": 984,
+  "janela": [
+   982.0,
+   1001.0
+  ],
+  "veredito": "OUTRO",
+  "anchors_outro": [
+   "evernight goddess"
+  ],
+  "anchors": [
+   "evernight goddess"
+  ],
+  "pt": "Você é mais elevada que o cosmos. | Deus é da noite eterna. | Você é mais elevada que o cosmos.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.288,
+    "AUDREY": 0.324
+   }
+  }
+ },
+ "ep8-01073.wav": {
+  "ep": 8,
+  "start": 1073,
+  "janela": [
+   1071.0,
+   1090.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Senhor Havre, não tinha uma missão urgente. | Senhor Havre, não tinha uma missão urgente. | O que está fazendo aqui?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.144,
+    "AUDREY": 0.188
+   }
+  }
+ },
+ "ep8-01127.wav": {
+  "ep": 8,
+  "start": 1127,
+  "janela": [
+   1125.0,
+   1144.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O destino cruzou nossos caminhos. | O destino cruzou nossos caminhos. | Acabamos nos conhecendo com um tempo.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.207,
+    "AUDREY": 0.411
+   }
+  }
+ },
+ "ep8-01148.wav": {
+  "ep": 8,
+  "start": 1148,
+  "janela": [
+   1146.0,
+   1165.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Ela faleceu há muitos anos. | Daquele grupo de velhos, sobramos só eu e o Havre. | Daquele grupo de velhos, sobramos só eu e o Havre.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.072,
+    "AUDREY": 0.321
+   }
+  }
+ },
+ "ep8-01156.wav": {
+  "ep": 8,
+  "start": 1156,
+  "janela": [
+   1154.0,
+   1173.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Não faça essa cara. | A morte é um descanso. | O destino é o final da vida.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.216,
+    "AUDREY": 0.206
+   }
+  }
+ },
+ "ep8-01163.wav": {
+  "ep": 8,
+  "start": 1163,
+  "janela": [
+   1161.0,
+   1180.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "O destino é o final da vida. | Para nós, se não perder o controle, | a morte é uma benção dos teus.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": -0.031,
+    "AUDREY": 0.101
+   }
+  }
+ },
+ "ep8-01168.wav": {
+  "ep": 8,
+  "start": 1168,
+  "janela": [
+   1166.0,
+   1185.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "a morte é uma benção dos teus. | Certo. Agora vamos resolver os espíritos malignos que sobrar | Eu sou velho e fraco. Vou ficar fora dessa.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.092,
+    "AUDREY": 0.326
+   }
+  }
+ },
+ "ep9-00372.wav": {
+  "ep": 9,
+  "start": 372,
+  "janela": [
+   370.0,
+   389.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Sabe qual é o lema dos intromissores de mistérios? | Se há ninguém machucar, faça o que desejar. | Se há ninguém machucar, faça o que desejar.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.711,
+    "AUDREY": 0.289
+   }
+  }
+ },
+ "ep9-00385.wav": {
+  "ep": 9,
+  "start": 385,
+  "janela": [
+   383.0,
+   402.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "e contém os princípios que devemos seguir. | Você se inspirou no lema dos intromissores de mistérios? | Ahn? Se eu tivesse te conhecido há vinte anos,",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.187,
+    "AUDREY": 0.145
+   }
+  }
+ },
+ "ep9-00391.wav": {
+  "ep": 9,
+  "start": 391,
+  "janela": [
+   389.0,
+   408.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Você se inspirou no lema dos intromissores de mistérios? | Ahn? Se eu tivesse te conhecido há vinte anos, | que ótimo seria.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.56,
+    "AUDREY": 0.298
+   }
+  }
+ },
+ "ep9-00834.wav": {
+  "ep": 9,
+  "start": 834,
+  "janela": [
+   832.0,
+   851.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Que tipo de nova habilidade invisível é essa? | impressionante. | Posso andar com o baralho de taru.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.17,
+    "AUDREY": 0.328
+   }
+  }
+ },
+ "ep9-00862.wav": {
+  "ep": 9,
+  "start": 862,
+  "janela": [
+   860.0,
+   879.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Ser promovido, é? | Como é bom ser jovem? | Senhor Niu, o senhor está bem?",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.683,
+    "AUDREY": 0.234
+   }
+  }
+ },
+ "ep9-00885.wav": {
+  "ep": 9,
+  "start": 885,
+  "janela": [
+   883.0,
+   902.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Eu também tentei me inspirar no lema do Entromissor de Misté | mas eu nunca consegui achar a rota certa. | A vida é feita de um homem.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.207,
+    "AUDREY": 0.266
+   }
+  }
+ },
+ "ep9-00892.wav": {
+  "ep": 9,
+  "start": 892,
+  "janela": [
+   890.0,
+   909.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "mas eu nunca consegui achar a rota certa. | A vida é feita de um homem. | A vida é feita de um homem.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.244,
+    "AUDREY": 0.229
+   }
+  }
+ },
+ "ep9-00900.wav": {
+  "ep": 9,
+  "start": 900,
+  "janela": [
+   898.0,
+   917.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "A vida é feita de arrepentimentos. | A vida é feita de arrepentimentos. | Hoje, o Pequeno Cainos mostrou uma oportunidade.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.19,
+    "AUDREY": 0.204
+   }
+  }
+ },
+ "ep9-00918.wav": {
+  "ep": 9,
+  "start": 918,
+  "janela": [
+   916.0,
+   935.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Já podem ir escolhendo o que vão querer comer. | Tem vitela marinada no mel, | café félmer do Vale do Rio Paz,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.063,
+    "AUDREY": 0.231
+   }
+  }
+ },
+ "ep9-00939.wav": {
+  "ep": 9,
+  "start": 939,
+  "janela": [
+   937.0,
+   956.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "Uma nova bebida da padaria Esmira. | Nessa idade ainda gosta de doces. | Que paladar de criança.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.015,
+    "AUDREY": 0.296
+   }
+  }
+ },
+ "ep9-00949.wav": {
+  "ep": 9,
+  "start": 949,
+  "janela": [
+   947.0,
+   966.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Numa hora dessas devemos beber algo alcoólico. | Pronto, está combinado. | Ou na frente fazer a reserva.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.558,
+    "AUDREY": 0.371
+   }
+  }
+ },
+ "ep9-01133.wav": {
+  "ep": 9,
+  "start": 1133,
+  "janela": [
+   1131.0,
+   1150.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "estou um pouco indisposto. | É, amanhã é melhor. | Indisposto.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.328,
+    "AUDREY": 0.224
+   }
+  }
+ },
+ "ep9-01138.wav": {
+  "ep": 9,
+  "start": 1138,
+  "janela": [
+   1136.0,
+   1155.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "É, amanhã é melhor. | Indisposto. | Certo.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.351,
+    "AUDREY": 0.187
+   }
+  }
+ },
+ "ep9-01261.wav": {
+  "ep": 9,
+  "start": 1261,
+  "janela": [
+   1259.0,
+   1278.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "E ainda não ouvimos. | Vamos embora assim que... | faço o que desejar.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.434,
+    "AUDREY": 0.225
+   }
+  }
+ },
+ "ep9-01306.wav": {
+  "ep": 9,
+  "start": 1306,
+  "janela": [
+   1304.0,
+   1323.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Eu sei que todos me acham avarento, | Eu sei que todos me acham avarento, | eu nunca fiz mal a ninguém.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.092,
+    "AUDREY": 0.314
+   }
+  }
+ },
+ "ep9-01310.wav": {
+  "ep": 9,
+  "start": 1310,
+  "janela": [
+   1308.0,
+   1327.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "dunn",
+   "klein"
+  ],
+  "anchors": [
+   "dunn",
+   "klein"
+  ],
+  "pt": "eu nunca fiz mal a ninguém. | rendi reembolso de algumas despesas | rendi reembolso de algumas despesas",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.321,
+    "AUDREY": 0.304
+   }
+  }
+ },
+ "ep9-01379.wav": {
+  "ep": 9,
+  "start": 1379,
+  "janela": [
+   1377.0,
+   1396.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Não tem nada de errado comigo. | Velho Neil, | o que está fazendo?",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.173,
+    "AUDREY": 0.332
+   }
+  }
+ },
+ "ep9-01397.wav": {
+  "ep": 9,
+  "start": 1397,
+  "janela": [
+   1395.0,
+   1414.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "Eu estou tentando reviver a celeste. | Eu já encontrei uma forma. | Eu já encontrei uma forma.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.383,
+    "AUDREY": 0.138
+   }
+  }
+ },
+ "ep9-01405.wav": {
+  "ep": 9,
+  "start": 1405,
+  "janela": [
+   1403.0,
+   1422.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "Eu já encontrei uma forma. | Há 20 anos, | mas agora eu tenho o conhecimento",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.099,
+    "AUDREY": 0.254
+   }
+  }
+ },
+ "ep9-01413.wav": {
+  "ep": 9,
+  "start": 1413,
+  "janela": [
+   1411.0,
+   1430.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "mas agora eu tenho o conhecimento | para tracê-la de volta. | Eu me arrependo tanto.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.335,
+    "AUDREY": 0.32
+   }
+  }
+ },
+ "ep9-01424.wav": {
+  "ep": 9,
+  "start": 1424,
+  "janela": [
+   1422.0,
+   1441.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Não consegui me inspirar | no lema do intromissor de mistérios, | nem seguir o exemplo da senhorita Dali.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.091,
+    "AUDREY": 0.309
+   }
+  }
+ },
+ "ep9-01626.wav": {
+  "ep": 9,
+  "start": 1626,
+  "janela": [
+   1624.0,
+   1643.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "dunn"
+  ],
+  "anchors": [
+   "dunn"
+  ],
+  "pt": "me tornei um monstro. | Me deixem. | Me deixem sair daqui.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.094,
+    "AUDREY": 0.222
+   }
+  }
+ },
+ "ep9-01646.wav": {
+  "ep": 9,
+  "start": 1646,
+  "janela": [
+   1644.0,
+   1663.0
+  ],
+  "veredito": "AMBIG",
+  "anchors_outro": [
+   "klein"
+  ],
+  "anchors": [
+   "klein"
+  ],
+  "pt": "lembra-te quando eu salvei você. | lembra-te quando eu salvei você. | lembra-te quando eu ajudei a salvar a sua família.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.035,
+    "AUDREY": 0.258
+   }
+  }
+ },
+ "ep9-01673.wav": {
+  "ep": 9,
+  "start": 1673,
+  "janela": [
+   1671.0,
+   1690.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "Dan, | confia em mim. | Eu vou embora hoje à noite.",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.139,
+    "AUDREY": 0.281
+   }
+  }
+ },
+ "ep9-01768.wav": {
+  "ep": 9,
+  "start": 1768,
+  "janela": [
+   1766.0,
+   1785.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "50 gramas de cristal estelar, | 50 gramas de cristal estelar, | 30 gramas de hematita,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.013,
+    "AUDREY": 0.229
+   }
+  }
+ },
+ "ep9-01772.wav": {
+  "ep": 9,
+  "start": 1772,
+  "janela": [
+   1770.0,
+   1789.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "50 gramas de cristal estelar, | 50 gramas de cristal estelar, | 30 gramas de hematita,",
+  "timbre": {
+   "best": "AUDREY",
+   "sim": {
+    "KLEIN": 0.347,
+    "AUDREY": 0.431
+   }
+  }
+ },
+ "ep9-01785.wav": {
+  "ep": 9,
+  "start": 1785,
+  "janela": [
+   1783.0,
+   1802.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "e muito sangue fresco de seres vivos. | Mas posso usar o meu próprio sangue. | faça o que desejar.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.395,
+    "AUDREY": 0.264
+   }
+  }
+ },
+ "ep9-01794.wav": {
+  "ep": 9,
+  "start": 1794,
+  "janela": [
+   1792.0,
+   1811.0
+  ],
+  "veredito": "SEM-ANC",
+  "anchors_outro": [],
+  "anchors": [],
+  "pt": "faça o que desejar.",
+  "timbre": {
+   "best": "KLEIN",
+   "sim": {
+    "KLEIN": 0.85,
+    "AUDREY": 0.214
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+# Binários e mídia ficam FORA do git (HF/disco local).
+*.wav
+*.mp3
+*.mp4
+*.pth
+*.index
+*.pt
+*.onnx
+__pycache__/
+*.pyc
+.cache/
+*.parts/
