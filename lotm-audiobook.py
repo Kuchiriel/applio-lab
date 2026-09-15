@@ -25,10 +25,19 @@ import sys
 
 VERBS = ("disse", "perguntou", "respondeu", "gritou", "sussurrou", "exclamou",
          "murmurou", "comentou", "afirmou", "negou", "riu", "chorou", "pensou",
-         "retrucou", "exalou", "questionou", "leu")
+         "retrucou", "exalou", "questionou", "leu", "acenou", "assentiu",
+         "balançou", "apontou", "continuou", "prosseguiu", "completou",
+         "acrescentou", "concluiu", "ordenou", "insistiu", "praguejou")
 NAMES = ("Klein", "Moretti", "Zhou", "Mingrui", "Benson", "Melissa", "Dunn",
          "Leonard", "Audrey", "Alger", "Daly", "Neil", "Roselle", "Welch",
-         "Naya", "Klee", "Susie", "Hanass", "Vincent", "Azik", "Dalí")
+         "Naya", "Klee", "Susie", "Hanass", "Vincent", "Azik", "Dalí",
+         "Wendy", "Annie")
+# Epítetos → personagem (audits caps 10/12, fase 2): sujeito explícito que
+# o vizinho sobrescrevia. Normalizado antes do casamento verbo-nome.
+EPITHETS = {"inspetor de olhos cinzentos": "DUNN",
+            "inspetor de polícia de olhos cinzentos": "DUNN",
+            "o policial": "DUNN",
+            "olhos verdes e temperamento de poeta": "LEONARD"}
 NAME_RE = r"(?:%s)[\w ]{0,20}" % "|".join(NAMES)
 
 
@@ -69,18 +78,31 @@ SFX_WORDS = {"pá", "toc", "bum", "crac", "bang", "plop", "clique",
 def speaker_of(paras, i, last_speaker):
     """Retorna (falante, confiança)."""
     p = paras[i]
+    # entrada de diário datada ("29 de maio...") = Klein LENDO em voz alta
+    # (fase 2: cap09 Welch; o morto não fala, quem lê é o Klein)
+    if re.match(r"^[\u201c\"]?\d{1,2} de [a-zç]+\.?", p.strip(), re.I):
+        return "KLEIN", "diario-lendo"
     # nota de rodapé virou parágrafo: coletar p/ RELOCAR após o [N]
     # (dono 15/09: nota do fim deve ser narrada logo após o marcador)
     mnote = re.match(r"^(?:\[(\d+)\]|(\d{1,2})\.\s)(.*)$", p, re.S)
     if mnote:
         return "NOTE:%s" % (mnote.group(1) or mnote.group(2)), mnote.group(3).strip()
-    # citação “...” sem travessão = leitura do narrador (ex: caderno).
-    # NÃO é diálogo (dono 15/09: "Todos morrerão, inclusive eu.").
+    # citação “...”: COM verbo/nome = diálogo (resolve abaixo); leitura
+    # (precedida de "dizia o seguinte:") = NARRADOR; avulsa sem
+    # atribuição = UNKNOWN honesto (fase 2: pregão/invocação não são Klein;
+    # continuação só em diálogo ativo comprovado).
     if p.startswith("\u201c"):
-        return "NARRADOR", "citacao-narrada"
-    # onomatopeia avulsa = SFX (dono 15/09: Pá!/Toc! não são fala)
+        has_attr = bool(re.search(r"(%s)" % "|".join(VERBS), p, re.I)) or \
+            any(n.lower() in p.lower() for n in NAMES)
+        if not has_attr:
+            return "UNKNOWN", "citacao-sem-atribuicao"
+        # cai no fluxo de diálogo abaixo (verbo-nome etc.)
+        p = "— " + p
+    # onomatopeia avulsa = SFX (dono 15/09: Pá!/Toc! não são fala).
+    # Inclui repetição de char ("Ffffffff!", "Toc! Toc!") — fase 2.
     words = [w.strip(",.…! ").lower() for w in p.split()]
-    if words and all(w in SFX_WORDS for w in words) and len(p) < 60:
+    if words and len(p) < 60 and all(
+            w in SFX_WORDS or re.fullmatch(r"(.)\1{2,}", w) for w in words):
         return "SFX", "onomatopeia"
     # interjeição avulsa curta ("Doloroso!") = Klein sentindo (dono 15/09)
     if len(words) <= 3 and p.strip().endswith(("!", "…", "...")) and len(p) < 60 \
@@ -90,19 +112,63 @@ def speaker_of(paras, i, last_speaker):
     if re.match(r"^Isto[,.…]", p):
         return "KLEIN", "isto-realizacao"
     if not p.startswith(("—", "–", "-", '"', "\u201c", "\u201d", "«")):
+        # pergunta avulsa curta sem atribuição = Klein pensando em voz alta
+        # (audits caps 2-5; fase 2). SÓ ? — ! declarativa é narração
+        # (regressão cap01 fase 2: "Era um texto..." é NARRADOR).
+        ps = p.strip()
+        has_1p = bool(re.search(
+            r"\b(eu|meu|minha|meus|minhas|me|mim|vou|preciso|sinto|acho|quero|posso|dói)\b",
+            ps, re.I))
+        has_3p = bool(re.search(
+            r"\b(ele|ela|eles|elas|seu|sua|Klein|Zhou|Mingrui)\b", ps))
+        if re.match(r"^[^?!.]{2,150}\?$", ps) and len(ps) < 150 \
+                and not re.search(r"(%s)" % "|".join(VERBS), ps, re.I) \
+                and (has_1p or not has_3p):
+            return "KLEIN", "pergunta-avulsa"
+        # sujeito explícito (nome/epíteto + verbo) antes do pensamento-1p:
+        # evita falso-1p com nome de OUTRO (audits caps 3/5/11; fase 2).
+        # Epíteto + verbo de fala = sinal forte, retorna direto (fase 2:
+        # "Naya... disse o inspetor..." não é Naya).
+        for epi, who in EPITHETS.items():
+            if epi in p.lower() and re.search(
+                    r"(%s)" % "|".join(VERBS), p, re.I):
+                return who, "epiteto-forte"
+        plow2 = p
+        m = re.search(r"([A-Z][\w]+)[^.!?]{0,80}?\s+(%s)" % "|".join(VERBS), plow2)
+        if m and m.group(1).upper() in [n.upper() for n in NAMES] \
+                and m.group(1).upper() not in ("KLEIN", "MORETTI", "ZHOU", "MINGRUI"):
+            return m.group(1).upper(), "sujeito-narracao"
+        m = re.search(r"(%s)\s+([A-Z][\w]+)" % "|".join(VERBS), plow2)
+        if m and m.group(2).upper() in [n.upper() for n in NAMES]:
+            return m.group(2).upper(), "sujeito-narracao-vn"
         # pensamento 1ª pessoa do protagonista = KLEIN, resto NARRADOR
         # ("seu eu" NÃO é 1ª pessoa — dono 15/09: varrer-de-olhos era narração)
         if re.search(r"(?<!seu )\b(eu|meu|minha|meus|minhas|me|mim|vou|preciso|será que|sinto|acho|quero|posso|devo|dói|doeu|hã)\b", p, re.I) \
                 and len(p) < 300:
             return "KLEIN", "pensamento-1p"
         return "NARRADOR", "narração"
-    # verbo de fala + nome no próprio parágrafo
-    m = re.search(r"(%s)\s+([A-Z][\w]+)" % "|".join(VERBS), p)
+    # verbo de fala + nome no próprio parágrafo (epítetos normalizados antes)
+    # Epíteto + verbo = sinal forte também em diálogo (fase 2)
+    for epi, who in EPITHETS.items():
+        if epi in p.lower() and re.search(
+                r"(%s)" % "|".join(VERBS), p, re.I):
+            return who, "epiteto-forte"
+    plow = p
+    for epi, who in EPITHETS.items():
+        if epi in p.lower():
+            plow = who + " " + p
+            break
+    m = re.search(r"(%s)\s+([A-Z][\w]+)" % "|".join(VERBS), plow)
     if m and m.group(2).upper() in [n.upper() for n in NAMES]:
         return m.group(2).upper(), "verbo-nome"
-    m = re.search(r"([A-Z][\w]+)\s+(%s)" % "|".join(VERBS), p)
+    m = re.search(r"([A-Z][\w]+)\s+(%s)" % "|".join(VERBS), plow)
     if m and m.group(1).upper() in [n.upper() for n in NAMES]:
         return m.group(1).upper(), "nome-verbo"
+    # nome ... verbo à distância (ex: "Audrey acenou..., mas perguntou" —
+    # audits caps 6-7: sujeito explícito longe do verbo)
+    m = re.search(r"([A-Z][\w]+)[^.!?]{0,80}?\s+(%s)" % "|".join(VERBS), plow)
+    if m and m.group(1).upper() in [n.upper() for n in NAMES]:
+        return m.group(1).upper(), "nome-verbo-longo"
     # vizinhos (anterior/posterior, narração colada)
     for j in (i - 1, i + 1):
         if 0 <= j < len(paras) and not paras[j].startswith("—"):
@@ -152,8 +218,11 @@ def cmd_parse(a):
             last = "KLEIN"
             paras[i] = m2.group(2).strip(); p = paras[i]
         # perguntas/exclamações líderes ("Uma arma? Um revólver? Zhou...") =
-        # cada uma é fala do Klein; resto volta ao fluxo (dono 15/09)
-        while True:
+        # cada uma é fala do Klein; resto volta ao fluxo (dono 15/09).
+        # NÃO splita onomatopeia pura ("Clinque! Clangue!" = SFX; fase 2).
+        sfxonly = all(w.strip(",.…! ").lower() in SFX_WORDS
+                      for w in p.strip().split()) and len(p.strip()) < 60
+        while not sfxonly:
             m3 = re.match(r"^([^?!.]{2,90}[?!])\s+([A-ZÀ-Ú\"“].*)$", p.strip(), re.S)
             if not m3:
                 break
@@ -178,6 +247,28 @@ def cmd_parse(a):
             who = "UNKNOWN"
         if who not in ("NARRADOR", "UNKNOWN"):
             last = who
+        # leitura em voz alta ("...dizia o seguinte:" + citação) = NARRADOR
+        # (fase 2: caderno cap01; sem isso vira UNKNOWN honesto)
+        if conf == "citacao-sem-atribuicao" and segs and re.search(
+                r"(dizia|diz|escrito|lia-se|seguinte)\s*:?\s*$",
+                segs[-1]["text"]):
+            who, conf = "NARRADOR", "citacao-leitura"
+        # citação avulsa sem atribuição dentro de diálogo ativo continua o
+        # falante anterior — MAS só se o anterior estava em diálogo (não
+        # narração/pensamento) e a citação não é endereçamento (fase 2:
+        # pregão de vendedor e invocação da Audrey não são Klein).
+        if conf in ("citacao-narrada", "citacao-leitura") and last and last != "NARRADOR":
+            prev = segs[-1].get("conf", "") if segs else ""
+            addr = bool(re.search(
+                r"\b(Venha|Beba|despert|ordeno|você|senhor|O que|Como|Onde|"
+                r"Espelho|Em nome|gostaria)\b", p))
+            if not addr and prev.split("+")[0] in (
+                    "fragmento-klein", "pergunta-klein", "interjeicao-split",
+                    "pergunta-avulsa", "verbo-nome", "nome-verbo",
+                    "nome-verbo-longo", "sujeito-narracao-vn", "diario-lendo",
+                    "citacao-narrada+cont-dialogo", "epiteto-forte"):
+                who, conf = last, conf + "+cont-dialogo"
+                last = who
         segs.append({"i": idx, "text": p, "speaker": who, "conf": conf})
         idx += 1
     # reloca notas [N] p/ logo após o segmento que as cita (dono 15/09)

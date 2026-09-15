@@ -11,7 +11,7 @@ import os
 import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-CAPS = os.path.join(HERE, "caps")
+CAPS = os.path.join(os.path.dirname(HERE), "caps") if os.path.basename(HERE) == "scripts" else HERE
 VALID_SPK = {"NARRADOR", "KLEIN", "UNKNOWN", "SFX", "DUNN", "NEIL",
              "LEONARD", "ALGER", "AUDREY", "DALY", "MELISSA", "BENSON",
              "ZHOU", "MINGRUI"}
@@ -24,6 +24,8 @@ def err(m):
 
 for f in sorted(glob.glob(os.path.join(CAPS, "cap[0-9]*.json"))):
     base = os.path.basename(f)
+    if "blocking" in base:
+        continue
     if "relabels" in base:
         d = json.load(open(f))
         for t, w in d.items():
