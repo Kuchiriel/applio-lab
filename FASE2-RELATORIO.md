@@ -1,6 +1,6 @@
 # FASE 2 — relatório (missão ChatGPT 15/09)
 
-## Parser: 275 → 54 auto + 173 relabel + 48 outro
+## Parser: 275 → 54 auto + 172 relabel + 48 outro (+1 sem-match)
 - Causas raiz (não 275 bugs): vizinho⊃sujeito, falso-1p, NAMES incompleto,
   aspas-diário, diálogo sem atribuição, SFX-léxico, epítetos.
 - Fixes: EPITHETS (Dunn×2, Leonard), epiteto-forte, sujeito-narracao±vn,
@@ -14,8 +14,11 @@
 ## Classificação 275
 - PARSER_BUG absorvidos: 54 (onomatopeia 14, sujeito 19, epithet 6,
   pergunta-avulsa 6, verbo-nome 7, nome-verbo-longo 5 — alguns overlap).
-- DATA_EXCEPTION (relabel): 173 — diálogo sem atribuição (UNKNOWN honesto),
-  falantes sem voz (VENDEDOR/TREINADORA/CARTOMANTE/CAPITAO...), cena.
+- DATA_EXCEPTION (relabel): 172 entradas em
+  `personagens/RELABELS-PENDENTES-caps2-12.json` (171 únicas + 1 duplicada;
+  contagem anterior dizia 173 — corrigido na preservação 15/09) — diálogo
+  sem atribuição (UNKNOWN honesto), falantes sem voz
+  (VENDEDOR/TREINADORA/CARTOMANTE/CAPITAO...), cena.
 - NARRATIVE_EXCEPTION:uotro 48 — diário (KLEIN vs audit NARRADOR: CONFLITO
   registrado, minha decisão: quem lê em voz alta é o Klein; dono decide
   no ouvido), CAPITAO/HOMEM-LOIRO (sem voz), CARTOMANTE→KLEIN fallback.
@@ -37,8 +40,9 @@
   em lotes de 5; render cap01 ≈ 40-70min.
 
 ## Pendências reais
-- Dono: aplicar 173 relabels? (patch pronto em /tmp/opencode/relabel-needed.json;
-  caps protegidos — SEM autorização, não apliquei).
+- Dono: aplicar 172 relabels? (patch preservado em
+  `personagens/RELABELS-PENDENTES-caps2-12.json`; caps protegidos — SEM
+  autorização, não apliquei).
 - Dono ouvido: diário KLEIN×NARRADOR (cap09), Khoy, ?/!.
 - Quota Kaggle reset 19/09 (dunn-v4/melissa).
 - STT turbo no jarvis (comparar antes).
