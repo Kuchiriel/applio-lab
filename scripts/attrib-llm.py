@@ -16,8 +16,9 @@ if "--only" in sys.argv:
 
 ELENCO = ("KLEIN (Zhou Mingrui, protagonista, jovem, pensa/fala em 1ª pessoa), "
           "NARRADOR (voz onisciente 3ª pessoa), MELISSA (irmã), BENSON (irmão), "
-          "DUNN (capitão), LEONARD, ALGER, AUDREY, DALY, NEIL, VENN (vendedor), "
-          "WENDY, ANNIE (criada), TREINADORA, CARTOMANTE")
+          "ROZANNE (recepcionista dos Falcões), DUNN (capitão), LEONARD, "
+          "ALGER, AUDREY, DALY, NEIL, VENN (vendedor), WENDY, ANNIE (criada), "
+          "TREINADORA, CARTOMANTE")
 
 data = json.load(open(SEGPATH))["segments"]
 WEAK = {"resíduo", "alternância-fraca", "citacao-sem-atribuicao"}
@@ -32,17 +33,21 @@ CTX = "\n".join("[%d] (%s) %s" % (s["i"], s["speaker"], s["text"][:160]) for s i
 def ask(batch):
     qs = "\n".join("SEG %d: %s" % (s["i"], s["text"][:300]) for s in batch)
     prompt = (
-        "Você atribui falas em um romance (Lord of the Mysteries, cap. em PT-BR).\n"
+        "Você é um AUDITOR FORENSE de audiobook (persona forensic_audio_auditor).\n"
+        "Regras (ordem de força): 1) atribuição explícita (verbo de fala + "
+        "nome: 'repetiu Klein', 'disse Rozanne') DECIDE; 2) pensamento 1ª "
+        "pessoa = KLEIN; 3) narração 3ª pessoa = NARRADOR; 4) lore citada "
+        "NÃO indica falante; 5) sem evidência = UNKNOWN honesto (nunca chute).\n"
+        "Cada veredito CITA a evidência (verbo/contexto). Vereditos sem "
+        "evidência são inválidos.\n"
         "Elenco: %s.\n"
-        "Klein=Zhou Mingrui (mesma pessoa). Pensamento 1ª pessoa=KLEIN. "
-        "Narração 3ª pessoa=NARRADOR. Diálogo com verbo+nome manda. "
-        "Lore citada não indica falante.\n\nCAPÍTULO (índice, falante-atual, texto):\n%s\n\n"
+        "Klein=Zhou Mingrui (mesma pessoa).\n\nCAPÍTULO (índice, falante-atual, texto):\n%s\n\n"
         "Decida o falante de:\n%s\n"
         "Responda UMA LINHA POR SEG, formato exato:\n"
-        "NUMERO: FALANTE - motivo curto\n"
+        "NUMERO: FALANTE - evidência curta\n"
         "FALANTE ∈ {KLEIN,NARRADOR,MELISSA,BENSON,DUNN,LEONARD,ALGER,AUDREY,"
-        "DALY,NEIL,VENN,WENDY,ANNIE,TREINADORA,CARTOMANTE,SFX,UNKNOWN}. "
-        "UNKNOWN só se impossível. Sem JSON, sem rodeios." % (ELENCO, CTX, qs))
+        "DALY,NEIL,ROZANNE,VENN,WENDY,ANNIE,TREINADORA,CARTOMANTE,SFX,UNKNOWN}. "
+        "Sem rodeios." % (ELENCO, CTX, qs))
     body = json.dumps({"model": "bonsai", "messages": [{"role": "user", "content": prompt}],
                        "temperature": 0.1, "max_tokens": 1200}).encode()
     req = urllib.request.Request("http://localhost:8080/v1/chat/completions",
