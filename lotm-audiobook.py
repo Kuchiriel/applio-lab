@@ -434,6 +434,8 @@ def cmd_render(a):
             v = voices.get(next(s["speaker"] for s in data["segments"] if s["i"] == i),
                            {"rvc": None, "pitch": 0, "index_rate": 0.75})
             spk = next(s["speaker"] for s in data["segments"] if s["i"] == i)
+            if spk == "SFX":
+                v = voices.get("NARRADOR", v)  # mesmo mapeamento do cached (fase 2)
             st = next((s.get("style") for s in data["segments"] if s["i"] == i), None) or v.get("style")
             key = bkey(j["text"], spk, v, st)
             g = os.path.join(tmp, "g%03d.wav" % i)

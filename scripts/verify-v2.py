@@ -71,6 +71,10 @@ issues = 0
 for s in data:
     i = s["i"]
     f = os.path.join(PARTS, "f%03d.wav" % i)
+    kind = "rvc"
+    if not os.path.exists(f):
+        f = os.path.join(PARTS, "g%03d.wav" % i)
+        kind = "base"
     if not os.path.exists(f):
         print(i, s["speaker"], "SEM-ARQUIVO")
         issues += 1
@@ -88,12 +92,17 @@ for s in data:
         flags.append("CLIP")
     if rms > 0.15:
         flags.append("BURST?")
-    sk = cos(emb(f), REFS["KLEIN"]) if "KLEIN" in REFS else -9
-    sn = cos(emb(f), REFS["NARRADOR"]) if "NARRADOR" in REFS else -9
-    if s["speaker"] == "KLEIN" and sn > sk + 0.05:
-        flags.append("SWAP?narr(%.2f>%.2f)" % (sn, sk))
-    if s["speaker"] == "NARRADOR" and sk > sn + 0.05:
-        flags.append("SWAP?klein(%.2f>%.2f)" % (sk, sn))
+    sk = sn = -9.0
+    if kind == "rvc":
+        # refs são domínio-RVC; base pura dá falso SWAP (fase 2)
+        sk = cos(emb(f), REFS["KLEIN"]) if "KLEIN" in REFS else -9
+        sn = cos(emb(f), REFS["NARRADOR"]) if "NARRADOR" in REFS else -9
+        if s["speaker"] == "KLEIN" and sn > sk + 0.05:
+            flags.append("SWAP?narr(%.2f>%.2f)" % (sn, sk))
+        if s["speaker"] == "NARRADOR" and sk > sn + 0.05:
+            flags.append("SWAP?klein(%.2f>%.2f)" % (sk, sn))
+    else:
+        flags.append("BASE-SEM-RVC")
     if s["speaker"] in ("KLEIN", "NARRADOR"):
         second, _ = lab.speaker_of([s["text"]], 0, None)
         if second in ("KLEIN", "NARRADOR") and second != s["speaker"]:
