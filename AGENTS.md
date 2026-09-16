@@ -22,6 +22,8 @@ ouvido; evidência > palpite.
   Uploads ~3-70kB/s. G_* é checkpoint (extrair p/ _infer depois).
 - Render usa código do repo via `scripts/batch-speak.py` (Edge=kvenv,
   kokoro=nix develop). NUNCA o binário `jarvis` do PATH (velho).
+  Contrato formal: `../docs/architecture/CONTRATO-LAB-NIXOS.md`
+  (invariantes + smoke test — ler antes de tocar em voice.py/rebuild).
 - NUNCA botar filtro ffmpeg no render sem testar em sample isolado antes
   (15/09: afade+silenceremove zerou o RVC — cap mudo).
 - `speak()` sem kokoro no env funziona só p/ base Edge (import lazy).
