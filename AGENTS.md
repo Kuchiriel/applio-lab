@@ -52,3 +52,14 @@ ouvido; evidência > palpite.
 - venv Python do lab = `~/.venvs/lab` (PERSISTENTE; `/tmp` apaga no reboot
   — kvenv morreu 15/09). `source lab-env.sh` antes de tudo (LD_LIBRARY_PATH
   + LABPY + recria symlink `/tmp/opencode/kvenv`).
+
+## Doutrina de tooling (dono 16/09 — obedecer sempre)
+- Caminho oficial primeiro: MCPs do JARVIS (rag, memory, lessons, vault),
+  harness (`LLMClient`, safe_editor, validator, checkpoint) e personas.
+  Script solto só com justificativa registrada.
+- Toda tarefa LLM local passa por `LLMClient` (nunca urllib direto).
+- Todo veredito LLM exige evidência verbatim verificada por código;
+  sem ela, cai (review-grounded.py).
+- recall antes (lições), remember depois (achados). Sem exceção.
+- Nightly 01:00 (`audiobook-audit`) roda attrib + review em caps com
+  UNKNOWNs; de manhã lê-se o relatório, não log cru.
