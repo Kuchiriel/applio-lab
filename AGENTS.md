@@ -49,3 +49,6 @@ ouvido; evidência > palpite.
 - KLEIN = antonio + Klein_v5, pitch 0, index 0.75 (youth p+2 aposentado)
 - DUNN = kokoro santa + Dunn_v3 (v4 staged, quota Kaggle esgotada)
 - NEIL = santa + Neil_v1 | fallback absoluto = antonio
+- venv Python do lab = `~/.venvs/lab` (PERSISTENTE; `/tmp` apaga no reboot
+  — kvenv morreu 15/09). `source lab-env.sh` antes de tudo (LD_LIBRARY_PATH
+  + LABPY + recria symlink `/tmp/opencode/kvenv`).

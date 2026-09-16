@@ -1,0 +1,158 @@
+{
+ "1": {
+  "sp": "NARRADOR",
+  "porque": "para descrever a ação e o ambiente"
+ },
+ "10": {
+  "sp": "UNKNOWN",
+  "porque": "para expressar preocupação e perigo"
+ },
+ "13": {
+  "sp": "NARRADOR",
+  "porque": "para contextualizar a conversa e a emoção de Rozanne"
+ },
+ "14": {
+  "sp": "KLEIN",
+  "porque": "para mostrar compreensão e empatia"
+ },
+ "16": {
+  "sp": "KLEIN",
+  "porque": "para revelar vulnerabilidade e confusão"
+ },
+ "23": {
+  "sp": "NARRADOR",
+  "porque": "para descrever a interação e a curiosidade de Klein"
+ },
+ "25": {
+  "sp": "KLEIN",
+  "porque": "para mostrar interesse e confusão"
+ },
+ "27": {
+  "sp": "NARRADOR",
+  "porque": "para explicar o significado de Insonolento"
+ },
+ "29": {
+  "sp": "KLEIN",
+  "porque": "para questionar e demonstrar curiosidade"
+ },
+ "31": {
+  "sp": "ROZANNE",
+  "porque": "falando sobre o Capitão entrando no seu sonho"
+ },
+ "32": {
+  "sp": "UNKNOWN",
+  "porque": "porque a frase \"Entendi...\" foi dita por Rozanne, mas o falante não foi especificado como ela."
+ },
+ "34": {
+  "sp": "KLEIN",
+  "porque": "porque ele repetiu a frase \"Então o Capitão é tão impressionante assim\" com um sorriso."
+ },
+ "35": {
+  "sp": "NARRADOR",
+  "porque": "para explicar a importância de Dunn Smith"
+ },
+ "37": {
+  "sp": "KLEIN",
+  "porque": "para mostrar desconhecimento e curiosidade"
+ },
+ "39": {
+  "sp": "KLEIN",
+  "porque": "para questionar e mostrar interesse"
+ },
+ "41": {
+  "sp": "NARRADOR",
+  "porque": "para contextualizar a descrição de Insonolento"
+ },
+ "42": {
+  "sp": "NARRADOR",
+  "porque": "para descrever a reação de Rozanne"
+ },
+ "43": {
+  "sp": "KLEIN",
+  "porque": "para demonstrar interesse e curiosidade"
+ },
+ "44": {
+  "sp": "KLEIN",
+  "porque": "para mostrar satisfação e alívio"
+ },
+ "45": {
+  "sp": "UNKNOWN",
+  "porque": "porque a frase \"Além disso, também sei o nome de uma Sequência 7...\" foi dita por Rozanne, mas o fal"
+ },
+ "46": {
+  "sp": "KLEIN",
+  "porque": "porque ele perguntou \"Qual é?\" com curiosidade."
+ },
+ "47": {
+  "sp": "NARRADOR",
+  "porque": "para descrever a natureza da sequência 7"
+ },
+ "48": {
+  "sp": "KLEIN",
+  "porque": "para mostrar interesse e alívio"
+ },
+ "49": {
+  "sp": "KLEIN",
+  "porque": "para questionar e demonstrar curiosidade"
+ },
+ "50": {
+  "sp": "NARRADOR",
+  "porque": "para contextualizar a Senhora Daly e sua importância"
+ },
+ "51": {
+  "sp": "NARRADOR",
+  "porque": "para descrever a surpresa de Rozanne"
+ },
+ "52": {
+  "sp": "UNKNOWN",
+  "porque": "mencionou a Senhora Daly"
+ },
+ "53": {
+  "sp": "UNKNOWN",
+  "porque": "para expressar inveja e desejos"
+ },
+ "54": {
+  "sp": "KLEIN",
+  "porque": "para demonstrar exagero e confiança"
+ },
+ "55": {
+  "sp": "NARRADOR",
+  "porque": "para descrever a conversa e a falta de informação"
+ },
+ "56": {
+  "sp": "NARRADOR",
+  "porque": "para descrever a ação de Klein e a surpresa"
+ },
+ "57": {
+  "sp": "NARRADOR",
+  "porque": "para descrever a ação de Klein e a surpresa"
+ },
+ "58": {
+  "sp": "NARRADOR",
+  "porque": "para explicar a tradição do jantar de comemoração"
+ },
+ "59": {
+  "sp": "NARRADOR",
+  "porque": "para informar sobre o jantar e a ação de Klein"
+ },
+ "21": {
+  "sp": "KLEIN",
+  "porque": "deseja que Rozanne revele mais informações"
+ },
+ "22": {
+  "sp": "ROZANNE",
+  "porque": "repetindo o que ela disse antes"
+ },
+ "24": {
+  "sp": "ROZANNE",
+  "porque": "explicando o que é um Insonolento"
+ },
+ "30": {
+  "sp": "ROZANNE",
+  "porque": "surpresa com o que Klein disse"
+ },
+ "36": {
+  "sp": "UNKNOWN",
+  "porque": "porque a frase \"É claro!\" foi dita por Rozanne, mas o falante não foi especificado como ela."
+ }
+}

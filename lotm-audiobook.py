@@ -27,7 +27,8 @@ VERBS = ("disse", "perguntou", "respondeu", "gritou", "sussurrou", "exclamou",
          "murmurou", "comentou", "afirmou", "negou", "riu", "chorou", "pensou",
          "retrucou", "exalou", "questionou", "leu", "acenou", "assentiu",
          "balançou", "apontou", "continuou", "prosseguiu", "completou",
-         "acrescentou", "concluiu", "ordenou", "insistiu", "praguejou")
+         "acrescentou", "concluiu", "ordenou", "insistiu", "praguejou",
+         "ecoou", "repetiu", "desejava", "ponderou", "confessou")
 NAMES = ("Klein", "Moretti", "Zhou", "Mingrui", "Benson", "Melissa", "Dunn",
          "Leonard", "Audrey", "Alger", "Daly", "Neil", "Roselle", "Welch",
          "Naya", "Klee", "Susie", "Hanass", "Vincent", "Azik", "Dalí",
