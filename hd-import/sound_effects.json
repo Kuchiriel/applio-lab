@@ -1,0 +1,112 @@
+{
+  "sound_effects": {
+    "door": {
+      "keywords": ["porta se abriu", "porta se fechou"],
+      "file": "actions/door_close.ogg"
+    },
+    "knock": {
+      "keywords": ["bateu na porta", "bateu à porta"],
+      "file": "actions/knock.ogg"
+    },
+    "footsteps": {
+      "keywords": ["Tac! Tac! Tac!", "tac! tac! tac!"],
+      "file": "actions/footsteps.ogg"
+    },
+    "explosion": {
+      "keywords": ["explosão!", "explodiu!"],
+      "file": "actions/explosion.ogg"
+    },
+    "glass_break": {
+      "keywords": ["Estilhaços!", "estilhaços!"],
+      "file": "actions/glass_break.ogg"
+    },
+    "carriage": {
+      "keywords": ["carruagem"],
+      "file": "city/crowd.ogg"
+    },
+    "church_bell": {
+      "keywords": ["sino da igreja", "sino tocou"],
+      "file": "city/crowd.ogg"
+    },
+    "clock": {
+      "keywords": ["tique-taque"],
+      "file": "mechanical/clock_ticking.ogg"
+    },
+    "crowd": {
+      "keywords": ["multidão"],
+      "file": "city/crowd.ogg"
+    },
+    "metal_clink": {
+      "keywords": ["cling!", "clink!"],
+      "file": "actions/metal_cling.ogg"
+    },
+    "metal_clank": {
+      "keywords": ["clang!", "clank!"],
+      "file": "actions/metal_clang.ogg"
+    },
+    "miss_shoot": {
+      "keywords": ["Clique!", "clique!", "Click!", "click!"],
+      "file": "actions/miss_shoot.ogg"
+    },
+    "shoot": {
+      "keywords": ["Bangue!", "bangue!", "Bang!", "bang!"],
+      "file": "actions/shoot.ogg"
+    },
+    "pa": {
+      "keywords": ["Pá!", "pá!"],
+      "file": "actions/pa.ogg"
+    },
+    "gasp": {
+      "keywords": ["Ofego! Ofego! Ofego!"],
+      "file": "actions/ofego.ogg"
+    },
+    "arrepios": {
+      "keywords": ["Arrepios!"],
+      "file": "actions/arrepios.ogg"
+    }
+  },
+  
+  "vocal_effects": {
+    "laugh": {
+      "keywords": ["riu", "rindo", "risada", "gargalhada"],
+      "emotion": "laugh",
+      "volume": 1.0
+    },
+    "whisper": {
+      "keywords": ["sussurrou", "sussurrando"],
+      "emotion": "whisper",
+      "volume": 0.5
+    },
+    "sigh": {
+      "keywords": ["suspirou", "suspirando"],
+      "emotion": "sad",
+      "volume": 0.7
+    },
+    "shout": {
+      "keywords": ["gritou", "gritando", "merda"],
+      "emotion": "excited",
+      "volume": 1.4
+    },
+    "murmur": {
+      "keywords": ["murmurou", "murmurando"],
+      "emotion": "calm",
+      "volume": 0.6
+    },
+    "cry": {
+      "keywords": ["chorou", "chorando", "soluçou"],
+      "emotion": "sad",
+      "volume": 0.6
+    }
+  },
+  
+  "onomatopoeia": [
+    "Clique!", "clique!", "Click!", "click!",
+    "Bangue!", "bangue!", "Bang!", "bang!", "Pá!", "pá!",
+    "Estilhaços!", "estilhaços!",
+    "Cling!", "cling!", "Clink!", "clink!",
+    "Clang!", "clang!", "Clank!", "clank!",
+    "Boom!", "boom!", "Crash!", "crash!", "Splash!", "splash!",
+    "Tac!", "tac!", "Tique-taque", "tique-taque",
+    "Ofego! Ofego! Ofego!", "ofego!", "Arrepios!"
+  ]
+}
