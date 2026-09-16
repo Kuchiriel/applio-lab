@@ -9,7 +9,7 @@ while ! grep -q "^OK:.*cap01-attenborough.wav" /tmp/opencode/cap01-atten.log 2>/
   sleep 120
 done
 echo "$(date) atten OK, lancando lenval" >>$LOG
-/tmp/opencode/kvenv/bin/python lotm-audiobook.py render caps/cap01.json \
+/home/nixos/kvenv/bin/python lotm-audiobook.py render caps/cap01.json \
   --voices personagens/presets/voices-narr-lenval.json \
   --out /home/nixos/Audio/lotm/cap01-lenval.wav >>/tmp/opencode/cap01-lenval.log 2>&1
 echo "$(date) lenval fim rc=$?" >>$LOG

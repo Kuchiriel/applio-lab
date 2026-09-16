@@ -2,7 +2,7 @@
 # LOTM batch ep4-ep13: separate -> vad -> diarize -> stt -> anchors
 # Log por episodio em ~/Audio/lotm/epN/batch.log. Continua no proximo ep se um falhar.
 export LD_LIBRARY_PATH=/run/opengl-driver/lib:/nix/store/7vafhlh0lmcvi75jfyy09qwr4m3x1ks3-gcc-15.2.0-lib/lib:/nix/store/483x61iy35irm4wr2b7dwzihljhp6da2-zlib-1.3.2/lib:$LD_LIBRARY_PATH
-PY=/tmp/opencode/kvenv/bin/python
+PY=/home/nixos/kvenv/bin/python
 PIPE=/home/nixos/projects/applio-lab/lotm-pipeline.py
 
 for N in 4 5 6 7 8 9 10 11 12 13; do

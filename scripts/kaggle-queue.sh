@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Fila Kaggle: upload dataset (version/create) + push kernel por personagem.
 export LD_LIBRARY_PATH=/run/opengl-driver/lib:/nix/store/7vafhlh0lmcvi75jfyy09qwr4m3x1ks3-gcc-15.2.0-lib/lib:/nix/store/483x61iy35irm4wr2b7dwzihljhp6da2-zlib-1.3.2/lib:$LD_LIBRARY_PATH
-K=/tmp/opencode/kvenv/bin/kaggle
+K=/home/nixos/kvenv/bin/kaggle
 LOG=/tmp/opencode/kaggle-queue.log
 for slug in klein dunn neil narrador leonard megose daly alger hood; do
   echo "=== $slug $(date) ===" | tee -a $LOG

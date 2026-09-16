@@ -350,6 +350,17 @@ def cmd_render(a):
     voices = json.load(open(a.voices))
     tmp = a.out + ".parts"
     os.makedirs(tmp, exist_ok=True)
+    if not getattr(a, "only", None):
+        # sem --only: limpa intermediários velhos (.parts) — índices mudam
+        # no reparse e arquivos stale confundem o verify (fase 2).
+        # O cache real (.cache, por conteúdo) preserva a velocidade.
+        import glob as _glob
+        for f in _glob.glob(os.path.join(tmp, "g*.wav")) + \
+                 _glob.glob(os.path.join(tmp, "f*.wav")):
+            try:
+                os.remove(f)
+            except OSError:
+                pass
     # Cache por conteúdo (base + RVC): re-render só refaz o que mudou.
     # `--only 12,13` refaz só esses segmentos (resto vem do cache).
     cdir = a.out + ".cache"
@@ -371,7 +382,7 @@ def cmd_render(a):
         print("deltas:", sorted(only), flush=True)
     # 1. base de todos (UM processo batch-speak, código do repo via kvenv)
     REPO_SRC = "/home/nixos/projects/nixos-ai/modules/ai/jarvis/src"
-    KENV = "/tmp/opencode/kvenv/bin/python"
+    KENV = "/home/nixos/kvenv/bin/python"
     bj = os.path.join(tmp, "base-jobs.json")
     bo = os.path.join(tmp, "base-out.json")
     bj_list = []
