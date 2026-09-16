@@ -10,3 +10,6 @@ __pycache__/
 *.pyc
 .cache/
 *.parts/
+# intermediários regeneráveis do fluxo LLM (timer recria; audits são o canônico)
+caps/cap*-llm.json
+caps/cap*-rev.json

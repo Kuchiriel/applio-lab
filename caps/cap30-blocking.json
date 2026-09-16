@@ -1,0 +1,110 @@
+{
+ "capitulo": 30,
+ "titulo": "Capítulo 30: Um Novo Começo",
+ "narrador": {
+  "pos": "centro-frente",
+  "nota": "fogueira, nunca move"
+ },
+ "blocos": [
+  {
+   "id": "A",
+   "segs": [
+    0,
+    14
+   ],
+   "local": "hipotese",
+   "klein": {
+    "pos": "centro-esquerda",
+    "nota": "auto, revisar na leitura da cena"
+   },
+   "hipotese": true,
+   "sfx_segs": []
+  },
+  {
+   "id": "B",
+   "segs": [
+    15,
+    29
+   ],
+   "local": "hipotese",
+   "klein": {
+    "pos": "direita",
+    "nota": "auto, revisar na leitura da cena"
+   },
+   "hipotese": true,
+   "sfx_segs": []
+  },
+  {
+   "id": "C",
+   "segs": [
+    30,
+    44
+   ],
+   "local": "hipotese",
+   "klein": {
+    "pos": "centro-esquerda",
+    "nota": "auto, revisar na leitura da cena"
+   },
+   "hipotese": true,
+   "sfx_segs": []
+  },
+  {
+   "id": "D",
+   "segs": [
+    45,
+    59
+   ],
+   "local": "hipotese",
+   "klein": {
+    "pos": "direita",
+    "nota": "auto, revisar na leitura da cena"
+   },
+   "hipotese": true,
+   "sfx_segs": []
+  },
+  {
+   "id": "E",
+   "segs": [
+    60,
+    74
+   ],
+   "local": "hipotese",
+   "klein": {
+    "pos": "centro-esquerda",
+    "nota": "auto, revisar na leitura da cena"
+   },
+   "hipotese": true,
+   "sfx_segs": []
+  },
+  {
+   "id": "F",
+   "segs": [
+    75,
+    89
+   ],
+   "local": "hipotese",
+   "klein": {
+    "pos": "direita",
+    "nota": "auto, revisar na leitura da cena"
+   },
+   "hipotese": true,
+   "sfx_segs": [
+    79
+   ]
+  },
+  {
+   "id": "G",
+   "segs": [
+    90,
+    93
+   ],
+   "local": "hipotese",
+   "klein": {
+    "pos": "centro-esquerda",
+    "nota": "auto, revisar na leitura da cena"
+   },
+   "hipotese": true,
+   "sfx_segs": []
+  }
+ ]
+}
